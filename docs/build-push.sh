@@ -1,6 +1,6 @@
 # to execute this file run this command:
-# chmod a+x ./build-push.sh
-# it assumes you are at the top in master
+# bash ./build-push.sh
+# this assumes you are at the top in master
 
 
 rm -rf ./docs
