@@ -2,6 +2,10 @@
 
 Hello.  We offer full-time (study, not coaching ;) courses in software development using JS and Web technologies.
 
+We believe that learning to program is a journey you begin, but never end.  And that from your first step to .... the Luis thing
+
+https://roadmap.sh/frontend
+
 ---
 
 ## What we Teach
@@ -15,6 +19,9 @@ Hello.  We offer full-time (study, not coaching ;) courses in software developme
 
 You study the stuff and learn it.  We help you do that.
 
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
+
+<hr>
+<hr>
+<a href="https://hackyourfuture.be" target="_blank"><img
+    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
+    width="100" height="100"></a>

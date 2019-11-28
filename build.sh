@@ -5,9 +5,4 @@
 
 rm -rf ./docs
 gitbook build
-cp -rf ./_book/. ./docs/
-rm -rf _book
-git add .
-git commit -m build-push
-git push origin master
-
+mv _book docs
