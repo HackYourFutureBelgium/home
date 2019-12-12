@@ -14,9 +14,10 @@ for each ... link to source & resource (in no particular order)
 * other hack your futures
 * loupe
 * js for datascience
-* that d3 site from ludo
+* that d3 site
 * https://htdp.org/2019-02-24/index.html
 * pyret
+* http://p5js.org/
 * ...
 
 
