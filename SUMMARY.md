@@ -3,6 +3,7 @@
 ## About Us
 * [Core Values](https://github.com/hackyourfuturebelgium/core-values)
 * [hackyourfuture.be](https://hackyourfuture.be)
+* [GitHub Organization](https://github.com/hackyourfuturebelgium)
 * [Open Education?](./open-education.md)
 
 ## Getting Started
