@@ -1,23 +1,26 @@
-# [Hack Your Future BE](https://hackyourfuture.be)
+# Hack Your Future BE
 
-* [Welcome!](./README.md)
-* [Why?](./why.md)
-* [Navigating Everything]() <!-- rename and complete this -->
-* [On-Boarding](./on-boarding.md)
-    * [For Students](./on-boarding.md#for-students)
-    * [For Coaches](./on-boarding.md#for-coaches)
-    * [For Mentors](./on-boarding.md#for-mentors)
-* [The Curriculum](./curriculum.md)
-    * [What we Teach](./curriculum.md#what-we-teach)
-    * [How it Works](./curriculum.md#how-it-works)
-* [Hacking HYF](./hacking-hyf.md)
-    * [Contributing](./hacking-hyf.md#contributing)
-    * [Long-term Plans](./hacking-hyf.md#long-term-plans)
-* [How to start a ...](.hack-your-own-future.md)
-    * [... Study Group](./hack-your-own-future.md#study-group)
-    * [... new HYF](./hack-your-own-future.md#new-hyf)
-* [More Open Education](./more-open-education.md)
+## About Us
+* [Core Values](https://github.com/hackyourfuturebelgium/core-values)
+* [hackyourfuture.be](https://hackyourfuture.be)
+* [Open Education?](./open-education.md)
+
+## Getting Started
+
+* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
+* [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
+* [Main Overview](https://curriculum.hackyourfuture.be)
+* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
+
+## Hacking HYF
+
+* [Become a Contributor](https://github.com/hackyourfuturebelgium/contributors)
+* [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvments)
 * [Contributors](https://github.com/hackyourfuturebelgium/contributors)
+
+## DIY HYF
+
+* [Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
 
 <hr>
 <hr>

@@ -2,7 +2,7 @@
 
 Welcome to us!
 
-This repository/gitbook is the entry point to our GitHub organization.  The pages here will give you an overview of everything we've got to offer, but the content itself isn't hosted here.  Each page will link to the relevant repositories.
+This repository/gitbook is the just a table of contents for everything else.  Check out the [live GitBook](https://home.hackyourfuture.be) or read [the SUMMARY file](./SUMMARY.md) for an overview of our organization: what we stand for, what we do, and how we do it.
 
 
 <hr>
