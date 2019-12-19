@@ -13,7 +13,7 @@ This README is just a table of contents for everything else.  Take a walk throug
 
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
 * [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
-* [Main Overview](https://curriculum.hackyourfuture.be)
+* [Curriculum Overview](https://curriculum.hackyourfuture.be)
 * [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
 
 ## Hacking HYF
