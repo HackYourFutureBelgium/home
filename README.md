@@ -1,29 +1,11 @@
-# Hack Your Future BE
+# Hack Your Future Belgium
 
-This README is just a table of contents for everything else.  Take a walk through to see what we stand for, what we do, and how we do it.
+> Psst.  [The Home GitBook](https://home.hackyourfuture.be) is much nicer to read ;)
 
-## About Us
-* [Core Values](https://github.com/hackyourfuturebelgium/core-values)
-* [hackyourfuture.be](https://hackyourfuture.be)
-* [GitHub Organization](https://github.com/hackyourfuturebelgium)
-* [Open Education?](./open-education.md)
+Not sure where to start? You've come to the right place!
 
-## Getting Started
+This repository is a welcome page and table of contents for all of the content and workflows in our Organization.  You can read it [as a GitBook](https://home.hackyourfuture.be), or directly in [the SUMMARY file](./SUMMARY.md).
 
-* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-* [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
-* [Main Overview](https://curriculum.hackyourfuture.be)
-* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-
-## Hacking HYF
-
-* [Become a Contributor](https://github.com/hackyourfuturebelgium/contributors)
-* [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvments)
-* [Contributors](https://github.com/hackyourfuturebelgium/contributors)
-
-## DIY HYF
-
-* [Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
 
 <hr>
 <hr>

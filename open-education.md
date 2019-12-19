@@ -1,30 +1,42 @@
-# More Open Education
+# Open Education
 
-A curated list of awesome open educational resources for learning/teaching to program
+### Open ... Source? Education?
 
+* [What is Open Source?](https://opensource.com/resources/what-open-source)
+* [What is Open Education?](https://opensource.com/resources/what-open-education)
+* [Open Source !== Open Education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)
 
-for each ... link to source & resource (in no particular order)
-* free code camp
-* runestone academy
-* teach together dot tech
-* Python Tutor
-* Parsonizer
-* javascript.info
-* mdn documentation
-* other hack your futures
-* loupe
-* js for datascience
-* that d3 site
-* https://htdp.org/2019-02-24/index.html
-* pyret
-* http://p5js.org/
-* ...
+### Great Reads
 
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/) & [Seymour](https://harc.github.io/seymour-live2017/)
+* [teachtogether.tech](http://teachtogether.tech/en/)
+* [The Carpentries](https://carpentries.org/)
 
-https://github.com/elewa-academy/productive-procratination
+### Open Courses
 
-https://github.com/janke-learning/top#good-reads
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (sweet interactive text books)
+* [CT@VT: Computational Thinking](https://ct-vt.github.io/) ([BlockPy](https://think.cs.vt.edu/blockpy/blockpy/load?mode=instructor))
+* [JS for Data Science](http://js4ds.org/)
+* [Open Tech School](https://github.com/OpenTechSchool)
+* [Code! Programming for Beginners](https://www.youtube.com/watch?v=yPWkPOfnGsw) ([P5.js](http://p5js.org/))
+* [LearnTeachCode](https://github.com/LearnTeachCode)
 
+### Study Tools & Resources
+
+* [Python Tutor](http://www.pythontutor.com/) (also JS, Ruby, C/++ & Java)
+* [Loupe](http://latentflip.com/loupe/?code=) (visualize the JS event loop)
+* [VizHub](https://vizhub.com/) (learn Data Visualization)
+* [BlockPy](https://think.cs.vt.edu/blockpy/blockpy/load?mode=instructor) (approachable intro to DS)
+* [Pyret](https://code.pyret.org/) (beginner language/environment)
+* [Parsonzier](https://janke-learning.org/parsonizer)
+* [javascript.info](https://javascript.info/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/javascript)
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+* [Awesome JS Learning](https://github.com/micromata/awesome-javascript-learning)
+* [FCC Youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* [toxicode](http://compute-it.toxicode.fr/)
 
 <hr>
 <hr>
