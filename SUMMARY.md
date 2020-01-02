@@ -20,7 +20,7 @@ This README is just a table of contents for everything else.  Take a walk throug
 
 * [Curriculum Overview](https://curriculum.hackyourfuture.be)
 * [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-* [Awesome Links](https://github.com/hackyourfuturebelgium/awesome-links/wiki)
+* [Awesome Links](https://awesome.hackyourfuture.be)
 
 ## Hacking HYF
 
