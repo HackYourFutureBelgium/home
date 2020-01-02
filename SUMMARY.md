@@ -7,12 +7,17 @@ This README is just a table of contents for everything else.  Take a walk throug
 * [Core Values](https://github.com/hackyourfuturebelgium/core-values)
 * [hackyourfuture.be](https://hackyourfuture.be)
 * [GitHub Organization](https://github.com/hackyourfuturebelgium)
-* [Open Education](https://github.com/hackyourfuturebelgium/awesome-links/wiki/Open-Education)
+* [Open Education](https://awesome.hackyourfuture.be/open-education)
 
 ## Getting Started
 
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
 * [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
+* [Alumni Handbook]()
+* [Mentor Handbook]()
+
+## Content
+
 * [Curriculum Overview](https://curriculum.hackyourfuture.be)
 * [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
 * [Awesome Links](https://github.com/hackyourfuturebelgium/awesome-links/wiki)
@@ -22,6 +27,7 @@ This README is just a table of contents for everything else.  Take a walk throug
 * [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvments)
 * [Become a Contributor](https://github.com/hackyourfuturebelgium/contributors)
 
-## DIY HYF
+## DIY Education
 
-* [Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
+* [HYF Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
+* [Open Education](./open-education.md)
