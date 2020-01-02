@@ -10,7 +10,7 @@
 
 * [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
 * [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
-* [Alumni Handbook]()
+* [Alumni Handbook](https://github.com/HackYourFuture/alumni)
 * [Mentor Handbook]()
 
 ## Course Content
