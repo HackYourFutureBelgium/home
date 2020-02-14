@@ -27,8 +27,8 @@
 ## DIY Education
 
 * [HYF Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
-* [Open Education](https://awesome.hackyourfuture.be/open-education)
-
+* [Open Education](https://github.com/HackYourFutureBelgium/diy/blob/master/open-education.md)
+* [Teacher Training](https://teachertraining.codeyourfuture.io/)
 
 
 <hr>
