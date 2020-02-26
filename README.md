@@ -18,6 +18,7 @@
 * [Curriculum Overview](https://curriculum.hackyourfuture.be)
 * [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
 * [Study Links](https://study.hackyourfuture.be)
+* [Hack The Talks](https://github.com/HackYourFutureBelgium/hack-the-talks)
 
 ## Hacking HYF
 
