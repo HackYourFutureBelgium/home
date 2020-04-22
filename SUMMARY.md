@@ -1,0 +1,18 @@
+# Hack Your Future Belgium
+
+* [Students](./students/README.md)
+  * [Precourse](./students/precourse.md)
+  * [Guidbook](./students/guidebook.md)
+  * [Core Curriculum](./students/core-curriculum.md)
+  * [More Curriculum](./students/more-curriculum.md)
+  * [Community](./students/community.md)
+* [Coaches](./coaches/README.md)
+  * [file](./coaches/file.md)
+* [Alumni](./alumni/README.md)
+  * [file](./alumni/file.md)
+* [Mentors](./mentors/README.md)
+  * [file](./mentors/file.md)
+* [Hack The Talkers](./hack-the-talkers/README.md)
+  * [file](./hack-the-talkers/file.md)
+* [Admins](./admins/README.md)
+  * [file](./admins/file.md)
