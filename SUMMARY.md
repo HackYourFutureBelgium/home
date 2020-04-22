@@ -2,7 +2,7 @@
 
 * [Students](./students/README.md)
   * [Precourse](./students/precourse.md)
-  * [Guidbook](./students/guidebook.md)
+  * [Student Guidbook](./students/guidebook.md)
   * [Core Curriculum](./students/core-curriculum.md)
   * [More Curriculum](./students/more-curriculum.md)
   * [Community](./students/community.md)
