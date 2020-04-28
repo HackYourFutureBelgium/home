@@ -1,4 +1,4 @@
-# Student Handbook
+# Student Guidebook
 
 Dear new student of HackYourFuture, Welcome to our program!
 
