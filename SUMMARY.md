@@ -14,6 +14,7 @@
   1. [Data Modeling](./curriculum/data-modeling.md)
   1. [Frontend Frameworks](./curriculum/frontend-frameworks.md)
   1. [Agile Development](./curriculum/agile-development.md)
+* [study.hyf.be](https://study.hackyourfuture.be)
 * [Students](./students/README.md)
 * [Coaches](./coaches/README.md)
   * [file](./coaches/file.md)
