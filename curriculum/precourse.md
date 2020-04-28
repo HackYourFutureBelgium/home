@@ -21,12 +21,12 @@ Already eager getting social on the start of your journey? Please connect with u
   * [Install Softwares](#install-softwares)
   * [Markdown](#markdown)
   * [Git and GitHub](#git-and-github)
-  * [Coding ](#coding-practice)Fun
+  * [Coding Fun](#coding-fun)
 * [Good Reads](#good-reads)
 
 ---
 
-### What to expect at HYF?
+## What to expect at HYF?
 
 We are a community of people who want to make the web a better place.
 
