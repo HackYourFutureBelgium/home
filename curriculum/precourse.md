@@ -12,7 +12,7 @@ Already eager getting social on the start of your journey? Please connect with u
 
 ### Index
 
-* [What to expect at HYF](#what-to-expect-at-hyf)
+* [What to expect at HYF?](#what-to-expect-at-hyf)
 * [What tools do we use?](#what-tools-do-we-use)
 * [How do we teach?](#how-do-we-teach)
 * [Precourse Assignments](https://#precourse-assignments)
@@ -26,14 +26,20 @@ Already eager getting social on the start of your journey? Please connect with u
 
 ---
 
-### What to expect at HYF
+### What to expect at HYF?
 
 We are a community of people who want to make the web a better place.
 
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
-Please read our [Student Guidebook](), which will help you become a great HackYourFuture Student.
-We expect you to know our [Core Values](../CORE-VALUES.md) and [Code of Conduct](../CODE-OF-CONDUCT.md), so we can make the web a better place together.
+Please read our [Student Guidebook]().
+It will help you become a great HackYourFuture Student.
+We also expect you to know our
+
+* [Core Values](../CORE-VALUES.md)
+* [Code of Conduct](../CODE-OF-CONDUCT.md)
+
+so we can make the web a better place together.
 
 ### What tools do we use?
 
