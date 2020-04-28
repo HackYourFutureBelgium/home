@@ -16,12 +16,6 @@ Already eager getting social on the start of your journey? Please connect with u
 * [What tools do we use?](#what-tools-do-we-use)
 * [How do we teach?](#how-do-we-teach)
 * [Precourse Assignments](https://#precourse-assignments)
-  * [Priorities](#priorities) - :egg:, :hatching_chick:, :hatched_chick:
-  * [Create Accounts](#create-accounts)
-  * [Install Softwares](#install-softwares)
-  * [Markdown](#markdown)
-  * [Git and GitHub](#git-and-github)
-  * [Coding Fun](#coding-fun)
 * [Good Reads](#good-reads)
 
 ---
