@@ -15,7 +15,7 @@ Already eager getting social on the start of your journey? Please connect with u
 * [What to expect at HYF?](#what-to-expect-at-hyf)
 * [What tools do we use?](#what-tools-do-we-use)
 * [How do we teach?](#how-do-we-teach)
-* [Precourse Assignments](https://#precourse-assignments)
+* [Precourse Assignments](#precourse-assignments)
 * [Good Reads](#good-reads)
 
 ---
