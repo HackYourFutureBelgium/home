@@ -42,8 +42,7 @@ so we can make the web a better place together.
 
 ### How do we teach?
 
-* [Sunday Lessons]()
-* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
+Read through [the Curriculum Home Page](../curriculum/README.md) to understand how classes work, how we handle homework submission, and what you can expect to learn over the next 7 months.
 
 [TOP](#precourse)
 
