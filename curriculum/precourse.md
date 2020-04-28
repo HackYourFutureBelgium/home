@@ -156,6 +156,8 @@ Spend some more time getting used to programming, and have a little fun while yo
 
 ## Good Reads
 
+Still can't get enough of it? Here are some good reads to dive deeper!
+
 * [The Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [study.hackyourfuture.be](https://study.hackyourfuture.be)
 
