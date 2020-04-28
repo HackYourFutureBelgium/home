@@ -3,12 +3,12 @@
 Welcome at HackYourFuture Belgium!
 
 You are a new student and can't wait to start your HYF journey. We know that!
-And so do we. As a community who wants to make the web a better place, we are very happy to have you onboard.
+As a community who wants to make the web a better place, we are very happy to have you onboard.
 
-With this Precourse, you can get prepared for your very first class of the HYF program.
+With this Precourse, you can get ready for your very first class of the HYF program.
 Enjoy!
 
-Already eager get social on the start of your journey? Please connect with us on [FaceBook](https://www.facebook.com/HackYFutureBE/), [Twitter](https://twitter.com/HackYFutureBE) and [LinkedIn](https://www.linkedin.com/company/hackyourfuture-belgium/?viewAsMember=true).
+Already eager getting social on the start of your journey? Please connect with us on [FaceBook](https://www.facebook.com/HackYFutureBE/), [Twitter](https://twitter.com/HackYFutureBE) and [LinkedIn](https://www.linkedin.com/company/hackyourfuture-belgium/?viewAsMember=true).
 
 ### Index
 
@@ -30,7 +30,7 @@ Already eager get social on the start of your journey? Please connect with us on
 
 We are a community of people who want to make the web a better place.
 
-We are a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
+You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
 Please read our [Student Guidebook](), which will help you become a great HackYourFuture Student.
 We expect you to know our [Core Values](../CORE-VALUES.md) and [Code of Conduct](../CODE-OF-CONDUCT.md), so we can make the web a better place together.
