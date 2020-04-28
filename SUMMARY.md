@@ -1,5 +1,7 @@
 # Hack Your Future Belgium
 
+* [Core Values](./CORE-VALUES.md)
+* [Code of Conduct](./CODE-OF-CONDUCT.md)
 * [Curriculum](./curriculum/README.md)
   1. [Precourse](./curriculum/precourse.md)
   1. [Working With Code](./curriculum/working-with-code.md)
