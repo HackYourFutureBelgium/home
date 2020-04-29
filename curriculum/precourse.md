@@ -38,7 +38,12 @@ so we can make the web a better place together.
 ### What tools do we use?
 
 1. Slack - how we communicate
+
+Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
+
 2. GitHub - how we learn coding
+
+Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with Github.
 
 ### How do we teach?
 
