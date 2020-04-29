@@ -1,35 +1,7 @@
 # Hack Your Future Belgium
 
-## About HYF
+Welcome!
 
-* [Core Values](https://github.com/hackyourfuturebelgium/core-values)
-* [hackyourfuture.be](https://hackyourfuture.be)
-* [GitHub Organization](https://github.com/hackyourfuturebelgium)
-
-## Getting Started
-
-* [Student Handbook](https://github.com/hackyourfuturebelgium/student-handbook)
-* [Coach Handbook](https://github.com/hackyourfuturebelgium/coach-handbook)
-* [Alumni Handbook](https://github.com/HackYourFuture/alumni)
-* [Mentor Handbook]()
-
-## Course Content
-
-* [Curriculum Overview](https://curriculum.hackyourfuture.be)
-* [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission)
-* [Study Links](https://study.hackyourfuture.be)
-* [Hack The Talks](https://github.com/HackYourFutureBelgium/hack-the-talks)
-
-## Hacking HYF
-
-* [Suggest an Improvement](https://github.com/hackyourfuturebelgium/improvments)
-* [Become a Contributor](https://github.com/hackyourfuturebelgium/contributors)
-
-## DIY Education
-
-* [HYF Founder's Guide](https://github.com/hackyourfuturebelgium/diy-hyf)
-* [Open Education](https://github.com/HackYourFutureBelgium/diy/blob/master/open-education.md)
-* [Teacher Training](https://teachertraining.codeyourfuture.io/)
 
 ## Contributors
 
