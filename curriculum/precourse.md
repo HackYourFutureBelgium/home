@@ -26,14 +26,14 @@ We are a community of people who want to make the web a better place.
 
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
-Please read our [Student Guidebook]().
+Please read the _'Learning chapter'_ in our [**Study Guidebook**](https://study.hackyourfuture.be/learning).
 It will help you become a great HackYourFuture Student.
-We also expect you to know our
+We also expect you to know our:
 
 * [Core Values](../CORE-VALUES.md)
 * [Code of Conduct](../CODE-OF-CONDUCT.md)
 
-so we can make the web a better place together.
+so we can make the web a better place together! :muscle:
 
 ### What tools do we use?
 
