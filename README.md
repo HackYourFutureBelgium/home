@@ -5,7 +5,7 @@ Welcome at HackYourFuture Belgium!
 
 We are a coding school for refugees and other newcomers with limited access to education and the labour market in Belgium.
 
-In this Wiki you can discover what we do and how you can become part of our community.
+In this Wiki you can discover what we do and how you can become part of our community. This is a work in progress. Want to contribute? Just do it! :muscle:
 
 Enjoy the reading and please connect with us on social media! We're active on [Facebook](https://https://www.facebook.com/HackYFutureBE/), [Twitter](https://twitter.com/HackYFutureBE) and [LinkedIn](https://www.linkedin.com/company/hackyourfuture-belgium/).
 
@@ -20,9 +20,9 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 * Coaches
 * Mentors
 * Partners
-* Community Events - Coming soon
+* Community Events
 * Core Values
 * Code of Conduct
 * Contributing
-* [DIY HYF Guide](https://diy.hackyourfuture.be/) - Coming soon
+* [DIY HYF Guide](https://diy.hackyourfuture.be/)
 
