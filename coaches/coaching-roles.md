@@ -18,6 +18,7 @@ As a lead module coach you will be responsible for leading the Sunday sessions f
 * Coordinating class with your assistant coaches
 * Being available a minimum of 3 hours a week to answer questions on Slack (any time during the week)
 
+> During covid-time you will be in charge of the online All Together sessions. 
 
 ---
 
@@ -30,6 +31,7 @@ Therefore **communication with your Lead Coach is key**! For a qualitative Sunda
 
 So: be proactive on Slack about your availability.
 
+> During covid-time you will be in charge of online sessions with subgroups. The subgroups will be divided according to available coaches, on Slack.
 ---
 
 ## Homework Review Coaches
