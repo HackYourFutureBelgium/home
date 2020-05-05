@@ -59,9 +59,11 @@ __14:00-14:20__
 
 ## All Together - Recap & Project Demo
 
+__14:20-14:50__
+
 ### Check-In
 
-A ~45 second check-in from each group on what they learned and struggled with in the exercises.
+A ~1 minute check-in from each group on what they learned and struggled with in the exercises.
 
 ### Recap
 
@@ -77,8 +79,6 @@ The coaches will introduce the Sunday project, this might include:
 * How to structure your source code
 * Some debugging tips that will come in handy
 * A suggested development strategy
-
-__14:20-14:50__
 
 ## Small Groups - Integrate
 
@@ -100,14 +100,13 @@ Some tips for working on the projects:
   * Try forking your group's repository and sending a pull request with one of the user stories completed
   * Open a project board and practice using issues to manage your project
 
-
 ## All Together - Recap & Homework Intro
 
 __15:20-16:00__
 
 ### Check-In
 
-A ~45 second check-in from each group on what they learned and struggled with in the exercises.
+A ~1 minute check-in from each group on what they learned and struggled with in the exercises.
 
 ### Homework Intro
 
