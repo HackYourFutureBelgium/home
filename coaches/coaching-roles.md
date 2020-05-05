@@ -1,5 +1,11 @@
 # Coaching Roles
 
+Here you can find out how you can match your free time with your contribution to HackYourFuture as a coach.
+
+* Want to share 8hours/week? Become Lead Module Coach
+* Want to share some free time on a Sunday, sporadically? Become Sunday Assistant Coach
+* Want to share 20-40 minutes weekly? Become Homework Review Coach
+
 ---
 
 ## Lead Module Coaches
