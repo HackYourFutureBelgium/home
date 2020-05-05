@@ -18,7 +18,7 @@ As a lead module coach you will be responsible for leading the Sunday sessions f
 * Coordinating class with your assistant coaches
 * Being available a minimum of 3 hours a week to answer questions on Slack (any time during the week)
 
-> During covid-time you will be in charge of the online All Together sessions. 
+> During covid-time you will be in charge of the online [All Together](https://home.hackyourfuture.be/students/sunday-class) sessions. 
 
 ---
 
