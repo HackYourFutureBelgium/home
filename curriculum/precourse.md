@@ -26,19 +26,24 @@ We are a community of people who want to make the web a better place.
 
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
-Please read our [Student Guidebook]().
+Please read the _'Learning chapter'_ in our [**Study Guidebook**](https://study.hackyourfuture.be/learning).
 It will help you become a great HackYourFuture Student.
-We also expect you to know our
+We also expect you to know our:
 
 * [Core Values](../CORE-VALUES.md)
 * [Code of Conduct](../CODE-OF-CONDUCT.md)
 
-so we can make the web a better place together.
+so we can make the web a better place together! :muscle:
 
 ### What tools do we use?
 
-1. Slack - how we communicate
-2. GitHub - how we learn coding
+#### Slack - how we communicate
+
+Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
+
+#### GitHub - how we learn coding
+
+Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with Github.
 
 ### How do we teach?
 
@@ -86,8 +91,10 @@ We also ask you **not to use fake names** - as you will use this channel for adv
 * Sign on to Slack and introduce yourself.
 * Share your GitHub username in your introduction
 * Let us know if you haven't received an invitation yet.
-* About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
-* How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+
+
+About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
+How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 
 ---
 
