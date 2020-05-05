@@ -39,6 +39,7 @@ So: be proactive on Slack about your availability.
 As a homework review coach, you'll be **helping to review the students' weekly assignments on GitHub**.  You can find more complete instructions for the homework review process [in this repo](https://github.com/hackyourfuturebelgium/homework-submission). It will take anywhere **from 20-40 minutes** to review a homework assignment, depending on how well the student did and how much feedback you write.
 
 To become a homework review coach, just let us know how much time you have each week and we'll assign you a few homework issues to match your availability.
+
 **Got a little extra time?  Even better!** 
 Just head over to a homework board, find an issue in the _BLOCKED_ or _READY FOR REVIEW_ columns and have at it!  You don't need to check in with us about reviewing extra assignments.
 
