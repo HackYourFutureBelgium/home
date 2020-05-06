@@ -20,6 +20,7 @@
   * [Homework Submission](./students/homework-submission.md)
 * [Coaches](./coaches/README.md)
   * [Coaching Roles](./coaches/coaching-roles.md)
+  * [Coaching Class](./coaches/coaching-class.md)
 * [Alumni](./alumni/README.md)
 * [Mentors](./mentors/README.md)
 * [DYI HYF](https://diy.hackyourfuture.be)
