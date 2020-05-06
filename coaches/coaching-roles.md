@@ -32,6 +32,7 @@ Therefore **communication with your Lead Coach is key**! For a qualitative Sunda
 So: be proactive on Slack about your availability.
 
 > During covid-time you will be in charge of online sessions with subgroups. The subgroups will be divided according to available coaches, on Slack.
+
 ---
 
 ## Homework Review Coaches
