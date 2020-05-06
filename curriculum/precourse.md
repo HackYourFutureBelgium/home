@@ -47,7 +47,11 @@ Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all 
 
 ### How do we teach?
 
-Read through [the Curriculum Home Page](../curriculum/README.md) to understand how classes work, how we handle homework submission, and what you can expect to learn over the next 7 months.
+Read through these pages to know what's coming your way:
+
+* [the Curriculum Home Page](./README.md) 
+* [how Sunday Classes work](../students/sunday-classes.md)t
+* [our homework submission process](../students/homework-submission.md)
 
 [TOP](#precourse)
 
