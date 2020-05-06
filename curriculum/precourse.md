@@ -110,6 +110,7 @@ How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en
 * [Visual Studio Code](https://code.visualstudio.com/download): Like Microsoft Word, but for code ... and *sooooo* much better.
   After installing VSC, be sure to install these plug-ins:
   * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
   * [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
   * [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview)
