@@ -2,32 +2,6 @@
 
 How do we do homework submission and feedback?  Like this.
 
-### Index:
-
-* [Submission Deadline](#submission-deadline)
-* [Project Managing on GitHub](#project-management-on-github)
-   * [Issues](#issues)
-   * [Task Lists](#task-lists)
-   * [Labels, Milestones, Assignees](#labels-milestones-assignees)
-   * [Project Boards](#project-boards)
-   * [Pull Requests](#pull-requests)
-* [Weekly Issues](#weekly-issues)
-    * [Homework Issues](#homework-issues)
-    * [Wednesday Check-Ins](#wednesday-check-ins)
-    * [Sunday Review](#sunday-review)
-    * [General Questions](#general-questions)
-* [Submission & Feedback Process](#submission-and-feedback-process)
-* [Assignment Levels](#assignment-levels)
-    *  :egg: :hatching_chick: :hatched_chick:
-* [Types of Assignments](#types-of-assignments)
-    1. [Prep Work](#prep-work)
-    1. [Projects](#projects)
-    1. [Exercises](#exercises)
-* [Missing Assignments Policy](#missing-assignments-policy)
-* [Helpful Links](#helpful-links)
-
----
-
 ## Submission Deadline
 
 > Due Friday afternoon
@@ -49,7 +23,6 @@ If your project is not finished or has some problems, your coach will move your 
 
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
 
-[TOP](#homework-submission)
 
 ---
 
@@ -81,7 +54,6 @@ Want to see just your issues?  Or just the week-1 issues? You can [filter cards 
 
 Coaches will often give you feedback on your assignments by sending [a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) directly to your assignment repository.  This is a standard part of the [code review workflow](https://github.com/features/code-review/), after some practice you'll find this is a very practical way to collaborate on a shared code base.
 
-[TOP](#homework-submission)
 
 ---
 
@@ -139,7 +111,6 @@ Your class repository has [a label](https://help.github.com/en/github/managing-y
 
 During the review section of class your coaches will go through all of the `sunday-review` issues, closing them when your question has been answered.
 
-[TOP](#homework-submission)
 
 ---
 
@@ -151,7 +122,6 @@ What's most important is that you are clear about what you're confused by, what 
 
 Keep an eye out in your Class Repo for new `question` issues, the more you help the more you learn.
 
-[TOP](#homework-submission)
 
 ---
 
@@ -177,7 +147,6 @@ The weekly workflow for submission and feedback will look something like this:
     * __NEEDS REVISION__: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository.  You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
     * __Week X: DONE__: When all of your assignments are checked off and you've addressed all feedback, "DONE"!  There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_
 
-[TOP](#homework-submission)
 
 ---
 
@@ -188,8 +157,6 @@ Not all assignments are created equal.  These 3 emoji's will help you figure out
 * :egg: ```:egg:``` - these assignments are required, they cover the base skills you'll need to move on.
 * :hatching_chick: ```:hatching_chick:``` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
 * :hatched_chick: ```:hatched_chick:``` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
-
-[TOP](#homework-submission)
 
 ---
 
@@ -231,7 +198,6 @@ Exercises will come in 3 general types as well:
 1. __Practice__: These exercises are what you probably think of as standard coding exercises, the types of challenges you find on FreeCodeCamp and other web tutorials.  Practice exercises will be bite-sized coding challenges that ask you apply the technologies you studied in Theory exercises to solve small challenges.
 1. __Integration__: Integration exercises are effectively tiny projects.  In them you will practice integrating the various skills and technologies you've learned so far into realistic (but tiny) projects.  Imagine something like building 5 websites with only one button each.  It's enough to practice the process of building and completing something without getting lost in the size of your project.
 
-[TOP](#homework-submission)
 
 ---
 
@@ -251,5 +217,4 @@ What does this all mean?  It means:
   * __Cheating__ is when you copy someone’s code to complete the homeworks without taking to the time to understand it, and without them explaining why they wrote what they did.
 * If we see two or more homework assignments with the same solutions we will check in with everyone involved to see if this was collaborative work or cheating.
 
-[TOP](#homework-submission)
 
