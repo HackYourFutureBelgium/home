@@ -19,7 +19,7 @@
   * [Sunday Class](./students/sunday-class.md)
   * [Homework Submission](./students/homework-submission.md)
 * [Coaches](./coaches/README.md)
-  * [Ways to Help](./coaches/ways-to-help.md)
+  * [Coaching Roles](./coaches/coaching-roles.md)
 * [Alumni](./alumni/README.md)
 * [Mentors](./mentors/README.md)
 * [DYI HYF](https://diy.hackyourfuture.be)
