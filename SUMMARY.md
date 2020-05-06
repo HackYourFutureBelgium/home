@@ -17,6 +17,7 @@
 * [Study Guidebook](https://study.hackyourfuture.be)
 * [Students](./students/README.md)
   * [Sunday Class](./students/sunday-class.md)
+  * [Homework Submission](./students/homework-submission.md)
 * [Coaches](./coaches/README.md)
   * [Ways to Help](./coaches/ways-to-help.md)
 * [Alumni](./alumni/README.md)
