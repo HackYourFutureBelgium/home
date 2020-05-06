@@ -2,6 +2,17 @@
 
 How do we do homework submission and feedback?  Like this.
 
+### Index
+* [Submission Deadline](#submission-deadline)
+* [Project Management on GitHub](#project-management-on-github)
+* [Weekly Issues](#weekly-issues)
+* [Submission and Feedback Process](#submission-and-feedback-process)
+* [Assignment Levels](#assignment-levels)
+* [Types of Assignments](#types-of-assignments)
+* [Missing Assignments Policy](#missing-assignments-policy)
+
+---
+
 ## Submission Deadline
 
 > Due Friday afternoon
