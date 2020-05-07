@@ -22,6 +22,12 @@ Over your time at HYF, you and your classmates will create hundreds of issues in
 
 ---
 
+## Notifications
+
+[GitHub Notifications](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/about-notifications) will be your best friend. Keep an eye on them to know when a classmate is asking for help, when someone has answered your question, when your homework has been reviewed, and much more!
+
+---
+
 ## Mentions
 
 If you want to ask for help from, or share a tip with a specific person you can [mention them in your issue](https://github.blog/2011-03-23-mention-somebody-they-re-notified/) by writing `@userName`. They'll get a notification on their GitHub account and will know to come read your issue.

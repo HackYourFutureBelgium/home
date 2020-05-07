@@ -12,6 +12,8 @@ There's a fine line between confidently learning from your mistakes, and stubbor
 
 ## On GitHub
 
+Software developers have found many great ways to collaborate on shared code bases. These workflows are different from what you've probably used before, but are super helpful once you get the hang of it. We encourage you to ask and answer as many code-related questions as possible directly on GitHub so you can get used to the code-review process _before_ reaching the final project. The three main ways for you to discuss code on GitHub will be:
+
 ### Project Board: `BLOCKED`
 
 If you are very stuck or confused on an assignment, move your card to the `BLOCKED` column and leave a comment in your issue describing what has you blocked. Include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. A coach, alumni, or classmate will be around soon to help you figure it out.
@@ -30,4 +32,16 @@ During the review section of class your coaches will go through all of the `sund
 
 ---
 
+### Pull Request: Code Review
+
+Issues and Labels are great for discussions, but sometimes you need to get right into the code! The best way to share a suggestion or fix to one of your classmate's assignments is using [a pull request & code review](https://github.com/features/code-review/) directly on their repository.
+
+You will be able to share updates to particular lines of code, explain why you are suggesting this change, discuss the new code, and integrate the changes into the existing code base.
+
+---
+
 ## On Slack
+
+GitHub is great for deeper discussions around the weekly assignments, but not everything in life is work! Hop on over to Slack if you have questions about what you should be working on, would just like a quick tip, or are just looking to chat about how much you love coding :)
+
+Please use your main class channel as much as possible, and reply in threads to keep the main discussion feed easier to follow.
