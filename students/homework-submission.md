@@ -32,7 +32,7 @@ If the project is finished and the coach has no further comments, they will clos
 
 ---
 
-### Homework Issues
+## Homework Issues
 
 For each week you will create a new _homework issue_. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
 
