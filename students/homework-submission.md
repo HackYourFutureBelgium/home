@@ -3,7 +3,7 @@
 How do we do homework submission and feedback? Like this.
 
 - [Submission Deadline](#submission-deadline)
-- [Weekly Issues](#weekly-issues)
+- [Weekly Homework Issues](#homework-issues)
 - [Submission and Feedback Process](#submission-and-feedback-process)
 - [Missing Assignments Policy](#missing-assignments-policy)
 
