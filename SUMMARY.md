@@ -22,6 +22,7 @@
   - [Wednesday Check In](./students/wednesday-check-in.md)
   - [Homework Submission](./students/homework-submission.md)
   - [GitHub Cheat Sheet](./students/github-cheat-sheet.md)
+  - [Class Repos](./students/class-repos.md)
 - [Coaches](./coaches/README.md)
   - [Coaching Roles](./coaches/coaching-roles.md)
   - [Coaching Class](./coaches/coaching-class.md)
