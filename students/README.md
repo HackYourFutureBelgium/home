@@ -16,7 +16,7 @@ __The HackYourFuture team__
 
 ---
 
-## Final thoughts
+## On your HYF journey, you are in control
 
 Throughout you HYF course and you overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest. The more you know and the harder you work, the faster you will find yourself in a job you love. The more you participate and become part of the HYF community, the more people are going to be willing to help you out. The more friends you make.
 
