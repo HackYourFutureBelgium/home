@@ -1,6 +1,6 @@
 # Sunday Class
 
-It's helpful to think about each Sunday Class as **a workshop instead of a lecture hall**. 
+It's helpful to think about each Sunday Class as **a workshop instead of a lecture hall**.
 
 You are expected to **study the assigned prep work _before_ arriving** - this will cover the theory you need to dive into the exercises on Sunday. Most of your time each Sunday will be spent working in small groups on a set of exercises and a small project. Coaches are there in the first place to support your groups, not to teach the material.
 
@@ -14,7 +14,6 @@ Here's the schedule for a standard Sunday:
 
 ## All Together - Review & New Material
 
-__12:00-12:40__
 
 ### Check-In
 
@@ -41,8 +40,6 @@ Your coaches will give a short introduction to this Sunday's new material. Becau
 
 ## Small Groups - Isolate
 
-__12:40-14:00__
-
 Break into your small groups and get started on this Sundays' exercises!
 
 Each module repository has a directory called `/isolate`.  In there you will find all of the exercises and example snippets for the module.  The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.
@@ -58,11 +55,9 @@ Some tips for studying code:
 
 ## Break
 
-__14:00-14:20__
+Peace and crackers!
 
 ## All Together - Recap & Project Demo
-
-__14:20-14:50__
 
 ### Check-In
 
@@ -85,8 +80,6 @@ Your coaches will introduce the Sunday project, this might include:
 
 ## Small Groups - Integrate
 
-__14:50-15:20__
-
 Break into your small groups and begin working on the day's project (after studying the examples ;))!
 Each module repository has a directory called `/integrate`.  In there you will find a collection of finished projects to study.  **The Sunday Lesson Plan & README** will list the example projects that are most helpful for this Sunday.
 
@@ -105,8 +98,6 @@ Some tips for working on the projects:
   * Open a project board and practice using issues to manage your project
 
 ## All Together - Recap & Homework Intro
-
-__15:20-16:00__
 
 ### Check-In
 
