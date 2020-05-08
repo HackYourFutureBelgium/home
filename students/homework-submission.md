@@ -49,7 +49,7 @@ Besides making it easier to filter and search all of the issues in your class re
 
 Once your issue is set-up write the **Check-Boxs** for this week's assignments including the prep work, project, and exercises.
 
-> Looking for an example? [Here it is!](https://github.com/HackYourFutureBelgium/class-8/issues/245)
+> Looking for an example? [Here it is!](https://github.com/HackYourFutureBelgium/class-8/issues/285)
 
 ---
 
