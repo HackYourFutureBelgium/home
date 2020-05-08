@@ -8,7 +8,7 @@
 
 ## Graduated
 
-* Class 6: [student bios](https://github.com/HackYourFutureBelgium/class-6/tree/master/student-bios), [repo](https://github.com/hackyourfuturebelgium/class-6)
+* [Class 6](https://github.com/HackYourFutureBelgium/class-6/tree/master/student-bios)
 * Class 5
 * Class 4
 * Class 3
