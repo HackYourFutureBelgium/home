@@ -24,9 +24,12 @@ When you're no longer stuck, give a shout-out to whoever helped you and move you
 
 ### Label: `sunday-review`
 
-Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) called `sunday-review` (it's bright yellow 🌞). Whenever you come across a problem or topic that you would like to review in person on Sunday go ahead and label it `sunday-review`!
+Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) called `sunday-review` (it's bright yellow 🌞). Whenever you come across a problem or topic that you would like to review in person on Sunday ...
 
-What's most important is that you are clear about what you're confused by, what you've tried so far, and that you provide extra links for context (ie. links to your code, to helpful resources, ...).
+* Label it `sunday-review`
+* Assign it to the current module's _milestone_
+
+What's most important is to be clear about what you don't understand, what you've tried so far, and that you provide extra links for context (ie. links to your code, to helpful resources, ...).
 
 During the review section of class your coaches will go through all of the `sunday-review` issues, closing them when your question has been answered.
 
