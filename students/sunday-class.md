@@ -53,15 +53,15 @@ Some tips for studying code:
 * Don't skip the examples!  Understanding and experimenting with working code is a very efficient way to learn programming.
 * Take a look through the [Learning From Code](https://study.hackyourfuture.be/learning/learning-from-code) guide for more study tips.
 
+### Check-In
+
+A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
+
 ## Break
 
 Peace and crackers!
 
 ## All Together - Recap & Project Demo
-
-### Check-In
-
-A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
 
 ### Recap
 
