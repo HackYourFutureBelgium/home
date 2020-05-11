@@ -14,7 +14,6 @@ Here's the schedule for a standard Sunday:
 
 ## All Together - Review & New Material
 
-
 ### Check-In
 
 Each student takes ~30 seconds to share their progress over the last week:
@@ -28,15 +27,15 @@ This is a co-learning moment for each one of you.
 
 ### Review
 
-Your coaches will spend some time leading a review session of last week's assignments.
+Your coaches will spend some time leading a review session of last week's assignments and this week's prep work.
 
-The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://github.com/HackYourFutureBelgium/homework-submission#sunday-review)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
+The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://home.hackyourfuture.be/asking-for-help)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
-### New Material
+### Today's Project
 
-Your coaches will give a short introduction to this Sunday's new material. Because you are expected to have studied the prep work and theory before Sunday, the coaches will spend this time stepping through some practical examples and helping you understand _why_ the new material is important to learn.
+Your coaches will give a short introduction to this Sunday's exercises and project. They will help you understand _why_ the new material is important and _how_ you will use it in the class project. Because you are expected to have studied the prep work and theory before Sunday, the coaches will spend this time stepping through some practical examples instead of explaining the basics.
 
 ## Small Groups - Isolate
 
