@@ -185,7 +185,7 @@ Absolute must-reads:
 - Be bad at something, it's [good for you](https://www.ted.com/talks/eduardo*briceno*how*to*get*better*at*the*things*you*care*about).
 - Study [smarter](https://youtu.be/Xt5qpbiqw2g?t=297), not harder!
 - [Tips to the beginner developer](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer).
-- [What do programmers do?](https://www.youtube.com/watch?v=g4a7*HH9Wbg)
+- [What do programmers do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 
 Tracking Your Progress:
 

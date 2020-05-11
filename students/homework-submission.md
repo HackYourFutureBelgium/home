@@ -20,13 +20,16 @@ Submit your homework even if you haven't finished the project! If you weren't ab
 What counts as a homework submission?
 
 1. You have created a new issue with a clear and helpful title.
-1. The issue has links to your completed weekly project, including a separate link to each branch. (the project must be completed!)
-1. You have linked to each of the assigned exercise repositories, even if they are not completed.
-1. All of the links must work! One dead link will count as a whole missing assignment.
-1. You have labeled your issue `ready-for-review`
-1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION" column.
+1. The issue has links to your weekly project, including a separate link to each branch and your development strategy
+1. You have linked to each of the assigned exercise repositories.  All :egg: exercises must be completed. 
+1. All of the links must work! A dead link will count as a missing assignment.
+1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "BLOCKED" column.
+1. An issue in the "BLOCKED" column needs to show an effort to fix your own problem, including:
+    * A description of what you are stuck on and why (including links to code!)
+    * What you have tried so far
+    * What you will try next
 
-If your project is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday. This still counts as an on-time homework submission.
+If your assignments are not finished or have some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday. This still counts as an on-time homework submission.
 
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
 
