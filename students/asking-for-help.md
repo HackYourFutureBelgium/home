@@ -24,6 +24,9 @@ When you're no longer stuck, give a shout-out to whoever helped you and move you
 
 ### Label: `sunday-review`
 
+> Psst. Please don't put these on the homework project board!
+> Reserve the board for homework issues only to avoid cluttering it up.
+
 Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) called `sunday-review` (it's bright yellow 🌞). Whenever you come across a problem or topic that you would like to review in person on Sunday ...
 
 * Label it `sunday-review`
