@@ -26,5 +26,5 @@ And the last step is to read each others' issues. Maybe you've already figured o
 
 After reading your check-in, a coach or HYF team member will label it `checked`.
 
-- If you're not blocked on anything we will close the issue.
-- If you are blocked on something then we will leave the issue open and it's up to you to close it when you are un-blocked.
+- If you're not blocked on anything, please close the issue after it has been checked.
+- If you are blocked on something then we will assign someone to help you out, and you can close the issue when you are un-blocked.
