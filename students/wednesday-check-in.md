@@ -21,3 +21,7 @@ The next step is to write these four section in your issue's description:
 And the last step is to read each others' issues. Maybe you've already figured out one of your classmate's problems, or maybe they can help you with yours. We're all in this together!
 
 > Looking for an example?  [Here it is!](https://github.com/HackYourFutureBelgium/class-8/issues/290) [And another](https://github.com/HackYourFutureBelgium/class-8/issues/306)
+
+---
+
+After reading your check-in, a coach or HYF team member will label it `checked-in`.  If you're stuck on something small we'll leave you a helpful comment in your issue, if you're stuck on something bigger we'll get in touch with you on Slack to see how we can help!
