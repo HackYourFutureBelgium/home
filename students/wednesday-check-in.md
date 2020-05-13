@@ -24,4 +24,7 @@ And the last step is to read each others' issues. Maybe you've already figured o
 
 ---
 
-After reading your check-in, a coach or HYF team member will label it `checked-in`.  If you're stuck on something small we'll leave you a helpful comment in your issue, if you're stuck on something bigger we'll get in touch with you on Slack to see how we can help!
+After reading your check-in, a coach or HYF team member will label it `checked`.
+
+- If you're not blocked on anything we will close the issue.
+- If you are blocked on something then we will leave the issue open and it's up to you to close it when you are un-blocked.
