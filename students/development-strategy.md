@@ -69,6 +69,6 @@ Each planned step might include:
 
 You will use development strategies for the first time in week 1 of the Incremental Development module.  Take a look at these first development strategies to get the main idea:
 
-1. [A team markdown repo](https://github.com/hackyourfuturebelgium/incremental-development/tree/master/week-1/development-strategy-team-page.md)
+1. [Team Branchies](https://github.com/hackyourfuturebelgium/team-branchies)
 1. [A solo HTML/CSS project](https://github.com/hackyourfuturebelgium/incremental-development/tree/master/week-1/development-strategy-semantic-layout.md)
 1. [A group HTML/CSS project](https://github.com/hackyourfuturebelgium/incremental-development/tree/master/week-2/development-strategy-forks-and-prs.md)
