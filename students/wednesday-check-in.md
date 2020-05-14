@@ -1,7 +1,6 @@
 # Wednesday Check-In
 
-> Psst. Please don't put these on the homework project board!
-> Reserve the board for homework issues only to avoid cluttering it up.
+> Psst. Please don't put these on the homework project board unless you are blocked! Then put it in the 'BLOCKED' column so we know to help you
 
 Each wednesday you are be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday. The first step is to set up your issue:
 
