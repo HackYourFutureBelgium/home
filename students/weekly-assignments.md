@@ -1,3 +1,7 @@
+# Weekly Assignments
+
+A quick guide to homework at HYF.
+
 ## Assignment Levels
 
 Not all assignments are created equal. These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
@@ -17,6 +21,12 @@ While studying with us you will come across 5 different types of assignments. Th
 > You are expected to be familiar with each topic when class starts on Sunday
 
 At the top of each week's README.md you will find a list of videos, articles or examples to study **before** coming into class on Sunday. These resources will be _organized by topic_. You do not need to deeply study each and every link, but we do expect you to familiarize yourself with each topic. This might mean studying one link from each topic in detail and only skimming the rest. It's up to you to find the method that works best for you.
+
+### Lesson Plan
+
+> You are required to start all _Lesson Plan_ activities
+
+Each Sunday you will have a set of exercises and a small project to study in groups.  These will introduce key skills & concepts you'll need in the coming week.  If your group does not finish them in class on Sunday, no problem!  You can keep studying them over the week
 
 ### Suggested Study
 

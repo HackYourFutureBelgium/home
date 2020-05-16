@@ -39,7 +39,7 @@ If your homework is still in "BLOCKED" on Sunday, we will assign one of your "DO
 
 ## Homework Issues
 
-For each week you will create a new _homework issue_. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
+For each week you will create a new _homework issue_ using the __Weekly homework issue__ template in your class repository. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
 
 When creating your issue always go through this checklist so your issue is findable and usable:
 
