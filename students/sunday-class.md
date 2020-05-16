@@ -12,12 +12,11 @@ So come prepared each Sunday to spend some time together and practice collaborat
 
 Here's the schedule for a standard Sunday:
 
-## All Together - Review & New Material
+## All Together - Review & Today's Project
 
+### Check-In: Last Week
 
-### Check-In
-
-Each student takes ~30 seconds to share their progress over the last week:
+Each student share their progress over the last week:
 
 * What went well?
 * What was challenging?
@@ -28,15 +27,15 @@ This is a co-learning moment for each one of you.
 
 ### Review
 
-Your coaches will spend some time leading a review session of last week's assignments.
+Your coaches will spend some time leading a review session of last week's assignments and this week's prep work.
 
 The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](./asking-for-help.md)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
-### New Material
+### Today's Objectives
 
-Your coaches will give a short introduction to this Sunday's new material. Because you are expected to have studied the prep work and theory before Sunday, the coaches will spend this time stepping through some practical examples and helping you understand _why_ the new material is important to learn.
+Your coaches will give a short introduction to this Sunday's exercises and project. They will help you understand _why_ the new material is important and _how_ you will use it in the class project. Because you are expected to have studied the prep work and theory before Sunday, the coaches will spend this time stepping through some practical examples instead of explaining the basics.
 
 ## Small Groups - Isolate
 
@@ -53,30 +52,23 @@ Some tips for studying code:
 * Don't skip the examples!  Understanding and experimenting with working code is a very efficient way to learn programming.
 * Take a look through the [Learning From Code](https://study.hackyourfuture.be/learning/learning-from-code) guide for more study tips.
 
+## All Together: Check-In
+
+A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
+
 ## Break
 
 Peace and crackers!
 
-## All Together - Recap & Project Demo
+## All Together - Project Prep
 
-### Check-In
+Your coaches will review the exercises that caused you all the most trouble and introduce the Sunday project. this might include:
 
-A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
-
-### Recap
-
-Your coaches will step through the exercises & topics that caused the most trouble.
-
-### Project Demo
-
-Your coaches will introduce the Sunday project, this might include:
-
-* Explaining how what you learned in the exercises fits with what you've already learned
-* Explaining how to integrate your new knowledge into a realistic project
+* Explaining how what you learned in the exercises fits with what you've learned before
+* Explaining when they've used these skills in their real lives
 * A demo of how your finished project should behave
-* Explaining how to structure your source code
-* Some debugging tips that will come in handy
-* A suggested development strategy
+* Stepping through the project starter code
+* Sharing some debugging tips that will come in handy
 
 ## Small Groups - Integrate
 
@@ -97,13 +89,13 @@ Some tips for working on the projects:
   * Try forking your group's repository and sending a pull request with one of the user stories completed
   * Open a project board and practice using issues to manage your project
 
-## All Together - Recap & Homework Intro
+## All Together - Check-In & Homework Launch
 
-### Check-In
+### Check-In: Project
 
-A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
+A ~1 minute check-in from each group on what you've learned and struggled with in the class project.
 
-### Homework Intro
+### Homework Launch
 
 Your coaches will give a quick introduction to the week's assignments.
 

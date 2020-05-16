@@ -20,21 +20,26 @@ Submit your homework even if you haven't finished the project! If you weren't ab
 What counts as a homework submission?
 
 1. You have created a new issue with a clear and helpful title.
-1. The issue has links to your completed weekly project, including a separate link to each branch. (the project must be completed!)
-1. You have linked to each of the assigned exercise repositories, even if they are not completed.
-1. All of the links must work! One dead link will count as a whole missing assignment.
-1. You have labeled your issue `ready-for-review`
-1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION" column.
+1. The issue has links to your weekly project, including a separate link to each branch and your development strategy
+1. You have linked to each of the assigned exercise repositories.  All :egg: exercises must be completed.
+1. All of the links must work! A dead link will count as a missing assignment.
+1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "BLOCKED" column.
+1. An issue in the "BLOCKED" column needs to show an effort, including:
+    * A description of what you are stuck on and why (including links to code!)
+    * What you have tried so far
+    * What you will try next
 
-If your project is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday. This still counts as an on-time homework submission.
+If your reviewed assignment is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work. This still counts as an on-time homework submission.
 
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
+
+If your homework is still in "BLOCKED" on Sunday, we will assign one of your "DONE" classmates to help overcome what is blocking you.
 
 ---
 
 ## Homework Issues
 
-For each week you will create a new _homework issue_. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
+For each week you will create a new _homework issue_ using the __Weekly homework issue__ template in your class repository. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
 
 When creating your issue always go through this checklist so your issue is findable and usable:
 
@@ -70,7 +75,7 @@ The weekly workflow for submission and feedback will look something like this:
 1. You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
    - **BLOCKED**: If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)! A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to ...
    - **IN PROGRESS**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of how many assignments you have finished so far.
-   - **READY FOR REVIEW**: When you think your homework is finished (the project is complete and you've started all of the exercises). Then move your card into the "READY FOR REVIEW" column _and_ label it `ready-for-review`.
+   - **READY FOR REVIEW**: When you think your homework is finished (the project is complete and you've started all of the exercises). Then move your card into the "READY FOR REVIEW" column.
 1. A coach or alumni will look over your work
    - **NEEDS REVISION**: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository. You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
    - **Week X: DONE**: When all of your assignments are checked off and you've addressed all feedback, "DONE"! There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_

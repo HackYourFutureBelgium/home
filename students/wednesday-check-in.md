@@ -1,7 +1,6 @@
 # Wednesday Check-In
 
-> Psst. Please don't put these on the homework project board!
-> Reserve the board for homework issues only to avoid cluttering it up.
+> Psst. Please don't put these on the homework project board unless you are blocked! Then put it in the 'BLOCKED' column so we know to help you
 
 Each wednesday you are be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday. The first step is to set up your issue:
 
@@ -21,3 +20,12 @@ The next step is to write these four section in your issue's description:
 And the last step is to read each others' issues. Maybe you've already figured out one of your classmate's problems, or maybe they can help you with yours. We're all in this together!
 
 > Looking for an example?  [Here it is!](https://github.com/HackYourFutureBelgium/class-8/issues/290) [And another](https://github.com/HackYourFutureBelgium/class-8/issues/306)
+
+---
+
+After reading your check-in, a coach or HYF team member will label it `checked`.
+
+- If you're not blocked on anything, please close the issue after it has been checked.  And be ready for it!  We can now assign to help a classmate with their blocked check-in :)
+- If you are blocked on something then we will assign someone to help you out, and you can close the issue when you are un-blocked.
+
+
