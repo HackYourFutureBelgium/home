@@ -30,7 +30,7 @@ This is a co-learning moment for each one of you.
 
 Your coaches will spend some time leading a review session of last week's assignments.
 
-The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://github.com/HackYourFutureBelgium/homework-submission#sunday-review)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
+The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://github.com/aame1/home/blob/master/students/asking-for-help.md)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
