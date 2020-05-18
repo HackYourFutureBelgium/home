@@ -68,10 +68,9 @@ The weekly workflow for submission and feedback will look something like this:
 
 1. The week before class:
    1. Create a new issue in your class repo for the coming week (the `weekly-homework` template is helpful)
-   1. Study the prep work for the next Sunday
-   1. **PREP WORK**: Add your issue to the "PREP WORK" column of the current module's project board _after_ you have familiarized yourself with all of the preparation topics.
-1. Attend class on Sunday (on time at 12h!). In class you will prepare for the weekly homework assignments
-1. Study away! Move your card to the "IN PROGRESS" column once you have begun working on the week's project.
+   1. **PREP WORK**: Add your issue to the "PREP WORK" column of the current module's project board when you begin studying for the next Sunday.
+1. Attend class on Sunday (on time at 12h!). In class you will work in small groups to study a set of exercises and begin a small project.
+1. Study away! Move your card to the "IN PROGRESS" column once you have begun working on the week's exercises & project.
 1. You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
    - **BLOCKED**: If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)! A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to ...
    - **IN PROGRESS**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of how many assignments you have finished so far.
