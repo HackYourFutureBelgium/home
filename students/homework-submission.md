@@ -3,7 +3,6 @@
 How do we do homework submission and feedback? Like this.
 
 - [Submission Deadline](#submission-deadline)
-- [Weekly Homework Issues](#homework-issues)
 - [Submission and Feedback Process](#submission-and-feedback-process)
 - [Missing Assignments Policy](#missing-assignments-policy)
 
@@ -34,27 +33,6 @@ If your reviewed assignment is not finished or has some problems, your coach wil
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
 
 If your homework is still in "BLOCKED" on Sunday, we will assign one of your "DONE" classmates to help overcome what is blocking you.
-
----
-
-## Homework Issues
-
-For each week you will create a new _homework issue_ using the __Weekly homework issue__ template in your class repository. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
-
-When creating your issue always go through this checklist so your issue is findable and usable:
-
-- **Name**: Name your issue something helpful including: your name, the name of the module, and which week it is for
-- **Assign**: Assign the issue to yourself.
-- **Label**: Label your issue with `week-n`, _and_ `homework`.
-  - If your home repository has more than one class (ie. Class 9 & Class 10), please label your issue with your class number: `class-n`
-- **Milestone**: Set the current module as a milestone.
-- **Project**: Add your issue to this module's homework board.
-
-Besides making it easier to filter and search all of the issues in your class repository, following these steps helps us to easily understand your individual progress through the course (using the GitHub API). Help us help you!
-
-Once your issue is set-up write the **Check-Boxs** for this week's assignments including the prep work, project, and exercises.
-
-> Looking for an example? [Here it is!](https://github.com/HackYourFutureBelgium/class-9-10/issues/153)
 
 ---
 

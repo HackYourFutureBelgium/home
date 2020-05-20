@@ -19,7 +19,7 @@ So what are these files like?
 
 The main idea behind a `development-strategy` is that you learn how to break your projects into small steps, and to think about each step in 3 different ways:
 
-1. __As a user story__
+1. __As a experience__
     - What new functionality are you adding at each step?
     - How does step change the end user's experience?
 1. __As source code__
