@@ -39,18 +39,18 @@ so we can make the web a better place together! :muscle:
 
 #### Slack - how we communicate
 
-Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
+Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are of course also stimulated to help each other out.
 
 #### GitHub - how we learn coding
 
-Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with Github.
+Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with GitHub.
 
 ### How do we teach?
 
 Read through these pages to know what's coming your way:
 
 - [the Curriculum Home Page](./README.md)
-- [how Sunday Classes work](../students/sunday-classes.md)t
+- [how Sunday Classes work](../students/sunday-class.md)
 - [our homework submission process](../students/homework-submission.md)
 
 [TOP](#precourse)
@@ -77,7 +77,7 @@ Not all assignments are created equal. These 3 emoji's will help you decide how 
 
 #### GitHub Account
 
-:warning: Create a username that resembles your real name!! :warning:
+:warning: Create a username that resembles your real name! :warning:
 
 :egg: [Create an account on GitHub](https://github.com/join)
 
@@ -88,24 +88,25 @@ Install the Slack Apps on your:
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
 - Desktop: [OSX](https://slack.com/downloads/osx) or [Windows](https://slack.com/downloads/windows)
 
-Be active on Slack! This is how you'll start meeting and helping each other before the class starts. Once you are in, join the channel #classN and write "hej 👋". (If your classnumber is 9 the Slack channel will be called #class9).
+Be active on Slack! This is how you'll start meeting and helping each other before the class starts. Once you are in, join the channel #classN and write "hej 👋". (If your classnumber is 9 the Slack channel will be called #class9.)
 
-We also ask you **not to use fake names** - as you will use this channel for advice and feedback it will be helpful if your mentors know who is who. Adding **a photo** to your profile is _required_ :)
+We also ask you **not to use fake names** - as you will use this channel for advice and feedback it will be helpful if your mentors know who is who. Adding **a photo** to your profile is _required_. :)
 
-- Sign on to Slack and introduce yourself.
-- Share your GitHub username in your introduction
+- Sign in to Slack and introduce yourself.
+- Share your GitHub username in your introduction.
 - Let us know if you haven't received an invitation yet.
 
-About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
-How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+Take a look at these links:
+- [Slack keyboard shortcuts](https://slack.com/intl/en-be/help/articles/201374536-Slack-keyboard-shortcuts)
+- [Format your messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
 
 ---
 
-### Install Softwares
+### Install Software
 
-:egg: Make sure you have all of these softwares installed on your computer:
+:egg: Make sure you have all of these tools installed on your computer:
 
-- [Chromium](https://download-chromium.appspot.com/), [Firefox](https://www.mozilla.org/en-US/firefox/developer/) & [Chrome](https://www.google.com/chrome/): All great browsers with ES6, HTML5 & CSS3 support plus pre-installed, top-knotch developer tools. Be sure to test your projects on all 3!
+- [Chromium](https://download-chromium.appspot.com/), [Firefox](https://www.mozilla.org/en-US/firefox/developer/) or [Chrome](https://www.google.com/chrome/): All great browsers with ES6, HTML5 & CSS3 support plus pre-installed, top-knotch developer tools. Be sure to test your projects on all 3!
 - [Visual Studio Code](https://code.visualstudio.com/download): Like Microsoft Word, but for code ... and _sooooo_ much better.
   After installing VSC, be sure to install these plug-ins:
   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -137,7 +138,7 @@ Fortunately, markdown is also pretty simple. Take a look through these links bef
 
 ### Git and GitHub
 
-Git and GitHub are how you will do _everything_ while at HackYourFuture. Homework submission, Sunday classes, projects, collaboration, coach feedback, _everything_! The more time you spend studying Git and GitHub before class starts, the easier it will be to focus on the fun stuff.
+Git and GitHub are how you will do _everything_ while at HackYourFuture. Homework submission, Sunday classes, projects, collaboration, coach feedback, _everything_! The more time you spend studying Git and GitHub before the classes starts, the easier it will be to focus on the fun stuff.
 
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
   - :egg: 1.1, 1.2, 1.3, 1.4
@@ -168,15 +169,12 @@ Spend some more time getting used to programming, and have a little fun while yo
 
 Still can't get enough of it? Here are some good reads to dive deeper!
 
-- [The Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [study.hackyourfuture.be](https://study.hackyourfuture.be)
-
 ### Being a Developer
 
 The Programmer's Oath:
 
-- @ Uncle Bob: [Videos](https://www.youtube.com/watch?v=36NgPu9OyRM), [Text](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
-- [@ dev.to/damcosset](https://dev.to/damcosset/the-programmers-oath)
+- [by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+- [by Damien Cosset](https://dev.to/damcosset/the-programmers-oath)
 
 Absolute must-reads:
 
@@ -189,27 +187,22 @@ Absolute must-reads:
 
 Tracking Your Progress:
 
-- _[Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)_
-- [Keep a Study Journal](https://www.instatrick.com/writing-programming-journal/)
+- [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 - [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
 
 Other good reads:
 
 - [Killer Article](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer) - long, but worth every word.
 - [Top 8 Developer Habits](https://www.youtube.com/watch?v=DwQ7psiU23I&index=1&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu) - Video series by Mr. Funfunfuncion. He'll become your good friend.
-- Software development [isn't about the code](http://elewa.education/2018/01/20/solution-design/).
 - Freecodecamp's article on [comparing yourself to others](https://medium.freecodecamp.org/a-better-way-to-compare-yourself-43cf37616570).
-- Is programming [like learning a language](http://elewa.education/2018/01/22/thinking-computer-thoughts/)?
 - [Odin's Web Dev 101](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-web-development)
+- [The Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ### What is the Internet?
 
-- _[Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)_
-- [how it works, 5 min ](https://www.youtube.com/watch?v=7LPdttKXPc)
-- _[Khan Academy's Intro](https://www.khanacademy.org/computing/computer-science/internet-intro)_
-- _[The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)_
-- _[Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)_
-- _[internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)_
-- Good videos: [part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ), [part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+- [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
+- [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+- [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
+- [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)
 
 [TOP](#precourse)
