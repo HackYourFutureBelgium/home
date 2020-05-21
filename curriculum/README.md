@@ -25,7 +25,7 @@ Homework submission and feedback is managed 100% with GitHub Project Management 
 
 Be proactive!  Homework doesn't just mean finishing assignments, it also means preparing for the next Sunday Class.  Each week's homework assignments includes a list of topics to study _before_ class starts.  Not preparing will make it impossible for you to get the most out of each class, and will slow down your classmates when it is time to do group work.
 
-For more details on the homework submission process, [follow this link](https://github.com/hackyourfuturebelgium/homework-submission).
+For more details on the homework submission process, [follow this link](./students/homework-submission).
 
 ## The Modules
 
