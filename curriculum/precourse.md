@@ -117,6 +117,7 @@ How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - Node.js: [if you don't have windows](https://nodejs.org/en/), [if you have windows](https://blog.teamtreehouse.com/install-node-js-npm-windows)
+- [oh my zsh](https://ohmyz.sh/): this will help you learn how to use your CLI
 - (If you have windows) [Git For Windows](https://gitforwindows.org/): This will allow you to use the same terminal commands & tools as Linux or Mac computers.
 - [GitKraken](https://www.gitkraken.com/download): A program to make working with Git more visual.
 
