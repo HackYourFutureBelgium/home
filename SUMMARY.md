@@ -11,7 +11,7 @@
   1. [Encapsulation](./curriculum/encapsulation.md)
   1. [Asynchronous Programming](./curriculum/asynchronous-programming.md)
   1. [Web Apps](./curriculum/web-apps.md)
-  1. [Data Modeling](./curriculum/data-modeling.md)
+  1. [Databases](./curriculum/databases.md)
   1. [Frontend Frameworks](./curriculum/frontend-frameworks.md)
   1. [Agile Development](./curriculum/agile-development.md)
 - [Study Guidebook](https://study.hackyourfuture.be)

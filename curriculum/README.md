@@ -41,7 +41,7 @@ Our curriculum is broken up into modules of 2-5 weeks, most are 3 weeks long.  E
 1. [Encapsulation](./encapsulation.md)
 1. [Asynchronous Programming](./asynchronous-programming.md)
 1. [Web Apps](./web-apps.md)
-1. [Data Modeling](./data-modeling.md)
+1. [Databases](./databases.md)
 1. [Frontend Frameworks](./frontend-frameworks.md)
 1. [Agile Development](./agile-development.md)
 
