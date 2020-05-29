@@ -14,16 +14,12 @@ Here's the schedule for a standard Sunday:
 
 ## All Together - Review & Today's Project
 
-### Check-In: Last Week
+### Roll Call
 
-Each student share their progress over the last week:
+Each student leave a comment in the class' `roll-call` issue:
 
-* What went well?
-* What was challenging?
-* What will you try differently this week?
-
-Don't hesitate to speak up! This is a time for you all to discuss what you studied the last week.
-This is a co-learning moment for each one of you.
+* Summarize your week using emojis.
+* Something you'd like to share, anything goes! (within respect)
 
 ### Review
 
@@ -41,6 +37,14 @@ Your coaches will give a short introduction to this Sunday's exercises and proje
 
 Break into your small groups and get started on this Sundays' exercises!
 
+### Stand Up
+
+Do a quick stand-up meeting, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about you are learning.
+
+
+
+### The Exercises
+
 Each module repository has a directory called `/isolate`.  In there you will find all of the exercises and example snippets for the module.  The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.
 
 Some tips for studying code:
@@ -54,7 +58,11 @@ Some tips for studying code:
 
 ## All Together: Check-In
 
-A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
+A check-in from each group, keep it short and to the point!
+
+* A report on your group's stand-up
+* What went well with the exercises?
+* What was challenging in the exercises?
 
 ## Break
 
