@@ -25,7 +25,7 @@ Each student leave a comment in the class' `roll-call` issue:
 
 Your coaches will spend some time leading a review session of last week's assignments and this week's prep work.
 
-The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://home.hackyourfuture.be/asking-for-help)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
+The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://home.hackyourfuture.be/students/asking-for-help)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
