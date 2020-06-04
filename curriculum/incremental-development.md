@@ -53,8 +53,4 @@ Beautiful web pages can be nice to look at, but after a while you'll want more f
 
 Transforming your web sites from static & visual pages into dynamic & interactive ones will require a little help from JavaScript.  Before you dive right into hacking your pages alive, take some time to learn about ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
+

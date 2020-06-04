@@ -34,8 +34,4 @@ What's new in this module?
 
 Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long just building frontend apps, you're building ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
+

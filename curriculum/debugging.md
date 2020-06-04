@@ -40,14 +40,10 @@ What's new in this module?
   * Pausing execution with `debugger` and break points
   * Stepping through execution one line at a time
 * The DOM
-  * Click events & handlers
+  * `<script>` tag
+  * `onclick` attribute
 
 ## New Frontiers
 
 Now that you can confidently write basic JS functions and can step through your program's execution, it's time to gain confidence in your code with  ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
