@@ -12,14 +12,14 @@ So come prepared each Sunday to spend some time together and practice collaborat
 
 Here's the schedule for a standard Sunday:
 
-## All Together - Review & Today's Project
+## Roll Call
 
-### Roll Call
-
-Each student leave a comment in the class' `roll-call` issue:
+Your coaches will create a `roll-call` issue, before class starts each student will leave a comment including:
 
 * Summarize your week using emojis.
 * Something you'd like to share, anything goes! (within respect)
+
+## All Together - Review & Today's Project
 
 ### Review
 
