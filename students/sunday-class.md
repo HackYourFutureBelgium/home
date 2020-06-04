@@ -12,7 +12,7 @@ So come prepared each Sunday to spend some time together and practice collaborat
 
 Here's the schedule for a standard Sunday:
 
-## Roll Call
+## Roll Call - Before Class
 
 Your coaches will create a `roll-call` issue, before class starts each student will leave a comment including:
 
