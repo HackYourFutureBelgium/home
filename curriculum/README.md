@@ -1,6 +1,6 @@
 # HYF Belgium Curriculum
 
-So what will you learn?  Just enough of everything!
+So what will you learn at HackYourFuture?  Just enough of everything!
 
 ## Sunday Classes
 
