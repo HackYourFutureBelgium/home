@@ -187,6 +187,7 @@ Absolute must-reads:
 - Study [smarter](https://youtu.be/Xt5qpbiqw2g?t=297), not harder!
 - [Tips to the beginner developer](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer).
 - [What do programmers do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
+- [Key to being a developer](https://medium.com/@rhamedy/key-habits-and-things-i-wish-i-knew-earlier-as-a-developer-43c9466a0407)
 
 Tracking Your Progress:
 
