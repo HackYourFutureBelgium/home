@@ -85,3 +85,33 @@ What's your act of kindness to the HackYourFuture Family? Send a PR if you want 
 ## Class 9-10's HackYourFuture Manifesto
 
 Class 9 & 10 started their learning fully online in May 2020. After 5 weeks, we've done a co-creative session on the HYF core values. The result is this **HackYourFuture Manifesto**:
+
+
+Where we see.... | | HYF offers....
+------------ |------| -------------
+expensive education | vs. |  free education & open knowledge
+isolation| vs. | togetherness and collaboration
+indifference | vs. | empathy
+exclusion | vs. |  respect for diversity
+lack of jobs | vs. | job opportunities
+superiority | vs. | open mind approach
+
+>"HYF helps you to analize yourself, shows you how to learn self-studying, develop yourself. HYF helps people to discover their talent and guide them to a web developer career. HYF sees refugees as a value to society and as a value to the web development world. You may be talented and skilled as a web developer, but don't forget that first of all you are human and you have to respect others. We are not just a number, we are a community. Be creative. Be Passion. Use your imagination and be passionate about what you are doing. Work hard, make sacrifices. You have to work hard and make sacrifices to see the result in time. Don't give up! Learn, try, get stuck, ask for help, but never give up. 💪"
+
+* Openness. Sharing is caring. Don't retain information if you can also share it.
+
+* Teamwork. Learning together helps to build strong relationship, support, motivate and cooperate within the Team.👍
+
+* Integrity. and being respectful to the community and each other, be responsible and conscious for your actions.
+
+* Inclusivity & Respect for diversity. We are all part of multicultural environment and it is crucial to understand that each of us is unique and a wonderful person, with a different mentality, culture and background.
+
+* Empathy. Being able to understand and share feelings in the other person emotions will make this world better and kinder! ❤️
+
+* Remember, that while you struggling with the task, you are also learning. Every day is a chance for your improvement.
+
+
+"_I have no special talents. I am only passionately curious._" -Albert Einstein    
+
+
+
