@@ -12,7 +12,7 @@ So come prepared each Sunday to spend some time together and practice collaborat
 
 Here's the schedule for a standard Sunday:
 
-## Roll Call - Before Class
+## Roll Call - Before Class (11:45-12:00)
 
 Your coaches will create a `roll-call` issue, before class starts each student will leave a comment including:
 
@@ -39,7 +39,7 @@ Break into your small groups and get started on this Sundays' exercises!
 
 ### Stand Up
 
-Do a quick stand-up meeting, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about you are learning.
+Do a quick stand-up meeting, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about what you are learning.
 
 
 
@@ -56,7 +56,7 @@ Some tips for studying code:
 * Don't skip the examples!  Understanding and experimenting with working code is a very efficient way to learn programming.
 * Take a look through the [Learning From Code](https://study.hackyourfuture.be/learning/learning-from-code) guide for more study tips.
 
-## All Together: Check-In
+## All Together: Check-In (13:50-14:00)
 
 A check-in from each group, keep it short and to the point!
 
@@ -64,7 +64,7 @@ A check-in from each group, keep it short and to the point!
 * What went well with the exercises?
 * What was challenging in the exercises?
 
-## Break
+## Break (14:00-14:30)
 
 Peace and crackers!
 
@@ -97,7 +97,7 @@ Some tips for working on the projects:
   * Try forking your group's repository and sending a pull request with one of the user stories completed
   * Open a project board and practice using issues to manage your project
 
-## All Together - Check-In & Homework Launch
+## All Together - Check-In & Homework Launch (15:45-16:00)
 
 ### Check-In: Project
 
