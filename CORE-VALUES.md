@@ -82,7 +82,9 @@ Some practical examples include:
 
 What's your act of kindness to the HackYourFuture Family? Send a PR if you want to share!
 
-## Class 9-10's HackYourFuture Manifesto
+## HackYourFuture Manifesto
+
+> Thank you Class 9/10!
 
 Class 9 & 10 started their learning fully online in May 2020. After 5 weeks, we've done a co-creative session on the HYF core values. The result is this **HackYourFuture Manifesto**:
 
@@ -111,7 +113,7 @@ superiority | vs. | open mind approach
 * Remember, that while you struggling with the task, you are also learning. Every day is a chance for your improvement.
 
 
-"_I have no special talents. I am only passionately curious._" -Albert Einstein    
+"_I have no special talents. I am only passionately curious._" -Albert Einstein
 
 
 
