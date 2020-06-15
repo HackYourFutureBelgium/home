@@ -29,7 +29,7 @@
   - [Coaching Roles](./coaches/coaching-roles.md)
   - [Sunday Class](./coaches/sunday-class.md)
   - [Wednesday Review](./coaches/wednesday-review.md)
-  - [Reviewing Assignments](./coaches/reviewing-assignments.md)
+  - [Homework Feedback](./coaches/homework-feedback.md)
 - [Alumni](./alumni/README.md)
 - [Mentors](./mentors/README.md)
 - [DYI HYF](https://diy.hackyourfuture.be)
