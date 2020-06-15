@@ -2,7 +2,7 @@
 
 There are two parts to Wednesday Review:
 
-## Check-Is Issues
+## Check-In Issues
 
 When you have time over Wednesday (and Thursday, sometimes students post late) take a look through all the `wednesday-check-in` issues for your class. You can find them by filtering the class issues for the labels `week-X` & `wednesday-check-in`, and the milestone `module-name`.
 
