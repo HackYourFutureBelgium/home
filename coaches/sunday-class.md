@@ -2,11 +2,10 @@
 
 It's helpful to think about each Sunday Class as **a workshop instead of a lecture hall**.
 
-You are expected to **study the assigned prep work _before_ arriving*- - this will cover the theory you need to dive into the exercises on Sunday. Most of your time each Sunday will be spent working in small groups on a set of exercises and a small project. Coaches are there in the first place to support your groups, not to teach the material.
+You are expected to **do the coach prep work _before_ arriving**. This will cover the theory you need to be able to explain the exercises on Sunday. Most of your time each Sunday will be spent working in small groups on a set of exercises and a small project. **Coaches are there in the first place to support your groups, not to teach the material.**
 
-_You will not cover the whole week's material on Sunday._ In Sunday Classes you will cover just enough new material to finish a small project in class.  This new material and mini-project will help you to get started with the week's assignments but (repeat) _are not everything you need to learn_.  **HYF is a majority self-study course.*- It's not your coaches' responsibility to make sure you learn everything!
+**You will not cover the whole week's material on Sunday.** In Sunday Classes you will cover just enough new material to finish a small project in class.  This new material and mini-project will help you to get started with the week's assignments but (repeat) _are not everything students need to learn_.  **HYF is a majority self-study course.* It's not coaches' responsibility to make sure students learn everything!
 
-So come prepared each Sunday to spend some time together and practice collaborating in small groups.  After all, these are the hardest things to study alone over the week :)
 
 ---
 
