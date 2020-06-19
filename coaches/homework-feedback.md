@@ -63,7 +63,7 @@ Here are some thumb rules on giving feedback.
 * Add Emoji’s and images to a review. A big block of text is intimidating. :fearful:
 * For students that are doing well: Give them positive feedback and a more advanced assignment (for example: look for parts that can be refactored using a different approach, or a new language feature)
 
-### Don't be Demotivating. Don't
+### Don't be Demotivating. Don't:
 
 * Suggest (intentionally or not) that some people are natural programmers and some are not.
 Studies have shown that this is not the case. This is sometimes called fixed mindset vs growth mindset.
@@ -88,7 +88,7 @@ The students are more likely to interpret these literally, applying the negativi
 
 ## Acknowledgments
 
-Big thank you's :pray: for the contributions and resources:
+Big thank you's for the contributions and resources:
 
 - [CodeYourFuture](https://teachertraining.codeyourfuture.io/content/motivation-and-demotivation)
 - [Tiago](https://github.com/otagi)
