@@ -21,7 +21,7 @@ Issues in __Ready for Review__ are, well, ready for review:
 * they completed all of the egg :egg: exercises, and started the hatching chicks :hatching_chick:
 * have a complete group project repository
 
-### move to NEEDS REVISION if ...
+### Move to NEEDS REVISION if ...
 
 * any of the assignment links are dead or don't go to the right place
 You're here to give a code review, not to dig through their github accounts
