@@ -4,21 +4,24 @@ There are two parts to Wednesday Review:
 
 ## Check-In Issues
 
-When you have time over Wednesday (and Thursday, sometimes students post late) take a look through all the `wednesday-check-in` issues for your class. You can find them by filtering the class issues for the labels `week-X` & `wednesday-check-in`, and the milestone `module-name`.
+When you have time over Wednesday (and Thursday, sometimes students post their issues late) take a look through all the `wednesday-check-in` issues for your class. You can find them by filtering the class issues for the labels `week-X` & `wednesday-check-in`, and the milestone `module-name`.
 
-After you've read a student's check-in label it `checked`, leave a friendly comment in their issue, and follow up with them in private on Slack if they could use the extra help.
+After you've read a student's check-in:
+* label it `checked`
+* leave a friendly comment in their issue
+* and follow up with them in private on Slack if they could use the extra help.
 
-As you're going through the class check-ins, take note of common questions for the evening's review call and for Sunday class.
+As you're going through the class check-ins, take note of common questions for the evening's review call and/or for Sunday class.
 
 ---
 
 ## Evening Review Call
 
-Each Wednesday evening there is a review call.  There's no set schedule or objective for this call, it's just a time to get together and discuss the week's material.
+Each Wednesday evening there is a review call. There's no set schedule or objective for this call. It's an informal moment to get together and discuss the week's material.
 
 ### Scheduling the Call
 
-The call generally takes place between 4-6 depending on your and the students' availability. You can coordinate a time on Slack using a simple poll-message pinned to the class channel. Slack has some clock emojis that can be helpful. As usual, feel free to change the template to match your schedule and your class:
+The call generally takes place between 4pm and 6pm depending on your and the students' availability. You can coordinate a time on Slack using a simple poll-message pinned to the class channel. Slack has some clock emojis :clock: that can be helpful. As usual, feel free to change the template to match your schedule and your class:
 
 ```md
 @channel
@@ -39,7 +42,7 @@ What time works best this week?
 __Before__
 
 - [ ] Read through the week's wednesday-check-in issues
-- [ ] Post your review planning message on the class slack channel
+- [ ] Post your review planning message on the class Slack channel
 - [ ] Share your call link on Slack
 
 __During__
