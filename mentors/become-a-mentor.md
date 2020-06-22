@@ -1,5 +1,5 @@
----
-description: You'll discover here how to become a mentor at HackYourFuture Belgium.
+You'll discover here how to become a mentor at HackYourFuture Belgium.
+
 ---
 
 # Become a mentor
