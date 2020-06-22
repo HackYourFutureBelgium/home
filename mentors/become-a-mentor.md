@@ -37,7 +37,7 @@ description: You'll discover here how to become a mentor at HackYourFuture Belgi
 
 ## Onboarding
 
-* [Reading this Mentors Guidebook](#mentors)
+* [Reading this Mentors Guidebook](https://home.hackyourfuture.be/mentors)
 * Interview with HYF-staff
 * Agreement on Mentoring period
 * Introduction to HYF's Slack Workspace
@@ -45,5 +45,5 @@ description: You'll discover here how to become a mentor at HackYourFuture Belgi
 
 ## Testimonials
 
-*For you to experience and testify :wink*
+*For you to experience and testify :wink:*
 
