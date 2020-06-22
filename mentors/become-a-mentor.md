@@ -25,7 +25,7 @@ description: You'll discover here how to become a mentor at HackYourFuture Belgi
 * Feedback to both HYF-staff and your mentee is key. 
 
 
-*If you can't do offline meetings because of physical mobility reasons, we respect that. If you let us know, we can ask another mentor to take over for your offline meeting.
+*If you can't do offline meetings because of physical mobility reasons, we respect that. If you let us know, we can ask another mentor to take over for your offline meeting.*
 
 ## Interview questions
 
@@ -37,7 +37,7 @@ description: You'll discover here how to become a mentor at HackYourFuture Belgi
 
 ## Onboarding
 
-* [Reading this Mentors Guidebook](https://home.hackyourfuture.be/mentors)
+* Reading this [Mentors Guidebook](https://home.hackyourfuture.be/mentors)
 * Interview with HYF-staff
 * Agreement on Mentoring period
 * Introduction to HYF's Slack Workspace
