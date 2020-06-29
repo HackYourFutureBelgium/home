@@ -36,6 +36,8 @@
   - [Mentoring Roles](./mentors/mentoring-roles.md)
   - [Become a mentor](./mentors/become-a-mentor.md)
   - [Legal issues on jobseeking](./mentors/legal-issues-on-jobseeking.md)
+  - [Refugee & Migrant Communities](./mentors/refugee-communities.md)
+  - [Info for Asylum Seekers in Belgium](./mentors/asylum-seekers.md)
 - [DYI HYF](https://diy.hackyourfuture.be)
 - [Core Values](./CORE-VALUES.md)
 - [Code of Conduct](./CODE-OF-CONDUCT.md)
