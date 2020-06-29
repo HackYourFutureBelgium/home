@@ -52,10 +52,18 @@ Here are some thumb rules on giving feedback.
 
 * Start with a quick high level check (links to project, end result, validators, etc.) and ask for corrections (move the card to _Needs Revision_) before diving into the code.
 * Test the solution. First review the bugs you notice in the code.
-* Prefer to comment on their homework issue in the class repo rather than opening an issue on the project itself, to keep it simple and visible.
 * Show don’t tell. Include code snippets explaining mistakes.
-* If you do think a PR/code-review in their assignment repository is necessary, still write a summary of your review in their homework issue and link to the PR.
 * Nothing is out of bounds. Feel free to comment on code style, design, their README, or whatever you notice that you think would help them.
+
+#### Individual Exercises
+
+* Prefer to comment on their homework issue in the class repo rather than opening an issue on the project itself, to keep it simple and visible.
+* If you do think a PR/code-review in their exercise repository is necessary, still write a summary of your review in their homework issue and link to the PR.
+
+#### Group Projects
+
+* Prefer to leave general feedback on group projects as issues/PR's in the group repository so feedback is visible to all team members.
+* If you have specific tips for the student to improve the quality of their contributions, that can go in their homework issue.
 
 ### Be Motivating
 
