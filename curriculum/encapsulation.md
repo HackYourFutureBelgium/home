@@ -37,8 +37,4 @@ You have mastered the art of application design!  Or at least taken your first s
 
 Now that you are comfortable planning, debugging and building apps to manage hard-coded or user-provided data, it's time to take the training wheels and start consuming ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
+

@@ -12,24 +12,20 @@ So come prepared each Sunday to spend some time together and practice collaborat
 
 Here's the schedule for a standard Sunday:
 
+## Roll Call - Before Class (11:45-12:00)
+
+Your coaches will create a `roll-call` issue, before class starts each student will leave a comment including:
+
+* Summarize your week using emojis.
+* Something you'd like to share, anything goes! (within respect)
+
 ## All Together - Review & Today's Project
-
-### Check-In: Last Week
-
-Each student share their progress over the last week:
-
-* What went well?
-* What was challenging?
-* What will you try differently this week?
-
-Don't hesitate to speak up! This is a time for you all to discuss what you studied the last week.
-This is a co-learning moment for each one of you.
 
 ### Review
 
 Your coaches will spend some time leading a review session of last week's assignments and this week's prep work.
 
-The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](./asking-for-help.md)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
+The best way for you to help your coaches give a helpful review session is to **create [Sunday Review Issues](https://home.hackyourfuture.be/students/asking-for-help)** in your class repo.  This way they can prepare clear examples and presentations ahead of time.
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
@@ -40,6 +36,14 @@ Your coaches will give a short introduction to this Sunday's exercises and proje
 ## Small Groups - Isolate
 
 Break into your small groups and get started on this Sundays' exercises!
+
+### Stand Up
+
+Do a quick stand-up meeting, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about what you are learning.
+
+
+
+### The Exercises
 
 Each module repository has a directory called `/isolate`.  In there you will find all of the exercises and example snippets for the module.  The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.
 
@@ -52,11 +56,15 @@ Some tips for studying code:
 * Don't skip the examples!  Understanding and experimenting with working code is a very efficient way to learn programming.
 * Take a look through the [Learning From Code](https://study.hackyourfuture.be/learning/learning-from-code) guide for more study tips.
 
-## All Together: Check-In
+## All Together: Check-In (13:50-14:00)
 
-A ~1 minute check-in from each group on what you've learned and struggled with in the exercises.
+A check-in from each group, keep it short and to the point!
 
-## Break
+* A report on your group's stand-up
+* What went well with the exercises?
+* What was challenging in the exercises?
+
+## Break (14:00-14:30)
 
 Peace and crackers!
 
@@ -89,7 +97,7 @@ Some tips for working on the projects:
   * Try forking your group's repository and sending a pull request with one of the user stories completed
   * Open a project board and practice using issues to manage your project
 
-## All Together - Check-In & Homework Launch
+## All Together - Check-In & Homework Launch (15:45-16:00)
 
 ### Check-In: Project
 

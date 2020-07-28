@@ -49,8 +49,4 @@ What's new in this module?
 
 Tired of working alone on all of your projects? Ready to build something more substantial than a small project each week?  It's time to experience the entire development process from ideation to delivery using ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
+

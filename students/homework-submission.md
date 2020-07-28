@@ -3,7 +3,6 @@
 How do we do homework submission and feedback? Like this.
 
 - [Submission Deadline](#submission-deadline)
-- [Weekly Homework Issues](#homework-issues)
 - [Submission and Feedback Process](#submission-and-feedback-process)
 - [Missing Assignments Policy](#missing-assignments-policy)
 
@@ -37,27 +36,6 @@ If your homework is still in "BLOCKED" on Sunday, we will assign one of your "DO
 
 ---
 
-## Homework Issues
-
-For each week you will create a new _homework issue_ using the __Weekly homework issue__ template in your class repository. You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished. Your class repository has a template issue you can use to help you get the hang of things.
-
-When creating your issue always go through this checklist so your issue is findable and usable:
-
-- **Name**: Name your issue something helpful including: your name, the name of the module, and which week it is for
-- **Assign**: Assign the issue to yourself.
-- **Label**: Label your issue with `week-n`, _and_ `homework`.
-  - If your home repository has more than one class (ie. Class 9 & Class 10), please label your issue with your class number: `class-n`
-- **Milestone**: Set the current module as a milestone.
-- **Project**: Add your issue to this module's homework board.
-
-Besides making it easier to filter and search all of the issues in your class repository, following these steps helps us to easily understand your individual progress through the course (using the GitHub API). Help us help you!
-
-Once your issue is set-up write the **Check-Boxs** for this week's assignments including the prep work, project, and exercises.
-
-> Looking for an example? [Here it is!](https://github.com/HackYourFutureBelgium/class-8/issues/285)
-
----
-
 ## Submission and Feedback Process
 
 We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues), [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) and [Notifications](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-notifications) to submit assignments and give feedback. You will find a [template issue](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates) you can use to start each week's submission.
@@ -68,10 +46,9 @@ The weekly workflow for submission and feedback will look something like this:
 
 1. The week before class:
    1. Create a new issue in your class repo for the coming week (the `weekly-homework` template is helpful)
-   1. Study the prep work for the next Sunday
-   1. **PREP WORK**: Add your issue to the "PREP WORK" column of the current module's project board _after_ you have familiarized yourself with all of the preparation topics.
-1. Attend class on Sunday (on time at 12h!). In class you will prepare for the weekly homework assignments
-1. Study away! Move your card to the "IN PROGRESS" column once you have begun working on the week's project.
+   1. **PREP WORK**: Add your issue to the "PREP WORK" column of the current module's project board when you begin studying for the next Sunday.
+1. Attend class on Sunday (on time at 12h!). In class you will work in small groups to study a set of exercises and begin a small project.
+1. Study away! Move your card to the "IN PROGRESS" column once you have begun working on the week's exercises & project.
 1. You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
    - **BLOCKED**: If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)! A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to ...
    - **IN PROGRESS**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of how many assignments you have finished so far.

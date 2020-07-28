@@ -2,16 +2,6 @@
 
 A quick guide to homework at HYF.
 
-## Assignment Levels
-
-Not all assignments are created equal. These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
-
-- :egg: `:egg:` - these assignments are required, they cover the base skills you'll need to move on.
-- :hatching_chick: `:hatching_chick:` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
-- :hatched_chick: `:hatched_chick:` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
-
----
-
 ## Types of Assignments
 
 While studying with us you will come across 5 different types of assignments. They all serve different purposes, but all will help you succeed at HYF and beyond.
@@ -38,11 +28,18 @@ If you find a great resource that you think would help other students, please sh
 
 ### Exercises
 
-> You are required to start all exercises
+> Follow the emoji hints for each exercise
+
+Not all exercises are created equal. These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
+
+- :egg: `:egg:` - these exercises are required, they cover the base skills you'll need to move on.
+- :hatching_chick: `:hatching_chick:` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
+- :hatched_chick: `:hatched_chick:` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
 
 Alongside each week's project there will be a set of exercises. Unlike projects the exercises will focus in on specific skills, tools or concepts. Exercises are made up of smaller and more repetitive problems to solve, always with tests so you can move through them with confidence.
 
 Sometimes there will be _a lot_ of exercises, and these exercises can be quite challenging. You should start each set of exercises to be aware of the skills you're expected to apply in the projects, but you are not expected to complete every exercise the week they are assigned. If you find you want to dive deeper into one topic, or that you've finished the project early and want to keep studying, go on and finish all the exercises! Otherwise they'll always be there for you, you can go back and complete the exercises later in the course or after you leave HYF. This has been a successful strategy for many students before you.
+
 
 Exercises will come in 3 general types as well:
 

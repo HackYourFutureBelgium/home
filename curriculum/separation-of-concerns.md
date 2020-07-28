@@ -33,8 +33,4 @@ What's new in this module?
 
 It won't take long before users are bored of websites that never evolve over time, always doing the same thing no matter what.  Your next-level web pages will have saved data that users interact with over time, and have dynamic user interfaces that update to reflect changes in ...
 
-<hr>
-<hr>
-<a href="https://hackyourfuture.be" target="_blank"><img
-    src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg"
-    width="100" height="100"></a>
+
