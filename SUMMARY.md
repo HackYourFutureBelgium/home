@@ -20,7 +20,7 @@
   - [Asking for Help](./students/asking-for-help.md)
   - [Group Projects](./students/group-projects.md)
   - [Individual Assignments](./students/individual-assignments.md)
-  - [Collaboration vs. Cheating](./students/collaboraiton-vs-cheating.md)
+  - [Collaboration vs. Cheating](./students/collaboration-vs-cheating.md)
   - [Development Strategy](./students/development-strategy.md)
   - [GitHub Cheat Sheet](./students/github-cheat-sheet.md)
   - [Class Repos](./students/class-repos.md)
