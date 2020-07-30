@@ -22,7 +22,7 @@ You are expected to **do the coach prep work _before_ arriving**. This will cove
 - [ ] Decide who will introduce the project in the second half.
 - [ ] Decide who will introduce the next week's homework.
 
-### Sunday
+### Sunday Before Class
 
 - [ ] Look through all the `sunday-review` issues in the class repo to prep for the review session
 - [ ] Share the week's _Roll Call_ issue ~15 minutes before class
@@ -39,9 +39,9 @@ You are expected to **do the coach prep work _before_ arriving**. This will cove
 
 ---
 
-## Slack Poll
+## Slack Polls
 
-Right after the Isolate exercises and the Integrate project (so two times each Sunday), poll the class on their slack channel to get a feel for how everyone is doing. Polls are as simple as a message pinned to the class channel where students can react to share their response.  Below is a basic template you can copy-paste into Slack.  Feel free to change it however you like, this is just here for inspiration:
+Right before break and at the end of class (so two times each Sunday), poll the class on their slack channel to get a feel for how everyone is doing. Polls are as simple as a message pinned to the class channel where students can react to share their response.  Below is a basic template you can copy-paste into Slack.  Feel free to change it however you like, this is just here for inspiration:
 
 ```md
 @channel
@@ -51,8 +51,19 @@ friendly and motivating words
 :hourglass_flowing_sand: = A little slower please
 :thumbsup_all:  = It’s all clear for me until now
 :sleeping:  = Class may go faster
+:construction_worker: = enough theory, time for practice
 :fire: = This is awesome! if only class were longer ...
+
+Anything else to add?  Leave a comment on this post!
 ```
+
+---
+
+## Small Group Sessions
+
+While students are studying the Isolate and Integrate exercises in small groups, you as coaches will be on standby waiting for questions on Slack. If there are very few questions you can go between group calls asking the students to teach you what they are working on.
+
+It's also helpful to meet once with each group (before or after break) to do a week retrospective. Make sure each student gets a chance to speak without interruption.
 
 ---
 

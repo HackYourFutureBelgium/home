@@ -37,11 +37,9 @@ Your coaches will give a short introduction to this Sunday's exercises and proje
 
 Break into your small groups and get started on this Sundays' exercises!
 
-### Stand Up
+### Retrospective
 
-Do a quick stand-up meeting, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about what you are learning.
-
-
+A coach will join you at some point before break for a weekly retrospective, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about what you are learning.
 
 ### The Exercises
 

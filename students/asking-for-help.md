@@ -6,7 +6,8 @@ There's a fine line between confidently learning from your mistakes, and stubbor
 
 1. _0 -> 20 min_: Try on your own
 1. _20 -> 60 min_: Ask your classmates for help
-   - Move your issue to `BLOCKED` on the project board and ask for help on the shared channel
+   - If you're stuck on the `group` project: move your team's issue to `BLOCKED` on the project board, leave a comment, and ask for help on the shared channel
+   - If you're stuck on the `individual` exercises: add the `help-wanted` label to your issue, leave a comment, and share a link to it on the shared Slack channel
    - No private messages please! you will never be the only person with this question
 1. _60+ min_: Tag your coaches in your issue
 
@@ -16,9 +17,13 @@ Software developers have found many great ways to collaborate on shared code bas
 
 ### Project Board: `BLOCKED`
 
-If you are very stuck or confused on an assignment, move your card to the `BLOCKED` column and leave a comment in your issue describing what has you blocked. Include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. A coach, alumni, or classmate will be around soon to help you figure it out.
+If you are stuck or confused about the week's project, move your group's card to the `BLOCKED` column and leave a comment in the issue describing what has you blocked. Include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. A coach, alumni, or classmate will be around soon to help you figure it out.
 
 When you're no longer stuck, give a shout-out to whoever helped you and move your issue out of the `BLOCKED` column.
+
+### Labels: `help-wanted`
+
+When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
 
 ---
 
