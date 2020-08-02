@@ -41,7 +41,7 @@ You are expected to **do the coach prep work _before_ arriving**. This will cove
 
 ## Slack Polls
 
-Right before break and at the end of class (so two times each Sunday), poll the class on their slack channel to get a feel for how everyone is doing. Polls are as simple as a message pinned to the class channel where students can react to share their response.  Below is a basic template you can copy-paste into Slack.  Feel free to change it however you like, this is just here for inspiration:
+During the recaps before break and at the end of class (so two times each Sunday), poll the class on their slack channel to get a feel for how everyone is doing. Polls are just a message pinned to the class channel where students can react to share their response.  Below is a basic template you can copy-paste into Slack.  Feel free to change it however you like, this is just here for inspiration:
 
 ```md
 @channel

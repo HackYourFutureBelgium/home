@@ -35,11 +35,7 @@ Your coaches will give a short introduction to this Sunday's exercises and proje
 
 ## Small Groups - Isolate
 
-Break into your small groups and get started on this Sundays' exercises!
-
-### Retrospective
-
-A coach will join you at some point before break for a weekly retrospective, this is your chance to share what went well and what was difficult last week.  But keep it short! You shouldn't take longer than ~30 seconds per person. This is a chance to practice being clear and precise about what you are learning.
+Break into your small groups and get started on this Sundays' exercises.  Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
 
 ### The Exercises
 
@@ -58,9 +54,11 @@ Some tips for studying code:
 
 A check-in from each group, keep it short and to the point!
 
-* A report on your group's stand-up
+* How did you work as a group?
 * What went well with the exercises?
 * What was challenging in the exercises?
+
+Your coaches will also share a small poll on your slack channel to get an idea for you're each doing individually.
 
 ## Break (14:00-14:30)
 
@@ -78,28 +76,29 @@ Your coaches will review the exercises that caused you all the most trouble and 
 
 ## Small Groups - Integrate
 
-Break into your small groups and begin working on the day's project (after studying the examples ;))!
-Each module repository has a directory called `/integrate`.  In there you will find a collection of finished projects to study.  **The Sunday Lesson Plan & README** will list the example projects that are most helpful for this Sunday.
-
-The project itself will be hosted as a separate repository so you can practice pushing, pulling, branching and collaboration.  You will find a link to the starter repo in the Lesson Plan and weekly README.
-
-Some tips for working on the projects:
+Break into your small groups and begin working on the day's `/integrat` exercises (after studying the examples ;))! Some tips for working on the projects:
 
 * Pair programming!
-* Take turns explaining how the example projects work:
-  * Which files and folders are there? What role does each one play in the program?
+* Take turns explaining how the examples work
+  * Work your way through each feature on the UI
+  * The better you understand its behavior, the better you can reverse-engineer it
+* Take turns explaining the starter code
   * What language features are used in the program?
   * How is today's new material integrated into the project?
-* Practice workflows and project planning. There's plenty of time to write code over the week, spend your time together practicing collaboration:
-  * Write or study the Development Strategy together before starting to code
-  * Try forking your group's repository and sending a pull request with one of the user stories completed
-  * Open a project board and practice using issues to manage your project
+
+Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
 
 ## All Together - Check-In & Homework Launch (15:45-16:00)
 
 ### Check-In: Project
 
 A ~1 minute check-in from each group on what you've learned and struggled with in the class project.
+
+* How did you work as a group?
+* What went well with the exercises?
+* What was challenging in the exercises?
+
+Your coaches will also share a small poll on your slack channel to get an idea for you're each doing individually.
 
 ### Homework Launch
 
