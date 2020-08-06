@@ -34,6 +34,7 @@ Our curriculum is broken up into modules of 2-5 weeks, most are 3 weeks long.  E
 1. [Precourse](./precourse.md)
 1. [Working With Code](./working-with-code.md)
 1. [Incremental Development](./incremental-development.md)
+1. [UX/UI design](./UX-UI-design.md)
 1. [Debugging](./debugging.md)
 1. [Testing](./testing.md)
 1. [Separation of Concerns](./separation-of-concerns.md)
