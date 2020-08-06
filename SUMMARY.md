@@ -4,6 +4,7 @@
   1. [Precourse](./curriculum/precourse.md)
   1. [Working With Code](./curriculum/working-with-code.md)
   1. [Incremental Development](./curriculum/incremental-development.md)
+  1. [UX/UI Design](./curriculum/UX-UI-design.md)
   1. [Debugging](./curriculum/debugging.md)
   1. [Testing](./curriculum/testing.md)
   1. [Separation of Concerns](./curriculum/separation-of-concerns.md)
