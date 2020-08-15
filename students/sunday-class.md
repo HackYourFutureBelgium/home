@@ -76,7 +76,7 @@ Your coaches will review the exercises that caused you all the most trouble and 
 
 ## Small Groups - Integrate
 
-Break into your small groups and begin working on the day's `/integrat` exercises (after studying the examples ;))! Some tips for working on the projects:
+Break into your small groups and begin working on the day's `/integrate` exercises (after studying the examples ;))! Some tips for working on the projects:
 
 * Pair programming!
 * Take turns explaining how the examples work
