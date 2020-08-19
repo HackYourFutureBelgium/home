@@ -18,6 +18,7 @@
 - [Study Guidebook](https://study.hackyourfuture.be)
 - [Students](./students/README.md)
   - [Sunday Class](./students/sunday-class.md)
+  - [Wednesday Review](./students/wednesday-review.md)
   - [Asking for Help](./students/asking-for-help.md)
   - [Group Projects](./students/group-projects.md)
   - [Individual Assignments](./students/individual-assignments.md)
