@@ -41,9 +41,9 @@ so we can make the web a better place together! :muscle:
 
 Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are of course also stimulated to help each other out.
 
-#### GitHub - how we learn coding
+#### GitHub - how we collaborate
 
-Our [Github repository](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with GitHub.
+Our [Github organization](https://github.com/HackYourFutureBelgium/) contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with GitHub.
 
 ### How do we teach?
 
@@ -51,7 +51,8 @@ Read through these pages to know what's coming your way:
 
 - [the Curriculum Home Page](./README.md)
 - [how Sunday Classes work](../students/sunday-class.md)
-- [our homework submission process](../students/homework-submission.md)
+- [Group Projects](../students/group-projects.md)
+- [Individual Assignments](../students/individual-assignments.md)
 
 [TOP](#precourse)
 
