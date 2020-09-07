@@ -35,5 +35,3 @@ What's new in this module?
 
 Now that you can be confident that your code does what you want it to, wouldn't it be nice if you could actually _use_ it!? Learn to plan and develop maintainable projects using ...
 
-
-

@@ -67,7 +67,7 @@ The weekly workflow for project submission and feedback will look something like
 1. At the beginning of each week create a new issue in your class repo for the coming week (the `group` template is helpful)
 2. Study away! Move your group's card to the "IN PROGRESS" column once you have begun planning the week's project.
 3. You will keep your coaches and classmates to date on your group's progress and challenges by checking off the boxes in your issue and moving your card along the project board.
-   - **PROJECT PREP**: Leave your issue here while your team is setting up the group repo, outlining a development strategy, and distributing tasks.
+   - **PLANNING**: Leave your issue here while your team is setting up the group repo, outlining a development strategy, and distributing tasks.
    - **IN PROGRESS**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of how many assignments you have finished so far. When your stuck move your card to ...
    - **BLOCKED**: If you are very stuck or confused, move your group's card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)! A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to **IN PROGRESS**
    - **READY FOR REVIEW**: When your team homework has closed all issues & PR's, move your card into the "READY FOR REVIEW" column.
