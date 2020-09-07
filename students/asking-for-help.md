@@ -25,21 +25,7 @@ When you're no longer stuck, give a shout-out to whoever helped you and move you
 
 When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
 
----
-
-### Label: `sunday-review`
-
-> Psst. Please don't put these on the homework project board!
-> Reserve the board for homework issues only to avoid cluttering it up.
-
-Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) called `sunday-review` (it's bright yellow 🌞). Whenever you come across a problem or topic that you would like to review in person on Sunday ...
-
-* Label it `sunday-review`
-* Assign it to the current module's _milestone_
-
-What's most important is to be clear about what you don't understand, what you've tried so far, and that you provide extra links for context (ie. links to your code, to helpful resources, ...).
-
-During the review section of class your coaches will go through all of the `sunday-review` issues, closing them when your question has been answered.
+To make this issue easier to find and sort, consider attaching a `week-x` label and a milestone.
 
 ---
 
