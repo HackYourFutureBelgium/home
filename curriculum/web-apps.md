@@ -1,5 +1,7 @@
 # Web Apps
 
+> Module repository is [right here](https://github.com/HackYourFutureBelgium/web-apps/)
+
 You've made it to fullstack!  __Web Apps__ are applications split up across the internet with different parts running on different machines in different parts of the world.  So far your projects have all run directly in the user's browser.  The code was served from a server (GitHub Pages), and they used data or logic from elsewhere on the web (API's), but all of the code you wrote ran in one place - the client's browser. All of that is about to change.
 
 In this module you will learn how to develop applications that follow the _client/server_ arrangement with a _backend_ run on a server that stores & serves data, and a _frontend_ run in the browser that displays and accesses the data in your server.  To make this happen you will learn how to read & write from your computer's file system, send & receive HTTP requests, deploy your own APIs, and serve your own HTML/CSS/JavaScript files without the help of GitHub Pages.

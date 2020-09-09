@@ -1,6 +1,6 @@
-# Computational Thinking
+# Problem Solving
 
-> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/testing/)
+> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/problem-solving/)
 
 Stepping through and understanding your code's execution is interesting, but nearly as fun as solving a good puzzle.  You will learn a structured process for confidently solving coding challenges.  This will include reading and writing tests for confidence and communication.
 

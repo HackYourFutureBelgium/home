@@ -36,7 +36,7 @@ Our curriculum is broken up into modules of 2-5 weeks, most are 3 weeks long.  E
 1. [Incremental Development](./incremental-development.md)
 1. [UX/UI design](./UX-UI-design.md)
 1. [Debugging](./debugging.md)
-1. [Computational Thinking](./computational-thinking.md)
+1. [Problem Solving](./problem-solving.md)
 1. [Separation of Concerns](./separation-of-concerns.md)
 1. [State](./state.md)
 1. [Encapsulation](./encapsulation.md)

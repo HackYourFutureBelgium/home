@@ -6,7 +6,7 @@
   1. [Incremental Development](./curriculum/incremental-development.md)
   1. [UX/UI Design](./curriculum/UX-UI-design.md)
   1. [Debugging](./curriculum/debugging.md)
-  1. [Computational Thinking](./curriculum/computational-thinking.md)
+  1. [Problem Solving](./curriculum/problem-solving.md)
   1. [Separation of Concerns](./curriculum/separation-of-concerns.md)
   1. [State](./curriculum/state.md)
   1. [Encapsulation](./curriculum/encapsulation.md)
