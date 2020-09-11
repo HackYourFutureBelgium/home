@@ -1,6 +1,6 @@
 # Encapsulation
 
-> Find the Module repository [right here](https://github.com/hackyourfuturebelgium/encapsulation)
+> 3 weeks. Find the Module repository [right here](https://github.com/hackyourfuturebelgium/encapsulation)
 
 Up until now you've been learning how to break your code into more, smaller pieces based on the role it plays in your application.  Learning to do this is a critical skill but as you've probably noticed, it is difficult to manage projects when your code is in so spread out.
 

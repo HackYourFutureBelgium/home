@@ -1,9 +1,6 @@
 ## Databases
 
-__Pains & Gains__
-* _pains you’ll relieve_: .json files are tedious and not so robust
-
-> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/databases/)
+> 2 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/databases/)
 
 introduction
 

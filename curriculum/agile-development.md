@@ -1,9 +1,6 @@
 ## Agile Development
 
-
-> No big changes here. The goal is still to let students work in teams on cool projects they like, practicing collaboration and project management.
-
-
+> 6 weeks
 
 __Pains & Gains__
 * _pains you’ll relieve_: working alone is lonely :(
@@ -21,7 +18,4 @@ Learning Objectives
 ## Tech Stack
 
 What's new in this module?
-
-* Circle Continuous Integration Testing
-
 

@@ -1,6 +1,6 @@
 # Working With Code
 
-> Assignments and lesson plans are [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
+> 1 week. Assignments and lesson plans are [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
 
 There is a lot of code, links, and browser tabs in your near future!
 

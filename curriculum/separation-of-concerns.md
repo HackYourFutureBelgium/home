@@ -1,6 +1,6 @@
 # Separation of Concerns
 
-> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/separation-of-concerns/)
+> 2 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/separation-of-concerns/)
 
 Before hacking your way into more and more ambitious projects, take some time to understand Separation of Concerns: What's happening behind the screen is even more important than what the user sees!
 

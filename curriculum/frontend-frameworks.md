@@ -1,6 +1,6 @@
 # Frontend Frameworks
 
-> Find the Module repository [right here]() (coming soon)
+> 2 weeks. Find the Module repository [right here]() (coming soon)
 
 As your projects grow larger and more interesting, they also become more complex. Complexity is THE nemesis of any successful software project.  As the projects you're working on becomes more complex, _everyone_ makes more mistakes. Senior developers too! What makes a great developer stand out is not their ability to understand complicated code.  It's their ability to _avoid writing_ it in the first place.
 

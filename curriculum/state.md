@@ -1,6 +1,6 @@
 # State
 
-> Find the Module repository [right here](https://github.com/hackyourfuturebelgium/state)
+> 2 weeks. Find the Module repository [right here](https://github.com/hackyourfuturebelgium/state)
 
 In the previous module you learned to decompose & plan projects, organize your code, and use HTML/CSS/JS to implement simple websites that process user input.  All well and good but there was something missing.  Your projects never "remembered" anything!
 

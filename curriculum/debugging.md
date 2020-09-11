@@ -1,6 +1,6 @@
 # Debugging
 
-> Find the Module repository [right here](https://github.com/HackYourFutureBelgium/debugging/)
+> 3 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/debugging/)
 
 Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :). In this module you will focus on two layers of understanding JavaScript:
 
