@@ -14,6 +14,7 @@ There will be two types of homework issues in the class repo:
 - **`group`**: On weeks where there is a group project each study group will create a new issue, this issue is used to track their progress through the weekly group project.
   - Groups will post this issue on the module project board.
   - As coaches, you should divide the groups between yourselves so that each project gets a review at the end of the week.
+  - After reviewing a group's project, add the `week-x-reviewed` label to their issue
 
 ---
 

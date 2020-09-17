@@ -74,6 +74,7 @@ The weekly workflow for project submission and feedback will look something like
 4. A coach or alumni will look over your work
    - **NEEDS REVISION**: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as aPR/issue in your repository. After you have addressed all of the feedback, please move your card back into the _READY FOR REVIEW_ column so we know to take another look.
    - **DONE**: When the project is done you've addressed all feedback, _DONE_! _(Only coaches can move cards into the "DONE" column!)_
+     - Coaches will also add the `week-x-reviewed` label to your issue for filtering in the _issues_ tab of the repo
 
 [TOP](#group-projects)
 
