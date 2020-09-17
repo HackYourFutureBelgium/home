@@ -117,6 +117,7 @@ Take a look at these links:
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - Node.js: [if you don't have windows](https://nodejs.org/en/), [if you have windows](https://blog.teamtreehouse.com/install-node-js-npm-windows)
 - [oh my zsh](https://ohmyz.sh/): this will help you learn how to use your CLI

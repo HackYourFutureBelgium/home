@@ -4,6 +4,7 @@ Each module you will create one `individual` issue using the template in your cl
 `individual` issues won't be placed on the module project board.
 
 - [`individual` Issues](#individual-issues)
+- [Individual Projects](#individual-projects)
 - [Self-Study](#self-study)
   - [Suggested Study](#suggested-study)
   - [Sunday Prep](#sunday-prep)
@@ -23,9 +24,19 @@ There is a template issue to help you get started, but there is still a few thin
 - __Assignee__: yourself
 - __Labels__:
   - `individual`: added when the issue is created
-  - `week-x`: one per week, each Wednesday when you post your check-in
+  - `check-in-x`: one per week, each Wednesday when you post your check-in
   - `retrospective`: at the end of the module when you post your retro
 - __Milestone__: the module
+
+[TOP](#individual-assignments)
+
+---
+
+## Individual Projects
+
+Some weeks you will have individual projects, you will be expected to submit these for review by Friday of the week it was assigned.  You won't need to create a new issue for the individual projects, you can simply include the project checklist directly in your individual issue.
+
+At the end of the week when you are ready to submit please add the `week-x` label to your issue, this is how coaches will be able to find your issue in the repository.
 
 [TOP](#individual-assignments)
 
@@ -86,7 +97,7 @@ These comments is how you will keep track of your progress learning the course c
 - **Next Steps**: What are your goals and your study plans for the rest of the week?
 - **`/shared-notes` PR**: Link to your PR with some tips, tricks or code examples that made a big difference for you.
 
-When you have posted your Wednesday Check-in please add the `week-x` label to your issue so we know it's ready for review.
+When you have posted your Wednesday Check-in please add the `check-in-x` label to your issue so we know it's ready for review.
 
 After reading your check-in, a coach or HYF team member will label it `checked-x`.
 

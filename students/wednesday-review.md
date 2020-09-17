@@ -14,7 +14,7 @@ These comments is how you will keep track of your progress on your individual st
 - **Next Steps**: What are your goals and your study plans for the rest of the week?
 - **`/shared-notes` PR**: Link to your PR with some tips, tricks or code examples that made a big difference for you.
 
-When you have posted your Wednesday Check-in please add the `week-x` label to your issue so we know it's ready for review.
+When you have posted your Wednesday Check-in please add the `check-in-x` label to your issue so we know it's ready for review.
 
 After reading your check-in, a coach or HYF team member will label it `checked-x`.
 

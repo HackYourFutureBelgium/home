@@ -1,6 +1,6 @@
 # Group Projects
 
-Each week there will be a group project. The goal of the projects is to get "the big picture". Learning how to work in teams, approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works! You'll be expected to ...
+Most week there will be a group project. The goal of the projects is to get "the big picture". Learning how to work in teams, approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works! You'll be expected to ...
 
 - [Group Issues](#group-issues)
 - [Project Expectations](#project-expectations)
