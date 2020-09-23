@@ -40,7 +40,7 @@ To help you, your classmates, and your coaches support each other through each m
 
 Feeling stuck? Move your issue into the _BLOCKED_ column so everyone knows you have a question!
 
-Want to see just your issues? Or just the week-1 issues? You can [filter cards in a project board](https://help.github.com/en/github/managing-your-work-on-github/filtering-cards-on-a-project-board) based on their _labels_, _milestones_, _assignees_ and more.
+Want to see just your issues? Or just the project-1 issues? You can [filter cards in a project board](https://help.github.com/en/github/managing-your-work-on-github/filtering-cards-on-a-project-board) based on their _labels_, _milestones_, _assignees_ and more.
 
 ---
 

@@ -36,7 +36,7 @@ There is a template issue to help you get started, but there is still a few thin
 
 Some weeks you will have individual projects, you will be expected to submit these for review by Friday of the week it was assigned.  You won't need to create a new issue for the individual projects, you can simply include the project checklist directly in your individual issue.
 
-At the end of the week when you are ready to submit please add the `week-x` label to your issue, this is how coaches will be able to find your issue in the repository.  After reviewing your project coaches will label your issue `week-x-reviewed`.
+At the end of the week when you are ready to submit please add the `project-x` label to your issue, this is how coaches will be able to find your issue in the repository.  After reviewing your project coaches will label your issue `project-x-reviewed`.
 
 [TOP](#individual-assignments)
 

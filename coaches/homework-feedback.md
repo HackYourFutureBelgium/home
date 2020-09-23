@@ -6,15 +6,15 @@ There will be two types of homework issues in the class repo:
 
 - **`individual`**: Each student will create one individual issue per module. They use the main body of this issue to track their progress through the _Suggest Study_ resources, the individual _Exercises_ and _Sunday Prep_ materials.
   - On weeks when there is an individual project, students will include the project checklist in their `individual` issue
-  - After finishing an individual project they will label their issue with `week-x`, you can filter by this label to review projects
-    - Once you've reviewed a student's project you can label it `week-x-reviewed` so other coaches know it is finished
+  - After finishing an individual project they will label their issue with `project-x`, you can filter by this label to review projects
+    - Once you've reviewed a student's project you can label it `project-x-reviewed` so other coaches know it is finished
   - Additionally, they'll post an update on their individual progress each Wednesday as a comment in this issue.
   - These issues won't be on the module project board.
   - You are not expected to give every student individual feedback on their exercises.
 - **`group`**: On weeks where there is a group project each study group will create a new issue, this issue is used to track their progress through the weekly group project.
   - Groups will post this issue on the module project board.
   - As coaches, you should divide the groups between yourselves so that each project gets a review at the end of the week.
-  - After reviewing a group's project, add the `week-x-reviewed` label to their issue
+  - After reviewing a group's project, add the `project-x-reviewed` label to their issue
 
 ---
 
