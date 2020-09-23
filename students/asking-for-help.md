@@ -25,7 +25,7 @@ When you're no longer stuck, give a shout-out to whoever helped you and move you
 
 When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
 
-To make this issue easier to find and sort, consider attaching a `week-x` label and a milestone.
+To make this issue easier to find and sort, consider attaching a `project-x` label and a milestone.
 
 ---
 
