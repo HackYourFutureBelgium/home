@@ -19,6 +19,8 @@ Your coaches will create a `roll-call` issue, before class starts each student w
 * Summarize your week using emojis.
 * Something you'd like to share, anything goes! (within respect)
 
+These issues will be used for attendance, your coaches will close the Roll Call issue when class begins.  Checking in after the issue is closed will count as coming late to class (unless you check with us before Sunday).
+
 ## All Together - Review & Today's Project
 
 ### Review

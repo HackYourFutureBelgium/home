@@ -24,7 +24,7 @@ You are expected to **do the coach prep work _before_ arriving**. This includes 
 ### Sunday Before Class
 
 - [ ] Look through all the `sunday-review` issues in the class repo to prep for the review session
-- [ ] Share the week's _Roll Call_ issue ~15 minutes before class
+- [ ] Share the week's _Roll Call_ issue ~30 minutes before class.  Close this issue when class begins, students commenting after the issue is closed will be counted as late.
 - [ ] Record your full-class sessions (review/isolate, integrate, homework launch)
 - [ ] Save enough time for small group study!
 - [ ] Lead a Standup meeting when your group meets for the Isolate exercises
