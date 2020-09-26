@@ -28,6 +28,8 @@ There is a template issue to help you get started, but there is still a few thin
   - `retrospective`: at the end of the module when you post your retro
 - __Milestone__: the module
 
+> [a video step through](https://www.youtube.com/watch?v=1Ll-5wYxg3A&feature=youtu.be) explaining how to create and use these issues
+
 [TOP](#individual-assignments)
 
 ---
