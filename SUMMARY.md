@@ -4,7 +4,7 @@
   1. [Precourse](./curriculum/precourse.md)
   1. [Working With Code - 1 wk](./curriculum/working-with-code.md)
   1. [Incremental Development - 3 wk](./curriculum/incremental-development.md)
-  1. [UX/UI Design - 1 wk](./curriculum/UX-UI-design.md)
+  1. [UX/UI Design - 1 wk](./curriculum/ux-ui-design.md)
   1. [Debugging - 3 wk](./curriculum/debugging.md)
   1. [Problem Solving - 3 wk](./curriculum/problem-solving.md)
   1. [Separation of Concerns - 2 wk](./curriculum/separation-of-concerns.md)
