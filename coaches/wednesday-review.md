@@ -24,7 +24,7 @@ Each Wednesday evening there is a review call. There's no set schedule or object
 
 ### Scheduling the Call
 
-The call generally takes place between 4pm and 6pm depending on your and the students' availability. You can coordinate a time on Slack using a simple poll-message pinned to the class channel. Slack has some clock emojis :clock: that can be helpful. As usual, feel free to change the template to match your schedule and your class:
+The call can take place any time of day depending on your and the students' availability. You can coordinate a time on Slack using a simple poll-message pinned to the class channel. Slack has some clock emojis :clock: that can be helpful. As usual, feel free to change the template to match your schedule and your class:
 
 ```md
 @channel
