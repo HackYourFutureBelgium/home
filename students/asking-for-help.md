@@ -15,17 +15,15 @@ There's a fine line between confidently learning from your mistakes, and stubbor
 
 Software developers have found many great ways to collaborate on shared code bases. These workflows are different from what you've probably used before, but are super helpful once you get the hang of it. We encourage you to ask and answer as many code-related questions as possible directly on GitHub so you can get used to the code-review process _before_ reaching the final project. The three main ways for you to discuss code on GitHub will be:
 
+### Labels: `help-wanted`
+
+When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
+
 ### Project Board: `BLOCKED`
 
 If you are stuck or confused about the week's project, move your group's card to the `BLOCKED` column and leave a comment in the issue describing what has you blocked. Include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. A coach, alumni, or classmate will be around soon to help you figure it out.
 
 When you're no longer stuck, give a shout-out to whoever helped you and move your issue out of the `BLOCKED` column.
-
-### Labels: `help-wanted`
-
-When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
-
-To make this issue easier to find and sort, consider attaching a `project-x` label and a milestone.
 
 ---
 
