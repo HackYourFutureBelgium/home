@@ -40,6 +40,9 @@ Some weeks you will have individual projects, you will be expected to submit the
 
 At the end of the week when you are ready to submit please add the `project-x` label to your issue, this is how coaches will be able to find your issue in the repository.  After reviewing your project coaches will label your issue `project-x-reviewed`.
 
+> Project boards are reserved for group projects, you will keep track of individual projects using labels and issue filters.  
+
+
 [TOP](#individual-assignments)
 
 ---
