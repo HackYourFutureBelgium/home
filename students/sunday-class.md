@@ -56,9 +56,8 @@ Some tips for studying code:
 
 A check-in from each group, keep it short and to the point!
 
-* How did you work as a group?
-* What went well with the exercises?
-* What was challenging in the exercises?
+* What was challenging for your group?
+* What is the most helpful thing you learned?
 
 Your coaches will also share a small poll on your slack channel to get an idea for you're each doing individually.
 
@@ -96,9 +95,8 @@ Be prepared, a coach might stop in at any time and ask you to teach them what yo
 
 A ~1 minute check-in from each group on what you've learned and struggled with in the class project.
 
-* How did you work as a group?
-* What went well with the exercises?
-* What was challenging in the exercises?
+* What was challenging for your group?
+* What is the most helpful thing you learned?
 
 Your coaches will also share a small poll on your slack channel to get an idea for you're each doing individually.
 

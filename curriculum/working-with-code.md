@@ -18,7 +18,7 @@ This module's main objective is to get you comfortable with the workflows of pro
 
 ## What you can build
 
-After finishing this module you'll be able to develop and manage simple blog-like web sites hosted on GitHub Pages ([something like this](https://hackyourfuture.be/homework-submission)).  These web sites won't thrill and amaze large audiences, but they will equip you with the foundational skills needed to build web pages with HTML & CSS.
+After finishing this module you'll be able to develop and manage simple blog-like web sites hosted on GitHub Pages ([something like this](https://hackyourfuturebelgium.github.io/class-11-12)).  These web sites won't thrill and amaze large audiences, but they will equip you with the foundational skills needed to build web pages with HTML & CSS.
 
 ## Tech Stack
 
