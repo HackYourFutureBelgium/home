@@ -52,6 +52,7 @@ friendly and motivating words
 :sleeping:  = Class may go faster
 :construction_worker: = enough theory, time for practice
 :fire: = This is awesome! if only class were longer ...
+:one:  = I could use a 1-1, with a coach or a classmate
 
 Anything else to add?  Leave a comment on this post!
 ```
