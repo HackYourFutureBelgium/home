@@ -17,7 +17,8 @@ Software developers have found many great ways to collaborate on shared code bas
 
 ### Labels: `help-wanted`
 
-When you are blocked on your individual homework assignments, you can add the label `help-wanted` and share your issue on the class Slack channel. As with the group issues, please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
+When you are blocked on your individual homework assignments, you can create an **i-need-help** issue and share it on the class Slack channel. Please include screen shots of your debugger, [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.  There is a template issue available with the sections you should fill in, the better you explain your problem the more we can help you.
+
 
 ### Project Board: `BLOCKED`
 
