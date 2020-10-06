@@ -59,6 +59,7 @@ Each planned step might include:
 
 1. The number and name of the step
 1. The user story for this step
+1. Acceptance criteria for this user story
 1. Which files of code need to be changed, and what changes need to be made
 1. Which branches will be used, and where they will be merged
 1. Who is assigned each task (if you are collaborating)
