@@ -59,6 +59,7 @@ Each planned step might include:
 
 1. The number and name of the step
 1. The user story for this step
+1. Acceptance criteria for this user story
 1. Which files of code need to be changed, and what changes need to be made
 1. Which branches will be used, and where they will be merged
 1. Who is assigned each task (if you are collaborating)
@@ -70,4 +71,4 @@ Each planned step might include:
 You will use development strategies for the first time in week 1 of the Incremental Development module.  Take a look at these first development strategies to get the main idea:
 
 1. [Team Branchies](https://github.com/hackyourfuturebelgium/team-branchies)
-1. [More Examples](https://github.com/HackYourFutureBelgium/incremental-development/tree/master/integrate)
+1. [From `incremental-development`](https://github.com/HackYourFutureBelgium/incremental-development/tree/master/development-strategies)

@@ -18,7 +18,7 @@ Each module you will create one `individual` issue using the template in your cl
 
 ## `individual` Issues
 
-There is a template issue to help you get started, but there is still a few things to get right! Here's your `individual` issue check-list:
+You will creat **one** individual issue for each module.  You will add one section to this issue for each week of the module. There is a template issue to help you get started, but there is still a few things to get right! Here's your `individual` issue check-list:
 
 - __Title__: Your Name, Module Name
 - __Assignee__: yourself
