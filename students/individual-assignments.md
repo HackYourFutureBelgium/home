@@ -92,7 +92,7 @@ Exercises will come in 3 general types as well:
 
 ### Wednesday Check-In
 
-While there are no strict deadlines for completing the Individual Study, you will be required to post a check-in each Wednesday as a comment in your `individual` issue.
+While there are no strict deadlines for completing the Individual Study, you will be required to post a [check-in each Wednesday](./wednesday-review) as a comment in your `individual` issue.
 
 These comments is how you will keep track of your progress learning the course content. Coaches, peers and HYF team will read your check-in to know how we can help support you.  Please include:
 
