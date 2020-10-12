@@ -28,7 +28,7 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 * Curriculum
 * [Study Guidebook](https://study.hackyourfuture.be/)
 * [Students](https://home.hackyourfuture.be/students)
-* Alumni
+* [Alumni](https://home.hackyourfuture.be/alumni)
 * Coaches
 * Mentors
 * Partners
