@@ -32,6 +32,7 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 * Coaches
 * Mentors
 * Partners
+* Bootcamp
 * Community Events
 * Core Values
 * Code of Conduct
