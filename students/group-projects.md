@@ -8,6 +8,8 @@ Most week there will be a group project. The goal of the projects is to get "the
 
 ## Group Issues
 
+> A [video step-through](https://youtu.be/EgfUy__qNnk) for creating a group issue
+
 Each study group will create one issue per week using a template issue on your repo. This issue is used to track your team's progress through the weekly group project. These issues will be posted on the module project board.
 
 - _Title_: Group Name, Module Name, Week X
