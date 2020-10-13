@@ -1,6 +1,6 @@
 # Group Projects
 
-Most week there will be a group project. The goal of the projects is to get "the big picture". Learning how to work in teams, approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works! You'll be expected to ...
+Most weeks there will be a group project. The goal of the projects is to get "the big picture". Learning how to work in teams, approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works! You'll be expected to ...
 
 - [Group Issues](#group-issues)
 - [Project Expectations](#project-expectations)
@@ -10,11 +10,11 @@ Most week there will be a group project. The goal of the projects is to get "the
 
 > A [video step-through](https://youtu.be/EgfUy__qNnk) for creating a group issue
 
-Each study group will create one issue per week using a template issue on your repo. This issue is used to track your team's progress through the weekly group project. These issues will be posted on the module project board.
+Each study group will create one issue per week using a template issue on your repo. This issue is used to track your team's progress through the weekly group project. These issues will be posted on the **module project board**.
 
 - _Title_: Group Name, Module Name, Week X
 - _Assignees_: all team members
-- _Labels_: `group`, `project-x` (both placed when the issue is created)
+- _Labels_: `group`, `project-x` (both placed when the issue is created)(x for the number of the week we're in)
 - _Milestone_: the current module
 - _Project Board_: the current module
 
@@ -35,9 +35,12 @@ There is a template issue your class repository to help you get started, you sho
 
 > Due Friday
 
-Your group projects are due by Friday to give your coaches time to review them before Sunday.  If your team wasn't able to finish the project, please leave a note in your group issue explaining what blocked your team, and how far you were able to make it. This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
+Your group projects are due **by Friday** to give your coaches time to review them before Sunday.
 
-What counts as a project submission?
+### Blocked?
+If your team wasn't able to finish the project, please leave a note in your group issue explaining what blocked your team, and how far you were able to make it. This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
+
+### What counts as a project submission?
 
 1. You have created a new issue with a clear and helpful title.
 2. The issue has a checklist with working links to each project requirement
@@ -49,7 +52,7 @@ What counts as a project submission?
     - What you have tried so far
     - What you will try next
 
-If your coach finds something is incomplete or your project has some has some problems, they will move your card to "NEEDS REVISION". This still counts as an on-time homework submission! Your group can address the feedback in the coming week.
+If your coach finds something is incomplete or your project has some problems, they will move your card to "NEEDS REVISION". This still counts as an on-time homework submission! Your group can address the feedback in the coming week.
 
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
 

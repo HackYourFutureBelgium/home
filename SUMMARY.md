@@ -33,6 +33,7 @@
   - [Homework Feedback](./coaches/homework-feedback.md)
   - [Teacher Curriculum](https://teach.hackyourfuture.be/)
 - [Alumni](./alumni/README.md)
+  - [Bootcamp](./alumni/bootcamp.md)
 - [Mentors](./mentors/README.md)
   - [Mentor/Mentee Journey](./mentors/mentor-mentee-journey.md)
   - [Mentoring Roles](./mentors/mentoring-roles.md)
