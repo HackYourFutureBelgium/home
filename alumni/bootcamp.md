@@ -4,15 +4,21 @@ The **Open Innovation Bootcamp** is a 1-month intensive aiming to get newly arri
 
 In a nutshell: 
   *4-week intensive bootcamp for refugees
+  
   *Coaching given by IT-experts
+  
   *Open source projects with a positive impact
+  
   *Career starter in the Belgian IT industry
 
 ## **What are the goals of the Open Innovation Bootcamp?*
 
 *:computer: Put the technical skills into practice while working on an open source project
+
 *:handshake: Learn to collaborate and work in teams 
+
 *:brain: Learn to scope a project and hold client meetings
+
 *:woman_technologist: Be the bridge between a technical 8-month training at HackYourFuture Belgium and the local labour market
 
 # Calendar (Remote edition)
