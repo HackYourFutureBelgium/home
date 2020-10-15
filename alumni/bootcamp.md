@@ -76,9 +76,21 @@ This is how we do it, keep reading!
 
 ### When working online (remote edition)
 
-    1. We work 8 hours per day, from 9am until 5pm 
+    1. Schedule: we work 8 hours per day, from 9am until 5pm 
     
-    2. We expect you to be connected and responsive on slack all day. 
+    2. Be responsive: we expect you to be connected and responsive on slack all day. 
+    
+    3. Be vocal: we can't see or hear each other all the time (which is the case in a live setting). So nobody will know when you're in doubt, or in need of help –  if you do not speak up.
+    
+    4. Working Out Loud: Keep your teammates up-to-date on what you're doing. Update your tasks in your project management tool (trello, kanban, github, ...), hang out in the voice chats, perform daily standups, ... Whatever works for the team, just make sure you know what your teammates are doing and how they are doing!
+    
+    5. Ask for help: Don't stay stuck in a loop for longer than 20 minutes. There's plenty of ways to ask for help, don't be afraid to ask for it!
+    
+    6. Work-life balance: Working can be a lot of fun, and the team dynamics are exhilarating. However, it is important to spend some time away from your screen; to reflect, recharge and give your brain some time to deal with the information throw at you every day. Make your desk your work-environment. Keep it neat, so you can focus on what you do best; creating kick-ass projects. Eat somewhere else if you can, even if it's only half a meter away (we do not all have the luxury of different rooms, but if you can, go to a different room!). You can definitely take walks, and let in some fresh air in your office too
+    
+  7. Take regular breaks: you don't have to be online, constantly chatting with your team, 24/7. It's fine to disconnect, it's encouraged and healthy.
+  
+  8: Take ownership: Take ownership, stand up! This project and its outcome is yours 🔥 The team gets to make decisions, and we expect you to take initiative. Coaches are here to protect/help you when situations gets hard, and to make sure you don't steer into an iceberg; but you are in charge as a student.
     
 ### Your work 
 
@@ -119,7 +131,7 @@ Each bootcamp will inlcude different workshops that will help you build your pro
    6. ... 
    
    Feel free to request other workshops!
-
+   
 # Code of Conduct 
 
 As part of the HackYourFuture Community, everyone involved in the Bootcamp pledges to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
