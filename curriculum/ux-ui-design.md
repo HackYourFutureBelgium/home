@@ -1,4 +1,4 @@
-# UX/UI design
+# UX/UI Design - 1 wk
 
 > 1 week, [module repository](https://github.com/hackyourfuturebelgium/ux-ui-design)
 
@@ -14,8 +14,9 @@ After completing this module, you'll be able to design solutions that solve user
 
 ## Tech Stack
 
-We will cover the following topics: User needs, Information architecture (IA), User flows, Navigation and menus, Sitemaps, Wireframes, UI design principles, Gestalt, Accessibility, Figma software, UX guidelines, Usability, Form design patterns, and Design systems.
+We will cover the following topics: User needs, Information architecture \(IA\), User flows, Navigation and menus, Sitemaps, Wireframes, UI design principles, Gestalt, Accessibility, Figma software, UX guidelines, Usability, Form design patterns, and Design systems.
 
 ## New Frontiers
 
-What happens next? You will be able to share the same language as designers, apply design principles to your front end code, and even become a designer yourself! It is time to build better and intuitive digital products!  Get ready to add some user interactions in ...
+What happens next? You will be able to share the same language as designers, apply design principles to your front end code, and even become a designer yourself! It is time to build better and intuitive digital products! Get ready to add some user interactions in ...
+

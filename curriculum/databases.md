@@ -1,3 +1,5 @@
+# Databases - 2 wk
+
 ## Databases
 
 > 2 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/databases/)
@@ -11,7 +13,7 @@ introduction
 
 ## What you can Build
 
-By the end of this module you will know how to build a fullstack (client/server) app using SQLite & Express in the backend, and vanilla JS in the frontend.
+By the end of this module you will know how to build a fullstack \(client/server\) app using SQLite & Express in the backend, and vanilla JS in the frontend.
 
 By using SQL to model and access your application's data instead of reading & writing directly to the file system, you will be able to build more robust applications with less effort.
 
@@ -23,6 +25,5 @@ What's new in this module?
 
 ## New Frontiers
 
-Now that you can write a substantial fullstack application, it's time to leave `document.something()` behind you.   You've spent several months learning to design your projects from scratch, you're ready to appreciate the smooth developer experience provided by ...
-
+Now that you can write a substantial fullstack application, it's time to leave `document.something()` behind you. You've spent several months learning to design your projects from scratch, you're ready to appreciate the smooth developer experience provided by ...
 

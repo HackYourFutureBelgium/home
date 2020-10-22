@@ -1,4 +1,4 @@
-# Mentors Guidebook
+# Mentors
 
 Welcome HackYourFuture Mentor!
 
@@ -8,7 +8,7 @@ Because you can **make the difference** for our students and graduates, as the o
 
 To be a good mentor, you also need guidance, as our students do.  
 That's why this Mentors Gudebook is here!  
-You can find all infos you'll need to become a great HackYourFuture Mentor __here!
+You can find all infos you'll need to become a great HackYourFuture Mentor \_\_here!
 
 ## What do we stand for at HackYourFuture?
 
@@ -32,8 +32,5 @@ Please tell us and we'll add it, or we can even co-write new materials.
 
 Because this is a work-in-progress, under the motto: _"If You're Not Embarrassed When You Ship Your First Version, You Waited Too Long."_
 
-[https://media.giphy.com/media/6ySFKd72MyV4Q/200w\_d.gif](https://media.giphy.com/media/6ySFKd72MyV4Q/200w_d.gif)  
-
-
-
+[https://media.giphy.com/media/6ySFKd72MyV4Q/200w\_d.gif](https://media.giphy.com/media/6ySFKd72MyV4Q/200w_d.gif)
 

@@ -1,11 +1,11 @@
-# Debugging
+# Debugging - 3 wk
 
 > 3 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/debugging/)
 
-Enter: JavaScript!  Up till now, your web pages didn't really _do_ anything (except be beautiful :). In this module you will focus on two layers of understanding JavaScript:
+Enter: JavaScript! Up till now, your web pages didn't really _do_ anything \(except be beautiful :\). In this module you will focus on two layers of understanding JavaScript:
 
-1. **Source Code**: Learn the syntax (grammar) and key words (vocabulary) of the JavaScript language.
-1. **Machine Instructions**: Understand how the JavaScript interprets your source code to create a running program.
+1. **Source Code**: Learn the syntax \(grammar\) and key words \(vocabulary\) of the JavaScript language.
+2. **Machine Instructions**: Understand how the JavaScript interprets your source code to create a running program.
 
 ## Pains & Gains
 

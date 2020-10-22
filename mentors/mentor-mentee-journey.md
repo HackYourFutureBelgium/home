@@ -9,7 +9,7 @@ The ideal HackYourFuture Dream Mentorship Journey looks like this:
 5. \[Mock Interview\]
 6. \[Closing of the Journey\]
 
-### 1. Intake session
+## 1. Intake session
 
 * Purpose and duration of the intake session
 * Clarification of what the HYF mentorship journey is about
@@ -24,7 +24,7 @@ The ideal HackYourFuture Dream Mentorship Journey looks like this:
 * Priorities to work on
 * Confirmation of next session – date/time
 
-### 2. Update CV and LinkedIn profile
+## 2. Update CV and LinkedIn profile
 
 Some criteria former mentors used:
 
@@ -32,10 +32,10 @@ Some criteria former mentors used:
 * It should have a link to the company they worked for \(website,  etc.\), size of the company and market or sector. This way it looks way more professional \(it is very '_Linkedin-able_'\)
 * There should be a summary explaining who the person is and what she/he aspires to be.
 
-### 3. Write Motivational letter
+## 3. Write Motivational letter
 
-**The structure of a Motivation letter:**  
-  
+**The structure of a Motivation letter:**
+
 **Introduction:** A short, engaging pitch about yourself and why you are applying. Here, you can include:
 
 * Personal information. Who are you and what do you do?
@@ -54,7 +54,7 @@ Try to be as factual as possible. When possible, you can also use metrics to bac
 
 **How to assess the motivational letter?**
 
-### 4. Mock Interview
+## 4. Mock Interview
 
 **What should you assess?**
 
@@ -64,23 +64,23 @@ Try to be as factual as possible. When possible, you can also use metrics to bac
 * Check skills and understanding of **Scrum**. It's a must have these days.
 * Check what they do about **conflict in the workplace**, how they try to solve it.
 
- **Some classical interview questions, to prepare for a mock interview:**
+  **Some classical interview questions, to prepare for a mock interview:**
 
-1. Tell me something about yourself
-2. Why would you be a good fit for company X?
-3. Why do you think you would be a good developer?
-4. What are your goals for the next 5 years?
-5. Are you a team player or do you prefer to work by yourself. Why?
-6. What are your biggest accomplishments professionally/otherwise?
-7. How do you deal with pressure or stressful situations?
-8. What is your greatest weakness?
-9. How does a perfect day on the job look like for you?
-10. Do you have any questions?
+* Tell me something about yourself
+* Why would you be a good fit for company X?
+* Why do you think you would be a good developer?
+* What are your goals for the next 5 years?
+* Are you a team player or do you prefer to work by yourself. Why?
+* What are your biggest accomplishments professionally/otherwise?
+* How do you deal with pressure or stressful situations?
+* What is your greatest weakness?
+* How does a perfect day on the job look like for you?
+* Do you have any questions?
 
-### 5. Closure of the Journey
+## 5. Closure of the Journey
 
-_'Mentoring never stops'_, said one of our mentors lately.  
-  
+_'Mentoring never stops'_, said one of our mentors lately.
+
 However, we believe it is important to close the mentorship journey.  
 It is good to take some time to:
 
@@ -91,8 +91,5 @@ It is good to take some time to:
 
 That said, of course we would appreciate immensely if you keep in touch with your mentee and the HackYourFuture community in general.
 
-Because, it is thanks to volunteers like you that our graduates kick-start their career in Belgium.  
-
-
-
+Because, it is thanks to volunteers like you that our graduates kick-start their career in Belgium.
 
