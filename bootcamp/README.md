@@ -24,5 +24,5 @@ The **Open Innovation Bootcamp** is a 1-month intensive aiming to get newly arri
 
 **Have a look at the calendar on the following page to find out more information!**
 
-![A group of student during a bootcamp \(July 2020\)](../../.gitbook/assets/bootcamp.png)
+![A group of student during a bootcamp \(July 2020\)](../.gitbook/assets/bootcamp.png)
 

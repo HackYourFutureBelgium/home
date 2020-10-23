@@ -2,7 +2,7 @@
 description: What is expected from a coach during the bootcamp?
 ---
 
-# Coaching the bootcamp
+# For coaches
 
 ## What will I be doing?
 
