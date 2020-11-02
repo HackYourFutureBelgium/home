@@ -1,2 +1,2 @@
-# For organizers
+# For organizers \(DIY\)
 

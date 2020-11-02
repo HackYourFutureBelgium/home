@@ -122,21 +122,22 @@ Class 9 & 10 started their learning fully online in May 2020. After 5 weeks, we'
 
 Class 11 & 12 started their learning fully online in September 2020. After 5 weeks, we've done a co-creative session on the HYF core values. The result is this **HackYourFuture Manifesto**:
 
-- [x] Never give up, have fun, help others
-- [x] Tolerance
-- [x] Diversity
-- [x] Creativity
-- [x] Respect
-- [x] Collaboration
-- [x] Communication
-- [x] Proactivity
-- [x] Sharing is caring
-- [x] Create opportunities
-- [x] Discipline and working hard
-- [x] HYF Community represented by commitment and study
-- [x] Understand and improve our knowledge and our selves
-- [x] Great help and respect from all coaches and colleagues
-- [x] Learn to work in groups to improve our knowledge and skills
-- [x] Motivation and coaches feedback
+* [x] Never give up, have fun, help others
+* [x] Tolerance
+* [x] Diversity
+* [x] Creativity
+* [x] Respect
+* [x] Collaboration
+* [x] Communication
+* [x] Proactivity
+* [x] Sharing is caring
+* [x] Create opportunities
+* [x] Discipline and working hard
+* [x] HYF Community represented by commitment and study
+* [x] Understand and improve our knowledge and our selves
+* [x] Great help and respect from all coaches and colleagues
+* [x] Learn to work in groups to improve our knowledge and skills
+* [x] Motivation and coaches feedback
 
 > "The volunteer work of coaches is a great value and we learn from them to share our knowledge and help others to live better."
+
