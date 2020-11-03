@@ -1,8 +1,4 @@
-# Agile Development - 6 wk
-
-## Agile Development
-
-> 6 weeks
+# Agile Development - 5 wk
 
 **Pains & Gains**
 
