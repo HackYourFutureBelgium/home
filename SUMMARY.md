@@ -15,7 +15,7 @@
   * [Web Apps - 4 wk](curriculum/web-apps.md)
   * [Databases - 2 wk](curriculum/databases.md)
   * [Frontend Frameworks - 2 wk](curriculum/frontend-frameworks.md)
-  * [Agile Development - 6 wk](curriculum/agile-development.md)
+  * [Agile Development - 5 wk](curriculum/agile-development.md)
 * [Study Guidebook](https://study.hackyourfuture.be)
 * [Students](students/README.md)
   * [Sunday Class](students/sunday-class.md)
