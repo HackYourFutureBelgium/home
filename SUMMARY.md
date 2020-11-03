@@ -40,6 +40,7 @@
     * [Code of Conduct](bootcamp/welcome/code-of-conduct.md)
   * [For students](bootcamp/for-students/README.md)
     * [The Bootcamp Way of Working](bootcamp/for-students/the-bootcamp-way-of-working.md)
+    * [Client meetings](bootcamp/for-students/client-meetings.md)
     * [Useful Tutorials](bootcamp/for-students/useful-tutorials.md)
     * [Train ticket refund](bootcamp/for-students/train-ticket-refund.md)
   * [For coaches](bootcamp/coaching-the-bootcamp/README.md)
