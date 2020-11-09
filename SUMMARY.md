@@ -7,7 +7,7 @@
   * [Incremental Development - 3 wk](curriculum/incremental-development.md)
   * [UX/UI Design - 1 wk](curriculum/ux-ui-design.md)
   * [Debugging - 3 wk](curriculum/debugging.md)
-  * [Problem Solving - 3 wk](curriculum/problem-solving.md)
+  * [Behavior, Strategy, Implementation - 3 wk](curriculum/behavior-strategy-implementation.md)
   * [Separation of Concerns - 2 wk](curriculum/separation-of-concerns.md)
   * [State - 2 wk](curriculum/state.md)
   * [Encapsulation - 3 wk](curriculum/encapsulation.md)

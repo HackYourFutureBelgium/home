@@ -1,8 +1,8 @@
-# Problem Solving - 3 wk
+# Behavior, Strategy, Implementation - 3 wk
 
-> 3 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/problem-solving/)
+> 3 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/)
 
-Stepping through and understanding your code's execution is interesting, but nearly as fun as solving a good puzzle. You will learn a structured process for confidently solving coding challenges. This will include reading and writing tests for confidence and communication.
+Stepping through and understanding your code's execution is interesting, but nearly as fun as solving a good puzzle. You will learn a structured process for confidently solving coding challenges. This will include reading and writing documentation & tests.
 
 ## Pains & Gains
 
