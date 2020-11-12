@@ -1,6 +1,6 @@
 # Individual Assignments
 
-Each module you will create one `individual` issue using the template in your class repo. You will use this issue to track your progress through the _Suggested Study_ resources, the _Sunday Prep_ materials, and individual _Exercises_. You will write your _Wednesday Check-Ins_ in this issue, and a _retrospective_ at the end of each module. `individual` issues won't be placed on the module project board.
+Each module you will create one `individual` issue using the template in your class repo. You will use this issue to track your progress through the _Suggested Study_ resources, the _Sunday Prep_ materials, and individual _Exercises_. You will write your _Wednesday Check-Ins_ in this issue. `individual` issues won't be placed on the module project board.
 
 * [`individual` Issues](individual-assignments.md#individual-issues)
 * [Individual Projects](individual-assignments.md#individual-projects)
@@ -10,7 +10,6 @@ Each module you will create one `individual` issue using the template in your cl
   * [Exercises](individual-assignments.md#exercises)
 * [Follow-Up](individual-assignments.md#follow-up)
   * [Wednesday Check-In](individual-assignments.md#wednesday-check-in)
-  * [Retrospective](individual-assignments.md#retrospective)
 * [Extra Support](individual-assignments.md#extra-support)
 
 ## `individual` Issues
@@ -22,7 +21,6 @@ You will creat **one** individual issue for each module. You will add one sectio
 * **Labels**:
   * `individual`: added when the issue is created
   * `check-in-x`: one per week, each Wednesday when you post your check-in
-  * `retrospective`: at the end of the module when you post your retro
 * **Milestone**: the module
 
 > [a video step through](https://www.youtube.com/watch?v=1Ll-5wYxg3A&feature=youtu.be) explaining how to create and use these issues
@@ -104,16 +102,3 @@ After reading your check-in, a coach or HYF team member will label it `checked-x
 If feel that you need extra support, let us know on Slack or with your Wednesday Check-in. We'll get in touch and together find a solution to help you move forward. This might include individual support from a coach, pairing you with a study-buddy, or helping to find study resources that better fit your needs.
 
 [TOP](individual-assignments.md#individual-assignments)
-
-### Retrospective
-
-At the end of each module, you will be asked to post a _retrospective_ in your issue summarizing how the module went for you. The retrospective should be less technical and more personal than the Wednesday Check-ins. You will be reflecting on such things as -&gt; how you handled study/life balance, how well you worked with your team-mates, new study methods you tried, and anything else you think was important. Please include:
-
-* **What went well**: A summary of your positive experiences in this module
-* **What went less well**: A summary of your negative experiences in this module
-* **What to do differently next module**: Plans for approaching the next module differently than last this one.
-* **Shout-Out**: Give a shout-out to  someone how helped you through this module.  Tag them so they know they made a difference!
-* **Reflections**: Anything else you'd like to add?
-
-[TOP](individual-assignments.md#individual-assignments)
-
