@@ -7,7 +7,7 @@ Welcome HackYourFuture Mentor!
 Because you can **make the difference** for our students and graduates, as the ones helping them **find their very first job** in the Belgian IT sector.
 
 To be a good mentor, you also need guidance, as our students do.  
-That's why this Mentors Gudebook is here!  
+That's why this Mentors Guidebook is here!  
 You can find all infos you'll need to become a great HackYourFuture Mentor \_\_here!
 
 ## What do we stand for at HackYourFuture?
