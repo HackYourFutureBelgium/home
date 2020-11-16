@@ -21,16 +21,15 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 
 ## Index
 
-* Curriculum
+* [Introduction](https://home.hackyourfuture.be)
+* [Curriculum](https://home.hackyourfuture.be/curriculum)
 * [Study Guidebook](https://study.hackyourfuture.be/)
 * [Students](https://home.hackyourfuture.be/students)
+* [Coaches](https://home.hackyourfuture.be/coaches)
 * [Alumni](https://home.hackyourfuture.be/alumni)
-* Coaches
-* Mentors
-* Partners
-* Community Events
-* Core Values
-* Code of Conduct
-* Contributing
+* [Bootcamp](https://home.hackyourfuture.be/bootcamp)
+* [Mentors](https://home.hackyourfuture.be/mentors)
 * [DIY HYF Guide](https://diy.hackyourfuture.be/)
-
+* [Core Values](https://home.hackyourfuture.be/core-values)
+* [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct)
+* [Contributing](https://home.hackyourfuture.be/contributing)
