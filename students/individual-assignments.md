@@ -102,3 +102,4 @@ After reading your check-in, a coach or HYF team member will label it `checked-x
 If feel that you need extra support, let us know on Slack or with your Wednesday Check-in. We'll get in touch and together find a solution to help you move forward. This might include individual support from a coach, pairing you with a study-buddy, or helping to find study resources that better fit your needs.
 
 [TOP](individual-assignments.md#individual-assignments)
+

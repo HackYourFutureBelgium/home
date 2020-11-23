@@ -33,3 +33,4 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 * [Core Values](https://home.hackyourfuture.be/core-values)
 * [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct)
 * [Contributing](https://home.hackyourfuture.be/contributing)
+

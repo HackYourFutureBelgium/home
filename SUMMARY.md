@@ -42,7 +42,7 @@
     * [The Bootcamp Way of Working](bootcamp/for-students/the-bootcamp-way-of-working.md)
     * [Client meetings](bootcamp/for-students/client-meetings.md)
     * [Useful Tutorials](bootcamp/for-students/useful-tutorials.md)
-    * [Train ticket refund](bootcamp/for-students/train-ticket-refund.md)
+    * [Demo Day Preparation](bootcamp/for-students/train-ticket-refund.md)
   * [For coaches](bootcamp/coaching-the-bootcamp/README.md)
     * [1: Get to know your team](bootcamp/coaching-the-bootcamp/1-get-to-know-your-team.md)
     * [2: Process and partner meeting](bootcamp/coaching-the-bootcamp/2-process-and-partner-meeting.md)
