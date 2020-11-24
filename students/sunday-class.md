@@ -33,17 +33,19 @@ The best way for you to help your coaches lead a helpful review session is to **
 
 But also ask new questions in person on Sunday! This is the time to clear up any questions you forgot to ask with an Issue in your class repo, or on Slack.
 
-#### Today's Objectives
+#### New Material - before break
 
 Your coaches will give a short introduction to this Sunday's exercises and project. They will help you understand _why_ the new material is important and _how_ you will use it in the Sunday class project. Because you are expected to have studied the prep work and theory before Sunday, the coaches will spend this time stepping through some practical examples instead of explaining the basics.
 
-### Small Groups - Isolate
+### Small Groups - before break
 
-Break into your small groups and get started on this Sundays' exercises. Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
+Form small groups based on your comfort with the new material and get started on this Sundays' exercises:
 
-#### The Exercises
+- 🥚 `:egg:` - Join this group if you would like to step through the examples a few more times before moving on to the exercises .
+- 🐣 `:hatching_chick:` - Join this group if you're eager to dive right into the exercises.
+- 🐥 `:hatched_chick:` - Did started the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic?  🐥 is the group for you!
 
-Each module repository has a directory called `/isolate`. In there you will find all of the exercises and example snippets for the module. The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.
+The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.  Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
 
 Some tips for studying code:
 
@@ -67,7 +69,7 @@ Your coaches will also share a small poll on your Slack channel to get an idea o
 
 Peace and crackers!
 
-### All Together - Project Prep
+### All Together - after break
 
 Your coaches will review the exercises that caused you all the most trouble and introduce the Sunday's project. This might include:
 
@@ -77,9 +79,9 @@ Your coaches will review the exercises that caused you all the most trouble and 
 * Stepping through the project starter code
 * Sharing some debugging tips that will come in handy
 
-### Small Groups - Integrate
+### Small Groups - after break
 
-Break into your small groups and begin working on the day's `/integrate` projects \(after studying the examples ;\)\)! Some tips for working on the projects:
+Break into your small groups again and begin working on the exercises planned for after break. Some tips for working on the projects:
 
 * Pair programming!
 * Take turns explaining how the examples work

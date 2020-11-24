@@ -57,7 +57,13 @@ Anything else to add?  Leave a comment on this post!
 
 ### Small Group Sessions
 
-While students are studying the Isolate and Integrate exercises in small groups, you as coaches will be on standby waiting for questions on Slack. If there are very few questions you can go between group calls asking the students to teach you what they are working on.
+Break the class into a few small groups based on their comfort-level with the new material. This is how the groups are defined in the student guidebook, but feel free to create more or less groups depending on your class' needs:
+
+- 🥚 `:egg:` - Join this group if you would like to step through the examples a few more times before moving on to the exercises .
+- 🐣 `:hatching_chick:` - Join this group if you're eager to dive right into the exercises.
+- 🐥 `:hatched_chick:` - Did started the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic?  🐥 is the group for you!
+
+While students are studying the  exercises in small groups, you as coaches will be on standby waiting for questions on Slack and in their breakout rooms. If there are very few questions you can go between group calls asking the students to teach you what they are working on.
 
 It's also helpful to meet once with each group \(before or after break\) to do a week retrospective. Make sure each student gets a chance to speak without interruption.
 
