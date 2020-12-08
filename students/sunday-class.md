@@ -41,11 +41,11 @@ Your coaches will give a short introduction to this Sunday's exercises and proje
 
 Form small groups based on your comfort with the new material and get started on this Sundays' exercises:
 
-- 🥚 `:egg:` - Join this group if you would like to step through the examples a few more times before moving on to the exercises .
-- 🐣 `:hatching_chick:` - Join this group if you're eager to dive right into the exercises.
-- 🐥 `:hatched_chick:` - Did started the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic?  🐥 is the group for you!
+* 🥚 `:egg:` - Join this group if you would like to step through the examples a few more times before moving on to the exercises .
+* 🐣 `:hatching_chick:` - Join this group if you're eager to dive right into the exercises.
+* 🐥 `:hatched_chick:` - Did started the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic?  🐥 is the group for you!
 
-The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday.  Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
+The **Sunday Lesson Plan & README** will list the exercises/examples to focus on that Sunday. Be prepared, a coach might stop in at any time and ask you to teach them what you're working on!
 
 Some tips for studying code:
 

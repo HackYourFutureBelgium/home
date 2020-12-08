@@ -32,7 +32,7 @@ For more details on the homework submission process, [follow this link](https://
 Our curriculum is broken up into modules of 2-5 weeks, most are 3 weeks long. Each of the modules introduces a new principle of software development, building on the last module to give you a 360 view what it takes to become a developer your team-mates can rely on.
 
 1. [Precourse](precourse.md)
-2. [Working With Code](working-with-code.md)
+2. [Working With Code]()
 3. [Incremental Development](incremental-development.md)
 4. [UX/UI design](ux-ui-design.md)
 5. [Debugging](debugging.md)
