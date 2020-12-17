@@ -69,5 +69,5 @@ It's also helpful to meet once with each group \(before or after break\) to do a
 
 ## Class Schedule:
 
-> See [students/sunday-class](../students/sunday-class.md) for a detailed class schedule
+> See [students/sunday-class](../students/sunday-class/) for a detailed class schedule
 

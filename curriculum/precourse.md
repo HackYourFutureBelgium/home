@@ -44,7 +44,7 @@ Our [Github organization](https://github.com/HackYourFutureBelgium/) contains al
 Read through these pages to know what's coming your way:
 
 * [the Curriculum Home Page](./)
-* [how Sunday Classes work](../students/sunday-class.md)
+* [how Sunday Classes work](../students/sunday-class/)
 * [Group Projects](../students/group-projects.md)
 * [Individual Assignments](../students/individual-assignments.md)
 
