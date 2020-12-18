@@ -55,7 +55,7 @@
   * [Legal issues on jobseeking](mentors/legal-issues-on-jobseeking.md)
   * [Refugee & Migrant Communities](mentors/refugee-communities.md)
   * [Info for Asylum Seekers in Belgium](mentors/asylum-seekers.md)
-* [DYI HYF](https://diy.hackyourfuture.be)
+* [DIY HYF](https://diy.hackyourfuture.be)
 * [Core Values](core-values.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Contributing](contributing.md)
