@@ -75,7 +75,7 @@ Try to be as factual as possible. When possible, you can also use metrics to bac
 * How do you deal with pressure or stressful situations?
 * What is your greatest weakness?
 * How does a perfect day on the job look like for you?
-* Do you have any questions?
+* Do you have any questions?  Here is a nice example of a [Mock Interview](https://youtu.be/ZV373VaS4UM).
 
 ## 5. Closure of the Journey
 
