@@ -1,5 +1,11 @@
 # Class Repos
 
+Have you started your own HYF? send us a PR with a short intro and links to your class repos!
+
+## HYF Belgium
+
+The [Belgium Chapter](https://hackyourfuture.be/), based in Brussels.
+
 - [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
 - [Class 11 & 12](https://github.com/hackyourfuturebelgium/class-11-12)
 - [Class 9 & 10](https://hackyourfuturebelgium.github.io/class-9-10)
