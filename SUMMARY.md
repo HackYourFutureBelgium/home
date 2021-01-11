@@ -31,7 +31,6 @@
     - [Learning from Code](students/study-tips/learning-from-code.md)
     - [Pair Programming](students/study-tips/pair-programming.md)
   - [Collaboration vs. Cheating](students/collaboration-vs-cheating.md)
-  - [Development Strategy](students/development-strategy.md)
   - [GitHub Cheat Sheet](students/github-cheat-sheet.md)
 - [Coaches](coaches/README.md)
   - [Coaching Roles](coaches/coaching-roles.md)
