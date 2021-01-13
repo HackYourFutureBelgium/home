@@ -37,7 +37,7 @@
   - [Sunday Class](coaches/sunday-class.md)
   - [Wednesday Review](coaches/wednesday-review.md)
   - [Homework Feedback](coaches/homework-feedback.md)
-  - [Teacher Curriculum](https://teach.hackyourfuture.be/)
+  - [About Teaching Code](coaches/about-teaching-code.md)
 - [Alumni](alumni.md)
 - [Bootcamp](bootcamp/README.md)
   - [Welcome!](bootcamp/welcome/README.md)
