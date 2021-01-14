@@ -1,0 +1,62 @@
+Python masterclass
+
+Domains:
+* Web
+* Scripts/CLI-tools
+* Data Science
+
+Python strong and weak points:
+* + Ecosystem
+* + Low learning curve
+* + Community and resources
+* + Popularity, job opportunities
+* - Tooling, packaging
+* - Lack of static typing, complexity of building large systems with it.
+
+Installation, setup and tools (I hope I can omit Windows:D):
+* Virtualenv
+* pyenv
+* PyCharm/VSCode/Vim/Emacs
+* PyPI
+* pip
+* ipython
+* Jupyter
+
+Introduction into Python:
+* Syntax
+    * Indentation-driven, tabs-vs-whitespaces
+    * Control flow, loops, ranges
+    * Imports, functions, if __name__ == '__main__'
+    * Classes, methods, self, __init__
+    * Error handling, exceptions
+    * Magic methods, few examples
+    * Higher-order functions, decorators, functools
+    * Context managers
+* Collections
+    * List, tuple, dict, set
+    * Collections module, defaultdict, namedtuple
+    * Iterators, generators, itertools
+* Working with files, paths, sys, os, open
+* Logging
+* Configuration
+    * argparse
+    * Environment variables, .env
+* (De)serialisation, csv, json, pickle
+* Debugging, ipdb
+
+--- Mention resources for:
+* Profiling
+* Interacting with OS
+* Handling signals
+* Packaging, setup.py
+* Advanced
+    * Descriptors
+    * Metaclasses
+    * Native libs, ctypes, cython
+    *
+
+Web - here I would need to spend more time to prepare:
+* flask
+* sqlite, psycopg2, sqlalchemy
+* jinja2
+* Docker?
