@@ -20,6 +20,7 @@ Pay special attention to:
 **About Learning to Code**
 
 - [Learn to Program in 21 Days](https://landing.athabascau.ca/bookmarks/view/2852968/the-easiest-way-to-teach-yourself-c-in-21-days)
+- [The First 20 Hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
 - [Effective Learning](https://github.com/hackyourfuturebelgium/effective-learning)
 - [How to increase focus and productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
 - [The WORST Study Habit for Software Developers](https://www.youtube.com/watch?v=rfVd-r79OL4)
