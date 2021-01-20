@@ -6,7 +6,7 @@ The goal of a master class isn't to master the new material (misleading name, I 
 
 Like with the core HYF curriculum, these masterclasses will be attended by students with very different levels. HYF alumni will have all completed a collaborative fullstack node/react/DB web app but each will have their own strengths and weak points. And some may have gone a while without coding since graduation.
 
-A master class should include:
+### A master class should include:
 
 - **Study Path**: A clear starting point, destination, and intermediate steps for students to guide their self-study. An effective way to structure these study paths is as a series of projects or tutorials to completed in order. You can suggest which references will be most helpful at each stage, and can suggest how far a student should be to get the most out of each workshop.
 - **References**: A collection of suggested resources for students to use. These might be full text books, or collections of good articles on important topics. References can be organized more by topic rather than in sequence. Students can always check back to review a topic no matter where they are in the study path.
@@ -14,4 +14,4 @@ A master class should include:
 
 ---
 
-Do you want to contribute a master class? Fork this repo, copy the [starter-template](./starter-template) and fill it out! Partial master classes are more than welcome, once the seed is planted then others can contribute.
+Do you want to contribute to a master class? Fork this repo, copy the [starter-template](./starter-template) and fill it out! Partial master classes are more than welcome, once the seed is planted then others can contribute.
