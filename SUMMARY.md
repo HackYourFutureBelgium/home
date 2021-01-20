@@ -4,7 +4,7 @@
 - [Curriculum](curriculum/README.md)
   - [Precourse](curriculum/precourse.md)
   - [Incremental Development - 3 wk](curriculum/incremental-development.md)
-  - [UX/UI Design - 1 wk](curriculum/ux-ui-design.md)
+  - [UX/UI Design - 2 wk](curriculum/ux-ui-design.md)
   - [Welcome to JS - 2 wk](curriculum/welcome-to-js.md)
   - [Debugging - 4 wk](curriculum/debugging.md)
   - [Behavior, Strategy, Implementation - 3 wk](curriculum/behavior-strategy-implementation.md)
