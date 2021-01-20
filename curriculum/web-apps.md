@@ -1,4 +1,4 @@
-# Web Apps - 4 wk
+# Web Apps - 5 wk
 
 > 4 weeks. Module repository is [right here](https://github.com/HackYourFutureBelgium/web-apps/)
 
@@ -8,9 +8,9 @@ In this module you will learn how to develop applications that follow the _clien
 
 ## Pains & Gains
 
-* The "Big Picture" will come together.  After months of focusing in on just one half of web apps \(the client\) you will finally see everything come together.
-* Persistent user experiences: No more will a user's data be lost each time they refresh the page.  Saving data in your back end's file system will enable users to store data for later and even interact with each other over time!
-* Gain confidence with your computer.  Learning to interact directly with your computer's file system from your applications will give you a confidence and comfort that is reassuring.
+- The "Big Picture" will come together. After months of focusing in on just one half of web apps \(the client\) you will finally see everything come together.
+- Persistent user experiences: No more will a user's data be lost each time they refresh the page. Saving data in your back end's file system will enable users to store data for later and even interact with each other over time!
+- Gain confidence with your computer. Learning to interact directly with your computer's file system from your applications will give you a confidence and comfort that is reassuring.
 
 ## What you can Build
 
@@ -22,21 +22,21 @@ Because these apps allow users to interact with data stored on your server's fil
 
 What's new in this module?
 
-* In the Browser
-  * `import` & `export`
-* In Node.js
-  * `require` & `module.exports`
-* NPM
-* Express.js
-  * Basic HTTP server
-  * Static serving
-  * Restful Routing
-* Postman
-  * Develop your API's without a frontend
-* Heroku
-  * Continuously deploy your projects from `master`
+- In the Browser
+  - `import` & `export`
+- In Node.js
+  - `require` & `module.exports`
+- NPM
+- Express.js
+  - Basic HTTP server
+  - Static serving
+  - Restful Routing
+  - Cookies and Sessions
+- Postman
+  - Develop your API's without a frontend
+- Heroku
+  - Continuously deploy your projects from `master`
 
 ## New Frontiers
 
 Saving all of your data in .json and text files becomes limiting very quickly. Planning how you'll organize your data is not so simple, it's challenging to remember where everything is, searching for specific data is time consuming, and small changes here or there can break everything! You're in luck. All of these problems can be avoided by learning the subtle art of ...
-
