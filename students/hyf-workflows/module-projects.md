@@ -37,7 +37,7 @@ Your group projects are due **by Friday Night** to give your coaches time to rev
 
 ### Blocked?
 
-If your team wasn't able to finish the project, please leave a note in your group issue explaining what blocked your team, and how far you were able to make it. This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
+If you or your team wasn't able to finish the project, please leave a note in your group issue explaining what blocked your team, and how far you were able to make it. This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
 
 ### What counts as a project submission?
 
@@ -45,11 +45,12 @@ If your team wasn't able to finish the project, please leave a note in your grou
 2. The issue has a checklist with working links to each project requirement
    - Project requirements will be described in more detail as a checklist in each module README.
 3. All of the links must work! A dead link will count as a missing assignment.
-4. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "BLOCKED" column.
-5. An issue in the "BLOCKED" column needs to show a best effort, including:
-   - A description of what your team is stuck on and why \(including links to code!\)
+4. Your card needs to be in the "READY FOR REVIEW" or "NEEDS REVISION" column.
+5. An issue in the "DOING" column it must have a `help-wanted` label show your best effort to find your way, including:
+   - A description of what why you are blocked
    - What you have tried so far
    - What you will try next
+   - Links to the guilty code
 
 If your coach finds something is incomplete or your project has some problems, they will move your card to "NEEDS REVISION". This still counts as an on-time homework submission! Your group can address the feedback in the coming week.
 
@@ -69,9 +70,9 @@ The weekly workflow for project submission and feedback will look something like
 2. At the beginning of each week create a new issue in your class repo for the coming week \(the `group` template is helpful\)
 3. Study away! Move your group's card to the "IN PROGRESS" column once you have begun planning the week's project.
 4. You will keep your coaches and classmates to date on your group's progress and challenges by checking off the boxes in your issue and moving your card along the project board.
-   - **PLANNING**: Leave your issue here while your team is setting up the group repo, outlining a development strategy, and distributing tasks.
-   - **IN PROGRESS**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of how many assignments you have finished so far. When your stuck move your card to ...
-   - **BLOCKED**: If you are very stuck or confused, move your group's card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link\(s\) to specific line\(s\) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)! A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to **IN PROGRESS**
+   - **TODO**: Place your issue here before starting to work. Not much going on here!
+   - **DOING**: Keep your card here when you are happily working away. Using the check-boxes in your issue you can keep track of your progress.
+     - If you are blocked or confused, add the `help-wanted` label and describe what you are stuck on. Please include a comment about what you are blocked on and links to the problem in your project repo what has you blocked. When you are no longer blocked, please remove the `help-wanted` label.
    - **READY FOR REVIEW**: When your team homework has closed all issues & PR's, move your card into the "READY FOR REVIEW" column.
 5. A coach or alumni will look over your work
    - **NEEDS REVISION**: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as aPR/issue in your repository. After you have addressed all of the feedback, please move your card back into the _READY FOR REVIEW_ column so we know to take another look.

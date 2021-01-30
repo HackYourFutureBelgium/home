@@ -6,15 +6,21 @@ There are a few ways you can reach out for help at HYF:
 
 Software developers have found many great ways to collaborate on shared code bases. These workflows are different from what you've probably used before, but are super helpful once you get the hang of it. We encourage you to ask and answer as many code-related questions as possible directly on GitHub so you can get used to the code-review process _before_ reaching the final project. The three main ways for you to discuss code on GitHub will be:
 
-### Labels: `question`
+### Labels
 
-When you are blocked on your individual homework assignments, you can create a **question** issue and share it on the class Slack channel. Please include screen shots of your debugger, [link\(s\) to specific line\(s\) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. There is a template issue available with the sections you should fill in, the better you explain your problem the more we can help you.
+You can ask for help using a couple templates and labels in your class repository:
 
-### Project Board: `BLOCKED`
+#### `help-wanted`
 
-If you are stuck or confused about the week's project, move your group's card to the `BLOCKED` column and leave a comment in the issue describing what has you blocked. Include screen shots of your debugger, [link\(s\) to specific line\(s\) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried. A coach, alumni, or classmate will be around soon to help you figure it out.
+When you are blocked on an assignment you can create a new issue using the `help-wanted` template, or just the `help-wanted` label to your project/check-in issue. Please include screen shots of your debugger, [link\(s\) to specific line\(s\) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet), and a list of things you've already tried.
 
-When you're no longer stuck, give a shout-out to whoever helped you and move your issue out of the `BLOCKED` column.
+#### `question`
+
+If there is something you would like to review or something you would like to know more about, just ask! It does not need to be a question about any specific assignment or even about code. The more the merrier : )
+
+### Project Board
+
+If you are blocked on a project you can add the `help-wanted` label to your issue, this way your classmates and coaches can filter the project board to find your blocked project.
 
 ### Pull Request: Code Review
 

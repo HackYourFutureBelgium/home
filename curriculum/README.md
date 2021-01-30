@@ -42,7 +42,7 @@ Full of links and helpful explanations contributed by HYF coaches and students, 
 
 After you are accepted as a student at HYF you will begin studying the _Core Curriculum_. In these 8 months you will learn the foundations of collaborating on a web application. It won't be easy but it will be worth it!
 
-To learn more about the core curriculum head over to [the full description](./curriculum/README.md)
+To learn more about the core curriculum head over to [the full description](curriculum/core/README.md)
 
 ---
 
