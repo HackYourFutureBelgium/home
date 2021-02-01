@@ -1,10 +1,8 @@
-# HYF Curriculum
+# Curriculum
 
 Hello! And welcome to the HYF Curriculum. We have different offerings to help you along your entire journey from before class starts to after your first job.
 
 Let's take a walk through them all:
-
----
 
 ## Intro Sessions
 
@@ -13,8 +11,6 @@ These workshops are 2-3 hours, open to anyone interested in HYF.
 Besides taking your first steps into the world of web development you'll get a chance to meet some of our coaches coaches, current students, and other future students such as yourself!
 
 > To learn about future events, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE), [Facebook](https://www.facebook.com/HackYFutureBE/) or [Eventbrite](https://www.eventbrite.be/o/hackyourfuture-belgium-17962288989)
-
----
 
 ## Application Process
 
@@ -30,29 +26,21 @@ _PS. You aren't required to join an Intro Session before applying to HYF._
 
 > For the next application deadlines, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE) or [Facebook](https://www.facebook.com/HackYFutureBE/).
 
----
-
 ## Study Book
 
 Full of links and helpful explanations contributed by HYF coaches and students, the [HYF Study Book](https://hackyourfuture.github.io/study) will be your trusty companion through late night study sessions.
-
----
 
 ## Core Curriculum
 
 After you are accepted as a student at HYF you will begin studying the _Core Curriculum_. In these 8 months you will learn the foundations of collaborating on a web application. It won't be easy but it will be worth it!
 
-To learn more about the core curriculum head over to [the full description](curriculum/core/README.md)
-
----
+To learn more about the core curriculum head over to [the full description](https://github.com/HackYourFutureBelgium/home/tree/23101335618e4cb9529f8965cf0caced6b5e5447/curriculum/curriculum/core/README.md)
 
 ## Soft Skills
 
 Spaced through the Core Curriculum we will organize several soft skills workshops in the mornings before class. These can cover everything from writing a good CV, to increasing focus & productivity, to ... you name it!
 
-Get in touch with us if you have something to share :)
-
----
+Get in touch with us if you have something to share :\)
 
 ## Final Project
 
@@ -62,9 +50,7 @@ You will be working in teams of 5-8 with an coach to practice everything you lea
 
 Completing a Final Project is required to graduate from HYF. After you have completed the Core Curriculum you can continue directly into the Final Project, or take some time to review before joining the next.
 
-Alumni are always welcome : )
-
----
+Alumni are always welcome : \)
 
 ## Master Classes
 
@@ -72,12 +58,13 @@ Master Classes are open to all students who have completed the Core Curriculum. 
 
 There is not regular schedule of master classes, the classes we offer will depend on student interest and which coaches are available to teach. Topics can include:
 
-- Typescript
-- Data Structures & Algorithms
-- Dockers
-- Quality Assurance
-- Java
-- Python
-- ... and many more!
+* Typescript
+* Data Structures & Algorithms
+* Dockers
+* Quality Assurance
+* Java
+* Python
+* ... and many more!
 
 Is there a topic you would like to see on this list? Get in touch to let us know!
+

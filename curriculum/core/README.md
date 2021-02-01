@@ -1,4 +1,4 @@
-# Curriculum
+# Core
 
 So what will you learn in the core HYF Curriculum? Just enough of everything!
 
@@ -38,3 +38,4 @@ Are you a human who wants to use our curriculum? Are you not a current student a
 Our modules, lesson plans, and assignments are all designed to help make it as easy as possible to study independently ... or even to run your own classes! All of the modules can be studied separately, all of the assignments are self-contained repositories, and each lesson plan can be used as a stand-alone workshop.
 
 Reach out to us if you have any questions about getting started, or any ideas to make the materials more accessible.
+

@@ -1,8 +1,8 @@
-# Learning From Code
+# Learning from Code
 
-Reading and exploring existing code is often the fastest way to learn programming (!).  Sure, it's important to write a lot of code, get stuck, fix your problems, and build cool things.  But how can you expect to write great code if you've never seen any before?!
+Reading and exploring existing code is often the fastest way to learn programming \(!\). Sure, it's important to write a lot of code, get stuck, fix your problems, and build cool things. But how can you expect to write great code if you've never seen any before?!
 
-Learning to run, explain, and modify existing code is a crucial skill to learn early in your programming life.  Besides being an effective learning strategy, this is also what you'll spend most of your time doing as a programmer.
+Learning to run, explain, and modify existing code is a crucial skill to learn early in your programming life. Besides being an effective learning strategy, this is also what you'll spend most of your time doing as a programmer.
 
 ## Don't rush, understand!
 
@@ -11,17 +11,17 @@ Learning to run, explain, and modify existing code is a crucial skill to learn e
 
 ### Read, Modify, Create
 
-Think of these three steps in your learning each time you encounter a new skill or language feature in programming.  Even experienced developers go through these steps when learning new technologies!
+Think of these three steps in your learning each time you encounter a new skill or language feature in programming. Even experienced developers go through these steps when learning new technologies!
 
-1. __Read__: Learn to step through, predict, and understand code that other people wrote.
-1. __Modify__: Learn to change the behavior of other people's code with small modifications.
-1. __Create__: Learn to write your own code from an empty page.
+1. **Read**: Learn to step through, predict, and understand code that other people wrote.
+2. **Modify**: Learn to change the behavior of other people's code with small modifications.
+3. **Create**: Learn to write your own code from an empty page.
 
-Don't worry about making to _Create_ as fast as possible.  The more time you spend learning to _Read_ and _Modify_, the better you will master _Create_.
+Don't worry about making to _Create_ as fast as possible. The more time you spend learning to _Read_ and _Modify_, the better you will master _Create_.
 
 ## Read the code out loud
 
-Learning to read your code aloud and to pronounce the strange syntax in JavaScript is _super important_!  Practice alone, practice with a friend, record yourself and play it back.  When you watch video tutorials pay close attention and practice repeating how the teacher pronounces their code.
+Learning to read your code aloud and to pronounce the strange syntax in JavaScript is _super important_! Practice alone, practice with a friend, record yourself and play it back. When you watch video tutorials pay close attention and practice repeating how the teacher pronounces their code.
 
 * Is new vocabulary you don't understand?
 * What JS syntax do you recognize?
@@ -34,7 +34,6 @@ Some links:
 * [ASCII Pronunciation Rules for Programmers](https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
 * [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
 * [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/)
-
 
 ## Predict what will happen
 
@@ -62,5 +61,6 @@ Some links:
 Step through line by line and take turns explaining every other step:
 
 1. Which line executed before the current one? What did that line do?
-1. What does the current line of code change in program memory?
-1. Which line of code will execute next? What will that line do?
+2. What does the current line of code change in program memory?
+3. Which line of code will execute next? What will that line do?
+
