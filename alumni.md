@@ -49,3 +49,9 @@ This is a non-exhaustive list of online vacancies.
 * [https://nl-be.usgprofessionals.be/](https://nl-be.usgprofessionals.be/)
 * [https://www.vdab.be/digitalisering/bedrijven](https://www.vdab.be/digitalisering/bedrijven)
 
+### \(Free\) Online Courses
+
+* [https://www.ttl.academy/courses/](https://www.ttl.academy/courses/) \(Belgian company\)
+* [https://www.coursera.org/browse/information-technology](https://www.coursera.org/browse/information-technology)
+* [https://www.sololearn.com/](https://www.sololearn.com/)
+
