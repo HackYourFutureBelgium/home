@@ -16,7 +16,7 @@ When you are blocked on an assignment you can create a new issue using the `help
 
 #### `question`
 
-If there is something you would like to review or something you would like to know more about, just ask! It does not need to be a question about any specific assignment or even about code. The more the merrier : )
+If there is something you would like to review or something you would like to know more about, just ask! It does not need to be a question about any specific assignment or even about code. The more the merrier : \)
 
 ### Project Board
 
@@ -33,3 +33,4 @@ You will be able to share updates to particular lines of code, explain why you a
 GitHub is great for deeper discussions around the weekly assignments, but not everything in life is work! Hop on over to Slack if you would like to schedule a study call, have questions about what you should be working on, would just like a quick tip, or are just looking to chat about how much you love coding :\)
 
 Please use your main class channel as much as possible, and reply in threads to keep the main discussion feed easier to follow.
+
