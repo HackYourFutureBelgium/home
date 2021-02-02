@@ -1,4 +1,4 @@
-# Asynchronous Programming - 3 wk
+# Asynchronous Programming
 
 > 3 weeks. Find the Module repository [right here](https://github.com/hackyoufuturebelgium/asynchronous-programming)
 
@@ -8,8 +8,8 @@ Understand the role of **Public APIs** in modern computing and application devel
 
 ## Pains & Gains
 
-* Your projects up to now have been super cool, but imagine if they were _SUPER_ cool. Everything is possible once you learn to integrate Public APIs into your projects!  Learn to use data from all over the internet, to access top-notch algorithms, and to integrate other website's content & services into your projects using Public APIs.
-* Including 10 scripts in your HTML file and reusing your code from the global scope is a messy way to develop. It is harder to keep track of everything in your mind, and makes it easy to accidentally break your site with small changes. Learn to split your code into small single-modules for testing, maintenance and reuse with `import`/`export`.
+- Your projects up to now have been super cool, but imagine if they were _SUPER_ cool. Everything is possible once you learn to integrate Public APIs into your projects! Learn to use data from all over the internet, to access top-notch algorithms, and to integrate other website's content & services into your projects using Public APIs.
+- Including 10 scripts in your HTML file and reusing your code from the global scope is a messy way to develop. It is harder to keep track of everything in your mind, and makes it easy to accidentally break your site with small changes. Learn to split your code into small single-modules for testing, maintenance and reuse with `import`/`export`.
 
 ## What you can Build
 
@@ -19,18 +19,17 @@ Learn to build web pages that connect users to Public APIs for anything from che
 
 What's new in this module?
 
-* JavaScript
-  * arrow functions
-  * closure
-  * The Event Loop: `setTimeout` & `setInterval`
-  * Callbacks, Promises, Async/Await
-* In the Browser
-  * `fetch`
-* In Node.js
-  * `require`
-  * `readFile` vs. `readFileSync`
+- JavaScript
+  - arrow functions
+  - closure
+  - The Event Loop: `setTimeout` & `setInterval`
+  - Callbacks, Promises, Async/Await
+- In the Browser
+  - `fetch`
+- In Node.js
+  - `require`
+  - `readFile` vs. `readFileSync`
 
 ## New Frontiers
 
 Wouldn't it be nice if you could save user data between page loads? Or if you could read and write data directly to your computer? You sure can! But then you're no long just building frontend apps, you're building ...
-

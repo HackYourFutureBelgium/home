@@ -1,4 +1,4 @@
-# Working With Code - 1 wk
+# Working With Code
 
 > 1 week. Assignments and lesson plans are [right here](https://github.com/HackYourFutureBelgium/working-with-code/)
 
@@ -10,11 +10,11 @@ This module's main objective is to get you comfortable with the workflows of pro
 
 ## Pains & Gains
 
-* Never misplace your work again! Learn to set up an organized folder structure for your HYF assignments and study materials.
-* So you've solved some challenges on Khan Academy, and made a project on Glitch.  But what next?  Learn how to save, edit, and run your code locally on your computer.
-* Sharing your code was easy with Glitch, you just copy-paste a url.  But this is no longer so simple now that your code is stored on your computer.  Learn to use GitHub to share source code with other developers.
-* No one wants to spend all day just looking at your source code, they want to see the live project! Learn to use GitHub Pages static hosting to turn your code into live web pages for anyone to visit.
-* There's a more to learn than you can possibly learn in your 6 months with us!  Get a start learning how to use GitHub boards and repositories as a way to organize your study time to maximize your learning now, and after you graduate.
+- Never misplace your work again! Learn to set up an organized folder structure for your HYF assignments and study materials.
+- So you've solved some challenges on Khan Academy, and made a project on Glitch. But what next? Learn how to save, edit, and run your code locally on your computer.
+- Sharing your code was easy with Glitch, you just copy-paste a url. But this is no longer so simple now that your code is stored on your computer. Learn to use GitHub to share source code with other developers.
+- No one wants to spend all day just looking at your source code, they want to see the live project! Learn to use GitHub Pages static hosting to turn your code into live web pages for anyone to visit.
+- There's a more to learn than you can possibly learn in your 6 months with us! Get a start learning how to use GitHub boards and repositories as a way to organize your study time to maximize your learning now, and after you graduate.
 
 ## What you can build
 
@@ -24,23 +24,22 @@ After finishing this module you'll be able to develop and manage simple blog-lik
 
 What's new in this module?
 
-* Visual Studio Code
-  * Markdown Preview
-  * Code Spell Check
-  * Markdown Linter
-* Git \(using GitKraken\)
-  * add, commit
-  * push, pull
-* GitHub
-  * issues: labels, milestones & assigning
-  * project boards
-  * pull requests
-  * GitHub Pages
-* Markdown
+- Visual Studio Code
+  - Markdown Preview
+  - Code Spell Check
+  - Markdown Linter
+- Git \(using GitKraken\)
+  - add, commit
+  - push, pull
+- GitHub
+  - issues: labels, milestones & assigning
+  - project boards
+  - pull requests
+  - GitHub Pages
+- Markdown
 
 ## New Frontiers
 
 Once you're comfortable writing, pushing, and deploying markdown you'll be ready for something more. It won't take long until you feel the limitations of such simple projects!
 
 Prepare yourself for learning how to build larger projects in small pieces using _git branches_, and to make lovely responsive web sites with _HTML & CSS_ using ...
-

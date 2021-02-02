@@ -1,4 +1,4 @@
-# Incremental Development - 3 wk
+# Incremental Development
 
 > 3 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/incremental-development/)
 
@@ -10,11 +10,11 @@ This is where _Incremental Development_ comes in. Aside from HTML & CSS, the mai
 
 ## Pains & Gains
 
-* Never get lost in your own project!  Learn how to organize your development process around user stories and build each one on a separate branch.
-* A great idea stays just a great idea if you can't share it! Learn to create accessible web pages to clearly convey your ideas to any audience.
-* But wait!  People browsing the web aren't the only ones using your project.  Other developers need to understand your project, your process, and your code in order to help you learn or to collaborate.
-* Have you ever opened a web site on your phone and had to spend _all_ of your time scrolling and resizing?  Save your users the trouble by implementing responsive design in your web pages.
-* HTML & CSS are relatively simple to learn, but impossible to master without understanding what happens behind the scenes.  Learning about the 3 general stages of a basic web page \(source code -&gt; DOM -&gt; rendered site\), and mastering the inspector will enable you to debug your web pages with confidence.
+- Never get lost in your own project! Learn how to organize your development process around user stories and build each one on a separate branch.
+- A great idea stays just a great idea if you can't share it! Learn to create accessible web pages to clearly convey your ideas to any audience.
+- But wait! People browsing the web aren't the only ones using your project. Other developers need to understand your project, your process, and your code in order to help you learn or to collaborate.
+- Have you ever opened a web site on your phone and had to spend _all_ of your time scrolling and resizing? Save your users the trouble by implementing responsive design in your web pages.
+- HTML & CSS are relatively simple to learn, but impossible to master without understanding what happens behind the scenes. Learning about the 3 general stages of a basic web page \(source code -&gt; DOM -&gt; rendered site\), and mastering the inspector will enable you to debug your web pages with confidence.
 
 ## What you can Build
 
@@ -28,27 +28,26 @@ Along with a live web page you will learn to build a complete GitHub repository 
 
 What's new in this module?
 
-* Visual Studio Code
-  * LiveServer
-  * ESLint
-  * Prettier
-  * GitLens
-* Git \(using GitKraken\)
-  * branching & merging
-* HTML5
-  * Semantic Layout
-  * ARIA and Accessibility
-* CSS3
-  * Responsive Design
-  * Flexbox & Grid
-* Browser Devtools
-  * Inspecting elements
-  * Inspecting source
-  * Modifying the DOM
+- Visual Studio Code
+  - LiveServer
+  - ESLint
+  - Prettier
+  - GitLens
+- Git \(using GitKraken\)
+  - branching & merging
+- HTML5
+  - Semantic Layout
+  - ARIA and Accessibility
+- CSS3
+  - Responsive Design
+  - Flexbox & Grid
+- Browser Devtools
+  - Inspecting elements
+  - Inspecting source
+  - Modifying the DOM
 
 ## New Frontiers
 
 Beautiful web pages can be nice to look at, but after a while you'll want more from your projects than pretty face.
 
 Transforming your web sites from static & visual pages into dynamic & interactive ones will require a little help from JavaScript. Before you dive right into hacking your pages alive, take some time to learn about ...
-

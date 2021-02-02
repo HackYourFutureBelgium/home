@@ -1,4 +1,4 @@
-# Frontend Frameworks - 2 wk
+# Frontend Frameworks
 
 > 2 weeks. Find the Module repository [right here](frontend-frameworks.md) \(coming soon\)
 
@@ -14,21 +14,21 @@ While frameworks will make your projects much stronger if used well, mis-using f
 
 **Adding Simplicity**:
 
-* Get more app for each line of code you write, allowing you to focus on _what_ your project does instead of _how_ it happens.  Frameworks help you manage boilerplate, app setup, DOM manipulation, and many more of the repetitive tasks that take up your time.
-* Cross-platform compatibility is very challenging to get right.  Frameworks will take care of a lot of this work behind the scenes for you, allowing you to focus on the logic & design of your app.
-* Speed and performance are crucial to a good user experience.  But optimizing all of your own code for all platforms is already a full-time job.  This is another problem that frameworks take care of behind the scenes.
-* Many frameworks have active & supportive developer communities. If you're having a problem, some else has already come across it!  You'll find many great tutorials, articles, and examples to help you get unstuck.
-* Don't want to start from scratch? You'll find hundreds of libraries, starter projects to help you get your framework project off the ground.
+- Get more app for each line of code you write, allowing you to focus on _what_ your project does instead of _how_ it happens. Frameworks help you manage boilerplate, app setup, DOM manipulation, and many more of the repetitive tasks that take up your time.
+- Cross-platform compatibility is very challenging to get right. Frameworks will take care of a lot of this work behind the scenes for you, allowing you to focus on the logic & design of your app.
+- Speed and performance are crucial to a good user experience. But optimizing all of your own code for all platforms is already a full-time job. This is another problem that frameworks take care of behind the scenes.
+- Many frameworks have active & supportive developer communities. If you're having a problem, some else has already come across it! You'll find many great tutorials, articles, and examples to help you get unstuck.
+- Don't want to start from scratch? You'll find hundreds of libraries, starter projects to help you get your framework project off the ground.
 
 **Adding Complexity**:
 
-* Before using a framework effectively, you need to learn how to use it at all! Each framework has it's own quirks and ways of doing things. Learning new frameworks \(and switching between them\) can take a significant amount of study and practice.
-* Along with extra support does come extra layers.  You are no longer writing code that's meant to be interpreted directly by the JS engine. You are writing code meant to be run by the framework, which will then instruct the JS engine on what to do.  It will take time and practice to learn how to work effectively with these layers of abstraction.
-* Because your code is passing through extra steps before executed by the JS engine, debugging becomes much more complicated.  It takes time and practice to figure out which bugs happen at the framework level, and which happen at the JS level.  To help with this, all strong frameworks come with their custom debugging tools & libraries which are helpful but also add to the list of things to learn.
-* These extra layers mean you can no longer just open your index.html file in the browser and expect it to work. You will need to learn how to work with NPM/Yarn scripts & dependencies to build, test, develop and deploy your apps.
-* Projects with frameworks often don't even use plain JavaScript! They'll use TypeScript, JSX, or other custom syntax to boost productivity and catch common errors. These tools can help enormously but do require additional study to use well, and add layers of _transpilers_ and dependencies between you and the final code.
-* Writing code for frameworks means a browser needs the framework code as well to run your apps.  Sending all of this extra code adds to load time & performance of your apps.  In many simple use cases a framework's optimizations aren't even enough to make up for this extra hit to performance.
-* Most popular frontend frameworks & supporting libraries/tools are open-source projects that depend on other open source projects.  This means you don't ultimately have control over the code in your apps.  Small changes in any dependency has the potential to introduce bugs, or even crash your apps.  To avoid this you will need to be very careful about managing dependencies & versions.
+- Before using a framework effectively, you need to learn how to use it at all! Each framework has it's own quirks and ways of doing things. Learning new frameworks \(and switching between them\) can take a significant amount of study and practice.
+- Along with extra support does come extra layers. You are no longer writing code that's meant to be interpreted directly by the JS engine. You are writing code meant to be run by the framework, which will then instruct the JS engine on what to do. It will take time and practice to learn how to work effectively with these layers of abstraction.
+- Because your code is passing through extra steps before executed by the JS engine, debugging becomes much more complicated. It takes time and practice to figure out which bugs happen at the framework level, and which happen at the JS level. To help with this, all strong frameworks come with their custom debugging tools & libraries which are helpful but also add to the list of things to learn.
+- These extra layers mean you can no longer just open your index.html file in the browser and expect it to work. You will need to learn how to work with NPM/Yarn scripts & dependencies to build, test, develop and deploy your apps.
+- Projects with frameworks often don't even use plain JavaScript! They'll use TypeScript, JSX, or other custom syntax to boost productivity and catch common errors. These tools can help enormously but do require additional study to use well, and add layers of _transpilers_ and dependencies between you and the final code.
+- Writing code for frameworks means a browser needs the framework code as well to run your apps. Sending all of this extra code adds to load time & performance of your apps. In many simple use cases a framework's optimizations aren't even enough to make up for this extra hit to performance.
+- Most popular frontend frameworks & supporting libraries/tools are open-source projects that depend on other open source projects. This means you don't ultimately have control over the code in your apps. Small changes in any dependency has the potential to introduce bugs, or even crash your apps. To avoid this you will need to be very careful about managing dependencies & versions.
 
 > In this module you will be using Create React App, a project starter that will hide most of this complexity so you don't have to worry about it \(for now\). But it's all still there, waiting behind the scenes for you to learn about one day very soon :\)
 
@@ -40,12 +40,11 @@ By the end of this module you will be able to build singe page apps that allow u
 
 What's new in this module?
 
-* React
-* JSX
-* `create-react-app`
-* Jest
+- React
+- JSX
+- `create-react-app`
+- Jest
 
 ## New Frontiers
 
 Tired of working alone on all of your projects? Ready to build something more substantial than a small project each week? It's time to experience the entire development process from ideation to delivery using ...
-

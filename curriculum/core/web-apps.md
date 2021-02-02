@@ -1,6 +1,6 @@
-# Web Apps - 5 wk
+# Web Apps
 
-> Module repository is [right here](https://github.com/HackYourFutureBelgium/web-apps/)
+> 5 weeks. Module repository is [right here](https://github.com/HackYourFutureBelgium/web-apps/)
 
 You've made it to fullstack! **Web Apps** are applications split up across the internet with different parts running on different machines in different parts of the world. So far your projects have all run directly in the user's browser. The code was served from a server \(GitHub Pages\), and they used data or logic from elsewhere on the web \(API's\), but all of the code you wrote ran in one place - the client's browser. All of that is about to change.
 
