@@ -1,6 +1,6 @@
-# UX/UI Design - 2 wk
+# UX/UI Design
 
-> [module repository](https://github.com/hackyourfuturebelgium/ux-ui-design)
+> 2 weeks, [module repository](https://github.com/hackyourfuturebelgium/ux-ui-design)
 
 Design is about creating creative solutions within constraints, those being technical or user-specific. In this UX/UI module, we will start ground up with design guidelines to get you thinking before implementing an interface. To build better and more intuitive digital solutions.
 
