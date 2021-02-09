@@ -1,11 +1,11 @@
-# Databases
+# Databases - 2 wk
 
 > 2 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/databases/)
 
 ## Pains & Gains
 
-- Storing all of your application data in `.json` and `.txt` files is a bit clumsy
-- SQL will allow you to easily store and access much more complicated and interesting data
+* Storing all of your application data in `.json` and `.txt` files is a bit clumsy
+* SQL will allow you to easily store and access much more complicated and interesting data
 
 ## What you can Build
 
@@ -17,8 +17,9 @@ By using SQL to model and access your application's data instead of reading & wr
 
 What's new in this module?
 
-- SQLite
+* SQLite
 
 ## New Frontiers
 
 Now that you can write a substantial fullstack application, it's time to leave `document.something()` behind you. You've spent several months learning to design your projects from scratch, you're ready to appreciate the smooth developer experience provided by ...
+

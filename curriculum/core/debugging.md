@@ -1,4 +1,4 @@
-# Debugging
+# Debugging - 4 wk
 
 > 4 weeks. Find the Module repository [right here](https://github.com/HackYourFutureBelgium/debugging/)
 
@@ -7,8 +7,8 @@
 
 ## Pains & Gains
 
-- So far your websites haven't been very interactive. You will learn how to use the `onclick` attribute to connect elements in your UI to JavaScript for basic user interactions
-- Having a website that does the exact same thing every time you click a button isn't very interesting. Learn to structure user interactions with _handler functions_ and read in user input using `prompt` & `confirm`
+* So far your websites haven't been very interactive. You will learn how to use the `onclick` attribute to connect elements in your UI to JavaScript for basic user interactions
+* Having a website that does the exact same thing every time you click a button isn't very interesting. Learn to structure user interactions with _handler functions_ and read in user input using `prompt` & `confirm`
 
 ## What you will Build
 
@@ -18,20 +18,21 @@ This module's project is to write a JS Study Guide in your small groups. Over th
 
 What's new in this module?
 
-- JavaScript Basics
-  - Variables
-  - Functions
-  - Primitive Data Types
-  - Primitive Coercion
-  - Operators
-  - Control flow: loops & conditionals
-  - Basic testing with `===` and `console.assert`
-  - User interactions with `prompt`, `confirm` and `alert`
-- Debugging Tools
-  - Devtools, VSC Debugger, JS Tutor
-  - Pausing execution with `debugger` and break points
-  - Stepping through execution one line at a time
+* JavaScript Basics
+  * Variables
+  * Functions
+  * Primitive Data Types
+  * Primitive Coercion
+  * Operators
+  * Control flow: loops & conditionals
+  * Basic testing with `===` and `console.assert`
+  * User interactions with `prompt`, `confirm` and `alert`
+* Debugging Tools
+  * Devtools, VSC Debugger, JS Tutor
+  * Pausing execution with `debugger` and break points
+  * Stepping through execution one line at a time
 
 ## New Frontiers
 
 Now that you can confidently write basic JS functions and can step through your program's execution using debugging tools, it's time to solve some challenges and build your confidence with ...
+

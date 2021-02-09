@@ -1,4 +1,4 @@
-# UX/UI Design
+# UX/UI Design - 2 wk
 
 > 2 weeks, [module repository](https://github.com/hackyourfuturebelgium/ux-ui-design)
 
@@ -19,3 +19,4 @@ We will cover the following topics: User needs, Information architecture \(IA\),
 ## New Frontiers
 
 What happens next? You will be able to share the same language as designers, apply design principles to your front end code, and even become a designer yourself! It is time to build better and intuitive digital products! Get ready to add some user interactions in ...
+
