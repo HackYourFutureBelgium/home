@@ -49,6 +49,7 @@ This is a non-exhaustive list of online vacancies.
 * [https://nl-be.usgprofessionals.be/](https://nl-be.usgprofessionals.be/)
 * [https://www.vdab.be/digitalisering/bedrijven](https://www.vdab.be/digitalisering/bedrijven)
 * [https://egovselect.be/nl/vacatures](https://egovselect.be/nl/vacatures?) \(recruiter for Belgian government\)
+* [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs)
 
 ### \(Free\) Online Courses
 
