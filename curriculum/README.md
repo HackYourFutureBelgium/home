@@ -38,7 +38,7 @@ After you are accepted as a student at HackYourFuture you will begin studying th
 
 It won't be easy but it will be worth it!
 
-To learn more about the core curriculum, head over to [the full description](https://github.com/HackYourFutureBelgium/home/tree/23101335618e4cb9529f8965cf0caced6b5e5447/curriculum/curriculum/core/README.md)
+To learn more about the core curriculum, head over to [the full description](https://home.hackyourfuture.be/curriculum/core)
 
 ## Soft Skills
 
