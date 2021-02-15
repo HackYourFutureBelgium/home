@@ -5,11 +5,11 @@ description: >-
   the students.
 ---
 
-# For partners
+# For Partners
 
 ## Project Definition
 
-As a partner for the bootcamp, there are two options: 
+As a partner for the bootcamp, there are two options:
 
 * The students will be developing your own project. 
 * The students will be developing a project brought by HackYourFuture Belgium.
@@ -19,21 +19,18 @@ All projects developed by the students must be open source and have a positive s
 #### Timelime of the project definition
 
 * **2 weeks before the bootcamp:** you - or the HackYourFuture team - fill in this form called "Project Template HackYourFuture Belgium" \(below\).
-
-{% file src="../.gitbook/assets/project-template-hackyourfuture-belgium-2-.pdf" %}
-
 * **1 week before the bootcamp:** we organize a sync call between the technical coach, the project partner and the HackYourFuture Team. During this call, we brief everyone on the project and remind the goals of the bootcamp \(see below\).
 
-## Your role as a partner 
+## Your role as a partner
 
-**As a partner, your role will be to:** 
+**As a partner, your role will be to:**
 
 * Be the point of contact for the students for the project by being present during 3 partner meetings.
 * Answer the questions prepared by the students \(during the meetings or per email\) and help them understand as clearly as possible what the project outcome should be.
 * Act as if you were a \(nice\) paying customer: be demanding and empathic at the same time. 
 * Give feedback to the students each week \(evaluation questions see below\) and help the students to improve their communication skills with partners or future clients.
 
-**As a reminder, the goal of this bootcamp are to:** 
+**As a reminder, the goal of this bootcamp are to:**
 
 * Put the technical skills into practice while working on an open source project
 * Learn to collaborate and work in teams
@@ -42,15 +39,15 @@ All projects developed by the students must be open source and have a positive s
 
 **The most important factor for HackYourFuture Belgium is the learning process. We aim big and aim to create working prototypes. Yet, the technical output is not what matters the most. Soft skills are.**
 
-## Evaluation of the students 
+## Evaluation of the students
 
-We are all here to help the students getting better at collaborating and giving them the opportunity to work on a real project. Constructive feedback is therefore crucial for the students to improve. 
+We are all here to help the students getting better at collaborating and giving them the opportunity to work on a real project. Constructive feedback is therefore crucial for the students to improve.
 
-Here's how to evaluate the students. 
+Here's how to evaluate the students.
 
 ### What to evaluate
 
-#### Before the meetings 
+#### Before the meetings
 
 * [ ] Have the students reconfirm the meeting with you?
 * [ ] Have they send the meeting link?
@@ -64,7 +61,7 @@ Here's how to evaluate the students.
 * [ ] Is there someone in the group taking note of the feedback you are giving?
 * [ ] Is there someone from the group summarizing everything that was said and reconfirming the next steps?
 
-#### After the meetings 
+#### After the meetings
 
 * [ ] Have the students send you a follow up email? 
 * [ ] Is this email clear regarding the next steps of the project? 
@@ -76,9 +73,9 @@ Here's how to evaluate the students.
 * [ ] Do you feel important as a partner? Are the students taking your project needs and input in consideration? 
 * [ ] Is your role as a partner interesting for you? What is what you expected? 
 
-### When to evaluate 
+### When to evaluate
 
-#### Evaluation with students 
+#### Evaluation with students
 
 We ask you to send a short evaluation back to the students **after each partner meetings.** This feedback can be send to the students by email.
 

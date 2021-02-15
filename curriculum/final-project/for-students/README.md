@@ -1,10 +1,10 @@
-# For students
+# For Students
 
 Welcome!
 
 ## Shifting Plans
 
-You will be working as a team on a 6-week project with evolving objectives. As a team and as individuals you will need to be prepared for shifting plans and goals. The plans you lay in the first week will certainly change as you gain experience with the technologies, understand the project's needs, and learn the strengths (and limits) of your team members.
+You will be working as a team on a 6-week project with evolving objectives. As a team and as individuals you will need to be prepared for shifting plans and goals. The plans you lay in the first week will certainly change as you gain experience with the technologies, understand the project's needs, and learn the strengths \(and limits\) of your team members.
 
 This is to be expected, embrace it!
 
@@ -12,11 +12,11 @@ This is to be expected, embrace it!
 
 It is not possible for everyone to understand everything in this project. Each team member will need to take ownership of one part of the project, they do not need to write all of the code for their part but will need to review all PR's and will have final say on any technical decisions. Here are some recommended roles, see if these make sense for your team:
 
-- Project Owner: Generally, a great communicator with the most product experience on the team, they are expected to keep an eye on the entire project's progress and technical quality. They are responsible for the on-time delivery of a quality project.
-- Dev-Ops: The team member responsible for the live deployment. They will have final decisions on all questions related to CI/CD and hosting.
-- UX/UI: This team member has final responsibility for decisions that impact the user's experience on the website. This role is not as simple as drawing wireframes! They will need to be in close contact with everyone at every step of the way, the suggestions you make must be realistic for your team mates to develop in the time that you have.
-- Frontend: Ultimately responsible for the frontend code, this team member will have final say on decisions related to code organization, styling dependencies, and third-party libraries. You will need to work very closely with those responsible for UX/UI and backend.
-- Backend: Ultimately responsible for the project's API and data schemas, you will need to work closely with the Frontend owner to make sure your routes and schemas align with their code, and with the Dev-Ops to make sure your backend is compatible with the project's Continuous Deployment.
+* Project Owner: Generally, a great communicator with the most product experience on the team, they are expected to keep an eye on the entire project's progress and technical quality. They are responsible for the on-time delivery of a quality project.
+* Dev-Ops: The team member responsible for the live deployment. They will have final decisions on all questions related to CI/CD and hosting.
+* UX/UI: This team member has final responsibility for decisions that impact the user's experience on the website. This role is not as simple as drawing wireframes! They will need to be in close contact with everyone at every step of the way, the suggestions you make must be realistic for your team mates to develop in the time that you have.
+* Frontend: Ultimately responsible for the frontend code, this team member will have final say on decisions related to code organization, styling dependencies, and third-party libraries. You will need to work very closely with those responsible for UX/UI and backend.
+* Backend: Ultimately responsible for the project's API and data schemas, you will need to work closely with the Frontend owner to make sure your routes and schemas align with their code, and with the Dev-Ops to make sure your backend is compatible with the project's Continuous Deployment.
 
 No matter what role you take, you will still be expected to help develop the backlog of issues and review your team mates PRs.
 
@@ -74,3 +74,4 @@ Each bootcamp will inlcude different workshops that will help you build your pro
 3. How to handle a client meeting
 4. How to pitch
 5. How to test your product
+
