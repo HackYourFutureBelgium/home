@@ -14,23 +14,19 @@ Besides taking your first steps into the world of web development you'll get a c
 
 ## Application Process
 
-So you want to become an HackYourFuture student? You can apply when our call for applications is open.  
-  
+So you want to become an HackYourFuture student? You can apply when our call for applications is open.
+
 The **application process** will consist of the following steps:
 
-1. **Submit your initial application** using the [**Apply Now**](https://hackyourfuture.be/) button on our landing page: [www.hackyourfuture.be](https://www.hackyourfuture.be). 
-2. You will receive an e-mail with instructions and information about how to complete the next step, **our** _**technical assignment**_. 
-3. Complete and submit your technical assignment! You will need access to **a computer** with an **internet connection**, but it does not need to be your own. Everything can be completed with online accounts. The technical assignment doesn't require past experience with programming. 
-4. If you showed strong motivation in your application and did well on your technical assignment, you will be invited for **a video interview**. Here we can get to know each other and figure out if HackYourFuture is a good fit for you. An **intermediate level of English** is required to start our program, so we'll assess this as well during the interview.. In case you won't be invited for a video interview, we will give you specific feedback. 
+1. **Submit your initial application** using the [**Apply Now**](https://hackyourfuture.be/) button on our landing page: [www.hackyourfuture.be](https://www.hackyourfuture.be).
+2. You will receive an e-mail with instructions and information about how to complete the next step, **our** _**technical assignment**_.
+3. Complete and submit your technical assignment! You will need access to **a computer** with an **internet connection**, but it does not need to be your own. Everything can be completed with online accounts. The technical assignment doesn't require past experience with programming.
+4. If you showed strong motivation in your application and did well on your technical assignment, you will be invited for **a video interview**. Here we can get to know each other and figure out if HackYourFuture is a good fit for you. An **intermediate level of English** is required to start our program, so we'll assess this as well during the interview.. In case you won't be invited for a video interview, we will give you specific feedback.
 5. After all applicants have had their interviews, we will get back to you with **an email stating whether you are accepted** for our next class. If HackYourFuture isn't the best fit for you \(yet\), we can help you find an organisation that will be or lead you to one of our partners, aiming to facilitate the integration of newcomers in Belgium.
 
 _PS. You aren't required to join an Intro Session before applying to HackYourFuture._
 
 > For the next application deadlines, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE) or [Facebook](https://www.facebook.com/HackYFutureBE/).
-
-## Study Book
-
-Full of links and helpful explanations contributed by HackYourFuture coaches and students, the [HackYourFuture Study Book](https://hackyourfuture.github.io/study) will be your trusty companion through late night study sessions.
 
 ## Core Curriculum
 
@@ -39,6 +35,10 @@ After you are accepted as a student at HackYourFuture you will begin studying th
 It won't be easy but it will be worth it!
 
 To learn more about the core curriculum, head over to [the full description](https://home.hackyourfuture.be/curriculum/core)
+
+## Study Book
+
+Full of links and helpful explanations contributed by HackYourFuture coaches and students, the [HackYourFuture Study Book](https://hackyourfuture.github.io/study) will be your trusty companion through late night study sessions.
 
 ## Soft Skills
 
@@ -62,13 +62,12 @@ Master Classes are open to all students who have completed the Core Curriculum. 
 
 There is no regular schedule of master classes, the classes we offer will depend on student interest and which coaches are available to teach. Topics can include:
 
-* Typescript
-* Data Structures & Algorithms
-* Dockers
-* Quality Assurance
-* Java
-* Python
-* ... and many more!
+- Typescript
+- Data Structures & Algorithms
+- Dockers
+- Quality Assurance
+- Java
+- Python
+- ... and many more!
 
 Is there a topic you would like to see on this list? Get in touch to let us know!
-
