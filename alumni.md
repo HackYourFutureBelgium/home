@@ -23,6 +23,7 @@ Talent 2 Connect is a platform collecting different mentorship programs availabl
 ### Online communities
 
 * [UX Antwerp](https://www.uxantwerp.be/)
+* [EditX Network](http://editx.eu/en/it-network/people)
 
 ### Job searching websites
 
