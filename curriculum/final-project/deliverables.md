@@ -1,6 +1,7 @@
 # Deliverables
 
-This module is all about delivering! By the end of your 5 weeks your team needs to be ready to pitch your project at graduation. You will be expected to deliver:
+This module is all about delivering! By the end of your 6 weeks your team needs to be ready to pitch your project at graduation day! Let the countdown begin ;\)  
+You will be expected to deliver:
 
 ## Contributor-Friendly Repo
 
