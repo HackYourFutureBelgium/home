@@ -26,7 +26,7 @@ You are still learning! The primary objective in this module is to learn how to 
 
 ## When working offline
 
-1. You bring your own laptop. If you are borrowing one of HackYourFuture's laptop for the bootcamp, you will make sure to be on time on the first day to take it.
+1. You bring your own laptop. If you are borrowing one of HackYourFuture's laptop for the Final Project, you will make sure to be on time on the first day to take it.
 2. You will not forget your battery charger. Ever.
 3. Everything you use or borrow, must be returned in the same state as before \(example: plugs\)
 4. You will lock your computer when leaving your desk.
