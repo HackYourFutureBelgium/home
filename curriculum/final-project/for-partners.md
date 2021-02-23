@@ -1,15 +1,14 @@
----
-description: >-
-  First, let us start by thanking you for being a partner for the bootcamp!
-  Please read below what is expected of your role, how & when you can evaluate
-  the students.
----
+## Thank you for being our partner!
+
+Please read below what is expected of your role, how & when you can evaluate the students.
+
+----
 
 # For Partners
 
 ## Project Definition
 
-As a partner for the bootcamp, there are two options:
+As a partner for the Final Project, there are two options:
 
 * The students will be developing your own project. 
 * The students will be developing a project brought by HackYourFuture Belgium.
@@ -18,8 +17,8 @@ All projects developed by the students must be open source and have a positive s
 
 #### Timelime of the project definition
 
-* **2 weeks before the bootcamp:** you - or the HackYourFuture team - fill in this form called "Project Template HackYourFuture Belgium" \(below\).
-* **1 week before the bootcamp:** we organize a sync call between the technical coach, the project partner and the HackYourFuture Team. During this call, we brief everyone on the project and remind the goals of the bootcamp \(see below\).
+* **2 weeks before the start:** you - or the HackYourFuture team - fill in this form called "Project Template HackYourFuture Belgium" \(below\).
+* **1 week before the start:** we organize a sync call between the technical coach, the project partner and the HackYourFuture Team. During this call, we brief everyone on the project and remind the goals of the bootcamp \(see below\).
 
 ## Your role as a partner
 
@@ -30,7 +29,7 @@ All projects developed by the students must be open source and have a positive s
 * Act as if you were a \(nice\) paying customer: be demanding and empathic at the same time. 
 * Give feedback to the students each week \(evaluation questions see below\) and help the students to improve their communication skills with partners or future clients.
 
-**As a reminder, the goal of this bootcamp are to:**
+**As a reminder, the goal of this Final Project is to:**
 
 * Put the technical skills into practice while working on an open source project
 * Learn to collaborate and work in teams
