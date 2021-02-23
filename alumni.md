@@ -7,9 +7,10 @@ description: >-
 
 # Alumni
 
-## Welcome to the Alumni page!
-
 This space is dedicated to resources that may interest you to keep learning and improving your job hunting skills.
+
+### The Jobseekers Bible for a kickstart of your job search in the Belgian market
+
 
 ### Mentorship programs in Belgium
 
