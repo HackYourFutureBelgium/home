@@ -67,11 +67,5 @@ Except for Git and SSH, you are free to use any software or hardware stack that 
 
 **2. Freedom to learn**
 
-Each bootcamp will inlcude different workshops that will help you build your project such as:
-
-1. Agile methodology for software development
-2. UI/UX
-3. How to handle a client meeting
-4. How to pitch
-5. How to test your product
+Each Final Project will inlcude [weekly workshops](https://github.com/HackYourFutureBelgium/home/blob/master/curriculum/final-project/weekly-workshops.md) that will help you build your project. You can also ask coaches to dive deeper into one specific skill or project management tool or, you name it. This depends on what you want to learn.
 
