@@ -62,12 +62,13 @@ Master Classes are open to all students who have completed the Core Curriculum. 
 
 There is no regular schedule of master classes, the classes we offer will depend on student interest and which coaches are available to teach. Topics can include:
 
-- Typescript
-- Data Structures & Algorithms
-- Dockers
-- Quality Assurance
-- Java
-- Python
-- ... and many more!
+* Typescript
+* Data Structures & Algorithms
+* Dockers
+* Quality Assurance
+* Java
+* Python
+* ... and many more!
 
 Is there a topic you would like to see on this list? Get in touch to let us know!
+

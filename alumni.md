@@ -7,9 +7,10 @@ description: >-
 
 # Alumni
 
-## Welcome to the Alumni page!
-
 This space is dedicated to resources that may interest you to keep learning and improving your job hunting skills.
+
+### The Jobseekers Bible for a kickstart of your job search in the Belgian market
+
 
 ### Mentorship programs in Belgium
 
@@ -34,8 +35,8 @@ This is a non-exhaustive list of online vacancies.
 * [&Work.com](https://andwork.com/vacatures/ict?filters=junior/belgie&distance=10&pagenr=1)
 * [https://be.indeed.com/](https://be.indeed.com/)
 * [https://www.stepstone.be/](https://www.stepstone.be/)
-*  [https://uxdesigners.be/](https://uxdesigners.be/)
-*  [https://www.ausy.be/en](https://www.ausy.be/en)
+* [https://uxdesigners.be/](https://uxdesigners.be/)
+* [https://www.ausy.be/en](https://www.ausy.be/en)
 * [https://www.talentinvlaanderen.be/](https://www.talentinvlaanderen.be/) 
 * [https://www.ictjob.be/nl/](https://www.ictjob.be/nl/) 
 * [https://be.onlysalesjob.com/nl](https://be.onlysalesjob.com/nl) 
