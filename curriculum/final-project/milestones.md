@@ -15,17 +15,18 @@ You will define your user, plan their journey through your application, develop 
 - [ ] [Defined team roles]()
 - [ ] [Project Constraints]()
 - [ ] [User Interviews]()
+- [ ] [User Personas]()
 ```
 
 ## Week 2
 
 Prepare yourselves for a 2-week sprint:
 
-* _collectively_:
-  * define team roles and plan milestones - so everyone's expectations are clear and aligned
-* _technically_:
-  * deployed three-tier "hello world" & CI/CD - so all you need to do is write code next week.
-  * define your project's tech stack. Are there new technologies your group wants to explore?
+- _collectively_:
+  - define team roles and plan milestones - so everyone's expectations are clear and aligned
+- _technically_:
+  - deployed three-tier "hello world" & CI/CD - so all you need to do is write code next week.
+  - define your project's tech stack. Are there new technologies your group wants to explore?
 
 ```text
 - [ ] [Repo README]()
@@ -69,10 +70,10 @@ Sprinting!
 
 Prepare the public face of your project.
 
-* Feature Freeze! Make sure everything in your deployed project is working, even if it means removing some features.
-* Landing page and video spot are ready so users can get to know your app
-* Pitch deck is prepared to attract new team members and \(possibly\) investors
-* Project repository is contributor-friendly and ready to make open-source proud
+- Feature Freeze! Make sure everything in your deployed project is working, even if it means removing some features.
+- Landing page and video spot are ready so users can get to know your app
+- Pitch deck is prepared to attract new team members and \(possibly\) investors
+- Project repository is contributor-friendly and ready to make open-source proud
 
 ```text
 - [ ] [Contributor-Friendly repo]()
@@ -82,4 +83,3 @@ Prepare the public face of your project.
 - [ ] [Pitch Deck]()
 - [ ] [Final Presentation]()
 ```
-
