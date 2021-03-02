@@ -55,7 +55,7 @@ When/if you break the class into a small groups for exercises and more coach con
 
 * 🥚 `:egg:` - "Join this group if you would like to step through the examples a few more times before moving on to the exercises."
 * 🐣 `:hatching_chick:` - "Join this group if you're eager to dive right into the exercises."
-* 🐥 `:hatched_chick:` - "Did you start the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic? 🐥 is the group for you!?
+* 🐥 `:hatched_chick:` - "Did you start the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic? This is the group for you.
 
 You can post three messages in the class slack channel, one with each emoji. In the thread for each emoji students will share a call link and begin working together in these groups. As coaches you can split between the groups and join their calls to guide the study sessions.
 
