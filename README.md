@@ -17,7 +17,7 @@ Enjoy the reading and please connect with us on social media! We're active on [F
 * 👐🏼 We breathe openness: We're fully open, according to the [Open Knowledge](http://be.okfn.org/) philosophy.
 * 🚀 We help you build your future, not your past: We train refugees and disadvantaged newcomers.
 * 🧡 We are like a family: Our format is based on a grassroots community with volunteer coaches and mentors.
-* 🧕 We advocate for diversity: We strongly encourage women to participate. 36% of our students are women.
+* 🧕 We advocate for diversity: We strongly encourage women to participate. 36% of our students are women. 
 
 ## Index
 

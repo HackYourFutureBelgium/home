@@ -1,12 +1,12 @@
-## Thank you for being our partner!
+# For Partners
+
+### Thank you for being our partner!
 
 Please read below what is expected of your role, how & when you can evaluate the students.
 
-----
+## For Partners
 
-# For Partners
-
-## Project Definition
+### Project Definition
 
 As a partner for the Final Project, there are two options:
 
@@ -15,12 +15,12 @@ As a partner for the Final Project, there are two options:
 
 All projects developed by the students must be open source and have a positive societal impact, meaning that we only work on projects that aim to build a better society \(to put it blundly: we won't build a project aiming to map gaz station for cars, just an example\).
 
-#### Timelime of the project definition
+**Timelime of the project definition**
 
 * **2 weeks before the start:** you - or the HackYourFuture team - fill in this form called "Project Template HackYourFuture Belgium" \(below\).
 * **1 week before the start:** we organize a sync call between the technical coach, the project partner and the HackYourFuture Team. During this call, we brief everyone on the project and remind the goals of the bootcamp \(see below\).
 
-## Your role as a partner
+### Your role as a partner
 
 **As a partner, your role will be to:**
 
@@ -38,20 +38,20 @@ All projects developed by the students must be open source and have a positive s
 
 **The most important factor for HackYourFuture Belgium is the learning process. We aim big and aim to create working prototypes. Yet, the technical output is not what matters the most. Soft skills are.**
 
-## Evaluation of the students
+### Evaluation of the students
 
 We are all here to help the students getting better at collaborating and giving them the opportunity to work on a real project. Constructive feedback is therefore crucial for the students to improve.
 
 Here's how to evaluate the students.
 
-### What to evaluate
+#### What to evaluate
 
-#### Before the meetings
+**Before the meetings**
 
 * [ ] Have the students reconfirm the meeting with you?
 * [ ] Have they send the meeting link?
 
-#### During the meetings
+**During the meetings**
 
 * [ ] Have they started the meeting by thanking you to be a partner? 
 * [ ] Have they presented themselves professionnaly? Is it clear for you who does what in the team?
@@ -60,27 +60,27 @@ Here's how to evaluate the students.
 * [ ] Is there someone in the group taking note of the feedback you are giving?
 * [ ] Is there someone from the group summarizing everything that was said and reconfirming the next steps?
 
-#### After the meetings
+**After the meetings**
 
 * [ ] Have the students send you a follow up email? 
 * [ ] Is this email clear regarding the next steps of the project? 
 * [ ] Have they reconfirm the next meeting with you? 
 
-#### Overall
+**Overall**
 
 * [ ] Do you feel that the students are well organized within their team? 
 * [ ] Do you feel important as a partner? Are the students taking your project needs and input in consideration? 
 * [ ] Is your role as a partner interesting for you? What is what you expected? 
 
-### When to evaluate
+#### When to evaluate
 
-#### Evaluation with students
+**Evaluation with students**
 
 We ask you to send a short evaluation back to the students **after each partner meetings.** This feedback can be send to the students by email.
 
 Example : _"The meeting today was very rich and I think we managed to answer a lot of questions. However, as a partner, I would have liked to receive more questions on why this project is important to me, what problem the project tries to solve. There was also a point where two students were interrupting each other in the meeting, which got me confused. For the next meeting, I would like you to set a clear agenda and define the roles of who will do what during the meeting. Example: a student leads the meeting, another takes note. Being organized will bring clarity and save both of us time."_
 
-#### Evaluation with the HackYourFuture Team
+**Evaluation with the HackYourFuture Team**
 
 * **During the bootcamp:** the HackYourFuture team will be closely in contact with the partner to follow up on the project. 
 * **The last week of the boocamp:** a member of the HackYourFuture team will hold a feedback session with each partner and technical coach to evaluate how the project went and what can be improved for the next one.
