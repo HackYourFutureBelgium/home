@@ -9,10 +9,11 @@ description: >-
 
 This space is dedicated to resources that may interest you to keep learning and improving your job hunting skills.
 
-### The Jobseekers Bible for a kickstart of your job search in the Belgian market
+## The Jobseekers Bible for a kickstart of your job search in the Belgian market
+
 [Jobseekers Bible](https://github.com/HackYourFutureBelgium/home/blob/master/alumni/Job%20Seekers%20Bible.pdf)
 
-### Mentorship programs in Belgium
+## Mentorship programs in Belgium
 
 Talent 2 Connect is a platform collecting different mentorship programs available in Belgium.
 
@@ -21,12 +22,12 @@ Talent 2 Connect is a platform collecting different mentorship programs availabl
 * [https://bindusvzw.be/projecten/trajectbegeleiding/bindusworks/](https://bindusvzw.be/projecten/trajectbegeleiding/bindusworks/) \(Brussels citizens only\)
 * [https://team4job.be/nl/home/](https://team4job.be/nl/home/) \(Brussels citizens only\)
 
-### Online communities
+## Online communities
 
 * [UX Antwerp](https://www.uxantwerp.be/)
 * [EditX Network](http://editx.eu/en/it-network/people)
 
-### Job searching websites
+## Job searching websites
 
 This is a non-exhaustive list of online vacancies.
 
@@ -53,7 +54,7 @@ This is a non-exhaustive list of online vacancies.
 * [https://egovselect.be/nl/vacatures](https://egovselect.be/nl/vacatures?) \(recruiter for Belgian government\)
 * [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs)
 
-### \(Free\) Online Courses
+## \(Free\) Online Courses
 
 * [https://www.ttl.academy/courses/](https://www.ttl.academy/courses/) \(Belgian company\)
 * [https://www.coursera.org/browse/information-technology](https://www.coursera.org/browse/information-technology)
