@@ -40,9 +40,9 @@ To learn more about the core curriculum, head over to [the full description](htt
 
 Full of links and helpful explanations contributed by HackYourFuture coaches and students, the [HackYourFuture Study Book](https://hackyourfuture.github.io/study) will be your trusty companion through late night study sessions.
 
-## Soft Skills
+## Career Skills
 
-Spaced through the Core Curriculum we will organise several soft skills workshops on **Sunday mornings** before class. These can cover everything from how to present yourself during a job interview, working remotely together, how to use LinkedIn as a tool, social integration programs who introduce themselves, to ... you name it!
+Spaced through the Core Curriculum we will organise several career skills workshops on **Sunday mornings** before class. These can cover everything from how to present yourself during a job interview, working remotely together, how to use LinkedIn as a tool, social integration programs who introduce themselves, to ... you name it!
 
 Get in touch with us if you have an idea to share for these sessions!
 

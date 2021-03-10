@@ -20,7 +20,7 @@ You will define your user, plan their journey through your application, develop 
 
 ## Week 2
 
-Prepare yourselves for a 2-week sprint:
+Prepare yourselves for 3 weeks of sprinting:
 
 * _collectively_:
   * define team roles and plan milestones - so everyone's expectations are clear and aligned
