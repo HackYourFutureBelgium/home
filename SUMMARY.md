@@ -22,6 +22,7 @@
     - [Presentation](curriculum/final-project/presentation.md)
     - [For Students](curriculum/final-project/for-students/README.md)
       - [Client Meetings](curriculum/final-project/for-students/client-meetings.md)
+      - [DevOps](curriculum/final-project/for-students/devops.md)
       - [Suggested Study](curriculum/final-project/for-students/suggested-study.md)
     - [For Coaches](curriculum/final-project/for-coaches.md)
     - [For Partners](curriculum/final-project/for-partners.md)

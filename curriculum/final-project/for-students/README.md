@@ -8,15 +8,17 @@ You will be working as a team on a 6-week project with evolving objectives. As a
 
 This is to be expected, embrace it!
 
-## Team Roles
+## Team Responsibilities
 
-It is not possible for everyone to understand everything in this project. Each team member will need to take ownership of one part of the project, they do not need to write all of the code for their part but will need to review all PR's and will have final say on any technical decisions. Here are some recommended roles, see if these make sense for your team:
+Everything is everyone's responsibility, a software product is complicated and all the pieces are interconnected. It's not possible to say "not my code, not my problem". But on the other hand a software product is complicated, so it's not possible for everyone to know everything. Being a [responsible developer](https://madewithlove.com/blog/leadership-and-team-management/seniority-level-in-software-engineering-and-how-to-assess-it/#responsible-developers) means finding the balance between taking ownership and relying on your team mates.
 
-* Project Owner: Generally, a great communicator with the most product experience on the team, they are expected to keep an eye on the entire project's progress and technical quality. They are responsible for the on-time delivery of a quality project.
-* Dev-Ops: The team member responsible for the live deployment. They will have final decisions on all questions related to CI/CD and hosting.
-* UX/UI: This team member has final responsibility for decisions that impact the user's experience on the website. This role is not as simple as drawing wireframes! They will need to be in close contact with everyone at every step of the way, the suggestions you make must be realistic for your team mates to develop in the time that you have.
-* Frontend: Ultimately responsible for the frontend code, this team member will have final say on decisions related to code organization, styling dependencies, and third-party libraries. You will need to work very closely with those responsible for UX/UI and backend.
-* Backend: Ultimately responsible for the project's API and data schemas, you will need to work closely with the Frontend owner to make sure your routes and schemas align with their code, and with the Dev-Ops to make sure your backend is compatible with the project's Continuous Deployment.
+For the final project, each team member will take on one primary responsibility. You do not need to write all of the code for your part, make the final decisions for your part, or even understand everything! When you take responsibility for one role in your team it just means that you will stay follow up on this piece of the project to make sure it succeeds. If something needs to happen you will make sure it happens and that everyone knows the new status. Here are some recommended roles, see if these make sense for your team:
+
+- Project Manager: Generally, a great communicator with the most product experience on the team, they are expected to keep an eye on the entire project's progress, group dynamics, and technical quality. They are responsible for the on-time delivery of a quality project.
+- Site Reliability: The team member responsible for the live deployment. They will ensure that there is always a live hosting of the website and that it is deployed in a sane and scalable way.
+- UX/UI: This team member has responsibility for the user's experience on the website. This role is not as simple as drawing wireframes! They will need to be in close contact with everyone at every step of the way, the suggestions you make must be realistic for your team mates to develop in the time that you have.
+- Frontend: Responsible for the frontend code, this team member will be involved with decisions related to code organization, styling dependencies, third-party libraries, ... You will need to work very closely with those responsible for UX/UI and backend.
+- Backend: Responsible for the project's API and data schemas, you will need to work closely with the Frontend owner to make sure your routes and schemas align with their code, and with the Dev-Ops to make sure your backend is compatible with the project's deployment strategy.
 
 No matter what role you take, you will still be expected to help develop the backlog of issues and review your team mates PRs.
 
@@ -68,4 +70,3 @@ Except for Git and SSH, you are free to use any software or hardware stack that 
 **2. Freedom to learn**
 
 Each Final Project will inlcude [weekly workshops](https://github.com/HackYourFutureBelgium/home/blob/master/curriculum/final-project/weekly-workshops.md) that will help you build your project. You can also ask coaches to dive deeper into one specific skill or project management tool or, you name it. This depends on what you want to learn.
-
