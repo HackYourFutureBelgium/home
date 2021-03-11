@@ -28,6 +28,7 @@
     - [For Partners](curriculum/final-project/for-partners.md)
   - [Study Book](https://hackyourfuture.github.io/study)
 - [Students](students/README.md)
+  - [Typical Week](/students/typical-week.md)
   - [Sunday Class](students/sunday-class/README.md)
     - [Train tickets](students/sunday-class/train-tickets.md)
   - [HYF Workflows](students/hyf-workflows/README.md)
