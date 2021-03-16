@@ -71,4 +71,6 @@ There is a center avenue Louise in Brussels where you can pass that certificatio
 ### UI
 * [Design rules](https://www.udemy.com/course/design-rules/learn/lecture/10540402?start=0#overview)
 * [Sketch deisgn](https://www.udemy.com/course/sketchdesign/learn/lecture/11557726#overview)
-*
+
+If you want to become a specialist, the most reknown trainings are delivered by [Niels Norman Group](https://www.nngroup.com/ux-certification/)
+
