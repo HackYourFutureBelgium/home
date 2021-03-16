@@ -54,9 +54,21 @@ This is a non-exhaustive list of online vacancies.
 * [https://egovselect.be/nl/vacatures](https://egovselect.be/nl/vacatures?) \(recruiter for Belgian government\)
 * [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs)
 
-## \(Free\) Online Courses
+## \(Free\) Online Courses for Web development
 
 * [https://www.ttl.academy/courses/](https://www.ttl.academy/courses/) \(Belgian company\)
 * [https://www.coursera.org/browse/information-technology](https://www.coursera.org/browse/information-technology)
 * [https://www.sololearn.com/](https://www.sololearn.com/)
 * 
+
+## (Free) Online Courses for UX/UI Design
+### UX
+* https://www.udemy.com/course/ultimate-guide-to-ux/
+
+If you wish to have a certification, there is [The Chartered Institute for IT] in Brussels (Avenue Louise): "Foundation Certificate in User Experience BCS.
+There is a center avenue Louise in Brussels where you can pass that certification.
+
+### UI
+* [Design rules](https://www.udemy.com/course/design-rules/learn/lecture/10540402?start=0#overview)
+* [Sketch deisgn](https://www.udemy.com/course/sketchdesign/learn/lecture/11557726#overview)
+*
