@@ -15,6 +15,7 @@
     - [Asynchronous Programming - 3 wk](curriculum/core/asynchronous-programming.md)
     - [Web Apps - 5 wk](curriculum/core/web-apps.md)
     - [Databases - 2 wk](curriculum/core/databases.md)
+  - [Career Skills](curriculum/career-skills/README.md)
   - [Final Project](curriculum/final-project/README.md)
     - [Deliverables](curriculum/final-project/deliverables.md)
     - [Milestones](curriculum/final-project/milestones.md)
