@@ -53,8 +53,8 @@ Learning to read your code aloud and to pronounce the strange syntax in JavaScri
 As humans we are 'designed' to be distracted. Therefore, your study/work environment is an important aspect of how effective you learn.
 Here are some Time Management tools you can use to organise your work.
 
-* [Trello](https://trello.com/)
-* [Notion](https://www.notion.so/)
+* [Trello](https://trello.com/) - Project Management
+* [Notion](https://www.notion.so/) - All-in-one Workspace
 * [Asana](https://asana.com/) - Project Management Tool
 
 You can find our Career Skills Session on Time Management here:
