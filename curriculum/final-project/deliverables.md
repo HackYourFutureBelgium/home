@@ -1,7 +1,11 @@
 # Deliverables
 
-This module is all about delivering! By the end of your 6 weeks your team needs to be ready to pitch your project at graduation day! Let the countdown begin ;\)  
+This module is all about delivering! By the end of your 6 weeks your team needs to be ready to pitch your project at graduation day! Let the countdown begin ;\)
 You will be expected to deliver:
+
+## Project Organization
+
+A [new GitHub organization](https://github.com/organizations/plan) for your team's final project. You'll use this organization to host your main project, landing page, and any other planning or experimental repositories.
 
 ## Contributor-Friendly Repo
 
@@ -9,16 +13,17 @@ You will be expected to deliver:
 
 Working code is not enough! Your team will need to produce a contributor-friendly repository. If you work carefully over the 5 weeks this will not be much extra work. A good repository will include:
 
-* A complete README with all the information someone needs to run the project locally
-* Code of conduct
-* Contributor Guidelines
-* License
-* Wiki with documentation and project overview
-* Clearly organized and working code on the master branch
-* An overview of how the code is organized and where to find what
-* Well defined issues for contributors to select
-* Well-managed branches
-* A defined PR and Code Review process
+- A complete README with all the information someone needs to run the project locally
+- Code of conduct
+- Contributor Guidelines
+- License
+- Wiki with documentation and project overview
+- Clearly organized and working code on the master branch
+- An overview of how the code is organized and where to find what
+- Well defined issues for contributors to select
+- Well-managed branches
+- A defined PR and Code Review process
+- Some documentation (a wiki can work well for this)
 
 ## Minimal Viable Product
 
@@ -44,24 +49,23 @@ Think of the adds you'd see on Youtube, this is what you're aiming for. Be creat
 
 Create a short slide show to explain your project in under 2 minutes. Your audience is a potential user, you will need to convince them of:
 
-* why they want to use your service
-* why it is better than other alternatives
-* why you are the best team for the job
+- why they want to use your service
+- why it is better than other alternatives
+- why you are the best team for the job
 
 ## Final Presentation
 
 Finally, your team will need to present all of this on graduation day. Divide the presentation among yourselves, each team member should speak at least once. Things you may want to mention in your presentation:
 
-* who is on your team
-* what you built and why
-  * screen shots of the landing page
-  * embed the video spot
-* screen shots/gifs of the live demo
-* about your journey
-  * development process
-  * what you learned
-  * what was challenging
-  * what was fun
-  * ...
-* ... this is your project, be proud of yourselves :\)
-
+- who is on your team
+- what you built and why
+  - screen shots of the landing page
+  - embed the video spot
+- screen shots/gifs of the live demo
+- about your journey
+  - development process
+  - what you learned
+  - what was challenging
+  - what was fun
+  - ...
+- ... this is your project, be proud of yourselves :\)
