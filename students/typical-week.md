@@ -8,13 +8,13 @@ The more you participate and become part of the HYF community, the more people a
 
 ## Sunday
 
-- 10:30 - 11:30: Career Skills
-  - Guest workshops covering important skills that are not in the core curriculum
-  - These will not happen every Sunday
-- 11:30 - 12h: Prep
-  - leave your comment in the week's `roll-call`
-  - go over any `question` issues together
-- 12h - 16h: Class
+* 10:30 - 11:30: Career Skills
+  * Guest workshops covering important skills that are not in the core curriculum
+  * These will not happen every Sunday
+* 11:30 - 12h: Prep
+  * leave your comment in the week's `roll-call`
+  * go over any `question` issues together
+* 12h - 16h: Class
   1. Review
   2. Presentation 1
   3. Group work
@@ -25,36 +25,37 @@ The more you participate and become part of the HYF community, the more people a
 
 ## Monday
 
-- Plan the week's project
-- Set up the project repository
-- Individual study
+* Plan the week's project
+* Set up the project repository
+* Individual study
 
 ## Tuesday
 
-- Begin developing the project
-- Individual study
+* Begin developing the project
+* Individual study
 
 ## Wednesday
 
-- check-in!
-- Class review call (if you organize one)
-- Individual study
+* check-in!
+* Class review call \(if you organize one\)
+* Individual study
 
 ## Thursday
 
-- Begin prep work for Sunday
-- Individual study
+* Begin prep work for Sunday
+* Individual study
 
 ## Friday
 
-- Weekly project MVP
-  - Merge all `must-have` PRs
-  - Stop adding new features
-  - Make sure what's there works
-  - Move your issue to READY FOR REVieW
-- Individual study
+* Weekly project MVP
+  * Merge all `must-have` PRs
+  * Stop adding new features
+  * Make sure what's there works
+  * Move your issue to READY FOR REVieW
+* Individual study
 
 ## Saturday
 
-- Family, friends, rest & play
-- Individual study (optional ;)
+* Family, friends, rest & play
+* Individual study \(optional ;\)
+

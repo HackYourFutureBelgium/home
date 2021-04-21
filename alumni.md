@@ -53,6 +53,8 @@ This is a non-exhaustive list of online vacancies.
 * [https://www.vdab.be/digitalisering/bedrijven](https://www.vdab.be/digitalisering/bedrijven)
 * [https://egovselect.be/nl/vacatures](https://egovselect.be/nl/vacatures?) \(recruiter for Belgian government\)
 * [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs)
+* [https://www.brunel.be/nl-be/vacatures](https://www.brunel.be/nl-be/vacatures)
+* [https://www.vindeenjob.be/](https://www.vindeenjob.be/)
 
 ## \(Free\) Online Courses for Web development
 
@@ -60,15 +62,16 @@ This is a non-exhaustive list of online vacancies.
 * [https://www.coursera.org/browse/information-technology](https://www.coursera.org/browse/information-technology)
 * [https://www.sololearn.com/](https://www.sololearn.com/)
 * 
+## \(Free\) Online Courses for UX/UI Design
 
-## (Free) Online Courses for UX/UI Design
 ### UX
-* https://www.udemy.com/course/ultimate-guide-to-ux/
 
-If you wish to have a certification, there is [The Chartered Institute for IT] in Brussels (Avenue Louise): "Foundation Certificate in User Experience BCS.
-There is a center avenue Louise in Brussels where you can pass that certification.
+* [https://www.udemy.com/course/ultimate-guide-to-ux/](https://www.udemy.com/course/ultimate-guide-to-ux/)
+
+If you wish to have a certification, there is \[The Chartered Institute for IT\] in Brussels \(Avenue Louise\): "Foundation Certificate in User Experience BCS. There is a center avenue Louise in Brussels where you can pass that certification.
 
 ### UI
+
 * [Design rules](https://www.udemy.com/course/design-rules/learn/lecture/10540402?start=0#overview)
 * [Sketch deisgn](https://www.udemy.com/course/sketchdesign/learn/lecture/11557726#overview)
 
