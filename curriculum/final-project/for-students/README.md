@@ -37,8 +37,8 @@ You are still learning! The primary objective in this module is to learn how to 
 
 ## When working online \(remote edition\)
 
-1. [ ] **Schedule**: we work 8 hours per day, from 9am until 5pm
-2. [ ] **Be responsive:** we expect you to be connected and responsive on slack all day.
+1. [ ] **Schedule**: Make sure you make a schedule with your team mates, so you know who'll be working when, when you do standup, meetings, etc.
+2. [ ] **Be responsive:** we expect you to be connected and responsive on Slack.
 3. [ ] **Be vocal:** we can't see or hear each other all the time \(which is the case in a live setting\). So nobody will know when you're in doubt, or in need of help – if you do not speak up.
 4. [ ] **Working Out Loud:** Keep your teammates up-to-date on what you're doing. Update your tasks in your project management tool \(trello, kanban, github, ...\), hang out in the voice chats, perform daily standups, ... Whatever works for the team, just make sure you know what your teammates are doing and how they are doing!
 5. [ ] **Ask for help:** Don't stay stuck in a loop for longer than 20 minutes. There's plenty of ways to ask for help, don't be afraid to ask for it!
