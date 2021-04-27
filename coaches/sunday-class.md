@@ -12,23 +12,23 @@ You are expected to **do the coach prep work** _**before**_ **arriving**. This i
 
 ## The Week Before Class
 
-* [ ] Have a call with your fellow coaches and an HYF team member
-* [ ] Review the class schedule \(this document!\).
-* [ ] Read through the class' objectives and exercises.
-* [ ] Assign yourselves between the small groups
-* [ ] Decide who will lead the review session.
-* [ ] Decide who will introduce the exercises in the first half.
-* [ ] Decide who will introduce the project in the second half.
-* [ ] Decide who will introduce the next week's homework.
+- [ ] Have a call with your fellow coaches and an HYF team member
+- [ ] Review the class schedule \(this document!\).
+- [ ] Read through the class' objectives and exercises.
+- [ ] Assign yourselves between the small groups
+- [ ] Decide who will lead the review session.
+- [ ] Decide who will introduce the exercises in the first half.
+- [ ] Decide who will introduce the project in the second half.
+- [ ] Decide who will introduce the next week's homework.
 
 ## Sunday Before Class
 
-* [ ] Look through all the `question` and `help-wanted` issues in the class repo to prep for the review session
-* [ ] Share the week's _Roll Call_ issue ~30 minutes before class. Close this issue when class begins, students commenting after the issue is closed will be counted as late.
-* [ ] Record your full-class sessions \(review/isolate, integrate, homework launch\)
-* [ ] Save enough time for small group study!
-* [ ] Lead a Standup meeting when your group meets for the Isolate exercises
-* [ ] Post & pin a [Slack Poll](sunday-class.md#slack-poll) after each group study session
+- [ ] Look through all the `question` and `help-wanted` issues in the class repo to prep for the review session
+- [ ] Share the week's _Roll Call_ issue ~30 minutes before class. Close this issue when class begins, students commenting after the issue is closed will be counted as late.
+- [ ] Record your full-class sessions \(review/isolate, integrate, homework launch\)
+- [ ] Save enough time for small group study!
+- [ ] Lead a Standup meeting when your group meets for the Isolate exercises
+- [ ] Post & pin a [Slack Poll](sunday-class.md#slack-poll) after each group study session
 
 ## Slack Polls
 
@@ -51,17 +51,30 @@ Anything else to add?  Leave a comment on this post!
 
 ## Small Group Sessions
 
-When/if you break the class into a small groups for exercises and more coach contact, we've found it's best to form the groups based on their comfort-level with the new material. This is a system the students should be familiar, but feel free to create more or less groups depending on your class' needs:
+Splitting to small groups each Sunday is very important. It gives the students a chance to be more engaged, and is a better use of time when there is more than one coach. Here are a few ways you can divide the class into groups:
 
-* 🥚 `:egg:` - "Join this group if you would like to step through the examples a few more times before moving on to the exercises."
-* 🐣 `:hatching_chick:` - "Join this group if you're eager to dive right into the exercises."
-* 🐥 `:hatched_chick:` - "Did you start the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic? This is the group for you.
+### Randomly
 
-You can post three messages in the class slack channel, one with each emoji. In the thread for each emoji students will share a call link and begin working together in these groups. As coaches you can split between the groups and join their calls to guide the study sessions.
+Each class repository comes with a random group generator, you can find it at `https://hackyourfuturebelgium.github.io/class-x/randomizer`. To use random groups you can generate one group per coach before class and share the permalink to the students. When it's time to form groups everyone knows where to go!
+
+If you use random groups you will need to be aware of levels in your group. Each group will have some students that are futher ahead, it can be discouraging for others if they ask more difficult questions or ask about material beyond the day's lesson.
+
+### By Level
+
+The other way to form groups is based on their comfort-level with the new material. Feel free to create more or less groups depending on how many coaches are available. You can post three messages in the class slack channel, one with each emoji along with a link to your call, his is just a suggestion:
+
+- 🥚 `:egg:` - "Join this group if you would like to step through the examples a few more times before moving on to the exercises."
+- 🐣 `:hatching_chick:` - "Join this group if you're eager to dive right into the exercises."
+- 🐥 `:hatched_chick:` - "Did you start the exercises before class? Do you want to explore harder problems or take a deeper look into this this topic? This is the group for you.
+
+If you use groups by level you will need to be aware of group size. If you find that one group is huge and the others have only a couple people it may be a good idea to use random groups next time. This way you can have a better student/coach ratio.
+
+### By Project Group
+
+If you are in a module that has a multi-week group project the best way to form small groups is by project group. This makes it easier for each group to get help on their project, and to plan how they will incorporate Sunday's material into their next week's plan.
 
 ## After Class
 
-* [ ] Uploaded and link to your class recordings in the class repo.
-* [ ] Send an end-of-day message on the class channel.
-* [ ] Send follow-up messages to any students who were struggling, or had questions outside the scope of class.
-
+- [ ] Uploaded and link to your class recordings in the class repo.
+- [ ] Send an end-of-day message on the class channel.
+- [ ] Send follow-up messages to any students who were struggling, or had questions outside the scope of class.
