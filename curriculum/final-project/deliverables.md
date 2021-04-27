@@ -8,7 +8,7 @@ A [new GitHub organization](https://github.com/organizations/plan) for your team
 
 ## Contributor-Friendly Repo
 
-> You will build your final project from this [starter repository](deliverables.md). It comes pre-packaged with the everything you need for continuous integration testing, and continuous deployment.
+> You will build your final project from this [starter repository](https://github.com/HackYourFutureBelgium/organized-for-deployment). It comes pre-packaged with the everything you need for continuous integration testing, and continuous deployment.
 
 Working code is not enough! Your team will need to produce a contributor-friendly repository. If you work carefully over the 5 weeks this will not be much extra work. A good repository will include:
 
