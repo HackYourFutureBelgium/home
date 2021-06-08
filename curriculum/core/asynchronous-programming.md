@@ -1,6 +1,6 @@
 # Asynchronous Programming - 3 wk
 
-> 3 weeks. Find the Module repository [right here](https://github.com/hackyoufuturebelgium/asynchronous-programming)
+> 3 weeks. Find the Module repository [right here](https://github.com/hackyourfuturebelgium/asynchronous-programming)
 
 "The Internet", "The Web", "Web Apps". All of these terms describe something that is interconnected. If you zoom out a bit, the entire internet is basically billions of computers all sharing information and software! But so far your projects have been all alone on your computer :\(
 
