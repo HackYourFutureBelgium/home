@@ -6,4 +6,6 @@
 * Rob Segers - [How to Increase Focus & Productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
 * Sanna Toropainen - [How to use LinkedIn as a tool](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How%20to%20use%20LinkedIn.pdf)
 * Arnaud Nisez Keytrade Bank - [Introduction to Agile Development](https://vimeo.com/493035855/b4e2d05fa4)
+* Bart Hunerbein - [Infosession on Dutch courses in web development](https://www.canva.com/design/DAEg42UnJOQ/akmnXnpruFqIwkE9ZYNP6A/view?utm_content=DAEg42UnJOQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#4)
+* 
 
