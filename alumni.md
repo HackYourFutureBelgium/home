@@ -56,6 +56,11 @@ This is a non-exhaustive list of online vacancies.
 * [https://www.brunel.be/nl-be/vacatures](https://www.brunel.be/nl-be/vacatures)
 * [https://www.vindeenjob.be/](https://www.vindeenjob.be/)
 
+## Salary compasses
+* [Glassdoor](www.glassdoor.com)
+* [Jobat](https://www.jobat.be/en/salary-calculator/)
+
+
 ## \(Free\) Online Courses for Web development
 
 * [https://www.ttl.academy/courses/](https://www.ttl.academy/courses/) \(Belgian company\)
