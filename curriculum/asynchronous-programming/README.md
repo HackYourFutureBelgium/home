@@ -1,6 +1,6 @@
 # Asynchronous Programming
 
-[<< Architecture](../architecture/README.md) | [Top](../README.md) | [Web Apps >>](<../web-ap[Top](../README.md)>)
+[<< Architecture](../architecture/README.md) | [Top](../README.md) | [Web Apps >>](../web-apps/README.md)
 
 > "Synchronous basically means that you can only execute one thing at a time. Asynchronous means that you can execute multiple things at a time and you don't have to finish executing the current thing in order to move on to next one."
 >
