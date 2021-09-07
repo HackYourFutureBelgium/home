@@ -18,12 +18,9 @@ base-level requirements:
 
 ## Programming is Communication
 
-<details>
-<summary>who is communicating with who?</summary>
+Software creates a complicated series of communications between developers, computers, users and society in general. This diagram gives a simplified overview of the different channels of communication you'll explore while at HYF Belgium:
 
 ![rhetorical situation](./rhetorical-situation.png)
-
-</details>
 
 ## Layers of Skills
 
