@@ -67,7 +67,7 @@ Software Development is a many layered skill. One way to break it down is to thi
 
 ---
 
-## About The Modules
+## Learning Objectives
 
 This curriculum is broken up into modules of 2-5 weeks. Each of the modules introduces a new principle of software development, building on the last module to give you a 360 view what it takes to become a developer your colleagues can rely on.
 
@@ -78,7 +78,9 @@ Each module has it's own learning objectives determined by the sub-skills requir
 - 🐥: a student understands the basic zoomed-out idea of this skill but may not be comfortable or proficient applying it. A learning task submitted at the end of the module may include attempts at applying these skills.
 - 🐔: learning this skill is not required for the module's learning task but is relevant, if the student shows appropriate mastery of 🥚, 🐣 and 🐥 objectives. A learning task submitted at the end of the module should not demonstrate these skills if the higher priorities are not accounted for.
 
-And finally, the modules!
+---
+
+## Modules Overview
 
 - [Application](./application/README.md) and [Precourse](./precourse/README.md):
   - First steps into HTML, CSS & JS.
