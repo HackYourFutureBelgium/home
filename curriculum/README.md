@@ -1,74 +1,118 @@
 # Curriculum
 
-Hello! And welcome to the HackYourFuture Belgium Curriculum. We have different offerings to help you along your entire journey from before class starts to after your first job as a web developer.
+Hello! And welcome to the HackYourFuture Belgium Curriculum.
 
-Let's take a walk through them all:
+<!-- ## Student Persona
 
-## Intro Sessions
+Who is this class for?
 
-These workshops are +/-2 hours, open to anyone interested in HYF.
+base-level requirements:
 
-Besides taking your first steps into the world of web development you'll get a chance to meet some of our coaches, current students, alumni and other future students such as yourself!
+- good-enough english
+- written communication skills (write a tidy and coherent email, follow written instructions, ... ?)
+- basic computer skills (files, applications, ... ?)
+- _minimum_ 35 hours per week to study
+- a reliable internet connection and place to study
 
-> To learn about future events, keep an eye on [our website](https://hackyourfuture.be), [Twitter](https://twitter.com/HackYFutureBE), [Facebook](https://www.facebook.com/HackYFutureBE/) or [Eventbrite](https://www.eventbrite.be/o/hackyourfuture-belgium-17962288989)
+--- -->
 
-## Application Process
+## Programming is Communication
 
-So you want to become an HackYourFuture student? You can apply when our call for applications is open.
+<details>
+<summary>who is communicating with who?</summary>
 
-The **application process** will consist of the following steps:
+![rhetorical situation](./rhetorical-situation.png)
 
-1. **Submit your initial application** using the [**Apply Now**](https://hackyourfuture.be/) button on our landing page: [www.hackyourfuture.be](https://www.hackyourfuture.be).
-2. You will receive an e-mail with instructions and information about how to complete the next step, **our** _**technical assignment**_.
-3. Complete and submit your technical assignment! You will need access to **a computer** with an **internet connection**, but it does not need to be your own. Everything can be completed with online accounts. The technical assignment doesn't require past experience with programming.
-4. If you showed strong motivation in your application and did well on your technical assignment, you will be invited for **a video interview**. Here we can get to know each other and figure out if HackYourFuture is a good fit for you. An **intermediate level of English** is required to start our program, so we'll assess this as well during the interview.. In case you won't be invited for a video interview, we will give you specific feedback.
-5. After all applicants have had their interviews, we will get back to you with **an email stating whether you are accepted** for our next class. If HackYourFuture isn't the best fit for you \(yet\), we can help you find an organisation that will be or lead you to one of our partners, aiming to facilitate the integration of newcomers in Belgium.
+</details>
 
-_PS. You aren't required to join an Intro Session before applying to HackYourFuture._
+## Layers of Skills
 
-> For the next application deadlines, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE) or [Facebook](https://www.facebook.com/HackYFutureBE/).
+Software Development is a many layered skill. One way to break it down is to think of these layers:
 
-## Core Curriculum
+1. **Context**: _Who uses a program, and how it was developed_
+   - Real people will use your software, is it accessible to them?
+   - Your software exists in a society, what it's impact on others?
+   - Someone planned and build your software, what were their motivations?
+2. **Source Code**: _The basic literacy of programming_
+   - Learning the key words (_vocabulary_) and syntax (_grammar_) for your programming language
+   - Being able to read your code out loud, tracing it's execution as a computer would
+   - Understanding what the developer wanted to say with their code
+   - > **Welcome to JS** will focus on these skills\_
+3. **Machine Instructions**: _The basic mechanics of programming_
+   - Understanding the life-cycle of your program
+   - Understand how the computer will interpret your source code to create a running program
+   - Understand what about your code matters to the computer, and what matters to people
+   - Fixing syntax errors that occur when you try to run your code
+   - Predicting which lines of code will be executed in which order
+   - Predicting how each line of code will change what is stored in program memory
+   - Reading error messages & callstacks to fix fix semantic errors that occur when you run your code
+   - > **Debugging** will focus on these skills\_
+4. **Problem Solving & Algorithms**: _Breaking down large problems to be solved in small steps_
+   - Understanding a coding challenge and being able to break it down in different ways
+   - Determining which solution strategies are correct for which types of problems
+   - Understanding how test cases are used to describe your solution strategy
+   - Identifying the best language feature to use with your strategy
+   - Reading test cases to understand how code is _supposed to_ behave
+   - Using Test Cases to structure your solution design process (Test Driven Development)
+   - Identifying and isolating mistakes in your code by reading failing test cases
+   - Demonstrating your code does what you think it does by passing test cases
+   - > _**Behavior, Strategy, Implementation** Module will focus on these skills_
+5. **Software Design**: _Organizing smaller pieces of code into full software solutions_
+   - All in good time ;)
+   - > _Every module starting with **Separation of Concerns** will focus on these skills_
 
-After you are accepted as a student at HackYourFuture you will begin studying the _Core Curriculum_. In these 8 months you will learn the foundations of collaborating on a web application.
+<!-- 1. **User Experience**:
+2. **Larger Impact**
+3. **Source Code**:
+4. **Machine Instructions**:
+5. **Problem Solving & Algorithms**:
+6. **Software Design**: -->
 
-It won't be easy but it will be worth it!
+---
 
-To learn more about the core curriculum, head over to [the full description](https://home.hackyourfuture.be/curriculum/core)
+## About The Modules
 
-## Study Book
+This curriculum is broken up into modules of 2-5 weeks. Each of the modules introduces a new principle of software development, building on the last module to give you a 360 view what it takes to become a developer your colleagues can rely on.
 
-Full of links and helpful explanations contributed by HackYourFuture coaches and students, the [HackYourFuture Study Book](https://hackyourfuture.github.io/study) will be your trusty companion through late night study sessions.
+Each module has it's own learning objectives determined by the sub-skills required to complete the module's projects. You can prioritize your study time and assess yourself based on each objective's priority:
 
-## Career Skills
+- 🥚: a student can apply this skill comfortably within the module's learning task with access to references. A learning task submitted at the end of the module should demonstrate proficiency in these objectives.
+- 🐣: a student can apply this skill with effort and frequent support from references. A learning task submitted at the end of the module should demonstrate partial application of these skills.
+- 🐥: a student understands the basic zoomed-out idea of this skill but may not be comfortable or proficient applying it. A learning task submitted at the end of the module may include attempts at applying these skills.
+- 🐔: learning this skill is not required for the module's learning task but is relevant, if the student shows appropriate mastery of 🥚, 🐣 and 🐥 objectives. A learning task submitted at the end of the module should not demonstrate these skills if the higher priorities are not accounted for.
 
-Spaced through the Core Curriculum we will organise several career skills workshops on **Sunday mornings** before class. These can cover everything from how to present yourself during a job interview, working remotely together, how to use LinkedIn as a tool, social integration programs who introduce themselves, to ... you name it!
+And finally, the modules!
 
-Get in touch with us if you have an idea to share for these sessions!
+- [Application](./application/README.md) and [Precourse](./precourse/README.md):
+  - First steps into HTML, CSS & JS.
+  - Set up your computer for the rest of the course.
+- [Workflows](./workflows/README.md), [Incremental Development](./incremental-development/README.md) and [UX/UI Design](./ux-ui-design/README.md)
+  - Master your computer and development workflows
+  - Design, plan and develop accessible web pages
+  - Learn about collaboration and Open Source software
+- [Welcome to JS](./welcome-to-js/README.md), [Debugging](./debugging/README.md) and [Behavior, Strategy, Implementation](./behavior-strategy-implementation/README.md)
+  - Reading, describing, modifying and writing small JS programs.
+  - Understanding how the JavaScript engine reads and executes your instructions.
+  - Documenting and testing JS functions.
+  - Collaborating on a JS code base: code review and consistent code quality.
+- [Separation of Concerns](./separation-of-concerns/README.md) and [Architecture](./architecture/README.md)
+  - Event-Driven programming in the browser.
+  - Function Roles: organizing code based on the role it plays in your program.
+  - Planning and collaborating on interactive JS web pages.
+  - Program state and persistence.
+- [Asynchronous Programming](./asynchronous-programming/README.md)
+  - The JavaScript Event Loop.
+  - Different JS runtime environments: Browser vs. Node.js
+  - Different ways to store and access data: APIs and the File System.
+  - First introduction to the client/server model and HTTP.
+- [Web Apps](./web-apps/README.md) and [Databases](./databases/README.md)
+  - Using Express to build a RESTful API.
+  - Fullstack applications: connecting the frontend to the backend.
+  - Modeling and storing data in a Relational Database.
+- [Agile Development](./agile-development/README.md)
+  - Developing a digital product from ideation to delivery.
+  - Practicing the agile/scrum methodology.
+  - Continuous deployment, cloud hosting and site reliability
+  - Branding and pitching.
 
-## Final Project
-
-Imagine, design and develop a project in 6 weeks. **It's the real deal**.
-
-You will be working in teams of 5-8 with a coach to practice everything you learned in the Core Curriculum. Along the way you will explore the worlds of DevOps, Agile Development, and much more! It's up to your team or client what to build an how to build it.
-
-Completing a Final Project is required to graduate from HackYourFuture. After you have completed the Core Curriculum you can continue directly into the Final Project, or take some time to review before joining the next.
-
-Alumni are always welcome to join the next Final Project :\)!
-
-## Master Classes
-
-Master Classes are open to all students who have completed the Core Curriculum. You can use these to level up on what you have already learned or to take your first steps into new technologies.
-
-There is no regular schedule of master classes, the classes we offer will depend on student interest and which coaches are available to teach. Topics can include:
-
-* Typescript
-* Data Structures & Algorithms
-* Dockers
-* Quality Assurance
-* Java
-* Python
-* ... and many more!
-
-Is there a topic you would like to see on this list? Get in touch to let us know!
-
+---
