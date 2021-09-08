@@ -26,8 +26,9 @@
   1. Callbacks
   2. Promises
   3. `async`/`await`
-- 🐣 You can break a problem down into tasks that can be executed in parallel and tasks that must be executed sequentially.
+- 🐣 You can break down an asynchronous problem into smaller tasks and solve it using promises. This includes identify which tasks depend on each other and which are independent:
+  - _dependent tasks_: The return value from one task is required to start the next task, these must be completed in a specific order - `.then`
+  - _independent tasks_: These tasks do not use each other's return values, they can be completed at the same time - `Promise.all`
 - 🐣 You can write small programs with a Data Access layer that uses data stored in different locations:
   - **Browser**: You can write a small web page that `fetch`es data from a RESTful API and renders it into the DOM.
   - **Node**: You can write a small CLI program that reads user input from `process.argv` and reads/writes the file system.
-- 🐥 You can explain the difference between _asynchronous_ anwd _parallel_, and can apply this to reading programs written with JavaScript.
