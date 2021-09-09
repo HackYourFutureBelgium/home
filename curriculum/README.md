@@ -73,9 +73,9 @@ This curriculum is broken up into modules of 2-5 weeks. Each of the modules intr
 
 Each module has it's own learning objectives determined by the sub-skills required to complete the module's projects. You can prioritize your study time and assess yourself based on each objective's priority:
 
-- 🥚: a student can apply this skill comfortably within the module's learning task with access to references. A learning task submitted at the end of the module should demonstrate proficiency in these objectives.
-- 🐣: a student can apply this skill with effort and frequent support from references. A learning task submitted at the end of the module should demonstrate partial application of these skills.
-- 🐥: a student understands the basic zoomed-out idea of this skill but may not be comfortable or proficient applying it. A learning task submitted at the end of the module may include attempts at applying these skills.
+- 🥚: You can apply this skill comfortably within the module's learning task with access to references. A learning task submitted at the end of the module should demonstrate proficiency in these objectives.
+- 🐣: You can apply this skill with effort and frequent support from references. A learning task submitted at the end of the module should demonstrate partial application of these skills.
+- 🐥: You understands the basic zoomed-out idea of this skill but may not be comfortable or proficient applying it. A learning task submitted at the end of the module may include attempts at applying these skills.
 - 🐔: learning this skill is not required for the module's learning task but is relevant, if the student shows appropriate mastery of 🥚, 🐣 and 🐥 objectives. A learning task submitted at the end of the module should not demonstrate these skills if the higher priorities are not accounted for.
 
 ---

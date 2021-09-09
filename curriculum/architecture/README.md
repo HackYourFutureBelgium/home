@@ -21,6 +21,7 @@
   - **_Data Access_**: This layer is responsible for _persisting_ your data, reading and writing from wherever it is stored. This layer has no fancy logic, it just gets things and puts things away again.
   - **_Business Logic_**: This layer is responsible for all the important _actions_ in your application. The Business Logic layer _does not ever_ interact directly with the user or the user interface. Instead it takes in JS data from the Presentation layer, reads/writes state via the Data Access layer, and returns new data for the Presentation Layer to render.
   - **_Presentation_**: This is the layer you studied in Separation of Concerns. It renders program state for the user, and handles their interactions. It's possible to different presentation layers for the same business logic!
+- 🥚 **Abstraction**: You can explain what _abstraction_ is and demonstrate it in the source code for this module's projects.
 - 🥚 **Function Roles**: You can use these new function roles while planning and developing your projects:
   - **_Data Access_**: Functions that insert (create), find (read), save (update), remove (delete) entries in your saved data. These are provided for you in this module. Data Access functions can only import `utils` and other data access functions.
   - **_Business Logic_**: Functions that take in JS data, read/update state, and return new data. these can be called from handlers, components, or other business logic. Business Logic functions can only import `utils`, `data-access` and other `business-logic` functions.
@@ -32,6 +33,7 @@
   2. Plan, write and test your business logic
   3. Plan and write a static user interface (HTML+CSS)
   4. Develop interactions for the interface (listeners, handlers, components, custom events)
+- 🥚 **Other People's Code**: You will learn to use code other people wrote by reading their documentation and understanding their source code. This will happen when you use the Data Access layer provided by HYF, and when you use the functions written by your group members.
 - 🐣 **Nested Data**: Given a nested data structure containing arrays, objects and primitive values, you can 1) access a given value 2) update a given entry 3) filter the data
 - 🐣 **Matching a JSON Schemas**: You can write an object or array that matches a JSON schema.
 - 🐣 **Using a Library**: You can select which functions from the `/data-access` library to use in your Business Logic functions. This includes reading the documentation, tests and source code to understand how the Data Access functions work.
