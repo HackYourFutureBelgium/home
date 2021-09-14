@@ -14,7 +14,7 @@
 
 ## Learning Objectives
 
-- 🥚 **Git**: You is comfortable managing branches and changes on your local machine.
+- 🥚 **Git**: You are comfortable managing branches and changes on your local machine.
 - 🥚 **Command Line Interface (CLI)**: You can navigate a directory, manage folders/files, make small changes in a file using nano/vim, and much more (list coming soon).
 - 🥚 **Local/Remote Development**: You can use this workflow: develop on branch locally -> push branch -> open PR -> pass CI checks (linting) -> merge to main -> pull main -> create new branch -> ...
 - 🥚 **Browser + DevTools**: You can open a local HTML/CSS project in your browser and inspect the elements, emulate different devices, and inspect the source
