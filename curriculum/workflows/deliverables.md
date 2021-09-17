@@ -73,14 +73,12 @@ Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/g
 
 ---
 
-## 3. Development Strategy
+## 3. Planning and Collaborating
 
 > - the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
 > - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
 
-This project is to rebuild a website in a group, following a Development Strategy.
-
-https://excalidraw.com/
+This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](../students/planning-and-collaborating) workflows used at HYF.
 
 A working website is not enough! Your group should create a complete repository following the steps in _Planning and Collaborating_. You are welcome to make changes in the starter code but don't loose too much time on the design, the planning and collaboration are more important than the finished site.
 
@@ -91,7 +89,7 @@ A working website is not enough! Your group should create a complete repository 
   - [ ] communication plan
   - [ ] constraints
   - [ ] backlog
-  - [ ] wireframe
+  - [ ] design
   - [ ] development strategy
   - [ ] retrospective
 - [ ] [project board](https://github.com/_/_/projects/1)
