@@ -10,7 +10,7 @@
 
 ---
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/incremental-development)
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/agile-development)
 
 ---
 
@@ -22,7 +22,7 @@ Incremental development is more about discipline than talent. Every minute you s
 
 ## Learning Objectives
 
-- 🥚 **GitHub**: You can prepare a repository for collaboration: granting access, protecting branches, preparing labels & milestones.
+- 🥚 **GitHub**: You can prepare a repository for collaboration: granting access, protecting branches, preparing labels & milesto
 - 🥚 **Collaborating**: You can work with your group to
   - set project constraints
   - create a communications plan
