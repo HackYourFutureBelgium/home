@@ -1,6 +1,6 @@
 # Databases
 
-[<< Web Apps](../web-apps/README.md) | [Top](../README.md) | [Agile Development >>](../agile-development/README.md)
+[<< Web Apps](../web-apps/README.md) | [Top](../README.md) | [Final Project >>](../final-project/README.md)
 
 > I literally have a massive database of cat sounds.
 >

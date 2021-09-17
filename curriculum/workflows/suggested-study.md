@@ -36,6 +36,13 @@ VSC is the text editor you will use to write code at HYF. And it's way more than
 - validating html
 - spelling checks (will do once by automation, then by hand. automated spell checks are a little annoying)
 
+### READMEs
+
+- [makeareadme.com](https://www.makeareadme.com/)
+- [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- [awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+
 ### Git and GitHub
 
 Git and GitHub are how you will do _everything_ while at HackYourFuture. Homework submission, Sunday classes, projects, collaboration, coach feedback, _everything_! The more time you spend studying Git and GitHub before the classes starts, the easier it will be to focus on the fun stuff.
@@ -46,6 +53,9 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
   - [ohmygit](https://ohmygit.org/) - a git game
 - [HYF/study](https://hackyourfuture.github.io/study/#/git-and-github/README)
 - [lab.github.com/githubtraining](https://lab.github.com/githubtraining/paths/)
+  - [first day on github](https://lab.github.com/githubtraining/first-day-on-github)
+  - [first week on github](https://lab.github.com/githubtraining/first-week-on-github)
+  - [prepare to use github](https://lab.github.com/githubtraining/prepare-to-use-github)
 - [Getting Started with GitHub](https://help.github.com/en/github/getting-started-with-github)
 - [Creating a GitHub Repository](https://www.youtube.com/watch?v=WfhRyz3Wf4o)
 - [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
@@ -92,60 +102,8 @@ _hint: remember to [enable GitHub Actions](https://docs.github.com/en/github/adm
     - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
     - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
 
-### HTML & CSS
-
-- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
-- [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
-- [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
-- [html.com](https://html.com/)
-- :egg: [html-css-git-exercises](https://github.com/hackyourfuturebelgium/html-css-git-exercises)
-- :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
-- :hatched_chick: [css-exercises](https://github.com/dangodev/css-exercises)
-
 ### DevTools and the DOM
 
 - [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
 - [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
 - [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
-
----
-
-## Web Accessibility
-
-> "In the context of this Directive, accessibility should be understood as principles and techniques to be observed when designing, constructing, maintaining, and updating websites and mobile applications in order to make them more accessible to users, in particular persons with disabilities."
->
-> - [EU Directive on the accessibility of the websites and mobile applications of public sector bodies](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L2102&from=EN)
-
-- [What is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
-- Human accessibility: [Empathy Prompts](https://empathyprompts.net/#blindness), [Using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
-- Technological accessibility: [Throttling & Emulation](https://blog.j-labs.pl/index.php?page=2019/08/Testing-and-simulating-mobile-devices-in-Chrome-DevTools)
-- [FAC: Web Accessibility](https://github.com/foundersandcoders/web-accessibility)
-
-### ARIA
-
-- [A quick video intro](https://www.youtube.com/watch?v=rvYXa2nGE04)
-- [What is ARIA and why is it important?](https://www.youtube.com/watch?v=HtTyRajRuyY)
-- [ARIA tutorial series](https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7)
-- [ARIA Playlist](https://www.youtube.com/watch?v=g9Qff0b-lHk&list=PL_gUZt7pGoe2OI___PQDlQUJ8CbUxHWmO)
-- [Web applications and ARIA FAQ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ)
-- _Bonus knowlegde:_ [Practical guide for developers on how to add accessibility information to HTML elements using the ARIA specification](https://w3c.github.io/using-aria/)
-- [grids example](https://gist.github.com/visiongeist/bdaa0da523b462b89af7)
-- [Official Best Practices](https://w3c.github.io/aria-practices/)
-
-### Accessibility DevTools
-
-- [Using Firefox's Accessibility Inspector](https://www.youtube.com/watch?v=7mqqgIxX_NU)
-- [Auditing Accessibility with FireFox](https://hacks.mozilla.org/2019/10/auditing-for-accessibility-problems-with-firefox-developer-tools/)
-- [Accessibility Scoring](https://web.dev/accessibility-scoring/)
-- [Helpful rules](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
-- [Throttling & Emulation](https://blog.j-labs.pl/index.php?page=2019/08/Testing-and-simulating-mobile-devices-in-Chrome-DevTools)
-- [Wave](https://wave.webaim.org/extension/)
-- Tota11y: [Chrome/Chromium](https://chrome.google.com/webstore/detail/tota11y-toolkit-chrome-ex/plgldjckfjonhhaflbghkdmbcmffccpn) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tota11y-accessibility-toolkit/?src=search)
-- a11y: [Chrome/Chromium](https://developer.chrome.com/extensions/a11yn) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/a11y-outline/)
-- [VSCode: Web Accessibility](https://github.com/mvdschee/web-accessibility)
-
-### Accessibility Simulators
-
-- [Disable CSS](https://sumtips.com/software/browsers/turn-off-css-on-a-specific-website-in-browser-for-testing/) and try navigating with only your keyboard
-- NoCoffee: [Chrome/Chromium](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
-- [ChromeVox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn)

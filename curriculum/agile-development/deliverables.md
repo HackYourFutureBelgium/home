@@ -1,70 +1,119 @@
 # Deliverables
 
-This module is all about delivering! By the end of your 6 weeks your team needs to be ready to pitch your project at graduation day! Let the countdown begin ;\) You will be expected to deliver:
+> this module has 2 group projects.
 
-## Project Organization
+<!--
+- **_Learning Task_**: An reverse-engineered web page written with HTML & CSS, planned and developed as a group. In addition to project requirements from the last module, the repository should include a planning folder (communications schedule, constraints, backlog, wireframe, development strategy and retrospective), a project board with issues for each task, and a reviewed PR for each closed issue.
+  - _Language Level_: HTML5 & CSS3
+  - _Environment_: Browsers that support HTML5 & CSS3
+  - _Technologies_: Git, linters, VSCode, GitHub, formatters, VSCode extensions, development servers
+  - _Starter_: a repository with github actions, a planning folder, and npm scripts for linting, formatting and a dev server.
+  - _Assessment Criteria_: does the repository have a license, readme, description and live demo. is there a complete planning folder. is there a branch, code review and merged PR for each completed section in the plan. is there an issue for each step in the development strategy, and a project board to manage the issues & PRs. -->
 
-A [new GitHub organization](https://github.com/organizations/plan) for your team's final project. You'll use this organization to host your main project, landing page, and any other planning or experimental repositories.
+Projects in Incremental Development are all about the workflows. Take plenty of time to familiarize yourself with Planning and Collaborating, practicing these steps is your main objective for the coming 3 weeks.
 
-## Contributor-Friendly Repo
+In the first weeks it's likely that you'll spend as much time figuring out how to plan and work with Git/GitHub as you will spend writing code. _This is totally normal and OK!_ Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!
 
-> You will build your final project from this [starter repository](https://github.com/HackYourFutureBelgium/organized-for-deployment). It comes pre-packaged with the everything you need for continuous integration testing, and continuous deployment.
+So on days when you find yourself spending a couple hours struggling with branches, trying to push your homework or create an issue, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.
 
-Working code is not enough! Your team will need to produce a contributor-friendly repository. If you work carefully over the 5 weeks this will not be much extra work. A good repository will include:
+Developing a working web site is not enough! You will be expected to submit a development strategy and complete repository, cleanly developed with one branch per step. The goal of these projects is to practice planning and building clean projects in a structured way. The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries.
 
-- A complete README with all the information someone needs to run the project locally
-- Code of conduct
-- Contributor Guidelines
-- License
-- Wiki with documentation and project overview
-- Clearly organized and working code on the master branch
-- An overview of how the code is organized and where to find what
-- Well defined issues for contributors to select
-- Well-managed branches
-- A defined PR and Code Review process
-- Some documentation \(a wiki can work well for this\)
+Here's a short list of do's and don'ts that can help you stay on track:
 
-## Minimal Viable Product
+### Do
 
-A live URL with a live demo of your project: no bugs! no broken features!
+- ... ask for help early and often
+- ... pay as much attention to your branches & repository as your code
+- ... be very careful about your CSS classes, selectors and id's
+- ... properly format & lint/validate your code
+- ... find the simplest solution to each task in your projects
 
-This demo can be very simple and limited, you won't be evaluated on how complex it is. Instead you will be evaluated on whether or not _each and every_ feature on the demo works and how much value these features add for the user. In the final week of the project your team will need to assess which features can be finished on time and which cannot. Features that cannot be finished on time should be removed from the deployment branch and kept in the backlog.
+### Don't
 
-If your team has been disciplined about branching, code review and deployment throughout the project, the MVP should be ready without any extra work.
+- ... think that your site can be pretty enough to make up for messy code
+- ... make any steps of your project do less _or more_ than is described in the strategy
+- ... move on to the next step before the previous one is finished
 
-## Landing Page
+</details>
+<br>
 
-Create a [landing page](https://unbounce.com/landing-page-articles/what-is-a-landing-page/) for your app. This should be a beautiful and simple single-page site that explains why a user would want to use your app and how to get started. It should include a link to your live demo.
+---
 
-You are encouraged to write this using only HTML & CSS \(/bootstrap/material/...\) for simplicity, no need for a full frontend framework. Your landing page can be hosted from your group repository using GitHub Pages.
+## Vocabulary
 
-## Video Spot
+Make at least 2 contributions to the `/vocabulary` folder of your class repo.
 
-Produce a short \(&lt; 2min\) video spot explaining your project. The goal of this spot is to sell your app to new users. You should not mention the technologies you used, show the code, or talk about how it was built. You might not even include a screen shot of the app!
+## Loruki Rebuild
 
-Think of the adds you'd see on YouTube, something short to let a user know _why_ they would want to use this app. Be creative, be engaging, be convincing.
+> [starter repository]() - group project. make it as far as you can before the second lesson
 
-## Pitch Deck
+This project's goal is to work as a group studying and reconstructing the [**loruki-website** tutorial](https://github.com/bradtraversy/loruki-website) from Traversy Media. A working website is not enough! You are expected to create a group repository named `loruki-website`, as described in Planning and Collaborating. Your group is not expected to submit exactly the same code as Mr. Traversy. You are free to add features, remove features, or write your features differently than he did. His tutorial code is just a starting point.
 
-Create a short slide show to explain your project in under 2 minutes. Your audience is a potential user, you will need to convince them of:
+This is a large project to finish in one week, it's ok if you don't finish all the code! What's most important is that you get used to the Planning and Collaborating workflows.
 
-- why they want to use your service
-- why it is better than other alternatives
-- why you are the best team for the job
+In the tutorial, Mr. Traversy deployes his website using Netlify. For your group project you can use GitHub Pages instead.
 
-## Final Presentation
+Here's a good way to approach the group project:
 
-Finally, your team will need to present all of this on graduation day. Divide the presentation among yourselves, each team member should speak at least once. Things you may want to mention in your presentation:
+1. Before watching the tutorial video (aim to have this finished on Tuesday):
+   - **Backlog**: Study the finished website as a group to come up with your backlog and priorities. You won't need to look at the actual code for this step, backlogs are all about what the user sees!
+   - **Wireframe**: Study the finished website as a group, comparing it to the backlog you wrote. How would you simplify the website into a wireframe?
+   - **Development Strategy**: Study the finished code as a group. What code did Mr. Traversy write for each step? how would you break that code into different tasks?
+   - **Project Board**: Convert your Development Strategy into issues and a project board in your group repo.
+2. While studying the tutorial individually, each group member can assign themselves tasks from the project board to practice the HTML & CSS they are learning in the tutorial.
+3. After everyone has finished studying the tutorial you can already organize a group call to discuss what you learned and write your **Retrospective**. Your group does not need to have finished the project before doing the Retrospective.
 
-- who is on your team
-- what you built and why
-  - screen shots of the landing page
-  - embed the video spot
-- screen shots/gifs of the live demo
-- about your journey
-  - development process
-  - what you learned
-  - what was challenging
-  - what was fun
-  - ...
-- ... this is your project, be proud of yourselves :\)
+Copy-paste this checklist into a new project issue and move your issue to the project board, your issue should have:
+
+- labels:`group`, `deliverable`
+- milestone: `incremental-development`
+
+```md
+- [ ] [repo](https://github.com/_/_) (with a complete README)
+- [ ] [live demo](https://_.github.io/_) (GitHub Pages, not Netlify)
+- [/planning](https://github.com/_/_/tree/master/planning)
+  - [ ] communication plan
+  - [ ] constraints
+  - [ ] backlog
+  - [ ] wireframe
+  - [ ] development strategy
+  - [ ] retrospective
+- [ ] [project board](https://github.com/_/_/projects/1)
+```
+
+## Reverse-Engineer [hackyourfuture.be](https://hackyourfuture.be)
+
+> [starter repository]() - group project. complete as much as you can before the end of the module
+
+Reverse-engineer as much of hackyourfuture.be as possible. If your team has some different ideas for layout or design, go for it. The HYF site is just a starting point. Beginning with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
+
+Pay special attention to:
+
+- [HTML/CSS Good Practice](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
+- Using HTML5 Semantic Element
+- Accessibility
+- Responsive Design
+
+Careful! When you inspect the hackyourfuture.be the DOM, HTML and CSS will be hard to read. The class names will be meaningless, there will be many extra nested elements, and the sources will be split into many strange files. Ignore this! You aren't trying to recreate the exact code (which is actually [written in React](https://github.com/HackYourFutureBelgium/hackyourfuture.be/tree/main/src)), you're trying to **reverse-engineer** the website - creating something that _looks_, and _feels_ like hackyourfuture.be but is not.
+
+One of the challenges with this project will be inspecting hackyourfuture.be to find the _fonts_, _colors_, _assets_ and _layout_ without losing your way in the DevTools :)
+
+### Issue Checklist
+
+Copy-paste this checklist into a new project issue and move your issue to the project board, your issue should have:
+
+- labels:`group`, `deliverable`
+- milestone: `incremental-development`
+
+```md
+- [ ] [repo](https://github.com/_/_) (with a complete README)
+- [ ] [live demo](https://_.github.io/_)
+- [/planning](https://github.com/_/_/tree/master/planning)
+  - [ ] communication plan
+  - [ ] constraints
+  - [ ] backlog
+  - [ ] wireframe
+  - [ ] development strategy
+  - [ ] retrospective
+- [ ] [project board](https://github.com/_/_/projects/1)
+```

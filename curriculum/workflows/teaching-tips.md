@@ -8,12 +8,12 @@
 
 ---
 
-## Lesson 1
+## Deliverables
 
 ---
 
-## Lesson 2
+## Chapter 1
 
 ---
 
-## Projects
+## Chapter 2

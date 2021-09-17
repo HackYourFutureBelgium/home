@@ -17,6 +17,14 @@ Some study links that can help you through the Precourse Assignments. Can't find
 - [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 - [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
 
+### What is the Internet?
+
+- [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
+- [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+- [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
+- [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)
+- [What happens when ...](https://github.com/alex/what-happens-when) you google something?
+
 ### Git and GitHub
 
 Git and GitHub are how you will do _everything_ while at HackYourFuture. Homework submission, Sunday classes, projects, collaboration, coach feedback, _everything_! The more time you spend studying Git and GitHub before the classes starts, the easier it will be to focus on the fun stuff.
@@ -30,13 +38,6 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Creating a GitHub Repository](https://www.youtube.com/watch?v=WfhRyz3Wf4o)
 - [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
 - and much more at [hackyourfuture.github.io/study](https://hackyourfuture.github.io/study)
-
-### CSS References
-
-- [Learn Layout](https://learnlayout.com/)
-- [Fribly](https://fribly.com/category/coding/)
-- [CSS Tricks](https://css-tricks.com/guides/)
-- [CSS Reference](https://tympanus.net/codrops/css_reference/)
 
 ### Slack
 

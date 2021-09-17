@@ -19,9 +19,8 @@ This module's main objective is to get you comfortable with the workflows of pro
 - 🥚 **GitHub Issues**: You can create a new issue in a GitHub repository using an issue template. They can correctly use labels, milestones, and assignment to make their issue findable.
 - 🥚 **File System Management**: You can create and organize a new folder in their personal computer for the materials they will study at HYF.
 - 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects (class repo) and self-study (project board on personal account).
-- 🥚 **GitHub Pages**: You can publish an HTML/CSS web page to GitHub pages
 - 🐣 **Visual Studio Code**: You can install and manage extensions, open a folder, create new files/folders inside of the folder ... basic usage.
-- 🐣 **Git**: You can create a local git repository, commit changes, connect a remote repository and push changes to the remote
+- 🐣 **GitHub Pull Requests**: You can fork a repository and send a Pull Request using a template.
 
 ---
 

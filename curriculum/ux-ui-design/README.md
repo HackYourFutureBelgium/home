@@ -1,6 +1,6 @@
 # UX/UI Design
 
-[<< Incremental Development](../incremental-development/README.md) | [Top](../README.md) | [Welcome to JS >>](../welcome-to-js/README.md)
+[<< Agile Development](../agile-development/README.md) | [Top](../README.md) | [Welcome to JS >>](../welcome-to-js/README.md)
 
 > “Writing software is a highly iterative, dynamic process requiring user feedback.
 >
