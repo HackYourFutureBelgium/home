@@ -85,23 +85,6 @@ For now you can think of _Continuous Integration_ is a fancy way to say "automat
 
 _hint: remember to [enable GitHub Actions](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/disabling-or-limiting-github-actions-for-a-repository) in your repository!_
 
-### User Stories
-
-- [User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)
-- Acceptance Criteria
-  - [Yodiz](https://www.yodiz.com/blog/user-stories-acceptance-definition-and-criteria-in-agile-methodologies/)
-  - [Zepel](https://zepel.io/agile/acceptance-criteria-for-user-stories/)
-  - [Ruby Garage](https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important)
-  - [The Infinity Project](https://www.youtube.com/watch?v=KYS0ptJ4JWc)
-- Setting Priorities
-  - [Many Strategies](https://zapier.com/blog/how-to-prioritize)
-  - The Priority Quadrant
-    - [The Quadrant](https://www.youtube.com/watch?v=NGvsxPOmWuw)
-    - [Problems with this method](https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad)
-  - Other Perspectives
-    - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
-    - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
-
 ### DevTools and the DOM
 
 - [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)

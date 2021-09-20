@@ -8,8 +8,8 @@ This module has 3 deliverables. One is a contribution to the class repository, o
 
 Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
-- Labels: `deliverable`, `vocabulary`
-- milestone: `workflows`
+- _Labels_: `deliverable`, `vocabulary`
+- _milestone_: `workflows`
 
 ---
 

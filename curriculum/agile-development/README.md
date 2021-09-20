@@ -2,11 +2,7 @@
 
 [<< Workflows](../workflows/README.md) | [Top](../README.md) | [UX/UI Design >>](../ux-ui-design/README.md)
 
-> "Nearly all Agile teams favor an incremental development strategy;
-> in an Agile context, this means that each successive version of the product is usable,
-> and each builds upon the previous version by adding user-visible functionality."
->
-> - [agile alliance](https://www.agilealliance.org/glossary/incremental-development)
+[![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
 
 ---
 
@@ -18,11 +14,11 @@ _Agile Development_ is a methodology for developing software. In this methodolog
 
 This strategy is sooooo important to learn because **programming is hard**. All developers (even your coaches!) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
 
-Incremental development is more about discipline than talent. Every minute you spend practicing this now will save you hours of debugging and make collaboration a breeze!
+Agile development is more about discipline than talent. Every minute you spend practicing this now will save you hours of debugging and make collaboration a breeze!
 
 ## Learning Objectives
 
-- 🥚 **GitHub**: You can prepare a repository for collaboration: granting access, protecting branches, preparing labels & milesto
+- 🥚 **GitHub**: You can prepare a repository for collaboration: granting access, protecting branches, creating labels & milestones, ...
 - 🥚 **Collaborating**: You can work with your group to
   - set project constraints
   - create a communications plan

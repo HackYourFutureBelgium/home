@@ -23,7 +23,7 @@ Some study links that can help you through the Precourse Assignments. Can't find
 - [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
 - [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
 - [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)
-- [What happens when ...](https://github.com/alex/what-happens-when) you google something?
+- What happens when you google something? [article](https://github.com/alex/what-happens-when), [video](https://www.youtube.com/watch?v=dh406O2v_1c)
 
 ### Git and GitHub
 
