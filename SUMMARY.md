@@ -18,9 +18,9 @@
   - [3. Agile Development](./curriculum/agile-development/README.md) <!-- learn to plan a project and work in a group -->
     - [Suggested Study](./curriculum/agile-development/suggested-study.md)
     - [Deliverables](./curriculum/agile-development/deliverables.md)
-      <!-- - [Chapter 1](./curriculum/agile-development/chapter-1.md) -->
-      <!-- - [Chapter 2](./curriculum/agile-development/chapter-2.md) -->
-      <!-- - [Chapter 3](./curriculum/agile-development/chapter-3.md) -->
+    - [Chapter 1](./curriculum/agile-development/chapter-1.md)
+    - [Chapter 2](./curriculum/agile-development/chapter-2.md)
+    - [Chapter 3](./curriculum/agile-development/chapter-3.md)
       <!-- - [Assessment](./curriculum/agile-development/assessment.md) -->
       <!-- - [Teaching Tips](./curriculum/agile-development/teaching-tips.md) -->
   - [4. UX/UI Design](./curriculum/ux-ui-design/README.md) <!-- learn to use take the user's perspective and build what they need -->
