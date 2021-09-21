@@ -1,10 +1,10 @@
-# Wednesday Review
+# Thursday Review
 
 There are two parts to Wednesday Review:
 
 ## Check-Ins
 
-Each Wednesday, students are expected to post an update on their individual progress as a comment in their `individual` issue. They should include their _Progress_, _Blocked_, _Next Steps_, and _Tip\(s\)_.
+Each Thursday, students are expected to post an update on their individual progress as a comment in their `individual` issue. They should include their _Progress_, _Blocked_, _Next Steps_, and _Tip\(s\)_.
 
 When you have time over Wednesday \(and Thursday, sometimes students post their updates late Wednesday or early Thursday\) take a look through all the Wednesday Check-in comments for your class. You can find them by filtering the class issues for the labels `check-in` & `week-x`, and the milestone `module-name`.
 
