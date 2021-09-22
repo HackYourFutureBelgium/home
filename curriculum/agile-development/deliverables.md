@@ -1,6 +1,6 @@
 # Deliverables
 
-Projects in Agile Development are all about the process, not hte product. Take plenty of time to familiarize yourself with Planning and Collaborating, practicing these steps is your main objective for the coming 3 weeks.
+Projects in Agile Development are all about the process, not the product. Take plenty of time to familiarize yourself with Planning and Collaborating, practicing these steps is your main objective for the coming 3 weeks.
 
 In the first weeks it's likely that you'll spend more time figuring out how to plan and work with Git/GitHub as you will spend writing code. _This is totally normal and OK!_ Working like a developer takes time and practice, and at this point in your learning it's more important than mastering HTML & CSS.
 
