@@ -18,19 +18,22 @@ Agile development is more about discipline than talent. Every minute you spend p
 
 ## Learning Objectives
 
-- 🥚 **GitHub**: You can prepare a repository for collaboration: granting access, protecting branches, creating labels & milestones, ...
-- 🥚 **Collaborating**: You can work with your group to
-  - set project constraints
-  - create a communications plan
-  - agree on a code review checklist
-  - write a retrospective document
-- 🐣 **Planning**: Given a website to reverse-engineer, a student can
-  - write a backlog
-  - create a simple wireframe using a pencil+paper, or a basic drawing app like Excalidraw
-  - write a plausible development strategy for must-have user stories
-  - convert a development strategy into issues on a project board organized with labels and milestones.
-- 🐣 **Development**: Given a backlog of issues a student can
-  - assign themselves an issue and manage it in the columns
-  - manage a separate branch with your work for the issue
-  - create a PR that passes CI checks
-  - assign a group member to review your code
+- **Collaborating**: You can effectively work in a group:
+  - 🥚 You can work with your group mates to agree on a communication plan.
+  - 🥚 As a group you can define project constraints by discussing your strength's, weaknesses and context.
+  - 🥚 During development you can ask your group for help when you need it using the agreed channels of communication.
+  - 🥚 During development you communicate any changes in your personal situation that will impact the group.
+  - 🥚 When the project is finished your group can write a retrospective including concrete steps to make sure the next project goes smoother.
+- **Planning**: You can work in a group to plan a multi-page website written with HTML & CSS:
+  - 🥚 You can understand a web page's users by creating user personas.
+  - 🥚 You can work together to write a backlog of user stories for your personas, organized by priority (_must_, _should_, _could_)
+  - 🥚 You can work together to create a simple wireframe with pencil+paper and a basic drawing app like Excalidraw
+  - 🐣 You can work together to write a development strategy for _must-have_ user stories.
+  - 🐣 You can work together to convert a development strategy into issues on a project board organized with labels and milestones.
+- **Development**: Once the project board is set up you can work with your group to develop the website:
+  - 🥚 You can claim a task and manage your progress using the project board columns.
+  - 🥚 Your group can use issues to discuss and agree on project changes once development has begun.
+  - 🥚 You can use the `help-wanted` label to ask for help, and to find issues that need your help.
+  - 🥚 You can manage a separate branch with your work for each issue task.
+  - 🥚 You can create a PR that passes CI checks when your task is finished, then assign someone to review it.
+  - 🐣 You can review a group member's PR and conduct a code review using the project's checklist.
