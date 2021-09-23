@@ -15,6 +15,7 @@
     * [Chapter 2](curriculum/workflows/chapter-2.md)
   * [3. Agile Development](curriculum/agile-development/README.md)
     * [Suggested Study](curriculum/final-project/suggested-study.md)
+    * [Deliverables](curriculum/agile-development/deliverables.md)
     * [Chapter 1](curriculum/agile-development/chapter-1.md)
     * [Chapter 2](curriculum/agile-development/chapter-2.md)
     * [Chapter 3](curriculum/agile-development/chapter-3.md)
