@@ -6,7 +6,7 @@ In the first week you will become familiar with the starter repository and lay o
 
 You will define your user, plan their journey through your application, develop wireframes, and set up an initial backlog of development tasks. You will change the plans in the coming weeks as you better understand your team and the project, but that doesn't mean it's wasted time. That's the agile way.
 
-```markdown
+```text
 - [ ] [A Project organization]()
   - [ ] give it a good name
   - [ ] set your logo as the avatar
@@ -22,13 +22,13 @@ You will define your user, plan their journey through your application, develop 
 
 Prepare yourselves for 3 weeks of sprinting:
 
-- _collectively_:
-  - define team roles and plan milestones - so everyone's expectations are clear and aligned
-- _technically_:
-  - deployed three-tier "hello world" & CI/CD - so all you need to do is write code next week.
-  - define your project's tech stack. Are there new technologies your group wants to explore?
+* _collectively_:
+  * define team roles and plan milestones - so everyone's expectations are clear and aligned
+* _technically_:
+  * deployed three-tier "hello world" & CI/CD - so all you need to do is write code next week.
+  * define your project's tech stack. Are there new technologies your group wants to explore?
 
-```markdown
+```text
 - [ ] [Repo README]()
 - [ ] [DB Schemas]()
 - [ ] `project-name` - created from [the starter]()
@@ -43,7 +43,7 @@ Prepare yourselves for 3 weeks of sprinting:
 
 Sprinting!
 
-```markdown
+```text
 - [ ] Daily stand-ups (virtual, or by message are fine)
 - [ ] End-of-week Retrospective
 ```
@@ -52,7 +52,7 @@ Sprinting!
 
 Sprinting!
 
-```markdown
+```text
 - [ ] Daily stand-ups (virtual, or by message are fine)
 - [ ] End-of-week Retrospective
 ```
@@ -61,7 +61,7 @@ Sprinting!
 
 Sprinting!
 
-```markdown
+```text
 - [ ] Daily stand-ups (virtual, or by message are fine)
 - [ ] End-of-week Retrospective
 ```
@@ -70,12 +70,12 @@ Sprinting!
 
 Prepare the public face of your project.
 
-- Feature Freeze! Make sure everything in your deployed project is working, even if it means removing some features.
-- Landing page and video spot are ready so users can get to know your app
-- Pitch deck is prepared to attract new team members and \(possibly\) investors
-- Project repository is contributor-friendly and ready to make open-source proud
+* Feature Freeze! Make sure everything in your deployed project is working, even if it means removing some features.
+* Landing page and video spot are ready so users can get to know your app
+* Pitch deck is prepared to attract new team members and \(possibly\) investors
+* Project repository is contributor-friendly and ready to make open-source proud
 
-```markdown
+```text
 - [ ] [Contributor-Friendly repo]()
 - [ ] [Minimum Viable Product (deployed)]()
 - [ ] [Finished Landing Page]()
@@ -83,3 +83,4 @@ Prepare the public face of your project.
 - [ ] [Pitch Deck]()
 - [ ] [Final Presentation]()
 ```
+

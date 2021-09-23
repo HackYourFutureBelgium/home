@@ -1,3 +1,5 @@
+# 3. Constraints
+
 ## Constraints
 
 After dreaming big, the most helpful thing you can can do to define your project is to be clear about _what it isn't_. Thinking big is great for brainstorming but can get in the way of finishing your projects on time.
@@ -10,7 +12,7 @@ It may not sound intuitive, but the fewer restrictions you have on your work the
 
 Here's some markdown you can copy-paste into your `/planning/constraints.md` file:
 
-```markdown
+```text
 # Constraints
 
 Some boundaries around our project.
@@ -42,3 +44,4 @@ Some boundaries around our project.
   - only using the colors black and white
 -->
 ```
+

@@ -2,16 +2,12 @@
 
 This module has 3 deliverables. One is a contribution to the class repository, one is a group project to practice collaboration and the other is a group project to practice following a development strategy.
 
----
-
 ## 1. Vocabulary
 
 Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
-- _Labels_: `deliverable`, `vocabulary`
-- _milestone_: `workflows`
-
----
+* _Labels_: `deliverable`, `vocabulary`
+* _milestone_: `workflows`
 
 ## 2. Group Introduction
 
@@ -25,18 +21,18 @@ When you're ready to start your group repo, create a new issue in the class repo
 
 Take the time to proof read and edit your code before sharing it. Your colleagues and your future self will thank you. Practice using the NPM scripts in the starter repository and the VSC plugins you installed with the Precourse to write correct markdown:
 
-- Format your code with Prettier
-- Fix any spelling mistakes
-- Fix any linting errors
-- Preview the rendered Markdown, does it look like you wanted?
+* Format your code with Prettier
+* Fix any spelling mistakes
+* Fix any linting errors
+* Preview the rendered Markdown, does it look like you wanted?
 
 Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/group-intro), [okozmovskaya](https://github.com/okozmovskaya/group-intro), [LetItBe](https://github.com/sayed94h/Group-Intro-LetItBe), [Unicorn](https://github.com/KrystynaMil/Unicorn), [HackYourFutureBelgium](https://github.com/hackyourfuturebelgium/group-intro-example)
 
 ### Checklists
 
-- For your group's `deliverable` issue in the class repo:
+* For your group's `deliverable` issue in the class repo:
 
-  ```markdown
+  ```text
   <!-- replace the _ with the correct user name and repo -->
 
   - [ ] [repo](https://github.com/_/_)
@@ -49,8 +45,9 @@ Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/g
     - [ ] the reviewer merged the code
   ```
 
-- For your individual PRs in your group repository
-  ```markdown
+* For your individual PRs in your group repository
+
+  ```text
   - Setup: GitHub
     - [ ] created this issue
     - [ ] assigned myself
@@ -71,18 +68,16 @@ Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/g
     - [ ] assigned someone to review and merge my PR
   ```
 
----
-
 ## 3. Planning and Collaborating
 
-> - the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
-> - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
+> * the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
+> * [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
 
-This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](../students/planning-and-collaborating) workflows used at HYF.
+This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](https://github.com/HackYourFutureBelgium/home/tree/b9af249867e00b064b05ab41fd98651e8898b814/curriculum/students/planning-and-collaborating/README.md) workflows used at HYF.
 
 A working website is not enough! Your group should create a complete repository following the steps in _Planning and Collaborating_. You are welcome to make changes in the starter code but don't loose too much time on the design, the planning and collaboration are more important than the finished site.
 
-```markdown
+```text
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_)
 - [/planning](https://github.com/_/_/tree/master/planning)
@@ -94,3 +89,4 @@ A working website is not enough! Your group should create a complete repository 
   - [ ] retrospective
 - [ ] [project board](https://github.com/_/_/projects/1)
 ```
+

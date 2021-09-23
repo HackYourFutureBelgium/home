@@ -1,16 +1,14 @@
-# Communication Plan
+# 4. Communication Plan
 
 Decide as a team when you will be able to meet, and how you'll stay in touch between meetings. The example in this repository gives some ideas for organizing this file, but it's up to your group to find what works best for you.
 
-This step may seem simple but it's soooo important. HYF projects go by very quickly, often you'll only have one week to plan and build a whole website! Taking a few extra minutes to plan this on Monday (or even Sunday right after class) can save you a day or two of confusion over the week.
-
----
+This step may seem simple but it's soooo important. HYF projects go by very quickly, often you'll only have one week to plan and build a whole website! Taking a few extra minutes to plan this on Monday \(or even Sunday right after class\) can save you a day or two of confusion over the week.
 
 ## Template File
 
 Here's a template you can copy-paste into `/planning/communication.md`.
 
-```markdown
+```text
 # Communication
 
 ## Group Rules
@@ -62,3 +60,4 @@ There's a fine line between confidently learning from your mistakes, and stubbor
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
 ```
+

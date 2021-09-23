@@ -57,17 +57,16 @@ This is a non-exhaustive list of online vacancies.
 * [https://www.vindeenjob.be/](https://www.vindeenjob.be/)
 
 ## Salary compasses
-* [Glassdoor](www.glassdoor.com)
-* [Jobat](https://www.jobat.be/en/salary-calculator/)
 
+* [Glassdoor](https://github.com/HackYourFutureBelgium/home/tree/72fcf54bde1eb4a11feb9c5761ea1668161a9a10/www.glassdoor.com)
+* [Jobat](https://www.jobat.be/en/salary-calculator/)
 
 ## \(Free\) Online Courses for Web development
 
 * [https://www.ttl.academy/courses/](https://www.ttl.academy/courses/) \(Belgian company\)
 * [https://www.coursera.org/browse/information-technology](https://www.coursera.org/browse/information-technology)
 * [https://www.sololearn.com/](https://www.sololearn.com/)
-* 
-## \(Free\) Online Courses for UX/UI Design
+* **\(Free\) Online Courses for UX/UI Design**
 
 ### UX
 

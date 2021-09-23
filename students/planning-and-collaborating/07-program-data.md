@@ -1,4 +1,4 @@
-# Program Data
+# 7. Program Data
 
 If your program has JavaScript, then it will probably also have some data. It's a good idea to plan your data _before_ planning your design. After all, a main goal of your user interface is to display data to your users and to enable _interactions_ with that data. It's hard to plan a user interface without know what it will display!
 
@@ -6,13 +6,11 @@ You can plan your data by reading through your backlog and deciding what data is
 
 Planning data for an application is a hard thing, you'll begin learning about this in the JavaScript modules. Until then you can skip this step.
 
----
-
 ## Template File
 
 Here's some markdown you can copy-paste into `/planning/data.md`:
 
-```markdown
+```text
 # Data
 
 <!-- describe the data in your program
@@ -25,3 +23,4 @@ Here's some markdown you can copy-paste into `/planning/data.md`:
 
 <!-- explain why you planned the data the way you did -->
 ```
+

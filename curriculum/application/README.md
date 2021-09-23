@@ -1,18 +1,16 @@
-# Application
+# 0. Application
 
-[<< Top](./README.md) | [Precourse >>](../precourse/README.md)
+[&lt;&lt; Top](./) \| [Precourse &gt;&gt;](../precourse/)
 
 > I never understood the desire to formally equate skill at mathematics with skill at programming. While being a math wonk certainly won't _hurt_ you as a programmer, it's very hard for me to draw a direct line from "good at math" to "good at programming".
 >
-> - [Jeff Atwood](https://blog.codinghorror.com/should-competent-programmers-be-mathematically-inclined/)
-
----
+> * [Jeff Atwood](https://blog.codinghorror.com/should-competent-programmers-be-mathematically-inclined/)
 
 At HackYourFuture we’re looking for people who work very hard, are **disciplined and passionate** about learning how to code and becoming a maker.
 
 For us **motivation is key**, as our program is difficult and you are expected to learn a lot and very quickly. Moreover, we are looking for people who are self-motivated and willing to support their fellow classmates. This is because HackYourFuture is a school that is based on \_self-directed \_and \_peer-assisted \_learning.
 
-In our program you will spend a lot of time solving problems and coding on their own during the week (with online guidance from highly skilled coaches) and classes take place on Sundays. You will spend quite some time trying to figure concepts out on your own.
+In our program you will spend a lot of time solving problems and coding on their own during the week \(with online guidance from highly skilled coaches\) and classes take place on Sundays. You will spend quite some time trying to figure concepts out on your own.
 
 This is done on purpose. All these skills you have to develop during the program are what will ultimately make you a great developer. And you will see a lot of joy comes with improving these skills. We promise.
 
@@ -22,16 +20,14 @@ To make sure you are the right fit for our program, we are asking you to do a te
 2. You are willing to put in time, effort and are motivated to learn how to code.
 3. You show that you have the potential to become a creative maker.
 
-**Let’s get started -> [Deliverables](./deliverables.md)**
+**Let’s get started -&gt;** [**Deliverables**](deliverables.md)
 
 ## Learning Objectives
 
-- 🥚 **Writing Markdown**: You can write an understandable and structured document using GitHub flavor Markdown. Your code should be well-formatted and should contain no spelling mistakes.
-- 🥚 **Using GitHub**: You can create a GitHub account and set up a profile README. This includes creating a new repository with the correct name, editing+previewing markdown, committing changes, and configuring the repository to appear on your account.
-- 🥚 **Writing HTML & CSS**: You can create a simple web page of their own design using only HTML & CSS. The web page can be very simple but should be coherent, their code should be well-formatted, inline styles should be avoided, and they should include comments in all files explaining their process. (this will be done in a web-based programming environment)
-- 🥚 **Explaining JS Variables**: You can write a clear JavaScript file explaining how variables work. Your code should use only a small subset of language features (`'use strict'`, comments, logs, `let` variables, strings and string concatenation). Variables should be well-named, logs should be helpful, the file should be clearly commented, and it should run (unless the intention is to demonstrate a specific error). (this will be done in a web-based programming environment)
-
----
+* 🥚 **Writing Markdown**: You can write an understandable and structured document using GitHub flavor Markdown. Your code should be well-formatted and should contain no spelling mistakes.
+* 🥚 **Using GitHub**: You can create a GitHub account and set up a profile README. This includes creating a new repository with the correct name, editing+previewing markdown, committing changes, and configuring the repository to appear on your account.
+* 🥚 **Writing HTML & CSS**: You can create a simple web page of their own design using only HTML & CSS. The web page can be very simple but should be coherent, their code should be well-formatted, inline styles should be avoided, and they should include comments in all files explaining their process. \(this will be done in a web-based programming environment\)
+* 🥚 **Explaining JS Variables**: You can write a clear JavaScript file explaining how variables work. Your code should use only a small subset of language features \(`'use strict'`, comments, logs, `let` variables, strings and string concatenation\). Variables should be well-named, logs should be helpful, the file should be clearly commented, and it should run \(unless the intention is to demonstrate a specific error\). \(this will be done in a web-based programming environment\)
 
 ## Applying
 
@@ -51,4 +47,5 @@ _PS. You aren't required to join an Intro Session before applying to HackYourFut
 
 > For the next application deadlines, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE) or [Facebook](https://www.facebook.com/HackYFutureBE/).
 
-![application process diagram](./application-process.jpg)
+![application process diagram](../../.gitbook/assets/application-process.jpg)
+

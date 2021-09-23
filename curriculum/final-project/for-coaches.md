@@ -1,6 +1,6 @@
 # For Coaches
 
-Welcome and thank you for your support! Coaching a Final Project at HYF is one part project management, and one part debugging support. To get an idea of what's coming your way take a look through the [Deliverables](deliverables.md) & [Milestone](https://github.com/HackYourFutureBelgium/home/tree/81d889d76b4d9b5a39aaa8aebc34f94c26dc969d/curriculum/final-project/milestone.md) pages.
+Welcome and thank you for your support! Coaching a Final Project at HYF is one part project management, and one part debugging support. To get an idea of what's coming your way take a look through the [Deliverables]() & [Milestone](https://github.com/HackYourFutureBelgium/home/tree/81d889d76b4d9b5a39aaa8aebc34f94c26dc969d/curriculum/final-project/milestone.md) pages.
 
 ## Main Focus
 

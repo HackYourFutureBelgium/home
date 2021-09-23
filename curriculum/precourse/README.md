@@ -1,12 +1,10 @@
-# Precourse
+# 1. Precourse
 
-[<< Application](../application/README.md) | [Top](../README.md) | [Workflows >>](../workflows/README.md)
+[&lt;&lt; Application](../application/) \| [Top](../) \| [Workflows &gt;&gt;](../workflows/)
 
-> ![miscommunication](./cant-you-do-anything-right.jpeg)
+> ![miscommunication](../../.gitbook/assets/cant-you-do-anything-right.jpeg)
 >
-> - [Randy Glasbergen](https://www.glasbergen.com/)
-
----
+> * [Randy Glasbergen](https://www.glasbergen.com/)
 
 Welcome to Hack Your Future Belgium. There is a lot of code, links, and browser tabs in your near future!
 
@@ -16,13 +14,11 @@ This module's main objective is to get you comfortable with the workflows of pro
 
 ## Learning Objectives
 
-- 🥚 **GitHub Issues**: You can create a new issue in a GitHub repository using an issue template. They can correctly use labels, milestones, and assignment to make their issue findable.
-- 🥚 **File System Management**: You can create and organize a new folder in their personal computer for the materials they will study at HYF.
-- 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects (class repo) and self-study (project board on personal account).
-- 🐣 **Visual Studio Code**: You can install and manage extensions, open a folder, create new files/folders inside of the folder ... basic usage.
-- 🐣 **GitHub Pull Requests**: You can fork a repository and send a Pull Request using a template.
-
----
+* 🥚 **GitHub Issues**: You can create a new issue in a GitHub repository using an issue template. They can correctly use labels, milestones, and assignment to make their issue findable.
+* 🥚 **File System Management**: You can create and organize a new folder in their personal computer for the materials they will study at HYF.
+* 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects \(class repo\) and self-study \(project board on personal account\).
+* 🐣 **Visual Studio Code**: You can install and manage extensions, open a folder, create new files/folders inside of the folder ... basic usage.
+* 🐣 **GitHub Pull Requests**: You can fork a repository and send a Pull Request using a template.
 
 ## How to HYF
 
@@ -30,12 +26,10 @@ We are a community of people who want to make the web a better place.
 
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
-Please read the _'Study Tips'_ in our [**Student Guidebook**](https://home.hackyourfuture.be/students).
-It will help you become a great HackYourFuture Student.
-We also expect you to know our:
+Please read the _'Study Tips'_ in our [**Student Guidebook**](https://home.hackyourfuture.be/students). It will help you become a great HackYourFuture Student. We also expect you to know our:
 
-- [Core Values](https://home.hackyourfuture.be/core-values)
-- [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct)
+* [Core Values](https://home.hackyourfuture.be/core-values)
+* [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct)
 
 so we can make the web a better place together!
 
@@ -45,11 +39,11 @@ so we can make the web a better place together!
 
 [home.hackyourfuture.be](https://home.hackyourfuture.be) is where you can go to learn all the practical info about being a student at HYF. Here you will find such helpful info as:
 
-- What to expect each Sunday
-- How to submit and get feedback on projects
-- Tips for studying code
-- An overview of the curriculum
-- ... and much more
+* What to expect each Sunday
+* How to submit and get feedback on projects
+* Tips for studying code
+* An overview of the curriculum
+* ... and much more
 
 ### Slack
 
@@ -65,13 +59,12 @@ We require you to be active on Slack and ask questions when you get stuck. You a
 
 Your class repository is the home base for each module and all assignments at HYF. You will use your class repo to:
 
-- Get to know each other
-- Ask for help, and help your classmates
-- Find links to all the modules and study references
-- Submit check-ins and projects
-- Get feedback from coaches
-- Share helpful study resources
+* Get to know each other
+* Ask for help, and help your classmates
+* Find links to all the modules and study references
+* Submit check-ins and projects
+* Get feedback from coaches
+* Share helpful study resources
 
-[TOP](#precourse)
+[TOP](./#precourse)
 
----

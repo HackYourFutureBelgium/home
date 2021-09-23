@@ -1,4 +1,4 @@
-# Development Strategy
+# 9. Development Strategy
 
 You will now begin translating your _**must-have** User Stories_ and your design into specific coding tasks. You can plan the rest of your user stories during Development after the **must-have**s are built.
 
@@ -6,13 +6,11 @@ As you build your project you will find mistakes in your strategy. Don't panic; 
 
 When you need to adapt your plans during development you can update your project board and your Development Strategy. When you write your retrospective it's useful to compare your initial development strategy to your final strategy and project board. This will help you learn to plan better in the future by comparing what you _actually_ did to what you _predicted_ you'd do.
 
----
-
 ## Template File
 
 Here's some markdown you can copy-paste into `/planning/development-strategy.md`:
 
-```markdown
+```text
 # Project Name
 
 <!-- describe your project -->
@@ -69,3 +67,4 @@ Here's some markdown you can copy-paste into `/planning/development-strategy.md`
   - [ ] some checkboxes for this task
   - [ ] these will be copy-pasted into the issue
 ```
+

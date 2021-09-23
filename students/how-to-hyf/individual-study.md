@@ -2,24 +2,24 @@
 
 Each module you will create one `check-in` issue using the template in your class repo. You will use this issue to track your progress through the _Suggested Study_ resources, the _Sunday Prep_ materials, and individual _Exercises_. You will write your _Wednesday Check-Ins_ in this issue. `check-in` issues won't be placed on the module project board.
 
-- [`check-in` Issues](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-issues)
-- [Individual Projects](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-projects)
-- [Self-Study](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#self-study)
-  - [Suggested Study](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#suggested-study)
-  - [Sunday Prep](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#sunday-prep)
-  - [Exercises](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#exercises)
-- [Extra Support](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#extra-support)
+* [`check-in` Issues](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-issues)
+* [Individual Projects](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-projects)
+* [Self-Study](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#self-study)
+  * [Suggested Study](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#suggested-study)
+  * [Sunday Prep](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#sunday-prep)
+  * [Exercises](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#exercises)
+* [Extra Support](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#extra-support)
 
 ## `check-in` Issues
 
 You will creat **one** check-in issue for each module. You will add one section to this issue for each chapter of the module. There is a template issue to help you get started, but there is still a few things to get right! Here's your `check-in` issue check-list:
 
-- **Title**: Your Name, Module Name
-- **Assignee**: yourself
-- **Labels**:
-  - `check-in`: added when the issue is created
-  - `chapter-x`: one per chapter, each Wednesday when you post your check-in
-- **Milestone**: the module
+* **Title**: Your Name, Module Name
+* **Assignee**: yourself
+* **Labels**:
+  * `check-in`: added when the issue is created
+  * `chapter-x`: one per chapter, each Wednesday when you post your check-in
+* **Milestone**: the module
 
 [TOP](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-assignments)
 
@@ -55,9 +55,9 @@ At the top of each chapter's section you will find a list of videos, articles or
 
 Not all exercises are created equal. These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
 
-- 🥚 `:egg:` - these exercises are required, they cover the base skills you'll need to move on.
-- 🐣 `:hatching_chick:` - do your best to start these exercises. you don't need to finish or master them \(yet\) but getting the main idea will be helpful in coming modules
-- 🐥 `:hatched_chick:` - Have you finished all the 🥚's and 🐣's? push yourself with these challenges!
+* 🥚 `:egg:` - these exercises are required, they cover the base skills you'll need to move on.
+* 🐣 `:hatching_chick:` - do your best to start these exercises. you don't need to finish or master them \(yet\) but getting the main idea will be helpful in coming modules
+* 🐥 `:hatched_chick:` - Have you finished all the 🥚's and 🐣's? push yourself with these challenges!
 
 Alongside each project there will be a set of exercises. Unlike projects the exercises will focus in on specific skills, tools or concepts. Exercises are made up of smaller and more repetitive problems to solve, always with tests so you can move through them with confidence.
 
@@ -76,3 +76,4 @@ Exercises will come in 3 general types as well:
 If feel that you need extra support, let us know on Slack or with your Wednesday Check-in. We'll get in touch and together find a solution to help you move forward. This might include individual support from a coach, pairing you with a study-buddy, or helping to find study resources that better fit your needs.
 
 [TOP](https://github.com/HackYourFutureBelgium/home/tree/98bdd930b1a8c0c81ffa42c876b1c2579d9863bd/students/hyf-workflows/individual-assignments.md#individual-assignments)
+

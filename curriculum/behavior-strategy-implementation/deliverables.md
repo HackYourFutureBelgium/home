@@ -1,16 +1,12 @@
 # Deliverables
 
-<!-- This module only has 1 deliverable, it's a group exercise to practice doing code reviews and writing clean code. -->
-
 a group repository of solutions to various coding challenges. Each solution should have test cases, pass CI checks and have a small write-up describing their strategy and implementation. Each solution is initially written individually, then reviewed and improved with the feedback of at least one group member.
 
-- _Language Level_: whatever JS language features are best suited to each solution - students will need to justify the language features they used in their write-ups
-- _Environment_: any JS environment that supports jest/jasmine-style BDD syntax - `describe`, `it`, `expect(_).toEqual(_)`
-- _Technologies_: JS and a unit testing environment
-- _Starter_: a repository containing code quality scripts, github actions, and testing configurations. it includes an example submission and a few challenge ideas (but students can choose to add different challenges)
-- _Assessment Criteria_: do the CI checks pass, was the student's code review positive and constructive (giving and receiving), are their write-ups clear and in alignment with their code.
-
----
+* _Language Level_: whatever JS language features are best suited to each solution - students will need to justify the language features they used in their write-ups
+* _Environment_: any JS environment that supports jest/jasmine-style BDD syntax - `describe`, `it`, `expect(_).toEqual(_)`
+* _Technologies_: JS and a unit testing environment
+* _Starter_: a repository containing code quality scripts, github actions, and testing configurations. it includes an example submission and a few challenge ideas \(but students can choose to add different challenges\)
+* _Assessment Criteria_: do the CI checks pass, was the student's code review positive and constructive \(giving and receiving\), are their write-ups clear and in alignment with their code.
 
 ## Vocab
 
@@ -28,7 +24,7 @@ Your goal isn't to solve as many problems as possible, it's to solve problems as
 
 One person in your group should fork [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review), everyone in your group will work from that repository. There is no need to have a plan or a development strategy since you are not building a project - each pull request will be for a stand-alone solution. Practicing code review now will prepare you for the next module when you begin building collaborative websites that use JavaScript.
 
-```markdown
+```text
 - [ ] [Repo]()
 - [Project Board]()
   - [ ] issues are created with the `new solution` template
@@ -43,3 +39,4 @@ One person in your group should fork [practice-code-review](https://github.com/h
 
 > no need for planning this week. Just open a new issue on the project board each time you start a solution
 ```
+

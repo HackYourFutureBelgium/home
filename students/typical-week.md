@@ -1,25 +1,23 @@
 # Typical Week
 
-Throughout the HYF course and your overall career as a programmer, you will
-_control your own fate_. 35 hours of study is just the bare minimum to get by at
-HYF, not enough to fully prepare you for your first job.
+Throughout the HYF course and your overall career as a programmer, you will _control your own fate_. 35 hours of study is just the bare minimum to get by at HYF, not enough to fully prepare you for your first job.
 
-The more you know and the harder you work, the faster you will find yourself in
-a career you love.
+The more you know and the harder you work, the faster you will find yourself in a career you love.
 
-The more you participate and become part of the HYF community, the more people
-are going to be willing to help you in return.
+The more you participate and become part of the HYF community, the more people are going to be willing to help you in return.
 
-### Sunday
+## Sunday
 
-- 10:30 - 11:30: Career Skills
-  - Guest workshops covering important skills that are not in the core
+* 10:30 - 11:30: Career Skills
+  * Guest workshops covering important skills that are not in the core
+
     curriculum
-  - (These will not happen every Sunday)
-- 11:30 - 12h: Prep
-  - leave your comment in the week's `roll-call`
-  - go over any `question` issues together
-- 12h - 16h: Class
+
+  * \(These will not happen every Sunday\)
+* 11:30 - 12h: Prep
+  * leave your comment in the week's `roll-call`
+  * go over any `question` issues together
+* 12h - 16h: Class
   1. Review
   2. Presentation
   3. Group work
@@ -28,30 +26,31 @@ are going to be willing to help you in return.
   6. Group work
   7. Homework Launch
 
-### Monday
+## Monday
 
-- Individual & group study
+* Individual & group study
 
-### Tuesday
+## Tuesday
 
-- Individual & group study
+* Individual & group study
 
-### Wednesday
+## Wednesday
 
-- Class review call (if you organize one)
-- Individual & group study
+* Class review call \(if you organize one\)
+* Individual & group study
 
-### Thursday
+## Thursday
 
-- Check-ins!
-- Begin prep work for Sunday
-- Individual & group study
+* Check-ins!
+* Begin prep work for Sunday
+* Individual & group study
 
-### Friday
+## Friday
 
-- Individual & group study
+* Individual & group study
 
-### Saturday
+## Saturday
 
-- Family, friends, rest & play
-- Individual & group study (optional ;)
+* Family, friends, rest & play
+* Individual & group study \(optional ;\)
+
