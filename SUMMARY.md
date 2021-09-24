@@ -26,10 +26,10 @@
   - [4. UX/UI Design](./curriculum/ux-ui-design/README.md) <!-- learn to use take the user's perspective and build what they need -->
     - [Suggested Study](./curriculum/ux-ui-design/suggested-study.md)
     - [Deliverables](./curriculum/ux-ui-design/deliverables.md)
-      <!-- - [Chapter 1](./curriculum/ux-ui-design/chapter-1.md) -->
-      <!-- - [Chapter 2](./curriculum/ux-ui-design/chapter-2.md) -->
+    - [Chapter 1](./curriculum/ux-ui-design/chapter-1.md)
+    - [Chapter 2](./curriculum/ux-ui-design/chapter-2.md)
       <!-- - [Assessment](./curriculum/ux-ui-design/assessment.md) -->
-      <!-- - [Teaching Tips](./curriculum/ux-ui-design/teaching-tips.md) -->
+      - [Teaching Tips](./curriculum/ux-ui-design/teaching-tips.md)
   - [5. Welcome to JS](./curriculum/welcome-to-js/README.md) <!-- learn the basic syntax of JS and how to read programs that use it -->
     - [Suggested Study](./curriculum/welcome-to-js/suggested-study.md)
     - [Deliverables](./curriculum/welcome-to-js/deliverables.md)

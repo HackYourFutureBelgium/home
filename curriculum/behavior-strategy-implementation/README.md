@@ -2,13 +2,13 @@
 
 [<< Debugging](../debugging/README.md) | [Top](../README.md) | [Separation of Concerns >>](../separation-of-concerns/README.md)
 
-> Be creative while inventing ideas, but be disciplined while implementing them.
->
-> - [Amit Kalantri](https://amitkalantri.com/tag/quotes-about-creativity/)
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
 
 ---
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
+> Be creative while inventing ideas, but be disciplined while implementing them.
+>
+> - [Amit Kalantri](https://amitkalantri.com/tag/quotes-about-creativity/)
 
 ---
 

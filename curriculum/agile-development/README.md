@@ -2,15 +2,15 @@
 
 [<< Workflows](../workflows/README.md) | [Top](../README.md) | [UX/UI Design >>](../ux-ui-design/README.md)
 
-[![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
-
----
-
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/agile-development)
 
 ---
 
-_Agile Development_ is a methodology for developing software. In this methodology you start with the simplest code you can possibly write to get things started. This can even be just empty files with the right names in the right folders! Then in small steps you add more code so that each little step _works_, builds on top of the last step, and is a little closer to the end goal.
+[![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
+
+---
+
+_Agile Development_ is a methodology for developing software. In this methodology you start with the simplest code you can possibly write to get things started. This can even be just empty files with the right names in the right folders! Then in small steps you add more code so that each little step _works_, is meaningful for the user, and is a little closer to the end goal.
 
 This strategy is sooooo important to learn because **programming is hard**. All developers (even your coaches!) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
 
@@ -30,7 +30,7 @@ Agile development is more about discipline than talent. Every minute you spend p
   - 🥚 You can work together to create a simple wireframe with pencil+paper and a basic drawing app like Excalidraw
   - 🐣 You can work together to write a development strategy for _must-have_ user stories.
   - 🐣 You can work together to convert a development strategy into issues on a project board organized with labels and milestones.
-- **Development**: Once the project board is set up you can work with your group to develop the website:
+- **Developing**: Once the project board is set up you can work with your group to develop the website:
   - 🥚 You can claim a task and manage your progress using the project board columns.
   - 🥚 Your group can use issues to discuss and agree on project changes once development has begun.
   - 🥚 You can use the `help-wanted` label to ask for help, and to find issues that need your help.

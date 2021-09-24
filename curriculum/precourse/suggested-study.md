@@ -45,3 +45,13 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - Etiquette
   - [slack.com](https://slack.com/intl/en-be/blog/collaboration/etiquette-tips-in-slack)
   - [hiverhq.com](https://hiverhq.com/blog/slack-etiquette)
+
+---
+
+## Class Recordings
+
+> - HYF modules are often updated, recordings from past classes may not match this gitbook
+> - When sending a PR's with recording links please ...
+>   - Indicate which class you were teaching
+>   - Which week it was (if the module is more than 1 week)
+>   - a helpful title or description

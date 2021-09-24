@@ -51,4 +51,4 @@ _PS. You aren't required to join an Intro Session before applying to HackYourFut
 
 > For the next application deadlines, keep an eye on [our website](https://hackyourfuture.be), [twitter](https://twitter.com/HackYFutureBE) or [Facebook](https://www.facebook.com/HackYFutureBE/).
 
-![application process diagram](./application-process.jpg)
+![application process diagram](./assets/application-process.jpg)

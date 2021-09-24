@@ -2,13 +2,13 @@
 
 [<< Separation of Concerns](../separation-of-concerns/README.md) | [Top](../README.md) | [Asynchronous Programming >>](../asynchronous-programming/README.md)
 
-> "We're talking about boxes and lines. We're talking about the big picture."
->
-> - [GetCloudSkills](https://www.youtube.com/watch?v=i7aKW7YNOxY)
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/architecture)
 
 ---
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/architecture)
+> "We're talking about boxes and lines. We're talking about the big picture."
+>
+> - [GetCloudSkills](https://www.youtube.com/watch?v=i7aKW7YNOxY)
 
 ---
 

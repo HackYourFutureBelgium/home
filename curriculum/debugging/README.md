@@ -2,14 +2,14 @@
 
 [<< Welcome to JS](../welcome-to-js/README.md) | [Top](./README.md) | [Behavior, Strategy, Implementation >>](../behavior-strategy-implementation/README.md)
 
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/debugging)
+
+---
+
 > If debugging is the process of removing software bugs, then programming must
 > be the process of putting them in.
 >
 > - [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
-
----
-
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/debugging)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ---
 
-[![Debugging Tactics](./faasandfurious-debugging.png)](https://faasandfurious.com/71)
+[![Debugging Tactics](./assets/faasandfurious-debugging.png)](https://faasandfurious.com/71)

@@ -1,12 +1,12 @@
 # Deliverables
 
-There are 3 deliverables for the technical assignment:
+There are 3 deliverables for the application process:
 
 1. Create a GitHub account with a profile README.
 2. Developing an HTML/CSS web page to explain the basics of HTML & CSS. (developed on Replit)
 3. Explaining how JavaScript variables work, using JavaScript to explain. (developed in Replit)
 
-## 1/3: GitHub Profile
+## 1: GitHub Profile
 
 Introduce yourself on GitHub by following these steps:
 
@@ -20,7 +20,7 @@ Introduce yourself on GitHub by following these steps:
 - Write clean and well-formatted code. We will be looking at your markdown to make sure it’s good!
 - Learn a new software and programming language from resources online.
 
-## 2/3: HTML+CSS Web Page
+## 2: HTML+CSS Web Page
 
 In this step, you’ll build a an HTML/CSS web page to explain how HTML & CSS works. You should explain at least these concepts (but are free to explore more if you like!):
 
@@ -62,7 +62,7 @@ Show us that you understand the basics of HTML & CSS
 
 Don't forget to [format](https://studio.code.org/docs/concepts/html/formatting-html/) your code! It should be easy for us to understand your project's structure simply by looking at the code.
 
-## 3/3: Explain Variables
+## 3: Explain Variables
 
 At HYF you will learn that good code should _first_ be understandable to a human, and _second_ to the computer. To show that you have understood the first steps of JavaScript _and_ that you can explain yourself to other developers, you will create a [new Node.js Replit](https://replit.com/new/nodejs) to explain how variables work.
 

@@ -8,14 +8,14 @@
 - [Three key parts](https://www.youtube.com/watch?v=ctFzjMygaRo)
 - [The Agile Manifesto](https://agilemanifesto.org/)
 
-### Sprint Planning
+## Sprint Planning
 
 - [Sprint Planning](https://www.youtube.com/watch?v=2A9rkiIcnVI)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 - [Agile Cartoons](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Agile Alliance](<https://www.agilealliance.org/glossary/sprint-planning/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'sprint*20planning))~searchTerm~'~sort~false~sortDirection~'asc~page~1)>)
 
-### User Stories
+## User Stories
 
 - [User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)
 - User Personas
@@ -36,7 +36,7 @@
     - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
     - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
 
-### Website Planning
+## Website Planning
 
 - [The Ultimate Guide to Planning your Website Project](https://en.yeeply.com/blog/guide-plan-website-project/)
 - [A Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
@@ -57,7 +57,7 @@
 - [The science of code reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 - [Code review on GitHub](https://www.youtube.com/watch?v=HW0RPaJqm4g)
 
-### HTML & CSS
+## HTML & CSS
 
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
@@ -72,7 +72,7 @@
 - [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - [css-exercises](https://github.com/dangodev/css-exercises)
 
-### Agile is not Perfect
+## Agile is not Perfect
 
 - [Agile is Dead: Code Review](https://simpleprogrammer.com/agile-is-dead-code-review/)
 - [8 Reasons to Ditch Agile](https://techbeacon.com/app-dev-testing/8-reasons-ditch-agile)
@@ -84,3 +84,9 @@
 - [10 tips for writing good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 
 ## Class Recordings
+
+> - HYF modules are often updated, recordings from past classes may not match this gitbook
+> - When sending a PR's with recording links please ...
+>   - Indicate which class you were teaching
+>   - Which week it was (if the module is more than 1 week)
+>   - a helpful title or description

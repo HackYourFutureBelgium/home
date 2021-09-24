@@ -2,13 +2,13 @@
 
 [<< UX/UI Design](../ux-ui-design/README.md) | [Top](../README.md) | [Debugging >>](../debugging/README.md)
 
-> _JavaScript_: Don't judge me by my bad parts, learn the good stuff and stick with that!
->
-> - [Eric Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/ch01.html)
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/welcome-to-js)
 
 ---
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/welcome-to-js)
+> _JavaScript_: Don't judge me by my bad parts, learn the good stuff and stick with that!
+>
+> - [Eric Freeman](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/ch01.html)
 
 ---
 

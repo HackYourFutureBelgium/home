@@ -1,18 +1,16 @@
-## Suggested Study
+# Suggested Study
 
 Helpful resources for this module
 
-> [study.hackyourfuture.be/javascript](https://study.hackyourfuture.be/javascript)
-
 > Are we missing a great set of exercises? Send a PR!
 
-### Snippets and Examples
+## Snippets and Examples
 
 - [30secondsofcode](https://www.30secondsofcode.org/js)
 - javascripttutorial.net: [arrays](https://www.javascripttutorial.net/array/), [objects](https://www.javascripttutorial.net/object/)
 - [minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript)
 
-### About Testing
+## About Testing
 
 - [FunFunFunction](https://www.youtube.com/watch?v=Eu35xM76kKY&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr):
   1. [Writing tests for personal projects](https://www.youtube.com/watch?v=ib2Pt9_zciA)
@@ -24,7 +22,7 @@ Helpful resources for this module
 - [good test descriptions](https://softwareengineering.stackexchange.com/questions/362515/how-to-write-good-javascript-unit-test-descriptions)
 - [test behavior, not implementation](https://javascript.plainenglish.io/javascript-unit-test-best-practices-testing-behavior-4d1fd46ae03d)
 
-### Higher-Order Functions
+## Higher-Order Functions
 
 - [FunFunFunction](https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056)
 - [The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
@@ -33,14 +31,14 @@ Helpful resources for this module
 - [bitsrc](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 - [Mosh](https://programmingwithmosh.com/javascript/what-are-higher-order-functions-in-javascript/)
 
-### MDN Documentation
+## MDN Documentation
 
 - [FreeCodeCamp: the lingo](https://www.youtube.com/watch?v=NFaZKFTycmc)
 - [Zach Gollwitzer](https://www.youtube.com/watch?v=O3iR-CIufKM)
 - [DevSprout](https://www.youtube.com/watch?v=FSe_phZ2wmg)
 - [CodeAcademy](https://www.youtube.com/watch?v=s1PLS3SQHQ0) (MDN starts at 9:00)
 
-#### Array Methods
+### Array Methods
 
 - [doesitmutate.xyz](https://doesitmutate.xyz/)
 - [javascript.info](https://javascript.info/array-methods)
@@ -51,7 +49,7 @@ Helpful resources for this module
 - Oliverjam: [learn-map-filter](https://github.com/oliverjam/learn-map-filter), [tdd-array-methods](https://github.com/oliverjam/tdd-array-methods)
 - [Reduce](https://github.com/remarcmij/arr-reduce)
 
-### Arrays of Objects
+## Arrays of Objects
 
 - [short, sweet, with a loop](https://www.youtube.com/watch?v=ivNWS9s7vhA) (video)
 - [Sorting an Array of Objects](https://www.youtube.com/watch?v=0d76_2sksWY) (video)
@@ -60,20 +58,20 @@ Helpful resources for this module
 - [Create, Update and Loop](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) (article)
 - [The Coding Train](https://www.youtube.com/watch?v=fBqaA7zRO58) (video)
 
-### Recursion
+## Recursion
 
 - [FunFunFunction](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=7)
 - [javascriptutorial](https://www.javascripttutorial.net/javascript-recursive-function/)
 - [Beau](https://www.youtube.com/watch?v=vPEJSJMg4jY)
 
-### Algorithm Visualizations
+## Algorithm Visualizations
 
 - [visualgo.net](https://visualgo.net/en)
 - [algorithm-visualizer.org](https://algorithm-visualizer.org/)
 - [algoviz.io](https://algoviz.io/#/)
 - [pathfinding.js](https://qiao.github.io/PathFinding.js/visual/)
 
-### ECMAScript Modules (ES Modules)
+## ECMAScript Modules (ES Modules)
 
 > `import`/`export`
 
@@ -82,7 +80,7 @@ Helpful resources for this module
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/es6/es6-modules/)
 
-### Code Quality
+## Code Quality
 
 - [JavaScript: The Better Parts](https://www.youtube.com/watch?v=_EF-FO63MXs) (first 11 minutes)
 - **Code Style**
@@ -110,7 +108,7 @@ And last, but not least: **Code Review**:
 - [An example code review](https://www.youtube.com/watch?v=cix7wQSsN7U)
 - [all-about-code-review](https://github.com/mgreiler/all-about-code-review)
 
-### 🐥 Regular Expressions
+## 🐥 Regular Expressions
 
 You can get by without them, but when they're helpful they're very helpful.
 
@@ -124,17 +122,17 @@ You can get by without them, but when they're helpful they're very helpful.
   - [FreeCodeCamp](https://www.youtube.com/watch?v=909NfO1St0A)
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
+---
+
 ## Class Recordings
 
-- **Students**: Here you can find recordings of this module from past classes. Enjoy!
-  - Do you have a favorite? Send a PR giving it a :+1:
-- **Coaches**: When sending your PR's with links please ...
-  - Indicate which class you were teaching
-  - Which week it was (if the module is more than 1 week)
-  - Give your name
-  - and a helpful description
+> - HYF modules are often updated, recordings from past classes may not match this gitbook
+> - When sending a PR's with recording links please ...
+>   - Indicate which class you were teaching
+>   - Which week it was (if the module is more than 1 week)
+>   - a helpful title or description
 
-## class-9-10
+### class-9-10
 
 > [Charles](https://github.com/cpauwels), [Sali](https://github.com/Sali-Almurshidi) & [Evan](https://github.com/)
 
@@ -155,7 +153,7 @@ You can get by without them, but when they're helpful they're very helpful.
    - Sunday Part 1: [Objects 2](https://vimeo.com/440023799)
    - Sunday Part 2: [User input in Objects](https://vimeo.com/440024065)
 
-## class-11-12
+### class-11-12
 
 > [Evan](https://github.com/colevandersWands), [Thibault](https://github.com/ThibaultLesuisse), [Joel](https://github.com/JoeCamacho)
 
@@ -163,7 +161,7 @@ You can get by without them, but when they're helpful they're very helpful.
 2. Week 2 - server crash :(
 3. Week 3: [Objects Pt. 1](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=48966e92bc14f80c53d450f9e59dc77e812b2f8b-1606646910775), [Objects Pt. 2](https://vimeo.com/485101057), [Project Intro](https://vimeo.com/485101478)
 
-## class-13-14
+### class-13-14
 
 > [Thibault](https://github.com/ThibaultLesuisse), [Evan](https://github.com/colevandersWands), [Emilien](https://github.com/EmilienD)
 
@@ -171,7 +169,7 @@ You can get by without them, but when they're helpful they're very helpful.
 - Week 2: [about testing](https://vimeo.com/547835625), [function design](https://vimeo.com/547835556/)
 - Week 3: [code quality & code review](https://vimeo.com/551501941) By hero Thibault!
 
-## class-15
+### class-15
 
 > [Yildiray](https://github.com/yildiraykoyuncu), [Samir](https://github.com/samirm00), [Evan](https://github.com/colevanderswands)
 

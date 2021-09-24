@@ -2,7 +2,7 @@
 
 [<< Application](../application/README.md) | [Top](../README.md) | [Workflows >>](../workflows/README.md)
 
-> ![miscommunication](./cant-you-do-anything-right.jpeg)
+> ![miscommunication](./assets/cant-you-do-anything-right.jpeg)
 >
 > - [Randy Glasbergen](https://www.glasbergen.com/)
 

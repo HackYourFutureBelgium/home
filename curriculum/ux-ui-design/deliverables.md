@@ -1,67 +1,85 @@
 # Deliverables
 
-This module has 1 deliverable project, parts of it are individual and parts of it are collaborative.
+## 1. Vocabulary
 
-## Vocab
+Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
-make at least 1 contribution to the `/vocabulary` folder of your class repo.
+- _Labels_: `deliverable`, `vocabulary`
+- _milestone_: `ux-ui-design`
 
-## Home Page
+## 2. Snippets
 
-> [starter repo]() - due at the end of the module
->
-> - collaborative design
-> - individual development
-> - open-source contributing
+Make at least 1 PR contribution to the `/snippets` folder of your class repo. This can be any snippet of HTML or CSS that you found helpful and someone else might find useful in their projects.
 
-You've come full circle, time to rebuild that home page you started in the Precourse. Over the next two weeks you will be rebuilding your home page at `username.github.io` to showcase everything you've learned so far.
+You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
-There will be 3 parts to the 2-week project in UX/UI Design:
+- _Labels_: `deliverable`, `snippets`
+- _milestone_: `ux-ui-design`
 
-- **Designing**: Practice User Interviews and Design Thinking by working in pairs to come up with your Home Page backlogs, wireframes and READMEs.
+---
+
+## 3. Home Page
+
+> [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
+
+In this module you will be building a home page at `username.github.io` to showcase everything you've learned so far.
+
+There will be 3 parts to the project in UX/UI Design:
+
+- **Designing**: Practice Stakeholder Interviews and Design Thinking by working in pairs to plan your Home Page user personas, backlogs, wireframes and READMEs.
   1. You will each create a repository and fork each other's repositories. (do not add each other as collaborators!)
   2. Push your interview notes to the `/planning` folder in _your fork_ of their Home Page and send them a PR
-  3. Help each other turn the interview notes into a Backlog and a complete Wireframe. then you're on your own!
+  3. Help each other turn the interview notes into User Personas, a Backlog and a complete Wireframe. then you're on your own!
 - **Developing**: Practice solo development by turning your backlog into your new Home Page. Learn about open source libraries by choosing and using a CSS Framework in your project.
   1. Complete your Development Strategy
   2. Set up your Project Board & Issues
   3. Develop!
-  4. Retrospect
-- **Contributing**: Practice contributing to Open Source projects. A contribution can be as simple as fixing a spelling mistake, adding a translation, or participating in an issue's discussion. It's best to make small contributions you are sure will be helpful:
-  - Contribute to your classmates' Home Pages. They will not give you access to their repo, so you will need to use a Fork and comment in issues/PRs as an outside collaborator.
-  - Make a contribution to your CSS Framework's repository. This doesn't need to be anything fancy, whatever you are comfortable with!
+- **Retrospective**: Meet back up with your design partner to do a retrospective of this project. Include some extra thoughts about the interview process.
 
-You home page is a never-ending project. You can continuously improve it as you learn more, and we will rebuild it again at HYF after you learn about JavaScript APIs. The goal in these two weeks is only to make a solid start, not make everything perfect.
+You home page is a never-ending project. You can continuously improve it as you learn more. The goal during this module is only to make a solid start, not to make everything perfect.
 
 ```markdown
 ## Home Page
 
 - [repo]()
   - with your partner:
-  - [ ] README
+    - [ ] README
   - on your own:
-  - [ ] License
-  - [ ] Contributor Guidelines
-  - [ ] Code of Conduct
-- [live demo](https://username.github.io)
-- /planning
+    - [ ] License
+    - [ ] Contributor Guidelines
+    - [ ] Code of Conduct
+- [live demo](https://_.github.io)
+- `/planning`
   - with your project partner:
-  - [ ] interview (your completed interview template)
-  - [ ] backlog (developed with your partner based on the interview)
-  - [ ] wireframe (design your site's outline together)
-  - [ ] retrospective
+    - [ ] interview (your completed interview template)
+    - [ ] user personas
+    - [ ] backlog (developed with your partner based on the interview)
+    - [ ] wireframe (design your site's outline together)
+    - [ ] retrospective
   - on your own:
-  - [ ] schedule (like communication plan, but for yourself)
-  - [ ] constraints
-  - [ ] development strategy
-  - [ ] Figma file (in week 2)
+    - [ ] constraints
+    - [ ] development strategy
+    - [ ] Figma file
 - [ ] [project board]()
-- [ ] Use semantic elements and ARIA labels
+- Accessibility
+  - [ ] Web page uses semantic elements
+  - [ ] Web page has ARIA labels when necessary
+```
 
+---
+
+## 4. Open Source Contributions
+
+Learn how to contributing to Open Source projects by sending at least 2 PRs to your classmate's home pages. A contribution can be as simple as fixing a spelling mistake or aligning an element.
+
+How is this different than the group projects you worked on in the last module? You won't be a member of the repository! For this deliverable you will make your PRs to a project that you did not help to plan and that you do not have access to. You will need to create a fork and send your PR from there.
+
+Before sending a PR to one of your classmate's home pages, take some time to read through their planning, project board and code. It's better to understand their project and make a small contribution you are sure will be helpful than to propose big changes that do not fit with their ideas.
+
+```markdown
 ## Contributions
 
-- Home Pages:
-  - [ ] [classmate's name](link_to_your_contribution)
-  - [ ] [classmate's name](link_to_your_contribution)
-  - ... why stop at 2?
+- [ ] [classmate's name](link_to_your_pull_request): _describe your contribution_
+- [ ] [classmate's name](link_to_your_pull_request): _describe your contribution_
+- ... why stop at 2?
 ```
