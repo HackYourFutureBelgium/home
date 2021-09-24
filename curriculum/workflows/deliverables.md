@@ -2,16 +2,12 @@
 
 This module has 3 deliverables. One is a contribution to the class repository, one is a group project to practice collaboration and the other is a group project to practice following a development strategy.
 
----
-
 ## 1. Vocabulary
 
 Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
 - _Labels_: `deliverable`, `vocabulary`
 - _milestone_: `workflows`
-
----
 
 ## 2. Group Introduction
 
@@ -50,6 +46,7 @@ Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/g
   ```
 
 - For your individual PRs in your group repository
+
   ```markdown
   - Setup: GitHub
     - [ ] created this issue
@@ -71,14 +68,12 @@ Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/g
     - [ ] assigned someone to review and merge my PR
   ```
 
----
-
 ## 3. Planning and Collaborating
 
 > - the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
 > - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
 
-This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](../students/planning-and-collaborating) workflows used at HYF.
+This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](https://github.com/HackYourFutureBelgium/home/tree/b9af249867e00b064b05ab41fd98651e8898b814/curriculum/students/planning-and-collaborating/README.md) workflows used at HYF.
 
 A working website is not enough! Your group should create a complete repository following the steps in _Planning and Collaborating_. You are welcome to make changes in the starter code but don't loose too much time on the design, the planning and collaboration are more important than the finished site.
 

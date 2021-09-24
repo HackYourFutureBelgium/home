@@ -4,13 +4,13 @@ You don't need to learn all of this, it's _a lot_ of links.
 
 These links will always be here for you when you need them in the future.
 
+> Are we missing a great set of exercises? Send a PR!
+
 ---
 
 ## User Experience and User Interfaces
 
-<details>
-<summary>Empathy for Developers</summary>
-<br>
+### Empathy for Developers
 
 - [What is Empathy?](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
 - [Empathy can be Learned](https://medium.com/old-code-new-tricks/software-development-on-the-empathy-spectrum-f77596faeabc)
@@ -24,12 +24,9 @@ These links will always be here for you when you need them in the future.
 - [Some Practical Tips](https://truefit.io/blog/how-to-instill-empathy-in-the-software-development-process)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/how-empathy-makes-you-a-better-software-engineer/)
 
-</details>
-<details>
-<summary>UX Research, User Interviews & Personas</summary>
-<br>
+### UX Research, User Interviews & Personas
 
-### UX Research
+#### UX Research
 
 - [designkit.org](https://www.designkit.org/methods)
 - [Career Foundry](https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional/)
@@ -37,7 +34,7 @@ These links will always be here for you when you need them in the future.
 - [Zero to UX](https://www.youtube.com/channel/UCWJE3xgMkuekX376g3SiwrQ)
 - [Research Report](https://www.youtube.com/watch?v=esg5iUALAJM)
 
-### User Interviews
+#### User Interviews
 
 - [Structured, Semi-Structured, Unstructured](https://www.youtube.com/watch?v=jy-QGuWE7PQ)
 - [How to talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc&t)
@@ -48,16 +45,13 @@ These links will always be here for you when you need them in the future.
 - [Service Design Show](https://www.youtube.com/watch?v=wkLIVhxoZ8s)
 - [interaction-design.org](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
 
-### Personas
+#### Personas
 
 - [interaction-design.org](https://www.youtube.com/watch?v=XnG4c4gXaQY)
 - [Robert Smith](https://www.youtube.com/watch?v=vZ578SqL1oA)
 - [Abnux](https://www.youtube.com/watch?v=GaEdg9zTdB8)
 
-</details>
-<details>
-<summary>Design Thinking</summary>
-<br>
+### Design Thinking
 
 - Design Thinking Process: [Sprouts](https://www.youtube.com/watch?v=_r0VX-aU_T8),[Stanford](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
   1. Empathize
@@ -80,10 +74,7 @@ These links will always be here for you when you need them in the future.
   - [Explanatory](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
   - [Justin Ferrell workshop](https://www.youtube.com/watch?v=Z4gAugRGpeY&t)
 
-</details>
-<details>
-<summary>Design Thinking for Developers</summary>
-<br>
+### Design Thinking for Developers
 
 - [Design Thinking Process](https://www.khomp.com/en/design-thinking-in-software-development/)
 - [9 Tips](https://techeries.com/9-software-development-tips-successfully-incorporate-design-thinking-projects/)
@@ -95,20 +86,14 @@ These links will always be here for you when you need them in the future.
 - [Beware the User!](https://medium.com/@blakeross/mr-fart-s-favorite-colors-3177a406c775)
 - next level: [Art Thinking](https://www.fastcompany.com/3019082/coding-is-an-art-software-people-should-learn-art-thinking)
 
-</details>
-<details>
-<summary>General</summary>
-<br>
+### General
 
 - [designnotes](https://www.designnotes.co/) (huge repository of sites with design resources, inspiration…)
 - [designinspiration](https://www.designspiration.com/)
 - [Learn Design with Me](https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
 - [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
-</details>
-<details>
-<summary>User experience (UX)</summary>
-<br>
+### User experience (UX)
 
 - [uxchecklist.github.io](https://uxchecklist.github.io/) - Complete list of methods and techniques used in UX design
 - [Jacob Nielsen’s Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
@@ -125,10 +110,7 @@ These links will always be here for you when you need them in the future.
 - https://uxmag.com/
 - https://www.nngroup.com/
 
-</details>
-<details>
-<summary>Gestalt</summary>
-<br>
+### Gestalt
 
 - https://www.canva.com/learn/gestalt-theory/
 - [www.87seconds.com - lesson-from-our-designers-gestalt-principles](https://www.87seconds.com/lesson-from-our-designers-gestalt-principles/?gclid=EAIaIQobChMIqbLZoYWz3QIVBrXtCh0kPQiaEAAYASAAEgIRF_D_BwE)
@@ -136,10 +118,7 @@ These links will always be here for you when you need them in the future.
 - [nngroup.com](https://www.nngroup.com/articles/principles-visual-design/) UI Principles
 - Conceptual Integrity: [safnet](http://www.safnet.com/writing/tech/2011/11/mythical-man-month-conceptual-integrity.html), [CSEWeb](http://cseweb.ucsd.edu/~wgg/CSE131B/Design/node6.html), [DZone](https://dzone.com/articles/lean-tools-conceptual-0), [deep read](http://www.dcs.warwick.ac.uk/oldmodelling/hi/theses/allan/chapter5.pdf)
 
-</details>
-<details>
-<summary>Colour</summary>
-<br>
+### Colour
 
 - https://color.adobe.com/nl/create
 - http://khroma.co/
@@ -147,20 +126,14 @@ These links will always be here for you when you need them in the future.
 - http://paletton.com
 - https://htmlcolorcodes.com/
 
-</details>
-<details>
-<summary>Iconography</summary>
-<br>
+### Iconography
 
 - https://thenounproject.com/
 - https://www.flaticon.com/
 - https://icons.mono.company/
 - https://remixicon.com/
 
-</details>
-<details>
-<summary>Typography and Fonts</summary>
-<br>
+### Typography and Fonts
 
 - https://fontjoy.com/
 - https://fonts.google.com/
@@ -174,36 +147,24 @@ These links will always be here for you when you need them in the future.
 - https://www.fontshop.com/glossary - All the terms of typography
 - https://typespiration.com/ - Collection and inspiration of typography combinations
 
-</details>
-<details>
-<summary>Style Guides</summary>
-<br>
+### Style Guides
 
 - [Style Guide Guide](https://bradfrost.github.io/style-guide-guide/) by Brad Frost
 
-</details>
-<details>
-<summary>Imagery and Photography</summary>
-<br>
+### Imagery and Photography
 
 - Downloads: https://unsplash.com/
 - https://www.pexels.com/
 - https://icons8.com/
 
-</details>
-<details>
-<summary>Illustration</summary>
-<br>
+### Illustration
 
 - https://icons8.com/vector-creator
 - https://icons8.com/illustrations
 - https://www.drawkit.io/
 - https://undraw.co/
 
-</details>
-<details>
-<summary>Design inspiration</summary>
-<br>
+### Design inspiration
 
 - https://www.awwwards.com/
 - https://httpster.net/2020/aug/
@@ -213,18 +174,12 @@ These links will always be here for you when you need them in the future.
 - https://www.behance.net/
 - https://www.invisionapp.com/talks - Talks and interviews about UX and Design.
 
-</details>
-<details>
-<summary>Free Courses</summary>
-<br>
+### Free Courses
 
 - [Hack Design](https://hackdesign.org/) Free design lessons by designers.
 - [Design Lab](http://trydesignlab.com/) Design course with mentorship and projects.
 
-</details>
-<details>
-<summary>Figma</summary>
-<br>
+### Figma
 
 Web based tool for interface design, collaborative, add plugins from community (free, up to 2 editors and 3 projects)
 
@@ -238,10 +193,7 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - [Handoff seamlessly to developers](https://www.youtube.com/watch?v=B242nuM3y2s&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=9)
 - [Explore Design Features in Figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23&mkt_tok=eyJpIjoiWXpJd09HRmhOelkzWW1aaCIsInQiOiJoRVRDT05JVSsrNzRzTmtBcUdtcDhVYVNsXC95Z2Vwbm92bzVWeGlGSXlnNVJ0REdad21kR05oNHhOZldOUmtscTJLSlwvWmE1ZFZOV0J4bjFQeGliT0h6cmRybTFFdzBHMTZaOHhTbVhha0tCWlZXbmdYTUE1Mk1pczJuRisxeFZMIn0%3D)
 
-</details>
-<details>
-<summary>UI Kits</summary>
-<br>
+### UI Kits
 
 - https://www.figma.com/templates/
 - https://www.uistore.design/types/figma/
@@ -250,40 +202,28 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - [Spell checker for Figma](https://www.figma.com/community/plugin/754026612866636376/SPELLL---Spell-Checking-for-Figma)
 - [Accessibility checker for Figma](https://www.figma.com/community/plugin/732603254453395948/Stark)
 
-</details>
-<details>
-<summary>More Softwares</summary>
-<br>
+### More Softwares
 
 - **Adobe XD**: Interface design and prototyping tool, shared docs, 2GB cloud storage ([free, up to 2 editors and 1 shared document](https://www.adobe.com/be_en/products/xd.html))
 - **Sketch**: Interface design / UX and prototyping tool, collaborative ([paid, 30 days trial](https://www.sketch.com/))
 - **MindMeister**: Flowcharts and mind maps ([free, up to 3 maps](https://www.mindmeister.com/))
 - **Draw.io**: Flowcharts ([paid, 30 days trial](https://drawio-app.com/))
 
-</details>
-<details>
-<summary>Books</summary>
-<br>
+### Books
 
 - [Don't Make Me Think](https://www.bol.com/nl/p/don-t-make-me-think-revisited/9200000018192369/?bltgh=mLaCpZW-IMbD3dNO48xFIA.1_4.5.ProductImage), by Steve Krug [Suggested study]
 - [The User Experience Team of One](https://www.bol.com/nl/p/the-user-experience-team-of-one/9200000082272796/?bltgh=tY-6frkLAyHyaaL6EtNEPQ.1_4.5.ProductImage): A Research and Design Survival Guide, by Leah Buley
 - Information Architecture for the World Wide Web, by Louis Rosenfeld and Peter Morville
-- [Universal Principles of Design](https://www.bol.com/nl/p/universal-principles-of-design/1001004007106781/?bltgh=mm-7k83-XaFdUXIrXSJObA.1_4.6.ProductImage), by William Lidwell, Kritina Holden, and Jill Butler
+- [Universal Principles of Design](https://www.bol.com/nl/p/universal-principles-of-design/1001004007106781/?bltgh=mm-7k83-XaFdUXIrXSJObA.1_4.6.ProductImage), by William Lidwell, Kritina Holden, and Jill Butler
 - [Information Architecture for the World Wide Web](https://www.bol.com/nl/p/information-architecture-4e/9200000037168400/?bltg=itm_event%3Dclick%26mmt_id%3DX3GnoJ7%40oK68MSh3gAkpbQAAB7Y%26slt_type%3Drecommendations%26pg_nm%3Dpdp%26slt_id%3Dprd_reco%26slt_nm%3Dproduct_recommendations%26slt_pos%3DC1%26slt_owner%3Dccs%26itm_type%3Dproduct%26itm_lp%3D1%26itm_id%3D9200000037168400&bltgh=vKsCEcB7ild3J74TfKNNfQ.1_8_9.10.ProductImage), by Louis Rosenfeld and Peter Morville
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/), by Brad Frost
 - [Design Systems](https://www.bol.com/nl/p/design-systems/9200000088832671/) by Alla Kholmatova
 - HTML&CSS design and build websites - Jon Duckett ([Free PDF](https://wtf.tw/ref/duckett.pdf)) ([Official website](http://www.htmlandcssbook.com/))
 - [Free Online book on Design Engineering](https://www.designbetter.co/design-engineering-handbook)
 
-</details>
-
 ---
 
 ## Web Accessibility
-
-<details>
-<summary>expand/collapse</summary>
-<br>
 
 - [What is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 - Human accessibility: [Empathy Prompts](https://empathyprompts.net/#blindness), [Using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
@@ -335,13 +275,11 @@ Video explanation of Figma features on their official [YouTube channel](https://
 - https://developers.google.com/web/tools/lighthouse - Chrome dev tool
 - https://www.deque.com/axe/ - Chrome extension
 
-</details>
+---
 
 ## Open Source Software
 
-<details>
-<summary>What is Open Source Software?</summary>
-<br>
+### What is Open Source Software?
 
 - [Mozilla](https://www.youtube.com/watch?v=7c0IrsDsNaw)
 - [Brian Daigle](https://www.youtube.com/watch?v=1ehpgbb3XD0)
@@ -353,10 +291,7 @@ Video explanation of Figma features on their official [YouTube channel](https://
 
 To learn more about all things Open, check out the [Open Knowledge Foundation](https://okfn.org) and [Open Knowledge Belgium](https://openknowledge.be).
 
-</details>
-<details>
-<summary>Open Source Licenses</summary>
-<br>
+### Open Source Licenses
 
 The license attached to an Open Source project is not just a detail! Check out these links to learn more about the many licenses available:
 
@@ -367,10 +302,7 @@ The license attached to an Open Source project is not just a detail! Check out t
 - copyleft: [what is this?](https://www.youtube.com/watch?v=6Xky8HTqaZo), [copyleft.org](https://copyleft.org/)
 - :) [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses)
 
-</details>
-<details>
-<summary>Codes of Conduct</summary>
-<br>
+### Codes of Conduct
 
 The Code of Conduct in an Open Source project describes how contributors should treat each other. Open Source projects are about sharing and welcoming:
 
@@ -378,10 +310,7 @@ The Code of Conduct in an Open Source project describes how contributors should 
 - [opensource.guide](https://opensource.guide/code-of-conduct/)
 - [opensourcedesign.net](https://opensourcedesign.net/code-of-conduct/)
 
-</details>
-<details>
-<summary>Contributor Guidelines</summary>
-<br>
+### Contributor Guidelines
 
 Contributor Guidelines are important to standardize coding practices and workflows for an Open Source project. You could think of it as describing how the code should be treated:
 
@@ -397,10 +326,7 @@ Contributor Guidelines are important to standardize coding practices and workflo
   - [atom/atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
   - [voxmedia](https://github.com/voxmedia/open-source-contribution-guidelines)
 
-</details>
-<details>
-<summary>How to Contribute</summary>
-<br>
+### How to Contribute
 
 - [opensource.guide](https://opensource.guide/)
 - [freecodecamp](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)
@@ -414,24 +340,3 @@ Contributor Guidelines are important to standardize coding practices and workflo
 and finally ...
 
 - [Contribute to this Project!](https://github.com/Syknapse/Contribute-To-This-Project)
-
----
-
-## Class Recordings
-
-> - HYF modules are often updated, recordings from past classes may not match this gitbook
-> - When sending a PR's with recording links please ...
->   - Indicate which class you were teaching
->   - Which week it was (if the module is more than 1 week)
->   - a helpful title or description
-
-### [Class 11 & 12](https://github.com/hackyourfuturebelgium/class-11-12)
-
-> by [Nadia Ferreira](https://nadiaferreira.com/) & [Marie Devos](https://github.com/mariedevos)
-
-- [Class Recording 18/10/2020](https://vimeo.com/469672798) - [slides](./slides/week-2.pdf)
-
-### [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
-
-1. Week 1: [User Empathy & Design Thinking](https://vimeo.com/519167473)
-2. Week 2: [User Interface Design & Figma](https://vimeo.com/520914260)

@@ -1,6 +1,6 @@
-# Behavior, Strategy, Implementation
+# 7. Behavior, Strategy, Implementation
 
-[<< Debugging](../debugging/README.md) | [Top](../README.md) | [Separation of Concerns >>](../separation-of-concerns/README.md)
+[&lt;&lt; Debugging](../debugging/README.md) \| [Top](../README.md) \| [Separation of Concerns &gt;&gt;](../separation-of-concerns/README.md)
 
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
 
@@ -16,18 +16,35 @@ In this module you will explore different ways to break down and solve coding ch
 
 ## Learning Objectives
 
-- 🥚 You can analyze the behavior, strategy and implementation of functions at your level, written by someone else.
-- 🥚 You can use `describe`, `it` and `expect` to write unit tests for a working function. You can group your unit tests by _use case_ and can find interesting edge cases.
-- 🥚 You can construct solutions to coding challenges given scrambled lines of code.
-- 🥚 You understand the Function Design process and can follow the steps to solve simple coding challenges
-- 🥚 You can write functions that use higher order functions and built-in JS array methods to solve simple coding challenges.
-- 🥚 You can use ES Modules (`import`/`export`) to use functions in a different file than they were declared.
-- 🐣 You can read MDN documentation to figure out how built-in JS functions & methods are used.
-- 🐣 You can find the _prototype chain_ for a value in the debugger's _scopes_ panel.
-- 🐣 You can write and contribute code that meets a group's standards.
-- 🐣 You can use a checklist to carry out a constructive code review with a classmate.
-- 🐥 You can explain the basic principles of _hoisting_ by stepping through a script in the debugger and showing what changes in the _scopes_ panel.
-- 🐔 You can validate your function's arguments and throw helpful errors when the arguments are invalid.
+<!--
+
+  this module stays close to the code, so to speak. It does not intend to go towards abstracting algorithms, complexity or other CSy concepts.
+
+  the objective is that students are prepared to collaborate on a shared code base by learning to write clean and language-specific code, and decipher then improve less clean code.
+
+  "at your level" and "level-appropriate" is not yet well-defined. It's some combination of language features used, complexity of strategy, and complexity of the problem. for most objectives it _does not_ require that they could write the solution themselves.
+
+-->
+
+- 🥚 **Analyzing Functions**: You can analyze a function written at or near your level. This includes:
+  - _Behavior_: How would you document the function, what test cases does it pass, and how might you use it in a program
+  - _Strategy_: Roughly, how could you translate this solution to pseudo-code.
+  - _Implementation_: What language features were used, and what are some alternate language features that could be used
+- 🥚 **Testing Existing Functions**: You can write unit tests for a working function using the `describe`/`it`/`expect(_).toEqual(_)` syntax. This includes grouping test cases into logical test suites.
+- 🥚 **Function Design**: You can explain the function-design process and can successfully apply it to write 2+ solutions matching the behavior of a given function \(assuming the behavior is at your level\). The solutions do not need to implement different strategies, consider edge cases, or check for invalid arguments.
+- 🥚 **Generating Documentation**: You can write a correct JSDoc for your functions and use a provided script to generate markdown documentation in a separate file.
+- 🐣 **Array Strategies**: You can determine which of the primary array strategies \(`map`, `filter`, `reduce`, `every`, `some`\) are helpful for a specific problem at your level.
+- 🐣 **Higher-Order Functions in Array Methods**: You can explain how a higher order function works, and write a callback for use in the primary array methods \(for a problem at your level\).
+- 🐣 **Test-Driven Development**: You can write basic unit tests for a problem you understand without having a solution to validate your tests. You can use your tests as a guide to develop a solution. You do not need to consider edge cases or invalid arguments.
+- 🐣 **Testing Side-Effects**: You can write a suite of unit tests to ensure that; 1\) a function does not modify it's reference-type arguments, 2\) the function returns a new array/object.
+- 🐣 **ECMAScript Modules**: You can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
+- 🐣 **Continuous Integration**: You can check CI scripts locally to ensure your code will pass CI checks when it is pushed, and can read CI results when conducting a code review.
+- 🐣 **Code Review**: You can use a provided checklist and passing/failing CI checks to review a classmate's function \(given the solution is at your level\).
+- 🐥 **Testing Edge Cases**: You can identify and write unit tests for tricky edge cases.
+- 🐥 **Hoisting**: You can find hoisted functions and variables in the browser's debugger and explain the semantics of hoisting.
+- 🐥 **Prototype Delegation**: You can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.
+- 🐔 **Writing Guards**: You can write guards for your function parameters that enforce the function's documented parameter types.
+- 🐔 **Testing Guards**: You can use `expect(() => _).toThrow(_)` to unit-test your guards' error type and message.
 
 ---
 
@@ -37,30 +54,21 @@ What does the function do? What are it’s arguments and it’s return value? Ho
 
 Functions behavior is generally described using **documentation**, **unit tests** and **use cases**:
 
-<details>
-<summary>Documentation (JSDoc comment)</summary>
+### Documentation (JSDoc comment)
 
 ```js
 /**
- * Repeats a string a specific number of times.
- *
- * @param {string} [text=''] - The string to repeat.
- * @param {number} [repetitions=1] - How many times to repeat the string.
- * @return {string} The text repeated `repetition` number of times.
+ * repeats a string a specific number of times
+ * @param {string} [text=''] - the string to repeat. defaults to empty string
+ * @param {number} [repetitions=1] - how many times to repeat. defaults to 1
+ *  repetitions cannot be negative, and must be an integer
+ * @return {string} the text repeated as many times as repetitions
  */
-export const repeatString = (text = '', repetitions) => {
-  // ... an implementation
-};
 ```
 
-</details>
-
-<details>
-<summary>Unit Tests (pass/fail assertions)</summary>
+### Unit Tests (pass/fail assertions)
 
 ```js
-import { repeatString } from './repeat-string.js';
-
 describe('repeats a string any number of times:', () => {
   describe('an empty string', () => {
     it('should repeat "" 0 times', () => {
@@ -107,21 +115,13 @@ describe('repeats a string any number of times:', () => {
 });
 ```
 
-</details>
-
-<details>
-<summary>Use Cases ("real-world" examples)</summary>
+### Use Cases ("real-world" examples)
 
 ```js
-import { promptForString } from '../prompts/prompt-for-string.js';
-import { promptForNumber } from '../prompts/prompt-for-number.js';
-
-import { repeatString } from '../utils/repeat-string.js';
-
 // repeating a string inside an I/O loop
 let repeatedText = '';
 while (true) {
-  const userString = promptForString('input a string to repeat');
+  const userString = promptForSomething('input a string to repeat');
   const userRepetitions = promptForNumber('how many times to repeat it?');
   const repeatedInput = repeatString(userString, userRepetitions);
   const userConfirmed = confirm(`is this correct: "${repeatedInput}"`);
@@ -134,16 +134,12 @@ console.log(repeatedText);
 ```
 
 ```js
-import { repeatString } from '../utils/repeat-string.js';
-
 // repeating a string from the DOM
 const userString = document.getElementById('text-input').value;
 const userRepetitions = document.getElementById('number-input').value;
 const repeatedInput = repeatString(userString, userRepetitions);
 document.getElementById('repeated-value-display').innerHTML = repeatedInput;
 ```
-
-</details>
 
 ## Strategy
 
@@ -153,8 +149,7 @@ One way to approach strategy is to solve the problem a few different ways by han
 
 Here are four possible strategies to approach repeating a string. Each one is written as block comment with step-by-step goals focusing on _what_ should happen at each step, not _how_ it will happen. This type of comment is helpful to include in your code:
 
-<details>
-<summary>Iterate until string is long enough</summary>
+### Iterate until string is long enough
 
 ```js
 /* iterating until the new string's length is correct
@@ -172,10 +167,7 @@ Here are four possible strategies to approach repeating a string. Each one is wr
 */
 ```
 
-</details>
-
-<details>
-<summary>Iteration with a stepper variable</summary>
+### Iteration with a stepper variable
 
 ```js
 /* iterating over the number of repetitions
@@ -194,10 +186,7 @@ Here are four possible strategies to approach repeating a string. Each one is wr
 */
 ```
 
-</details>
-
-<details>
-<summary>Recurse with base-case 0</summary>
+### Recurse with base-case 0
 
 ```js
 /* recursion with base-case 0
@@ -218,10 +207,7 @@ Here are four possible strategies to approach repeating a string. Each one is wr
 */
 ```
 
-</details>
-
-<details>
-<summary>Native JS methods</summary>
+### Native JS methods
 
 ```js
 /* use built-in .js methods
@@ -234,16 +220,13 @@ Here are four possible strategies to approach repeating a string. Each one is wr
 */
 ```
 
-</details>
-
 ## Implementation
 
 Which language features and which lines of code can you use to make your strategy a reality? There are many ways to code the same strategy. let's look at multiple implementations for each strategy described above, all of these functions will pass the unit tests written in the _Behavior_ section:
 
 ### Iterate Until String is Long Enough
 
-<details>
-<summary>While loop, true and break</summary>
+#### While loop, true and break
 
 ```js
 /* unconventional and pretty old-school
@@ -251,7 +234,7 @@ Which language features and which lines of code can you use to make your strateg
   while loops are designed to check conditions
   this is not the simplest solution to read or maintin
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   const finalLength = text.length * repetitions;
   let repeatedText = '';
   while (true) {
@@ -264,16 +247,13 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
-<details>
-<summary>While loop, logic in head</summary>
+#### While loop, logic in head
 
 ```js
 /* the cleanest implementation for this strategy
   it uses the language feature designed for this type of strategy
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   const finalLength = text.length * repetitions;
   let repeatedText = '';
   while (repeatedText.length < finalLength) {
@@ -283,10 +263,7 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
-<details>
-<summary>For loop with only a condition check</summary>
+#### For loop with only a condition check
 
 ```js
 /* not the best implementation, it's confusing to read
@@ -297,7 +274,7 @@ export const repeatString = (text = '', repetitions = 1) => {
   this implementation uses a for loop like a while loop
   the computer doesn't care, but the intention is confusing for other devs
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   const finalLength = text.length * repetitions;
   let repeatedText = '';
   for (; repeatedText.length < finalLength; ) {
@@ -307,12 +284,9 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
 ### Iteration with Stepper Variable
 
-<details>
-<summary>While loop, true and break</summary>
+#### While loop, true and break
 
 ```js
 /* unconventional and pretty old-school
@@ -320,7 +294,7 @@ export const repeatString = (text = '', repetitions = 1) => {
   while loops are designed to check conditions
   this is not the simplest solution to read or maintain
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   let repeatedText = '';
   let count = 0;
   while (true) {
@@ -334,17 +308,14 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
-<details>
-<summary>While loop, condition in head</summary>
+#### While loop, condition in head
 
 ```js
 /* a better way to user the while loop since the condition is known
   easier to read and more conventional than the previous implementation
   maybe you find this easier to read than a for loop
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   let repeatedText = '';
   let count = 0;
   while (count < repetitions) {
@@ -355,16 +326,13 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
-<details>
-<summary>For loop</summary>
+#### For loop
 
 ```js
 /* the cleanest implementation for this strategy
   it uses the language feature designed for stepping
 */
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   let repeatedText = '';
   for (let count = 0; count < repetitions; count++) {
     repeatedText += text;
@@ -373,29 +341,23 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
 ### Recursion with Base-Case 0
 
-<details>
-<summary>Ternary Operator</summary>
+#### Ternary Operator
 
 ```js
 // in all it's ES6 one-line glory
 // some people find this easier to read than conditionals
-export const repeatString = (text = '', repetitions = 1) =>
+const repeatString = (text = '', repetitions = 1) =>
   repetitions === 0 ? '' : text + repeatString(text, nextRepetitions - 1);
 ```
 
-</details>
-
-<details>
-<summary>Conditional Statement</summary>
+#### Conditional Statement
 
 ```js
 // good old fashioned conditional blocks
 // some people find this easier to read than ternaries
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   if (repetitions === 0) {
     return '';
   } else {
@@ -406,17 +368,14 @@ export const repeatString = (text = '', repetitions = 1) => {
 };
 ```
 
-</details>
-
-<details>
-<summary>Conditional Statement (tail-call recursion)</summary>
+#### Conditional Statement (tail-call recursion)
 
 ```js
 /* this implementation is "backwards compatible"
   that means that it has a different signature (the extra `repeated` parameter)
   but can still replace previous implementations without breaking anything
 */
-export const repeatString = (text = '', repetitions = 1, repeated = '') => {
+const repeatString = (text = '', repetitions = 1, repeated = '') => {
   if (repetitions === 0) {
     return repeated;
   } else {
@@ -427,60 +386,22 @@ export const repeatString = (text = '', repetitions = 1, repeated = '') => {
 };
 ```
 
-</details>
-
 ### Built-In JS Methods
 
-<details>
-<summary>Sting.prototype.repeat</summary>
+#### Sting.prototype.repeat
 
 ```js
 // short and sweet, no room for mistakes
-export const repeatString = (text = '', repetitions = 1) =>
-  text.repeat(repetitions);
+const repeatString = (text = '', repetitions = 1) => text.repeat(repetitions);
 ```
 
-</details>
-
-<details>
-<summary>Array.prototype.fill</summary>
+#### Array.prototype.fill
 
 ```js
 // less clear and more complex, but still pretty clear to read
-export const repeatString = (text = '', repetitions = 1) => {
+const repeatString = (text = '', repetitions = 1) => {
   const oneEntryPerRepetition = Array(repetitions).fill(text);
   const repeatedString = oneEntryPerRepetition.join('');
   return repeatedString;
 };
 ```
-
----
-
-## Learning Objectives
-
-> this module stays close to the code, so to speak. It does not intend to go towards abstracting algorithms, complexity or other CSy concepts.
->
-> the objective is that students are prepared to collaborate on a shared code base by learning to write clean and language-specific code, and decipher then improve less clean code.
->
-> "at their level" and "level-appropriate" is not yet well-defined. It's some combination of language features used, complexity of strategy, and complexity of the problem. for most objectives it _does not_ require that they could write the solution themselves.
-
-- 🥚 **Analyzing Functions**: A student can analyze a function written at or near their level. This includes:
-  - _Behavior_: How would you document the function, what test cases does it pass, and how might you use it in a program
-  - _Strategy_: Roughly, how could you translate this solution to pseudo-code.
-  - _Implementation_: What language features were used, and what are some alternate language features that could be used
-- 🥚 **Testing Existing Functions**: A student can write unit tests for a working function using the `describe`/`it`/`expect(_).toEqual(_)` syntax. This includes grouping test cases into logical test suites.
-- 🥚 **Function Design**: A student can explain the function-design process and can successfully apply it to write 2+ solutions matching the behavior of a given function (assuming the behavior is at their level). The solutions do not need to implement different strategies, consider edge cases, or check for invalid arguments.
-- 🥚 **Generating Documentation**: A student can write a correct JSDoc for their functions and use a provided script to generate markdown documentation in a separate file.
-- 🐣 **Array Strategies**: A student can determine which of the primary array strategies (`map`, `filter`, `reduce`, `every`, `some`) are helpful for a specific problem at their level.
-- 🐣 **Higher-Order Functions in Array Methods**: A student can explain how a higher order function works, and write a callback for use in the primary array methods (for a problem at their level).
-- 🐣 **Test-Driven Development**: A student can write basic unit tests for a problem they understand without having a solution to validate their tests. They can use their tests as a guide to develop a solution. They do not need to consider edge cases or invalid arguments.
-- 🐣 **Testing Side-Effects**: A student can write a suite of unit tests to ensure that; 1) a function does not modify it's reference-type arguments, 2) the function returns a new array/object.
-- 🐣 **Linting**: A student understands the purpose of linting (static analysis) and can successfully fix linting mistakes in a given function.
-- 🐣 **ECMAScript Modules**: A student can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
-- 🐣 **Continuous Integration**: A student can check CI scripts locally to ensure their code will pass CI checks when it is pushed.
-- 🐣 **Code Review**: A student can use a provided checklist and passing/failing CI checks to review a classmate's function (given the solution is at their level).
-- 🐥 **Testing Edge Cases**: A student can identify and write unit tests for tricky edge cases.
-- 🐥 **Writing Guards**: A student can write guards for their function parameters that enforce the function's documented parameter types.
-- 🐥 **Testing Guards**: A student can use `expect(() => _).toThrow(_)` to unit-test their guards' error type and message.
-- 🐥 **Hoisting**: A student can find hoisted functions and variables in the browser's debugger and explain the semantics of hoisting.
-- 🐥 **Prototype Delegation**: A student can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.

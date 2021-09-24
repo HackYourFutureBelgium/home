@@ -4,7 +4,7 @@ Welcome!
 
 ## Being Agile
 
-You will be working as a team on a 6-week project with evolving objectives. As a team and as individuals you will need to be prepared for shifting plans and goals. The plans you lay in the first week will certainly change as you gain experience with the technologies, understand the project's needs, and learn the strengths \(and limits\) of your team members.
+You will be working as a team on a many-week project with evolving objectives. As a team and as individuals you will need to be prepared for shifting plans and goals. The plans you lay in the first week will certainly change as you gain experience with the technologies, understand the project's needs, and learn the strengths \(and limits\) of your team members.
 
 This is to be expected, embrace it!
 

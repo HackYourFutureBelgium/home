@@ -1,6 +1,6 @@
-# Agile Development
+# 3. Agile Development
 
-[<< Workflows](../workflows/README.md) | [Top](../README.md) | [UX/UI Design >>](../ux-ui-design/README.md)
+[&lt;&lt; Workflows](../workflows/README.md) \| [Top](../README.md) \| [UX/UI Design &gt;&gt;](../ux-ui-design/README.md)
 
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/agile-development)
 
@@ -12,7 +12,7 @@
 
 _Agile Development_ is a methodology for developing software. In this methodology you start with the simplest code you can possibly write to get things started. This can even be just empty files with the right names in the right folders! Then in small steps you add more code so that each little step _works_, is meaningful for the user, and is a little closer to the end goal.
 
-This strategy is sooooo important to learn because **programming is hard**. All developers (even your coaches!) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
+This strategy is sooooo important to learn because **programming is hard**. All developers \(even your coaches!\) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
 
 Agile development is more about discipline than talent. Every minute you spend practicing this now will save you hours of debugging and make collaboration a breeze!
 

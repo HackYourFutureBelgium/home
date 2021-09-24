@@ -6,8 +6,6 @@ You can plan your data by reading through your backlog and deciding what data is
 
 Planning data for an application is a hard thing, you'll begin learning about this in the JavaScript modules. Until then you can skip this step.
 
----
-
 ## Template File
 
 Here's some markdown you can copy-paste into `/planning/data.md`:

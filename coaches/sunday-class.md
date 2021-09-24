@@ -1,8 +1,6 @@
 # Sunday Class
 
 > class schedule: [students/sunday-class](../students/sunday-class/)
->
-> typical week: [students/typical-week](../students/typical-week.md)
 
 It's helpful to think about each Sunday Class as **a workshop instead of a lecture hall**.
 

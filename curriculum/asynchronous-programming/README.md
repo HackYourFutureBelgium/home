@@ -1,6 +1,6 @@
-# Asynchronous Programming
+# 10. Asynchronous Programming
 
-[<< Architecture](../architecture/README.md) | [Top](../README.md) | [Web Apps >>](../web-apps/README.md)
+[&lt;&lt; Architecture](../architecture/README.md) \| [Top](../README.md) \| [Web Apps &gt;&gt;](../web-apps/README.md)
 
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/asynchronous-programming)
 

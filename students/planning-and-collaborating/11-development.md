@@ -1,4 +1,4 @@
-## 6. Development
+# Development
 
 Everything is planned, the board is ready, it's time to get working. As you develop your project, you will keep track of everything on the project board.
 

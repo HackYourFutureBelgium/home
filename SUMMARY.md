@@ -100,7 +100,7 @@
     - [Suggested Study](./curriculum/final-project/suggested-study.md)
     - [Deliverables](./curriculum/final-project/deliverables.md)
     - [Milestones](./curriculum/final-project/milestones.md)
-    - [For Students](curriculum/final-project/for-students/README.md)
+    - [For Students](curriculum/final-project/for-students.md)
     - [For Coaches](curriculum/final-project/for-coaches.md)
         <!-- - [For Partners](curriculum/final-project/for-partners.md) -->
         <!-- - [Assessment](./curriculum/final-project/assessment.md) -->
@@ -128,7 +128,7 @@
     - [2. Project Definition](students/planning-and-collaborating/02-project-definition.md)
     - [3. Constraints](students/planning-and-collaborating/03-constraints.md)
     - [4. Communication Plan](students/planning-and-collaborating/04-communication-plan.md)
-    - [5. Backlog](students/planning-and-collaborating/05-user-personas.md)
+    - [5. User Personas](students/planning-and-collaborating/05-user-personas.md)
     - [6. Backlog](students/planning-and-collaborating/06-backlog.md)
     - [7. Program Data](students/planning-and-collaborating/07-program-data.md)
     - [8. Design](students/planning-and-collaborating/08-design.md)

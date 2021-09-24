@@ -1,4 +1,4 @@
-# Design
+# Design (_first draft_)
 
 Creating a full design for a website takes a lot of experience and specialized knowledge. You'll get an introduction to this in the UX/UI Design module, if you're interested in design can continue practicing by creating the designs for your group projects. If you're not so interested in design you should still learn how to draw a wireframe.
 
@@ -13,8 +13,6 @@ Pencil and Paper are a great way to get started with your project's wireframes! 
 A wireframe can be as simple as this:
 
 [![a simple wireframe](./assets/wireframe.svg)](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
-
----
 
 ## Template File
 

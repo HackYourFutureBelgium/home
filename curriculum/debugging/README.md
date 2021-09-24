@@ -1,6 +1,6 @@
-# Debugging
+# 6. Debugging
 
-[<< Welcome to JS](../welcome-to-js/README.md) | [Top](./README.md) | [Behavior, Strategy, Implementation >>](../behavior-strategy-implementation/README.md)
+[&lt;&lt; Welcome to JS](../welcome-to-js/README.md) \| [Top](../README.md) \| [Behavior, Strategy, Implementation &gt;&gt;](../behavior-strategy-implementation/README.md)
 
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/debugging)
 
@@ -34,8 +34,10 @@
 - 🐥 **Operator Precedence**: You can refactor an expression with several operators into several statements assigning each step of the expression to a new variable according to the languages rules of operator precedence.
 - 🐥 **Sub-Goal Authoring**: Given most of a small program with missing goal, you can write code to implement the missing behavior.
 - 🐔 **Refactoring Functions**: You can refactor a designated chunk of a program into an empty function body and pass the given assertion tests.
-- 🐔 **Program Authoring**: you can write a small program to match specs (user stories + test cases), given basic starter code with labeled goals
+- 🐔 **Program Authoring**: you can write a small program to match specs \(user stories + test cases\), given basic starter code with labeled goals
 
 ---
 
-[![Debugging Tactics](./assets/faasandfurious-debugging.png)](https://faasandfurious.com/71)
+![Debugging Tactics](./assets/faasandfurious-debugging.png)
+
+- [faasandfurious](https://faasandfurious.com/71)

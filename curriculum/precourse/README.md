@@ -1,6 +1,8 @@
-# Precourse
+# 1. Precourse
 
-[<< Application](../application/README.md) | [Top](../README.md) | [Workflows >>](../workflows/README.md)
+[&lt;&lt; Application](../application/README.md) \| [Top](../README.md) \| [Workflows &gt;&gt;](../workflows/README.md)
+
+---
 
 > ![miscommunication](./assets/cant-you-do-anything-right.jpeg)
 >
@@ -18,11 +20,9 @@ This module's main objective is to get you comfortable with the workflows of pro
 
 - 🥚 **GitHub Issues**: You can create a new issue in a GitHub repository using an issue template. They can correctly use labels, milestones, and assignment to make their issue findable.
 - 🥚 **File System Management**: You can create and organize a new folder in their personal computer for the materials they will study at HYF.
-- 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects (class repo) and self-study (project board on personal account).
+- 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects \(class repo\) and self-study \(project board on personal account\).
 - 🐣 **Visual Studio Code**: You can install and manage extensions, open a folder, create new files/folders inside of the folder ... basic usage.
 - 🐣 **GitHub Pull Requests**: You can fork a repository and send a Pull Request using a template.
-
----
 
 ## How to HYF
 
@@ -30,9 +30,7 @@ We are a community of people who want to make the web a better place.
 
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
-Please read the _'Study Tips'_ in our [**Student Guidebook**](https://home.hackyourfuture.be/students).
-It will help you become a great HackYourFuture Student.
-We also expect you to know our:
+Please read the _'Study Tips'_ in our [**Student Guidebook**](https://home.hackyourfuture.be/students). It will help you become a great HackYourFuture Student. We also expect you to know our:
 
 - [Core Values](https://home.hackyourfuture.be/core-values)
 - [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct)
@@ -72,6 +70,4 @@ Your class repository is the home base for each module and all assignments at HY
 - Get feedback from coaches
 - Share helpful study resources
 
-[TOP](#precourse)
-
----
+[TOP](./#precourse)

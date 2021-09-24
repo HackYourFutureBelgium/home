@@ -3,8 +3,8 @@
 There are 3 deliverables for the application process:
 
 1. Create a GitHub account with a profile README.
-2. Developing an HTML/CSS web page to explain the basics of HTML & CSS. (developed on Replit)
-3. Explaining how JavaScript variables work, using JavaScript to explain. (developed in Replit)
+2. Developing an HTML/CSS web page to explain the basics of HTML & CSS. \(developed on Replit\)
+3. Explaining how JavaScript variables work, using JavaScript to explain. \(developed in Replit\)
 
 ## 1: GitHub Profile
 
@@ -16,17 +16,17 @@ Introduce yourself on GitHub by following these steps:
 
 **What are we looking for with this assignment? Why is a profile README so important?** Markdown is simple to learn, so you can focus on the end product without getting too lost. Writing a good profile README shows that you can:
 
-- Write a well-structured document with complete sentences, good grammar and spelling (**communication is the most basic skill of a good developer**!)
+- Write a well-structured document with complete sentences, good grammar and spelling \(**communication is the most basic skill of a good developer**!\)
 - Write clean and well-formatted code. We will be looking at your markdown to make sure it’s good!
 - Learn a new software and programming language from resources online.
 
 ## 2: HTML+CSS Web Page
 
-In this step, you’ll build a an HTML/CSS web page to explain how HTML & CSS works. You should explain at least these concepts (but are free to explore more if you like!):
+In this step, you’ll build a an HTML/CSS web page to explain how HTML & CSS works. You should explain at least these concepts \(but are free to explore more if you like!\):
 
 - **HTML**:
-  - HTML Document structure (head, body, ...)
-  - Tags (mention self-closing tags!)
+  - HTML Document structure \(head, body, ...\)
+  - Tags \(mention self-closing tags!\)
   - Attributes
   - HTML5 Semantic elements
 - **CSS**:
@@ -37,14 +37,14 @@ In this step, you’ll build a an HTML/CSS web page to explain how HTML & CSS wo
 
 ### Getting Started
 
-1. **Go to [Replit.com](https://replit.com/)** and sign in using your GitHub account.
-2. **Create a [new HTML project](https://replit.com/new/html) and get started with your first project!**
+1. **Go to** [**Replit.com**](https://replit.com/) and sign in using your GitHub account.
+2. **Create a** [**new HTML project**](https://replit.com/new/html) **and get started with your first project!**
    - You will share a link to this Replit project in your application.
 3. **Study some HTML and CSS on your favorite tutorial site.** There’s no requirement how much you study, what matters is that you build an awesome portfolio.
 4. **Build your web page**: You will probably make many changes as you study and build at the same time, that's great! It doesn’t have to be perfect. Your web page should show us that:
    - you understand what you have learned
-   - you’re able to create the **layout of a basic website** (no specific requirements)
-   - you’re able to **apply _and_ explain new programming concepts**
+   - you’re able to create the **layout of a basic website** \(no specific requirements\)
+   - you’re able to **apply** _**and**_ **explain new programming concepts**
    - you can write clear, organized code with comments explaining your thoughts
 
 ### Project Assessment
@@ -58,7 +58,7 @@ Show us that you understand the basics of HTML & CSS
 - Added an alt attribute to ALL images
 - Remove inline styles, all of your styling should be external in a .css file
 - CSS classes have helpful and descriptive names
-- Used CSS _classes_ to style your document (not _ids_!)
+- Used CSS _classes_ to style your document \(not _ids_!\)
 
 Don't forget to [format](https://studio.code.org/docs/concepts/html/formatting-html/) your code! It should be easy for us to understand your project's structure simply by looking at the code.
 
@@ -70,9 +70,7 @@ Your code should not be fancy or complicated! Understandable code, helpful logs,
 
 Please limit your JavaScript files to use _**only**_ these JS language features. We want to see how much you can do with less:
 
-<details>
-<summary>'use strict';</summary>
-<br>
+### `'use strict';`
 
 You should write `'use strict';` at the top of each file. This will help you catch some mistakes by telling JS to be more ... strict.
 
@@ -80,11 +78,7 @@ You should write `'use strict';` at the top of each file. This will help you cat
 'use strict';
 ```
 
-</details>
-
-<details>
-<summary>Comments</summary>
-<br>
+### Comments
 
 Comments are code that the computer ignores. They are there only to help other people understand what you wrote.
 
@@ -107,11 +101,7 @@ Comments are code that the computer ignores. They are there only to help other p
 
 ```
 
-</details>
-
-<details>
-<summary>console.log and strings</summary>
-<br>
+### `console.log` and strings
 
 Strings are any text wrapped in quotes. You can use double quotes (`"`), single quotes (`'`) or back-ticks (`\``) to create a string.
 
@@ -127,11 +117,7 @@ console.log('hello!'); // -> 'hello!'
 console.log('good bye.'); // -> 'good bye.'
 ```
 
-</details>
-
-<details>
-<summary>variables declared with <code>let</code></summary>
-<br>
+### variables declared with `let`
 
 There are 3 ways to declare a variable in JavaScript: `let`, `const` and `var`. You only need to understand and use `let`, you do not need to explain the others or compare them to `let`.
 
@@ -145,13 +131,10 @@ Try your best to use helpful variable names, this will make your code much easie
 
   declare:
     creating a new variable in program memory
-
   assign:
     storing a value in a variable for later
-
   initialize:
     assigning a value to a variable when it is declared
-
   read:
     using a value that is stored in a variable
 
@@ -197,11 +180,7 @@ let declaredTwice = 'hi';
 let declaredTwice = 'bye'; // SyntaxError: Identifier 'declaredTwice' has already been declared
 ```
 
-</details>
-
-<details>
-<summary>string concatenation</summary>
-<br>
+### string concatenation
 
 You can combine more than one string using `+`.
 
@@ -220,11 +199,11 @@ let excitedGreeting = greeting + '!';
 console.log(excitedGreeting); // -> 'hi!'
 ```
 
-</details>
+### Starter Idea
 
-And here is a little example to get you started, you can use it or ignore it. Impress us!
+And here is a little example to get you started, you can use it or ignore it. Impress yourself!
 
-```js
+```javascript
 'use strict';
 
 let word;

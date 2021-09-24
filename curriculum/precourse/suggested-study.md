@@ -2,7 +2,7 @@
 
 Some study links that can help you through the Precourse Assignments. Can't find what you're looking for? Head over to the [Study Book](https://hackyourfuture.github.io/study) for a whole lot more!
 
-### Being a Developer
+## Being a Developer
 
 - [Be reasonable with yourself](http://norvig.com/21-days.html) - Programming takes work, then more work, followed by a lot of practice.
 - [What is programming?](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/what-is-programming/)
@@ -17,15 +17,15 @@ Some study links that can help you through the Precourse Assignments. Can't find
 - [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 - [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
 
-### What is the Internet?
+## What is the Internet?
 
 - [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
 - [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
 - [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
-- [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)
+- [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) \(and there's a part two\)
 - What happens when you google something? [article](https://github.com/alex/what-happens-when), [video](https://www.youtube.com/watch?v=dh406O2v_1c)
 
-### Git and GitHub
+## Git and GitHub
 
 Git and GitHub are how you will do _everything_ while at HackYourFuture. Homework submission, Sunday classes, projects, collaboration, coach feedback, _everything_! The more time you spend studying Git and GitHub before the classes starts, the easier it will be to focus on the fun stuff.
 
@@ -39,7 +39,7 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
 - and much more at [hackyourfuture.github.io/study](https://hackyourfuture.github.io/study)
 
-### Slack
+## Slack
 
 - [sharing code](https://www.youtube.com/watch?v=rKGYKX9xjV8)
 - Etiquette

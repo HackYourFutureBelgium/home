@@ -1,4 +1,4 @@
-# Backlog (_First Draft_)
+# Backlog (_first draft_)
 
 Now that your team shared a big-picture understanding of what you will build, it's time to get specific! In the _Backlog_ step of your project you will translate your big idea into specific **User Stories**, then organize all your user stories into a clear plan.
 
@@ -12,9 +12,7 @@ A Backlog is just a collection of User Stories that your team has agreed on. The
 - **Should Have**: these user stories will complete the user experience, but are not necessary.
 - **Could Have**: these user stories would be really cool ... if there's time
 
-Deciding how to prioritize each user story will take lots of practice, trial and error. In this module it will be simpler since the projects are small and you'll often have code to start with. Starting in _UX/UI Design_ you will be assigned more open-ended projects. It will be your responsibility to **_scope_** your projects so they can be finished in one week.
-
----
+Deciding how to prioritize each user story will take lots of practice, trial and error. In this module it will be simpler since the projects are small and you'll often have code to start with. Starting in _UX/UI Design_ you will be assigned more open-ended projects. It will be your responsibility to _**scope**_ your projects so they can be finished in one week.
 
 ## Story Sequencing
 
@@ -29,8 +27,6 @@ This question is all you need to get start sequencing your user stories:
 A Story Sequencing Graph might look like this:
 
 [![example sequencing graph](./assets/story-sequencing-graph.svg)](https://excalidraw.com/#json=5492536709742592,eehelCbxb4yj2n5D3cTn1g)
-
----
 
 ## Template File
 

@@ -2,6 +2,8 @@
 
 Helpful resources for this module
 
+> [study.hackyourfuture.be/javascript](https://study.hackyourfuture.be/javascript)
+>
 > Are we missing a great set of exercises? Send a PR!
 
 ## Snippets and Examples
@@ -14,10 +16,10 @@ Helpful resources for this module
 
 - [FunFunFunction](https://www.youtube.com/watch?v=Eu35xM76kKY&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr):
   1. [Writing tests for personal projects](https://www.youtube.com/watch?v=ib2Pt9_zciA)
-  1. [Why Unit Tests?](https://www.youtube.com/watch?v=Eu35xM76kKY)
-  1. [Your First Tests](https://www.youtube.com/watch?v=XsFQEUP1MxI)
+  2. [Why Unit Tests?](https://www.youtube.com/watch?v=Eu35xM76kKY)
+  3. [Your First Tests](https://www.youtube.com/watch?v=XsFQEUP1MxI)
 - [the basics](https://javascript.plainenglish.io/javascript-unit-test-best-practices-basics-d411dc1968c)
-- [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide) (very detailed)
+- [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide) \(very detailed\)
   - [Name your tests properly](https://github.com/mawrkus/js-unit-testing-guide#name-your-tests-properly)
 - [good test descriptions](https://softwareengineering.stackexchange.com/questions/362515/how-to-write-good-javascript-unit-test-descriptions)
 - [test behavior, not implementation](https://javascript.plainenglish.io/javascript-unit-test-best-practices-testing-behavior-4d1fd46ae03d)
@@ -36,7 +38,7 @@ Helpful resources for this module
 - [FreeCodeCamp: the lingo](https://www.youtube.com/watch?v=NFaZKFTycmc)
 - [Zach Gollwitzer](https://www.youtube.com/watch?v=O3iR-CIufKM)
 - [DevSprout](https://www.youtube.com/watch?v=FSe_phZ2wmg)
-- [CodeAcademy](https://www.youtube.com/watch?v=s1PLS3SQHQ0) (MDN starts at 9:00)
+- [CodeAcademy](https://www.youtube.com/watch?v=s1PLS3SQHQ0) \(MDN starts at 9:00\)
 
 ### Array Methods
 
@@ -51,12 +53,12 @@ Helpful resources for this module
 
 ## Arrays of Objects
 
-- [short, sweet, with a loop](https://www.youtube.com/watch?v=ivNWS9s7vhA) (video)
-- [Sorting an Array of Objects](https://www.youtube.com/watch?v=0d76_2sksWY) (video)
-- [another Sorting](https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/) (video+article)
-- [Search from Array of Objects](https://www.youtube.com/watch?v=US63Q6AL0GI) (video)
-- [Create, Update and Loop](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) (article)
-- [The Coding Train](https://www.youtube.com/watch?v=fBqaA7zRO58) (video)
+- [short, sweet, with a loop](https://www.youtube.com/watch?v=ivNWS9s7vhA) \(video\)
+- [Sorting an Array of Objects](https://www.youtube.com/watch?v=0d76_2sksWY) \(video\)
+- [another Sorting](https://flaviocopes.com/how-to-sort-array-of-objects-by-property-javascript/) \(video+article\)
+- [Search from Array of Objects](https://www.youtube.com/watch?v=US63Q6AL0GI) \(video\)
+- [Create, Update and Loop](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) \(article\)
+- [The Coding Train](https://www.youtube.com/watch?v=fBqaA7zRO58) \(video\)
 
 ## Recursion
 
@@ -71,7 +73,7 @@ Helpful resources for this module
 - [algoviz.io](https://algoviz.io/#/)
 - [pathfinding.js](https://qiao.github.io/PathFinding.js/visual/)
 
-## ECMAScript Modules (ES Modules)
+### ECMAScript Modules \(ES Modules\)
 
 > `import`/`export`
 
@@ -82,7 +84,7 @@ Helpful resources for this module
 
 ## Code Quality
 
-- [JavaScript: The Better Parts](https://www.youtube.com/watch?v=_EF-FO63MXs) (first 11 minutes)
+- [JavaScript: The Better Parts](https://www.youtube.com/watch?v=_EF-FO63MXs) \(first 11 minutes\)
 - **Code Style**
   - [what is programming style?](https://en.wikipedia.org/wiki/Programming_style)
   - why is style important? [stackoverflow](https://stackoverflow.com/questions/127916/is-programming-style-important-how-important), [Nicholas C. Zakas](https://www.smashingmagazine.com/2012/10/why-coding-style-matters/)
@@ -91,13 +93,13 @@ Helpful resources for this module
 - **Formatting**
   - [prettier.io](https://prettier.io/)
 - **Linting**
-  - what is linting? [Envato tuts+](https://www.youtube.com/watch?v=rrzC1RbMLiQ), [ictshore](https://www.ictshore.com/javascript/what-is-javascript-linting/), [(static analysis?)](https://deepsource.io/blog/static-analysis-javascript/)
+  - what is linting? [Envato tuts+](https://www.youtube.com/watch?v=rrzC1RbMLiQ), [ictshore](https://www.ictshore.com/javascript/what-is-javascript-linting/), [\(static analysis?\)](https://deepsource.io/blog/static-analysis-javascript/)
   - Why is linting important? [freecodecamp](https://www.freecodecamp.org/news/what-is-linting-and-how-can-it-save-you-time/), [ibuildmvps](https://ibuildmvps.com/blog/the-importance-of-linting/), [quora](https://www.quora.com/What-is-the-purpose-of-a-code-style-linting-tool?share=1)
   - [ESLint sandbox](https://eslint.org/demo/)
   - [ESLint rules](https://eslint.org/docs/rules/)
   - [Linting rules for JSDocs](https://github.com/Extersky/eslint-plugin-jsdoc#eslint-plugin-jsdoc-rules)
 - **in VSCode**
-  - remember all those extensions you installed in the precourse? now they make more sense : )
+  - remember all those extensions you installed in the precourse? now they make more sense : \)
 
 And last, but not least: **Code Review**:
 
@@ -158,7 +160,7 @@ You can get by without them, but when they're helpful they're very helpful.
 > [Evan](https://github.com/colevandersWands), [Thibault](https://github.com/ThibaultLesuisse), [Joel](https://github.com/JoeCamacho)
 
 1. [Week 1](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=48966e92bc14f80c53d450f9e59dc77e812b2f8b-1605437686426)
-2. Week 2 - server crash :(
+2. Week 2 - server crash :\(
 3. Week 3: [Objects Pt. 1](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=48966e92bc14f80c53d450f9e59dc77e812b2f8b-1606646910775), [Objects Pt. 2](https://vimeo.com/485101057), [Project Intro](https://vimeo.com/485101478)
 
 ### class-13-14

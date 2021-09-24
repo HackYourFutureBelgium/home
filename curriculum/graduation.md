@@ -1,3 +1,3 @@
 # Graduation
 
-[<< Final Project](../final-project/README.md) | [Top >>](./README.md)
+[&lt;&lt; Final Project](./final-project/README.md) \| [Top &gt;&gt;](./README.md)

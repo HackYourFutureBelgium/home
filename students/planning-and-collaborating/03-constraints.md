@@ -1,3 +1,5 @@
+# Constraints
+
 ## Constraints
 
 After dreaming big, the most helpful thing you can can do to define your project is to be clear about _what it isn't_. Thinking big is great for brainstorming but can get in the way of finishing your projects on time.

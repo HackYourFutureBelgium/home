@@ -1,10 +1,14 @@
-# Final Project
+# 13. Final Project
 
-[<< Databases](../databases/README.md) | [Top](../README.md) | [Graduation >>](../graduation.md)
+[&lt;&lt; Databases](../databases/README.md) \| [Top](../README.md) \| [Graduation &gt;&gt;](../graduation.md)
+
+## Learning Objectives
+
+---
 
 ## Past Projects
 
-Curious what a final project looks like? Take a gander at these from past classes!
+Curious what a final project looks like? Take a look at these from past classes!
 
 ### Class 9-10
 
@@ -17,5 +21,4 @@ Curious what a final project looks like? Take a gander at these from past classe
 ### Class 11-12
 
 - [**Just4Giving**](https://github.com/hyf-Group2-fp/Just4Giving): Just4Giving is a social platform made by Hack Your Future students with the goal to connect people with certain needs with people who'd like to donate.
-
 - [**Helpy**](https://github.com/final-project-org/HELPY): Helpy is a sharing platform. The goal of this app is to link those people who need help with their groceries to volunteers who are willing to help.

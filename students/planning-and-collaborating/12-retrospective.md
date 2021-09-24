@@ -1,10 +1,10 @@
-# 7. Retrospective
+# Retrospective
 
 > “Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.”
 >
 > - [Norm Kerth](http://www.amazon.com/Project-Retrospectives-Handbook-Reviews-Dorset-ebook/dp/B00DY3KQJU/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
 
-All done :)
+All done :\)
 
 Your team has either finished the project ahead of time, or the deadline has arrived and you're still not finished. No problem either way!
 

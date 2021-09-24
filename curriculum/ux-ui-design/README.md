@@ -1,6 +1,6 @@
-# UX/UI Design
+# 4. UX/UI Design
 
-[<< Agile Development](../agile-development/README.md) | [Top](../README.md) | [Welcome to JS >>](../welcome-to-js/README.md)
+[&lt;&lt; Agile Development](../agile-development/README.md) \| [Top](../README.md) \| [Welcome to JS &gt;&gt;](../welcome-to-js/README.md)
 
 [examples, exercises and guides](https://github.com/HackYourFutureBelgium/ux-ui-design)
 
@@ -53,5 +53,5 @@ You will learn about _Design Thinking_ and _User Empathy_ by designing a home pa
 
 - You will learn the basics of using a component library
 
-</details>
-<br> -->
+
+-->

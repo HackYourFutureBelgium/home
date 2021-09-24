@@ -1,6 +1,6 @@
 # Suggested Study
 
-## Command Line Interface (CLI)
+## Command Line Interface \(CLI\)
 
 - [relative vs. absolute paths](https://www.youtube.com/watch?v=ephId3mYu9o)
 - [The Coding Train](https://www.youtube.com/watch?v=FnkkzgYuXUM&list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X&index=3)
@@ -11,7 +11,7 @@
   - [iTerm](https://sr6033.github.io/lterm/) - online
 - [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
-## Visual Studio Code (VSCode)
+## Visual Studio Code \(VSCode\)
 
 VSC is the text editor you will use to write code at HYF. And it's way more than just a text editor! Take a look through these links to start learning all you can do with VSC. You don't need to understand everything right away, there will be more than enough time to practice:
 
@@ -29,12 +29,12 @@ VSC is the text editor you will use to write code at HYF. And it's way more than
 
 ## Code Quality
 
-- formatting (all file types with prettier)
+- formatting \(all file types with prettier\)
 - linting
   - css
   - markdown
 - validating html
-- spelling checks (will do once by automation, then by hand. automated spell checks are a little annoying)
+- spelling checks \(will do once by automation, then by hand. automated spell checks are a little annoying\)
 
 ## READMEs
 
@@ -77,19 +77,21 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11)
 - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
-- [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
+- # [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 ## GitHub Actions
 
 For now you can think of _Continuous Integration_ is a fancy way to say "automatically check your code before you merge". Your project repositories will all have CI scripts to help maintain a quality and consistent code base.
 
-_hint: remember to [enable GitHub Actions](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/disabling-or-limiting-github-actions-for-a-repository) in your repository!_
+_hint: remember to_ [_enable GitHub Actions_](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/disabling-or-limiting-github-actions-for-a-repository) _in your repository!_
 
 ## DevTools and the DOM
 
 - [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
 - [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
 - [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
+
+---
 
 ## Class Recordings
 
@@ -98,3 +100,7 @@ _hint: remember to [enable GitHub Actions](https://docs.github.com/en/github/adm
 >   - Indicate which class you were teaching
 >   - Which week it was (if the module is more than 1 week)
 >   - a helpful title or description
+
+- [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
+- [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
+- [Modify the DOM. \(does the source change?\)](https://zapier.com/blog/inspect-element-tutorial/)
