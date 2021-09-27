@@ -144,6 +144,24 @@
   - [Wednesday Review](coaches/wednesday-review.md)
   - [Homework Feedback](coaches/homework-feedback.md)
   - [About Teaching Code](coaches/about-teaching-code.md)
+- [Admin](admin/README.md)
+  <!-- - [Hats](./admin/hats/README.md) -->
+    <!-- - [Partnership Management](./admin/hats/partnership-management.md) -->
+    <!-- - [Community Management](./admin/hats/community-management.md) -->
+    <!-- - [Communications](./admin/hats/communications.md) -->
+    <!-- - [Financials](./admin/hats/financials.md) -->
+    <!-- - [Student Support](./admin/hats/student-support.md) -->
+  - [Tasks](./admin/tasks/README.md)
+    <!-- - [Sunday Class](./admin/tasks/sunday-class.md) -->
+    <!-- - [Starting a new class](./admin/tasks/starting-a-new-class.md) -->
+    - [Starting a new Module](./admin/tasks/starting-a-new-module.md)
+      <!-- - [Coach Onboarding](./admin/tasks/coach-onboarding.md) -->
+      <!-- - [Mentor Onboarding](./admin/tasks/mentor-onboarding.md) -->
+      <!-- - [Student Onboarding](./admin/tasks/student-onboarding.md) -->
+      <!-- - [Student Selection](./admin/tasks/student-selection.md) -->
+      <!-- - [Laptop loaning](./admin/tasks/laptop-loaning.md) -->
+      <!-- - [Sharing Recordings](./admin/tasks/sharing-recordings.md) -->
+      <!-- - [A Typical Week for the Team](./admin/tasks/typical-week.md) -->
 - [Alumni](alumni.md)
 - [Mentors](mentors/README.md)
   - [Mentor/Mentee Journey](mentors/mentor-mentee-journey.md)
@@ -152,7 +170,6 @@
   - [Legal issues on jobseeking](mentors/legal-issues-on-jobseeking.md)
   - [Refugee & Migrant Communities](mentors/refugee-communities.md)
   - [Info for Asylum Seekers in Belgium](mentors/asylum-seekers.md)
-- [Admin](admin.md)
 - [Core Values](core-values.md)
 - [Code of Conduct](code-of-conduct.md)
 - [Contributing](contributing.md)

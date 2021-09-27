@@ -1,12 +1,13 @@
-## Week 1
+## Chapter 1
 
 Begin learning JS syntax and vocabulary, reading code out loud, and tracing variables.
 
 ### Before Class
 
-- [What is Programming?](#what-is-programming), [What is JavaScript?](#what-is-javascript)
-- Follow the instructions in [Getting Started](#getting-started) to install `study-lenses`
-- Skim these chapters from [./just-enough-javascript](./just-enough-javascript)
+- Look through [Suggested Study](./suggested-study.md)
+  - _What is Programming?_
+  - _What is JavaScript?_
+- Skim these chapters from `/just-enough-javascript`
   - Comments and Logs
   - `guide-tracing.mp4`
   - Variables
@@ -34,12 +35,10 @@ Learn how to use a Trace Table to understand what is happening in a program.
 
 ### After Class
 
-No project. Just lots of study time, alone and in groups. Here's some ideas for what to focus on this week:
+No project. Just lots of study time, alone and in groups. Take some time to look through all of the folders [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js), here's some ideas for what to focus on this week:
 
 - 🥚 [compute-it](http://compute-it.toxicode.fr/), 🐣 [little-dot](http://little-dot.toxicode.fr/)
-- [ASCII Pronunciation Rules for Programmers](https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
-- 🥚 [strict-mode](./strict-mode)
-- [./just-enough-javascript](./just-enough-javascript) through While Loops
+- `/just-enough-javascript` through While Loops
   - you do not need to complete every exercise in each chapter, just enough that you're comfortable to move on
   - you can always return to study these chapters again, or to complete what you didn't finish
 - Study through While Loops in your favorite online tutorial

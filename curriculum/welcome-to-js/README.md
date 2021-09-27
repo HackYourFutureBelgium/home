@@ -31,8 +31,9 @@ Take your first steps into programming by learning to read, trace, and analyze s
   - _How many times is it's value used \(read\) in the program?_
   - _How many times is the variable assigned a new value?_
 - 🐣 **Tracing Execution**: You can complete a "steps" trace table and correct your table using console output from the "trace" button.
-- 🐣 **Stepping Through**: You can pause a script in a step debugger, arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
-- 🐣 **Program Description**: You can describe a program with comments using to the methodology from `/describing-programs`: zooming out -&gt; zooming in -&gt; connections -&gt; goals
-- 🐣 **Program Completion**: You can successfully fill in blanks for a program when the missing identifiers are provided and no distractors are present.
-- 🐥 **Program Construction**: You can reconstruct a program's lines and indentation, successfully ignoring distractor lines.
-- 🐔 **Program Authoring**: Given starter code with labeled goals, you can write a small program to match specs \(user stories + test cases\).
+- 🐣 **Describing Programs**: You can read a program and describe it with comments using to the methodology from `/describing-programs`: zooming out -&gt; zooming in -&gt; connections -&gt; goals
+- 🐣 **Completing Programs**: You can successfully fill in blanks for a program when the missing identifiers are provided and no distractors are present.
+- 🐥 **Constructing Programs**: You can reconstruct a program's lines and indentation, successfully ignoring distractor lines.
+- 🐥 **Modifying Programs**: You can make small changes in a program to change it's behavior without breaking it.
+- 🐔 **Stepping Through**: You can pause a script in a step debugger, arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
+- 🐔 **Authoring Programs**: Given starter code with labeled goals, you can write a small program to match specs \(user stories + test cases\).

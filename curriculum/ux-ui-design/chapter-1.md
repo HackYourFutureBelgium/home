@@ -28,7 +28,7 @@
 
 - _~20 minutes, all together_: Interviews! Discuss the why's and how's of discovering your stakeholder's needs
 - _~50 minutes, small groups_: Prepare for this module's project
-  - Read through the [./interview-template.md](./interview-template.md) you will use to design each others' Home Pages.
+  - Read through the [`/interview-templates/home-page-design.md`](https://github.com/hackyourfuturebelgium/ux-ui-design) you will use to design each others' Home Pages.
 - _~20 minutes, all together_:
   - each group shares what they discussed
   - answer questions about the projects

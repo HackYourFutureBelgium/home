@@ -17,7 +17,7 @@
 
 > objectives are limited to programs under 40 lines written in the subset of JS covered in Debugging
 
-- 🥚 **Stepping Through**: You can use the browser's debugger to step through your code, making a prediction and checking your guess at each step. They can use breakpoints and the `debugger` statement to pause the program on specific lines.
+- 🥚 **Stepping Through**: You can pause a script in a step debugger (breakpoints and `debugger` statement), arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
 - 🥚 **Assertion Testing**: You is familiar with assertions and can use pre-written assertions them to guide your study of a program.
 - 🥚 **Logging**: You is capable of tracing specific aspects of a program's execution using `console.log`.
 - 🥚 **Program Life Cycle**: You can explain the two phases of a program's life cycle.

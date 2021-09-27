@@ -12,7 +12,7 @@ You will need to create a new _deliverables_ issue in your class repository and 
 5. [ ] GitHub setup
 6. [ ] Submit student bio PR
 7. [ ] Fork and Clone the flashcards repository
-8. [ ] Prep work for Workflows Week 1
+8. [ ] Prep work for Workflows Chapter 1
 
 <!-- Welcome to HYF :) -->
 ```
