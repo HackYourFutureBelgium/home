@@ -145,13 +145,13 @@
   - [Homework Feedback](coaches/homework-feedback.md)
   - [About Teaching Code](coaches/about-teaching-code.md)
 - [Admin](admin/README.md)
-  <!-- - [Hats](./admin/hats/README.md) -->
+  - Hats
     <!-- - [Partnership Management](./admin/hats/partnership-management.md) -->
     <!-- - [Community Management](./admin/hats/community-management.md) -->
     <!-- - [Communications](./admin/hats/communications.md) -->
     <!-- - [Financials](./admin/hats/financials.md) -->
-    <!-- - [Student Support](./admin/hats/student-support.md) -->
-  - [Tasks](./admin/tasks/README.md)
+    - [Student Support](./admin/hats/student-support.md)
+  - Tasks
     <!-- - [Sunday Class](./admin/tasks/sunday-class.md) -->
     <!-- - [Starting a new class](./admin/tasks/starting-a-new-class.md) -->
     - [Starting a new Module](./admin/tasks/starting-a-new-module.md)

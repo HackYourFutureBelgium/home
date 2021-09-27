@@ -1,6 +1,6 @@
 # Communications
 
-How we present ourselves to the outside world.  website, social media, ...
+How we present ourselves to the outside world. website, social media, ...
 
 ### Our message
 
@@ -16,22 +16,15 @@ Our website is static. The only items that change regularly are the open calls f
 
 1. Our Social Media channels:
 
-* LinkedIn: [https://www.linkedin.com/school/hackyourfuture-belgium](https://www.linkedin.com/school/hackyourfuture-belgium)
-* Twitter: [https://twitter.com/HackYFutureBE](https://twitter.com/HackYFutureBE)
-* Facebook: [https://www.facebook.com/HackYFutureBE](https://www.facebook.com/HackYFutureBE)
+- LinkedIn: [https://www.linkedin.com/school/hackyourfuture-belgium](https://www.linkedin.com/school/hackyourfuture-belgium)
+- Twitter: [https://twitter.com/HackYFutureBE](https://twitter.com/HackYFutureBE)
+- Facebook: [https://www.facebook.com/HackYFutureBE](https://www.facebook.com/HackYFutureBE)
 
 We use our Social Media channels to:
 
-* support our alumni and share their stories, mainly on LinkedIn
-* cheer for our partners when they organise an event/have something to celebrate
-* share our core values, through posts on 'International day of Human Rights', for example
-* share pictures of our community
-* thank partners who contribute to our program
-* reach out to new volunteers and hiring companies
-
-
-
-
-
-
-
+- support our alumni and share their stories, mainly on LinkedIn
+- cheer for our partners when they organise an event/have something to celebrate
+- share our core values, through posts on 'International day of Human Rights', for example
+- share pictures of our community
+- thank partners who contribute to our program
+- reach out to new volunteers and hiring companies
