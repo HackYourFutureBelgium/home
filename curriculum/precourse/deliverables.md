@@ -52,6 +52,8 @@ These are a few VSCode extensions that will make your life easier. Find another 
 
 [How to install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 
+- **For Pair Programming**
+  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) ([more info](https://visualstudio.microsoft.com/services/live-share/)) 
 - **For Git & GitHub**
   - [ ] [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
   - [ ] [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
