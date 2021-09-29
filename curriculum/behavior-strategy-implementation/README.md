@@ -2,13 +2,13 @@
 
 [&lt;&lt; Debugging](../debugging/README.md) \| [Top](../README.md) \| [Separation of Concerns &gt;&gt;](../separation-of-concerns/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
-
----
-
 > Be creative while inventing ideas, but be disciplined while implementing them.
 >
 > - [Amit Kalantri](https://amitkalantri.com/tag/quotes-about-creativity/)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
 
 ---
 
@@ -35,13 +35,13 @@ In this module you will explore different ways to break down and solve coding ch
 - 🥚 **Generating Documentation**: You can write a correct JSDoc for your functions and use a provided script to generate markdown documentation in a separate file.
 - 🐣 **Array Strategies**: You can determine which of the primary array strategies \(`map`, `filter`, `reduce`, `every`, `some`\) are helpful for a specific problem at your level.
 - 🐣 **Higher-Order Functions in Array Methods**: You can explain how a higher order function works, and write a callback for use in the primary array methods \(for a problem at your level\).
+- 🐣 **Nested Data**: Given a nested data structure containing arrays, objects and primitive values, you can 1\) access a given value 2\) update a given entry 3\) filter the data
 - 🐣 **Test-Driven Development**: You can write basic unit tests for a problem you understand without having a solution to validate your tests. You can use your tests as a guide to develop a solution. You do not need to consider edge cases or invalid arguments.
 - 🐣 **Testing Side-Effects**: You can write a suite of unit tests to ensure that; 1\) a function does not modify it's reference-type arguments, 2\) the function returns a new array/object.
 - 🐣 **ECMAScript Modules**: You can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
 - 🐣 **Continuous Integration**: You can check CI scripts locally to ensure your code will pass CI checks when it is pushed, and can read CI results when conducting a code review.
 - 🐣 **Code Review**: You can use a provided checklist and passing/failing CI checks to review a classmate's function \(given the solution is at your level\).
 - 🐥 **Testing Edge Cases**: You can identify and write unit tests for tricky edge cases.
-- 🐥 **Hoisting**: You can find hoisted functions and variables in the browser's debugger and explain the semantics of hoisting.
 - 🐥 **Prototype Delegation**: You can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.
 - 🐔 **Writing Guards**: You can write guards for your function parameters that enforce the function's documented parameter types.
 - 🐔 **Testing Guards**: You can use `expect(() => _).toThrow(_)` to unit-test your guards' error type and message.

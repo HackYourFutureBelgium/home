@@ -2,13 +2,13 @@
 
 [&lt;&lt; Precourse](../precourse/README.md) \| [Top](../README.md) \| [Agile Development &gt;&gt;](../agile-development/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/workflows)
-
----
-
 > “I'm not a great programmer; I'm just a good programmer with great habits.”
 >
 > - [Kent Beck](https://en.wikiquote.org/wiki/Kent_Beck)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/workflows)
 
 ---
 

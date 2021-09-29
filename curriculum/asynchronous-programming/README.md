@@ -2,13 +2,13 @@
 
 [&lt;&lt; Architecture](../architecture/README.md) \| [Top](../README.md) \| [Web Apps &gt;&gt;](../web-apps/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/asynchronous-programming)
-
----
-
 > "Synchronous basically means that you can only execute one thing at a time. Asynchronous means that you can execute multiple things at a time and you don't have to finish executing the current thing in order to move on to next one."
 >
 > - [Mike](https://stackoverflow.com/a/33585047)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/asynchronous-programming)
 
 ---
 

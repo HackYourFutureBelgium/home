@@ -2,11 +2,11 @@
 
 [&lt;&lt; Workflows](../workflows/README.md) \| [Top](../README.md) \| [UX/UI Design &gt;&gt;](../ux-ui-design/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/agile-development)
+[![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
 
 ---
 
-[![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/agile-development)
 
 ---
 

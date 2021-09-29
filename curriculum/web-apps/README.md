@@ -2,13 +2,13 @@
 
 [<< Asynchronous Programming](../asynchronous-programming/README.md) | [Top](../README.md) | [Databases >>](../databases/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/web-apps)
-
----
-
 > ![client/server model](./assets/client-server-model.svg)
 >
 > - [wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model#/media/File:Client-server-model.svg)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/web-apps)
 
 ---
 

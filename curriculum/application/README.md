@@ -6,6 +6,8 @@
 >
 > - [Jeff Atwood](https://blog.codinghorror.com/should-competent-programmers-be-mathematically-inclined/)
 
+---
+
 At HackYourFuture we’re looking for people who work very hard, are **disciplined and passionate** about learning how to code and becoming a maker.
 
 For us **motivation is key**, as our program is difficult and you are expected to learn a lot and very quickly. Moreover, we are looking for people who are self-motivated and willing to support their fellow classmates. This is because HackYourFuture is a school that is based on \_self-directed \_and \_peer-assisted \_learning.
@@ -16,9 +18,9 @@ This is done on purpose. All these skills you have to develop during the program
 
 To make sure you are the right fit for our program, we are asking you to do a technical assignment. This assignment consists of online exercises and a small website you will build. No worries, you will learn how to make a basic website during this test. The test’s goal is that you can show us:
 
-1. You are able to familiarize yourself with new concepts quickly, by searching, asking for hel or following coding tutorials.
-2. You are willing to put in time, effort and are motivated to learn how to code.
-3. You show that you have the potential to become a creative maker.
+1. You show that you have the potential to become a creative maker.
+2. 1. You are willing to put in time, effort and are motivated to learn how to code.
+3. You are able to familiarize yourself with new concepts, by searching, asking for help or following coding tutorials.
 
 **Let’s get started -&gt;** [**Deliverables**](deliverables.md)
 

@@ -118,6 +118,7 @@
     - [Individual Study](students/how-to-hyf/individual-study.md)
     - [Check-Ins](students/how-to-hyf/check-ins.md)
     - [Module Deliverables](students/how-to-hyf/module-deliverables.md)
+    - [Module Feedback](students/how-to-hyf/module-feedback.md)
   - [Study Tips](students/study-tips/README.md)
     - [How to Ask Questions](students/study-tips/how-to-ask-questions.md)
     - [Study Strategies](students/study-tips/study-strategies.md)
@@ -142,7 +143,7 @@
   - [Coaching Roles](coaches/coaching-roles.md)
   - [Sunday Class](coaches/sunday-class.md)
   - [Wednesday Review](coaches/wednesday-review.md)
-  - [Homework Feedback](coaches/homework-feedback.md)
+  - [Homework Retrospective](coaches/homework-retrospective.md)
   - [About Teaching Code](coaches/about-teaching-code.md)
 - [Admin](admin/README.md)
   - Hats

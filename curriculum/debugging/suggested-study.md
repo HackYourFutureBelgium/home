@@ -34,10 +34,13 @@ Helpful resources for this module
 ## Statements vs. Expressions
 
 - [codeexpanse](https://www.youtube.com/watch?v=WVyCrI1cHi8)
+- [dev.to](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
+- [youtube](https://www.youtube.com/watch?v=WVyCrI1cHi8)
 
 ## Reference vs. Values
 
 - [Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- [Web Dev Simplified](https://www.youtube.com/watch?v=-hBJz2PPIVE)
 - [Mosh video](https://www.youtube.com/watch?v=fD0t_DKREbE)
 - [CodeBurst article](https://codeburst.io/javascript-passing-by-value-vs-reference-explained-in-plain-english-8d00fd06a47c)
 - [Just JavaScript](https://github.com/HackYourFutureBelgium/just-javascript/tree/master/06-Equality-of-Values)

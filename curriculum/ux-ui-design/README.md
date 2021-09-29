@@ -2,10 +2,6 @@
 
 [&lt;&lt; Agile Development](../agile-development/README.md) \| [Top](../README.md) \| [Welcome to JS &gt;&gt;](../welcome-to-js/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/ux-ui-design)
-
----
-
 > “Writing software is a highly iterative, dynamic process requiring user feedback.
 >
 > Again, it's like writing poetry in that you write some of it, and then you respond to it, which triggers more creativity, and you keep going.
@@ -13,6 +9,10 @@
 > Then, you show it to someone whose opinion you respect, and you see it differently.”
 >
 > - [Richard Gabriel](https://dreamsongs.com/PoetryOfProgramming.html)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/ux-ui-design)
 
 ---
 

@@ -2,8 +2,6 @@
 
 [&lt;&lt; Application](../application/README.md) \| [Top](../README.md) \| [Workflows &gt;&gt;](../workflows/README.md)
 
----
-
 > ![miscommunication](./assets/cant-you-do-anything-right.jpeg)
 >
 > - [Randy Glasbergen](https://www.glasbergen.com/)

@@ -2,13 +2,13 @@
 
 [&lt;&lt; Separation of Concerns](../separation-of-concerns/README.md) \| [Top](../README.md) \| [Asynchronous Programming &gt;&gt;](../asynchronous-programming/README.md)
 
-[examples, exercises and guides](https://github.com/HackYourFutureBelgium/architecture)
-
----
-
 > "We're talking about boxes and lines. We're talking about the big picture."
 >
 > - [GetCloudSkills](https://www.youtube.com/watch?v=i7aKW7YNOxY)
+
+---
+
+[examples, exercises and guides](https://github.com/HackYourFutureBelgium/architecture)
 
 ---
 
@@ -34,7 +34,6 @@
   3. Plan and write a static user interface \(HTML+CSS\)
   4. Develop interactions for the interface \(listeners, handlers, components, custom events\)
 - 🥚 **Other People's Code**: You will learn to use code other people wrote by reading their documentation and understanding their source code. This will happen when you use the Data Access layer provided by HYF, and when you use the functions written by your group members.
-- 🐣 **Nested Data**: Given a nested data structure containing arrays, objects and primitive values, you can 1\) access a given value 2\) update a given entry 3\) filter the data
 - 🐣 **Matching a JSON Schemas**: You can write an object or array that matches a JSON schema.
 - 🐣 **Using a Library**: You can select which functions from the `/data-access` library to use in your Business Logic functions. This includes reading the documentation, tests and source code to understand how the Data Access functions work.
 - 🐣 **Stateful Testing**: You can pass and write unit tests for stateful functions - using `beforeEach` to reset state before each test, and testing for the _correct_ side-effects in state.

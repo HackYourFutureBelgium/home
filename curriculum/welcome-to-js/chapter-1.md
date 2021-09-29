@@ -1,8 +1,10 @@
-## Chapter 1
+# Chapter 1
 
 Begin learning JS syntax and vocabulary, reading code out loud, and tracing variables.
 
-### Before Class
+## Before Class
+
+> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
 
 - Look through [Suggested Study](./suggested-study.md)
   - _What is Programming?_
@@ -13,11 +15,11 @@ Begin learning JS syntax and vocabulary, reading code out loud, and tracing vari
   - Variables
   - Conditionals
 
-### During Class
+## During Class
 
 Learn how to use a Trace Table to understand what is happening in a program.
 
-#### Before Break
+## Before Break
 
 - Q/A about "What is JavaScript?"
 - How to open and study the module
@@ -29,11 +31,11 @@ Learn how to use a Trace Table to understand what is happening in a program.
   - parsons problems
 - Study the exercises in `/just-enough-javascript/variables/trace`
 
-#### After Break
+## After Break
 
 - Study the exercises in `/just-enough-javascript/conditionals/trace`
 
-### After Class
+## After Class
 
 No project. Just lots of study time, alone and in groups. Take some time to look through all of the folders [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js), here's some ideas for what to focus on this week:
 
