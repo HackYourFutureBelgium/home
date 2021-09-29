@@ -26,7 +26,7 @@ Take the time to proof read and edit your code before sharing it. Your colleague
 - Fix any linting errors
 - Preview the rendered Markdown, does it look like you wanted?
 
-Here are some examples for inspiration: [LujiAnne](https://github.com/LujiAnna/group-intro), [okozmovskaya](https://github.com/okozmovskaya/group-intro), [LetItBe](https://github.com/sayed94h/Group-Intro-LetItBe), [Unicorn](https://github.com/KrystynaMil/Unicorn), [HackYourFutureBelgium](https://github.com/hackyourfuturebelgium/group-intro-example)
+Here are some examples for inspiration: [okozmovskaya](https://github.com/okozmovskaya/group-intro), [LetItBe](https://github.com/sayed94h/Group-Intro-LetItBe), [Unicorn](https://github.com/KrystynaMil/Unicorn), [HackYourFutureBelgium](https://github.com/hackyourfuturebelgium/group-intro-example)
 
 ### Checklists
 
