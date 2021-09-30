@@ -53,4 +53,5 @@ repository. If you haven't already, take a look at:
 - **Practice**
   - 🥚 `/isolate`: through The Callstack
   - 🐣 `/fixing-bugs`: through Functions
+  - 🐣 `/operator-precedence`: through _expanding_
   - 🐣 `/using-functions`: through Refactor Logic

@@ -1,10 +1,26 @@
 # Milestones
 
-## Week 1
+## 1: The Idea
 
 In the first week you will become familiar with the starter repository and lay out your plans for the next 4 weeks. Agile does not mean "no planning"!
 
-You will define your user, plan their journey through your application, develop wireframes, and set up an initial backlog of development tasks. You will change the plans in the coming weeks as you better understand your team and the project, but that doesn't mean it's wasted time. That's the agile way.
+The goal of your first week is to come up with an idea for your project and to refine that idea into something actionable. You will define your user personas, plan their journey through your application, develop wireframes, and set up an initial backlog of development tasks. You will change the plans in the coming weeks as you better understand your team and the project, but that doesn't mean it's wasted time. That's the agile way.
+
+The main constraint you have while planning this project is that it must use data from at least 1 public API. Here's a list of ideas to get you started:
+
+- **Mapping**
+  - https://wiki.openstreetmap.org/wiki/API
+- **The Natural World**
+  - [Global Biodiversity Info](https://www.gbif.org/)
+  - [iNaturalist](https://www.inaturalist.org/)
+  - [Open Weather Map](https://openweathermap.org/api)
+- **Belgium**
+  - [data.sta.gent.be](https://data.stad.gent/)
+  - [data.gov.be](https://data.gov.be/en)
+  - [statbel.fgov.be](https://statbel.fgov.be/en)
+  - [waterinfo.be](https://www.waterinfo.be/)
+  - [irail.be](https://api.irail.be/)
+- and of course, the [GitHub API](https://api.github.com/)
 
 ```markdown
 - [ ] [A Project organization]()
@@ -12,13 +28,13 @@ You will define your user, plan their journey through your application, develop 
   - [ ] set your logo as the avatar
   - [ ] a good description
 - [ ] [A communication plan]()
-- [ ] [Defined team roles]()
+- [ ] [A project README]()
 - [ ] [Project Constraints]()
 - [ ] [User Interviews]()
 - [ ] [User Personas]()
 ```
 
-## Week 2
+## 2: Prepare to Develop
 
 Prepare yourselves for 3 weeks of sprinting:
 
@@ -39,7 +55,7 @@ Prepare yourselves for 3 weeks of sprinting:
 - [ ] [Project board with initial backlog]()
 ```
 
-## Week 3
+## 3: Sprint 1
 
 Sprinting!
 
@@ -48,7 +64,7 @@ Sprinting!
 - [ ] End-of-week Retrospective
 ```
 
-## Week 4
+## 4: Sprint 2
 
 Sprinting!
 
@@ -57,7 +73,7 @@ Sprinting!
 - [ ] End-of-week Retrospective
 ```
 
-## Week 5
+## 5: Sprint 3
 
 Sprinting!
 
@@ -66,7 +82,7 @@ Sprinting!
 - [ ] End-of-week Retrospective
 ```
 
-## Week 6
+## 6: MVP and Public Face
 
 Prepare the public face of your project.
 

@@ -46,6 +46,6 @@ To come prepared you should study up on these JS language features:
 - **Practice**:
   - 🥚 `/isolate`: through Refactoring Loops
   - 🐣 `/integrate`: through Numbers
-  - 🐣 `/operator-precedence`: learn to use a table and the "trace" button for stepping through expressions
+  - 🐣 `/operator-precedence`: through _asserting_
 
 Keep working your way through your favorite tutorials.

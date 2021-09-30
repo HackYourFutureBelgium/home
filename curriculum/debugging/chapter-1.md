@@ -56,7 +56,7 @@ starting with:
     - you're not expected to master coercion or operator precedence this week,
       but you should start them
   - 🐣 `/integrate`: through conditionals
-  - 🐣 `/operator-precedence`
+  - 🐣 `/operator-precedence`: through _tracing_
 
 Isolate goes in depth on type coercion and primitive operators. You aren't
 expected to master these topics in one week, it will take lots of practice for

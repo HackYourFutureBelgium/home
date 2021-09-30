@@ -32,11 +32,41 @@ description: >-
 2. Set up a class repo on GitHub
 3. Create the student management folder and documents in drive:
 
-* Students list for attendances, with all the class dates
-* Student data sheet, with all information of students \(personal data, background, address, etc\)
-* Student schedule: a spreadsheet with the calendar of the full program
-* Coaches schedule for the class, including all modules, dates and coaches confirmed per module
-* Student CVs: a folder where you collect their CVs
-* Student contracts: a folder where you collect the signed student contracts, in which they state they will be respectful and committed to the program and communicate about issues or when they are unable to attend class
-* Laptop contracts: a folder with all the signed laptop contracts of students borrowing a HYF laptop
+- Students list for attendances, with all the class dates
+- Student data sheet, with all information of students \(personal data, background, address, etc\)
+- Student schedule: a spreadsheet with the calendar of the full program
+- Coaches schedule for the class, including all modules, dates and coaches confirmed per module
+- Student CVs: a folder where you collect their CVs
+- Student contracts: a folder where you collect the signed student contracts, in which they state they will be respectful and committed to the program and communicate about issues or when they are unable to attend class
+- Laptop contracts: a folder with all the signed laptop contracts of students borrowing a HYF laptop
 
+<!--
+  create org
+    (extra instructions)
+  repos
+    home (link to template)
+    coach signup (link to template with instructions)
+    admin (to be created)
+      tips for using it to manage application process, if desired
+      labels: one per student
+      open an issue per student
+      generally just a place for admins to discuss or plan in private
+    a private repo per student (use their usernames)
+      - give them write access
+      for module retros
+      for submitting assessments
+  3 teams
+    admin
+      coach signup
+      home
+      admin
+      all students
+    coaches
+      coach signup
+      home
+    students
+      home
+
+  bonus
+    github classrooms
+-->

@@ -33,19 +33,19 @@
   - [5. Welcome to JS](./curriculum/welcome-to-js/README.md) <!-- learn the basic syntax of JS and how to read programs that use it -->
     - [Suggested Study](./curriculum/welcome-to-js/suggested-study.md)
     - [Deliverables](./curriculum/welcome-to-js/deliverables.md)
-      <!-- - [Chapter 1](./curriculum/welcome-to-js/chapter-1.md) -->
-      <!-- - [Chapter 2](./curriculum/welcome-to-js/chapter-2.md) -->
+    - [Chapter 1](./curriculum/welcome-to-js/chapter-1.md)
+    - [Chapter 2](./curriculum/welcome-to-js/chapter-2.md)
       <!-- - [Assessment](./curriculum/welcome-to-js/assessment.md) -->
       <!-- - [Teaching Tips](./curriculum/welcome-to-js/teaching-tips.md) -->
   - [6. Debugging](./curriculum/debugging/README.md) <!-- learn to step through, analyze, fix and refactor programs that handle user input -->
-     <!-- - [Suggested Study](./curriculum/debugging/suggested-study.md) -->
-     <!-- - [Deliverables](./curriculum/debugging/deliverables.md) -->
-     <!-- - [Chapter 1](./curriculum/debugging/chapter-1.md) -->
-     <!-- - [Chapter 2](./curriculum/debugging/chapter-2.md) -->
-     <!-- - [Chapter 3](./curriculum/debugging/chapter-3.md) -->
-     <!-- - [Chapter 4](./curriculum/debugging/chapter-4.md) -->
-     <!-- - [Assessment](./curriculum/debugging/assessment.md) -->
-     <!-- - [Teaching Tips](./curriculum/debugging/teaching-tips.md) -->
+    - [Suggested Study](./curriculum/debugging/suggested-study.md)
+    - [Deliverables](./curriculum/debugging/deliverables.md)
+    - [Chapter 1](./curriculum/debugging/chapter-1.md)
+    - [Chapter 2](./curriculum/debugging/chapter-2.md)
+    - [Chapter 3](./curriculum/debugging/chapter-3.md)
+    - [Chapter 4](./curriculum/debugging/chapter-4.md)
+      <!-- - [Assessment](./curriculum/debugging/assessment.md) -->
+      <!-- - [Teaching Tips](./curriculum/debugging/teaching-tips.md) -->
   - [7. Behavior, Strategy, Implementation](./curriculum/behavior-strategy-implementation/README.md) <!-- learn to analyze, test, write and review solutions to coding challenges -->
     - [Suggested Study](./curriculum/behavior-strategy-implementation/suggested-study.md)
     - [Deliverables](./curriculum/behavior-strategy-implementation/deliverables.md)
