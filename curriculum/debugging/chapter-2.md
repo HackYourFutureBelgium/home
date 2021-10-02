@@ -26,14 +26,11 @@ To come prepared you should study up on these JS language features:
 
 ### Before Break
 
-- `/isolate` - review `let` vs. `const`
-  - why does JavaScript have both?
-  - what are the conventions for using `let` and `const`?
-- `/naming-variables`
+- `/fixing-bugs`
 
 ### After Break
 
-- `/integrate`:
+- `/interact`:
   - `numbers/repeat-string`
   - maybe also `numbers/repeat-characters`
 
@@ -41,11 +38,8 @@ To come prepared you should study up on these JS language features:
 
 ## After Class
 
-- **Skills**: continue studying all the coding skills
-  - 🐣 `/naming-variables`
-- **Practice**:
-  - 🥚 `/isolate`: through Refactoring Loops
-  - 🐣 `/integrate`: through Numbers
-  - 🐣 `/operator-precedence`: through _asserting_
+Learning to program with JavaScript is a marathon. There's no project just plenty of practice. Work on the exercises suggested for Chapter 2 in the [`debugging` repository](https://github.com/HackYourFutureBelgium/debugging), and continue studying your favorite tutorial(s).
 
-Keep working your way through your favorite tutorials.
+Study together! Working in small groups and taking turns to predict and explain
+what is happening with the code is a nice way to spend a few hours. Teaching is
+a great way to learn.

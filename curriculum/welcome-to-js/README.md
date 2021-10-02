@@ -16,7 +16,7 @@ Take your first steps into programming by learning to read, trace, and analyze s
 
 ## Learning Objectives
 
-> all of these skills are limited to programs under 30 lines using **Just Enough JavaScript**
+> all of these skills are limited to short, single-page programs written with **Just Enough JavaScript**
 
 - 🥚 **Static vs. Dynamic Analysis**: You can identify and use these two ways of studying a program, each can help you understand different aspects of your code. To help understand this concept, the _options_ panel in Study Lenses is organized into _static_ and _dynamic_ study options:
   - **Static**: Studying the text in a code file _without_ running it. Some static study methods are creating a flowchart, analyzing variables, filling out a trace table, and drawing on code.

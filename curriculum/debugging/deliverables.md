@@ -1,14 +1,22 @@
 # Deliverables
 
-<!-- Nothing to submit this module! Take the time you need to learn the material alone and in groups. -->
+No projects in this module! Take the time you need to practice your programming skills alone and in groups.
 
-## Vocab
+## 1. Vocabulary
 
-make at least 1 contribution to the `/vocabulary` folder of your class repo.
+Make at least 2 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
 
-## JS Reference
+- _Labels_: `deliverable`, `vocabulary`
+- _milestone_: `ux-ui-design`
 
-contribute to it
+## 2. Snippets
+
+Make at least 2 PR contribution to the `/snippets` folder of your class repo. This can be any snippet of HTML or CSS that you found helpful and someone else might find useful in their projects.
+
+You don't need to open an issue, just put the PR directly in the _deliverables_ board
+
+- _Labels_: `deliverable`, `snippets`
+- _milestone_: `ux-ui-design`
 
 <!-- ## task class
 

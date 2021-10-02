@@ -1,8 +1,22 @@
 # Deliverables
 
-## Vocab
+No projects in this module! Just lots of practice alone and in groups.
 
-make at least 1 contribution to the `/vocabulary` folder of your class repo.
+## 1. Vocabulary
+
+Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
+
+- _Labels_: `deliverable`, `vocabulary`
+- _milestone_: `ux-ui-design`
+
+## 2. Snippets
+
+Make at least 1 PR contribution to the `/snippets` folder of your class repo. This can be any snippet of HTML or CSS that you found helpful and someone else might find useful in their projects.
+
+You don't need to open an issue, just put the PR directly in the _deliverables_ board
+
+- _Labels_: `deliverable`, `snippets`
+- _milestone_: `ux-ui-design`
 
 <!--
 ## Task Class

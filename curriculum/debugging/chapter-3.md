@@ -46,12 +46,8 @@ Prep work:
 
 ## After Class
 
-Keep working your way through your favorite tutorials and the exercises in this
-repository. If you haven't already, take a look at:
+Learning to program with JavaScript is a marathon. There's no project just plenty of practice. Work on the exercises suggested for Chapter 3 in the [`debugging` repository](https://github.com/HackYourFutureBelgium/debugging), and continue studying your favorite tutorial(s).
 
-- **Skills**: keep practicing all those coding skills
-- **Practice**
-  - 🥚 `/isolate`: through The Callstack
-  - 🐣 `/fixing-bugs`: through Functions
-  - 🐣 `/operator-precedence`: through _expanding_
-  - 🐣 `/using-functions`: through Refactor Logic
+Study together! Working in small groups and taking turns to predict and explain
+what is happening with the code is a nice way to spend a few hours. Teaching is
+a great way to learn.

@@ -33,14 +33,8 @@ examples in these folders to be ready for class:
 
 ## After Class
 
-- 🥚 `/isolate`: through Side Effects. Reference vs. Value and Side
-  Effects are another "invisible" thing about JS, you can't see it in the source
-  code! You need to understand how JS program memory works and to learn how
-  debugging tools can help you see this
-- 🐣 `/fixing-bugs`: Arrays & Objects
-- 🐣 `/integrate`: Arrays
-- 🐣 `/using-functions`: Avoid Side-Effects
+Learning to program with JavaScript is a marathon. There's no project just plenty of practice. Work on the exercises suggested for Chapter 4 in the [`debugging` repository](https://github.com/HackYourFutureBelgium/debugging), and continue studying your favorite tutorial(s).
 
-Keep working through your favorite tutorials and the exercises in this
-repository. It's important to come prepared for the first Sunday of Behavior,
-Strategy, Implementation so be sure to make time for the prep work!
+Study together! Working in small groups and taking turns to predict and explain
+what is happening with the code is a nice way to spend a few hours. Teaching is
+a great way to learn.

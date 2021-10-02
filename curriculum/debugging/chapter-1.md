@@ -26,41 +26,18 @@ You don't need to understand this material perfectly, it's just important you ar
 Dig deeper into program execution and the debugger:
 
 - `/stepping-through`
-- `/fixing-errors`
 
 ### After Break
 
 A method for finding and fixing bugs in your code
 
-- `/fixing-bugs`
+- `/fixing-errors`
 
 ---
 
 ## After Class
 
-Learning to program with JavaScript is a marathon. This week you can keep
-working through your favorite tutorials, and be sure make time to get
-comfortable stepping through and predicting small programs in your debugger. Try
-starting with:
-
-- 🥚 `/strict-mode`: a quick read
-- **Skills**: you're not expected to master these skills in one week, but
-  starting to practice the them in week 1 will make everything else easier.
-  Practicing a little bit every day is the best way to build a skill.
-  - 🥚 `/stepping-through`
-  - 🥚 `/fixing-errors`
-  - 🥚 `/logging`
-  - 🐣 `/fixing-bugs`
-- **Practice**
-  - 🐣 `/isolate`: through conditionals
-    - you're not expected to master coercion or operator precedence this week,
-      but you should start them
-  - 🐣 `/integrate`: through conditionals
-  - 🐣 `/operator-precedence`: through _tracing_
-
-Isolate goes in depth on type coercion and primitive operators. You aren't
-expected to master these topics in one week, it will take lots of practice for
-this to sink in.
+Learning to program with JavaScript is a marathon. There's no project just plenty of practice. Work on the exercises suggested for Chapter 1 in the [`debugging` repository](https://github.com/HackYourFutureBelgium/debugging), and continue studying your favorite tutorial(s).
 
 Study together! Working in small groups and taking turns to predict and explain
 what is happening with the code is a nice way to spend a few hours. Teaching is

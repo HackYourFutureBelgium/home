@@ -20,7 +20,9 @@
 - 🥚 **Stepping Through**: You can pause a script in a step debugger (breakpoints and `debugger` statement), arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
 - 🥚 **Assertion Testing**: You are familiar with assertions and can use `console.assert` to guide your study of a program.
 - 🥚 **Linting**: You can find and fix linting errors in JavaScript programs.
-- 🥚 **Naming Variables**: You can analyze a program's variables according to the structured comment, and rename the variables. Your variable names will describe the variable's role in the program and contextualize the variable in the program's domain. This includes deciding whether to use `let` or `const`.
+- 🥚 **Naming Variables**: You can analyze a program's variables using a structured comment, and can rename the variables. You can give each variable two different names:
+  - **Generic**: A name that describes the variable's role in a general way. This includes deciding whether to use `let` or `const`.
+  - **Specific**: A name that fits the variable's role and contextualizes it in the program's domain.
 - 🥚 **Logging**: You are capable of tracing specific aspects of a program's execution using `console.log`.
 - 🥚 **Program Life Cycle**: You can explain the two phases of a program's life cycle.
 - 🥚 **Fixing Errors**: You can use the structured comment to describe an error in your program, and can make several educated guesses at how to fix the error.

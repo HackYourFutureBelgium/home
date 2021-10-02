@@ -40,9 +40,7 @@ Learn how to use a Trace Table to understand what is happening in a program.
 No project. Just lots of study time, alone and in groups. Take some time to look through all of the folders [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js), here's some ideas for what to focus on this week:
 
 - 🥚 [compute-it](http://compute-it.toxicode.fr/), 🐣 [little-dot](http://little-dot.toxicode.fr/)
-- `/just-enough-javascript` through While Loops
-  - you do not need to complete every exercise in each chapter, just enough that you're comfortable to move on
-  - you can always return to study these chapters again, or to complete what you didn't finish
+- Suggested materials for Chapter 1 in the [`welcome-to-js` repository](https://github.com/HackYourFutureBelgium/welcome-to-js)
 - Study through While Loops in your favorite online tutorial
 
 Keep the question coming!
