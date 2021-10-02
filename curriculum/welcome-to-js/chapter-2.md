@@ -8,7 +8,6 @@ Practice reading, understanding and describing larger programs.
 
 - Skim these chapters from `/just-enough-javascript`
   - Break, Continue
-  - For-of Loops
 - Look through the READMEs of
   - `/reading-programs`
   - `/describing-programs`
