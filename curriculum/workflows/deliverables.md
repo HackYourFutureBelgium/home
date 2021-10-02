@@ -73,7 +73,7 @@ Here are some examples for inspiration: [okozmovskaya](https://github.com/okozmo
 > - the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
 > - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
 
-This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](https://github.com/HackYourFutureBelgium/home/tree/b9af249867e00b064b05ab41fd98651e8898b814/curriculum/students/planning-and-collaborating/README.md) workflows used at HYF.
+This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating) workflows used at HYF.
 
 A working website is not enough! Your group should create a complete repository following the steps in _Planning and Collaborating_. You are welcome to make changes in the starter code but don't loose too much time on the design, the planning and collaboration are more important than the finished site.
 
