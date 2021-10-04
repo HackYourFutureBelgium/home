@@ -32,7 +32,7 @@ Learn different ways you can trace a program's execution.
 
 ## After Break
 
-- Practice tracing conditionals using all the study techniques you learned in step
+Practice these skills by tracing interactive Input/Output loops.
 
 ## After Class
 

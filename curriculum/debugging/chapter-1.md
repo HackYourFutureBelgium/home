@@ -12,8 +12,10 @@ You don't need to understand this material perfectly, it's just important you ar
 
 - `/strict-mode` (a quick read)
 - `/stepping-through`
+  - `/stepping-through/guide.mp4`
   - skim these videos: [part 1](https://vimeo.com/530235541),
     [part 2](https://vimeo.com/530238311)
+- `/fixing-errors/guide.mp4`
 - `/isolate`: Variables
   - so you're familiar with `const` vs. `let`
 

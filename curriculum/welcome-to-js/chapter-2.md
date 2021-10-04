@@ -8,7 +8,7 @@ Practice reading, understanding and describing larger programs.
 
 - Skim these chapters from `/just-enough-javascript`
   - Break, Continue
-- Look through the READMEs of
+- Look through the READMEs & guides of
   - `/reading-programs`
   - `/describing-programs`
 - Try out the "ask me" button if you haven't yet

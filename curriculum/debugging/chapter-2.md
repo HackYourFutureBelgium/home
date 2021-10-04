@@ -19,6 +19,7 @@ To come prepared you should study up on these JS language features:
   - [javascript.info](https://javascript.info/while-for)
   - [Mosh](https://www.youtube.com/watch?v=s9wW2PpJsmQ)
   - `/isolate`: for loops
+- `/fixing-bugs/guide.mp4`
 
 ---
 
