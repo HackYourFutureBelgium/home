@@ -9,7 +9,7 @@ The goal of your first week is to come up with an idea for your project and to r
 The main constraint you have while planning this project is that it must use data from at least 1 public API. Here's a list of ideas to get you started:
 
 - **Mapping**
-  - https://wiki.openstreetmap.org/wiki/API
+  - [nominatim](https://nominatim.org/)
 - **The Natural World**
   - [Global Biodiversity Info](https://www.gbif.org/)
   - [iNaturalist](https://www.inaturalist.org/)
