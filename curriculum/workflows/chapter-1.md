@@ -20,8 +20,9 @@ In class you will get to know your coaches, discuss the Planning and Collaborati
 ### Before Break
 
 1. Introductions from each coach
-2. Q/A time about the secret lives of developers
-3. An introduction to Git, GitHub and code repositories
+2. Q/A from the Precourse
+3. Q/A time about the secret lives of developers
+4. An introduction to Git, GitHub and code repositories
 
 ### After Break
 
