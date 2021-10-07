@@ -51,6 +51,7 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - Learn to visualize what happens inside of Git with:
   - [learngitbranching](https://learngitbranching.js.org/) + [a Video Guide](https://www.youtube.com/watch?v=dG0ke9vILQM)
   - [ohmygit](https://ohmygit.org/) - a git game
+- [Git Katas](https://github.com/eficode-academy/git-katas)
 - [HYF/study](https://hackyourfuture.github.io/study/#/git-and-github/README)
 - [lab.github.com/githubtraining](https://lab.github.com/githubtraining/paths/)
   - [first day on github](https://lab.github.com/githubtraining/first-day-on-github)
