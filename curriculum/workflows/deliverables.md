@@ -11,7 +11,7 @@ Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. 
 
 ## 2. Group Introduction
 
-> [Markdown template repository](https://github.com/HackYourFutureBelgium/template-markdown)
+> use this starter repository: [Markdown template repository](https://github.com/HackYourFutureBelgium/template-markdown)
 
 Find a time to meet with your study group and build a get-to-know-you repository with one markdown file per person in your group. This doesn't need to be anything fancy. Your focus should be on getting to know each other and learning to work on a shared repository.
 
@@ -70,12 +70,14 @@ Here are some examples for inspiration: [okozmovskaya](https://github.com/okozmo
 
 ## 3. Planning and Collaborating
 
-> - the development strategy and starter code are in the [workflows](https://github.com/workflows) repository
-> - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
+> - the HTML & CSS code, and planning documents are in [workflows/project-starter](https://github.com/workflows/tree-master/project-starter)
+> - use this template repo: [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
 
-This project is to rebuild a website in a group, following a Development Strategy. Along the way you will explore the [Planning and Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating) workflows used at HYF.
+This project is to rebuild the HTML & CSS from `/project-starter` in a new repository as a group using Pull Requests. All the planning documents except _User Personas_ are already provided for you in `/project-starter`.
 
-A working website is not enough! Your group should create a complete repository following the steps in _Planning and Collaborating_. You are welcome to make changes in the starter code but don't loose too much time on the design, the planning and collaboration are more important than the finished site.
+You _will not_ be planning a new webiste, and you _will not_ be writing your own code. Your main focus should be the steps in [Planning and Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating), Git/GitHub workflows, and code review using a checklist.
+
+In the next module you’ll get the chance to be creative and plan full websites from scratch. for now you should just focus on learning the workflows and processes so you’re more free to be creative in the future.
 
 ```markdown
 - [ ] [repo](https://github.com/_/_) (with a complete README)
@@ -83,6 +85,7 @@ A working website is not enough! Your group should create a complete repository 
 - [/planning](https://github.com/_/_/tree/master/planning)
   - [ ] communication plan
   - [ ] constraints
+  - [ ] user personas (_you need to write this!_)
   - [ ] backlog
   - [ ] design
   - [ ] development strategy
