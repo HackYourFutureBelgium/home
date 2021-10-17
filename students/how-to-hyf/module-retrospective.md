@@ -1,6 +1,6 @@
 # Module Retrospective
 
-At the end of each module you will create a new file in your personal private repository named `module-name.md`. Copy-paste this template into the file and fill it out:
+At the end of each module you will create a new file in the `/retrospectives` folder of your personal private repository: `/retrospectives/module-name.md`. Copy-paste this template into the file and fill it out:
 
 ```markdown
 # Module Retrospective
