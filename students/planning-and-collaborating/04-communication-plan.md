@@ -36,13 +36,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |  name   |  name   |  name   |  name   |  name   |
-| --------- | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Monday    | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Tuesday   | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Wednesday | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Thursday  | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Friday    | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day:
 
