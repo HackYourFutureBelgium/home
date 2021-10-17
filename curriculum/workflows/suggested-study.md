@@ -108,6 +108,8 @@ _hint: remember to_ [_enable GitHub Actions_](https://docs.github.com/en/github/
 >   - Which week it was (if the module is more than 1 week)
 >   - a helpful title or description
 
-- [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
-- [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
-- [Modify the DOM. \(does the source change?\)](https://zapier.com/blog/inspect-element-tutorial/)
+### [Lab Antwerp 1](https://github.com/lab-antwerp-1/home)
+
+\| Unmesh, Tamer, Samir & Bermarte
+
+- Week 2: [part 1](https://vimeo.com/629264909), [part 2](https://vimeo.com/631848652), [part 3](https://vimeo.com/631863480)
