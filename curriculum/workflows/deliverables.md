@@ -4,10 +4,12 @@ This module has 3 deliverables. One is a contribution to the class repository, o
 
 ## 1. Vocabulary
 
-Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board
+Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board:
 
 - _Labels_: `deliverable`, `vocabulary`
 - _milestone_: `workflows`
+
+Careful! Check with your classmates before sending your PR. You should coordinate as a class to make sure everyone isn't adding the same vocab words, and to make sure there aren't more than one documents for the same topic.
 
 ## 2. Group Introduction
 

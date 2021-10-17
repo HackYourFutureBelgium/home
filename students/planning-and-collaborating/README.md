@@ -2,12 +2,12 @@
 
 The main focus of this module is planning and collaborating on software projects. You've already seen all the pieces you need in the Precourse! To collaborate on a group project you will need:
 
-* A repository
-* Planning documents
-* Issues
-* labels, milestones and assignees
-* A Project Board
-* Pull Requests + code review
+- A repository
+- Planning documents
+- Issues
+- labels, milestones and assignees
+- A Project Board
+- Pull Requests + code review
 
 Wait, what?! HTML, CSS and JavaScript aren't even on that list! Understanding why they are not on the list will give you a head start towards becoming a great developer.
 
@@ -19,12 +19,12 @@ In this module you will begin learning a method to plan and build projects in a 
 
 You will approach projects by first creating a schedule, then working in from the big picture to finished source code. While there are many steps, there are only 3 _milestones_ in your project life-cycle:
 
-* **Planning**: steps 1-9
-  * _milestone_: **planning**
-* Development: step 10
-  * _milestones_: **must-have**, **should-have**, **could-have**
-* **Retrospective** step 11
-  * _milestone_: **retrospective**
+- **Planning**: steps 1-9
+  - _milestone_: **planning**
+- Development: step 10
+  - _milestones_: **must-have**, **should-have**, **could-have**
+- **Retrospective** step 11
+  - _milestone_: **retrospective**
 
 ### Planning
 
@@ -50,3 +50,6 @@ Once your project board is ready the fun begins, it's time for _development_! De
 
 Time's up, it's ok if your project isn't finished! In the **retrospective** phase of your project you and your teammates will discuss what went well, what went less well, and what you can improve for next time.
 
+---
+
+> - [Building Software Together](https://buildtogether.tech/) _a student's guide to being a compassionate programmer_

@@ -11,12 +11,12 @@
 
 <!-- a persona -->
 
-## Their Name
+## Their Role
 
 - **Bio**:
-- **Needs/Frustrations**:
-- **Motivations**:
-- **Scenario**:
+- **Needs/Goals**:
+- **Frustrations**:
+- **Scenario 1**:
 
 ---
 

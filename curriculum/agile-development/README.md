@@ -2,6 +2,8 @@
 
 [&lt;&lt; Workflows](../workflows/README.md) \| [Top](../README.md) \| [UX/UI Design &gt;&gt;](../ux-ui-design/README.md)
 
+<!-- [![agile vs. waterfall](./assets/agile-vs-waterfall.png)](https://www.binfire.com/blog/agile-vs-waterfall/) -->
+
 [![iterating with sprints](./assets/iterating-with-sprints.png)](https://medium.com/@hninja049/understanding-agile-development-8d034ed57fb)
 
 ---

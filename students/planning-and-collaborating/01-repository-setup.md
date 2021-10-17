@@ -28,3 +28,28 @@ Create 5 milestones in your repository:
 ## Planning Folder
 
 Create a folder called `/planning` where your team will store all documents related to planning the project \(if you're not using an HYF template\)
+
+## Code of Conduct
+
+A code of conduct sets the expectation that everyone contributing to your project will treat each other with respect, and what happens if they do not. There are many Codes of Conduct already available online, you can learn more about them from:
+
+- [Contributor Covenant](https://www.contributor-covenant.org/)
+- [opensourceconduct.com](https://opensourceconduct.com/)
+- [opensourcedesign.net](https://opensourcedesign.net/code-of-conduct/)
+- [opensource.guide](https://opensource.guide/code-of-conduct/)
+
+## Contributor Guidelines
+
+Contributor Guidelines are important to standardize coding practices and workflows for an Open Source project. You could think of it as describing how the code should be treated:
+
+- [mozillascience](https://mozillascience.github.io/working-open-workshop/contributing/)
+- [docs.github.com](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
+- Templates
+  - [briandk](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62)
+  - [opensource.com](https://opensource.com/life/16/3/contributor-guidelines-template-and-tips)
+- Examples
+  - [opensource.guide](https://github.com/github/opensource.guide/blob/main/CONTRIBUTING.md)
+  - [github/docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+  - [microsoft/vscode](https://github.com/microsoft/vscode/blob/main/CONTRIBUTING.md)
+  - [atom/atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+  - [voxmedia](https://github.com/voxmedia/open-source-contribution-guidelines)

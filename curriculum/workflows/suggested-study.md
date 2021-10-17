@@ -27,6 +27,7 @@ VSC is the text editor you will use to write code at HYF. And it's way more than
   - [WSL with VSCode](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
   - [nvm command not found](https://dev.to/duhbhavesh/nvm-command-not-found-1ho)
 
+<!--
 ## Code Quality
 
 - formatting \(all file types with prettier\)
@@ -34,7 +35,7 @@ VSC is the text editor you will use to write code at HYF. And it's way more than
   - css
   - markdown
 - validating html
-- spelling checks \(will do once by automation, then by hand. automated spell checks are a little annoying\)
+- spelling checks \(will do once by automation, then by hand. automated spell checks can be a little annoying\) -->
 
 ## READMEs
 
@@ -68,6 +69,10 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)
 - [git-it](https://github.com/jlord/git-it-electron/)
 - [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
+
+## Collaborative Development
+
+- [Building Software Together](https://buildtogether.tech/) _a student's guide to being a compassionate programmer_ - The technical parts are more advanced than what you're learning now, but all the rest is gold.
 
 ## Collaborating on GitHub
 

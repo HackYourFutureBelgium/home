@@ -10,7 +10,7 @@ Based on their experiences we compiled this guide to share the lessons learned: 
 
 Like you, this document is always improving. If you feel something is missing or might be improved, please send a _pull request_ or open _an issue_.
 
-Good luck on your journey! :four\_leaf\_clover
+Good luck on your journey! :four_leaf_clover
 
 **The HackYourFuture team**
 
@@ -21,4 +21,3 @@ Throughout your HYF course and your overall career as a programmer, you will ‘
 We want to provide you with the knowledge, tools and support you'll need to build a career as a programmer. To support yourself and your loved ones.
 
 This is not a race against the curriculum or a race against other students. This is a race against yourself, so be sure to come up first every time, every day. We are glad to have you on board!
-
