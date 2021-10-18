@@ -35,9 +35,7 @@
 - 🐣 **Reference vs. Value**: You can explain how to swap references or values between variables, explain deep vs. strict equality, and compare two objects or arrays.
 - 🐣 **Side-Effects**: Given a function that takes an array as an argument you can determine if the function has any side-effects, and can suggest a way to avoid the side-effect.
 - 🐣 **Debugging Functions**: You can read input/output assertion tests to understand a function's actual vs. expected behavior, and to correct the function's behavior.
-- 🐥 **Programming Paradigms**:
-  - **Imperative**:
-  - **Procedural**:
+- 🐥 **Procedural Programming**: You can tell whether or not a JS program is _Procedural_ and can explain how you made your decision.
 - 🐥 **Sub-Goal Authoring**: Given most of a small program with missing goal, you can write code to implement the missing behavior.
 - 🐥 **Hoisting**: You can find hoisted functions and variables in the browser's debugger and explain how hoisting is related to program life-cycle.
 - 🐔 **Refactoring Functions**: You can refactor a designated chunk of a program into an empty function body and pass the given assertion tests.

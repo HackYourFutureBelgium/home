@@ -35,5 +35,6 @@ Take your first steps into programming by learning to read, trace, and analyze s
 - 🐣 **Completing Programs**: You can successfully fill in blanks for a program when the missing identifiers are provided and no distractors are present.
 - 🐥 **Constructing Programs**: You can reconstruct a program's lines and indentation, successfully ignoring distractor lines.
 - 🐥 **Modifying Programs**: You can make small changes in a program to change it's behavior without breaking it.
+- 🐔 **Imperative Programming**: You can explain what Imperative Programming paradigm is, and can explain how you know the programs in Welcome to JS are procedural.
 - 🐔 **Stepping Through**: You can pause a script in a step debugger, arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
 - 🐔 **Authoring Programs**: Given starter code with labeled goals, you can write a small program to match specs \(user stories + test cases\).

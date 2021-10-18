@@ -58,6 +58,8 @@ Each module has it's own learning objectives determined by the sub-skills requir
 
 ## Modules Overview
 
+<!-- the spider web visual -->
+
 - [Application](application/) and [Precourse](precourse/):
   - First steps into HTML, CSS & JS.
   - What is the internet andd web development.
@@ -88,6 +90,30 @@ Each module has it's own learning objectives determined by the sub-skills requir
   - Practicing the agile/scrum methodology.
   - Continuous deployment, cloud hosting and site reliability
   - Branding and pitching.
+
+## Project Templates
+
+All projects at HackYourFuture Belgium use a series of progressive template repositories, each one adding l. These templates will gently lower you into the deep end of collaborative software development. The goal is to introduce you to the _full complexity_ of collaborative development from day 1, while keeping the code you develop as _simple as possible_ -> **Full Complexity, Maximum Simplicity**.
+
+Why use template repositories? Because you will be learning to build _your own_ projects, not just the projects we assign! By learning to plan, collaborate, and use a template repository you will learn transferable skills to help _your own_ communities build the software _you need_ - not what someone else tells you to build.
+
+1. **[Markdown](https://github.com/HackYourFutureBelgium/template-markdown/)**: Focus on collaboration workflows, code quality, code review, group conventions and clear writing without the distraction of code and errors:
+   - Linting for Markdown and folder/file names
+   - A script to format all files in the repository.
+   - A script for spell-checking.
+   - GitHub Action for linting check on Pull Requests.
+   - Template issues for questions and asking for help.
+   - Pull Request template with a code review checklist.
+   - _used in the **Workflows** module_
+2. **[HTML & CSS](https://github.com/HackYourFutureBelgium/template-html-css/)**: Planning, design, and develop a user-facing web page written with HTML & CSS. This repository has all the features from the _Markdown_ repository, and then some more:
+   - A directory for group planning documents (_see [Planning & Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating)_).
+   - Linting for CSS, validation for HTML.
+   - Accessibility reporting.
+   - An `index.html` for static deployment.
+   - Folder structure for HTML pages, CSS styles and public assets.
+   - _used in the **Workflows**, **Agile Development** and **UX/UI Design** modules_
+
+> Coming Soon: _Interactions_, _Architecture_, _Fullstack_
 
 <!--
 ## Student Persona

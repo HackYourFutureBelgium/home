@@ -41,7 +41,7 @@ In this module you will explore different ways to break down and solve coding ch
 - 🐣 **ECMAScript Modules**: You can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
 - 🐣 **Continuous Integration**: You can check CI scripts locally to ensure your code will pass CI checks when it is pushed, and can read CI results when conducting a code review.
 - 🐣 **Code Review**: You can use a provided checklist and passing/failing CI checks to review a classmate's function \(given the solution is at your level\).
-- 🐥 **Declarative Programming**
+- 🐥 **Declarative Programming**: You can explain how _Declarative Programming_ is different from _Imperative_ programming, and can tell which paradigm is used in a program. You can also use built-in JS methods to write Declarative solutions to simple coding challenges.
 - 🐥 **Testing Edge Cases**: You can identify and write unit tests for tricky edge cases.
 - 🐥 **Prototype Delegation**: You can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.
 - 🐔 **Writing Guards**: You can write guards for your function parameters that enforce the function's documented parameter types.
