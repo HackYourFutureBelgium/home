@@ -1,6 +1,6 @@
 # Module Retrospective
 
-At the end of each module you will create a new file in the `/retrospectives` folder of your personal private repository: `/retrospectives/module-name.md`. Copy-paste this template into the file and fill it out:
+At the end of each module you will create a new file in the `/module-name` folder of your personal private repository: `/module-name/retrospective.md`. Copy-paste this template into the file and fill it out:
 
 ```markdown
 # Module Retrospective
@@ -17,6 +17,24 @@ At the end of each module you will create a new file in the `/retrospectives` fo
 
 ### Where can you help others moving forwards?
 
+---
+
+## Class
+
+<!-- How did your class do in this module? -->
+
+### How well did your class work together?
+
+### How were you able to help your classmates?
+
+### How were your classmates able to help you?
+
+### Was anyone especially helpful?
+
+### Was anyone disruptive?
+
+---
+
 ## HYF
 
 <!-- How did HYF do in this module? -->
@@ -30,6 +48,8 @@ At the end of each module you will create a new file in the `/retrospectives` fo
 ### What material did you study most (from HYF or elsewhere)?
 
 ### What HYF material did you study least?
+
+---
 
 ## Coaches
 

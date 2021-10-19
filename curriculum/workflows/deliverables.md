@@ -4,12 +4,14 @@ This module has 3 deliverables. One is a contribution to the class repository, o
 
 ## 1. Vocabulary
 
-Make at least 1 PR contribution to the `/vocabulary` folder of your class repo. You don't need to open an issue, just put the PR directly in the _deliverables_ board:
+Make at least 1 issue with a linked PR contributing to the `/vocabulary` folder of your class repo:
 
 - _Labels_: `deliverable`, `vocabulary`
 - _milestone_: `workflows`
 
 Careful! Check with your classmates before sending your PR. You should coordinate as a class to make sure everyone isn't adding the same vocab words, and to make sure there aren't more than one documents for the same topic.
+
+And please limit your vocabulary to topics covered in this module. For example vocab related to Git or GitHub are welcome, but vocabulary related to JavaScript is not allowed.
 
 ## 2. Group Introduction
 

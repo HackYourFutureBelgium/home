@@ -33,6 +33,7 @@ In this module you will explore different ways to break down and solve coding ch
 - 🥚 **Testing Existing Functions**: You can write unit tests for a working function using the `describe`/`it`/`expect(_).toEqual(_)` syntax. This includes grouping test cases into logical test suites.
 - 🥚 **Function Design**: You can explain the function-design process and can successfully apply it to write 2+ solutions matching the behavior of a given function \(assuming the behavior is at your level\). The solutions do not need to implement different strategies, consider edge cases, or check for invalid arguments.
 - 🥚 **Generating Documentation**: You can write a correct JSDoc for your functions and use a provided script to generate markdown documentation in a separate file.
+- 🐣 **Declarative Programming**: You can explain how _Declarative Programming_ is different from _Imperative_ programming, and can tell which paradigm is used in a program. You can also use built-in JS methods to write Declarative solutions to simple coding challenges.
 - 🐣 **Array Strategies**: You can determine which of the primary array strategies \(`map`, `filter`, `reduce`, `every`, `some`\) are helpful for a specific problem at your level.
 - 🐣 **Higher-Order Functions in Array Methods**: You can explain how a higher order function works, and write a callback for use in the primary array methods \(for a problem at your level\).
 - 🐣 **Nested Data**: Given a nested data structure containing arrays, objects and primitive values, you can 1\) access a given value 2\) update a given entry 3\) filter the data
@@ -41,7 +42,6 @@ In this module you will explore different ways to break down and solve coding ch
 - 🐣 **ECMAScript Modules**: You can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
 - 🐣 **Continuous Integration**: You can check CI scripts locally to ensure your code will pass CI checks when it is pushed, and can read CI results when conducting a code review.
 - 🐣 **Code Review**: You can use a provided checklist and passing/failing CI checks to review a classmate's function \(given the solution is at your level\).
-- 🐥 **Declarative Programming**: You can explain how _Declarative Programming_ is different from _Imperative_ programming, and can tell which paradigm is used in a program. You can also use built-in JS methods to write Declarative solutions to simple coding challenges.
 - 🐥 **Testing Edge Cases**: You can identify and write unit tests for tricky edge cases.
 - 🐥 **Prototype Delegation**: You can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.
 - 🐔 **Writing Guards**: You can write guards for your function parameters that enforce the function's documented parameter types.

@@ -10,11 +10,25 @@ a group repository of solutions to various coding challenges. Each solution shou
 
 ## Vocab
 
-make at least 1 contribution to the `/vocabulary` folder of your class repo.
+Make at least 1 issue with a linked PR contributing to the `/vocabulary` folder of your class repo:
+
+- _Labels_: `deliverable`, `vocabulary`
+- _milestone_: `behavior-strategy-implementation`
+
+Careful! Check with your classmates before sending your PR. You should coordinate as a class to make sure everyone isn't adding the same vocab words, and to make sure there aren't more than one documents for the same topic.
+
+And please limit your vocabulary to topics covered in this module. For example vocab related to Array Methods are welcome, but vocabulary related to APIs and `fetch` is not allowed.
 
 ## JS Snippets
 
-contribute to it
+Make at least 1 issue with a linked PR to the `/snippets` folder of your class repo. This can be any snippet of HTML or CSS that you found helpful and someone else might find useful in their projects.
+
+- _Labels_: `deliverable`, `snippets`
+- _milestone_: `behavior-strategy-implementation`
+
+It's ok if your snippet does the same thing as a classmate's snippet _as long as_ your code is different and they are grouped together in the same file.
+
+Please limit your snippets to code covered in this module. For example snippets that use `import`/`export` are allowed, but snippets using `fetch` are not allowed.
 
 ## Practice Code Review
 
