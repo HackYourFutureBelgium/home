@@ -27,3 +27,31 @@ Your group will summarize your work by providing answers to these three question
 - **Continue Doing**: what went well that you should continue doing in the next project? be specific!
 - **Start Doing**: any good ideas you'd like to try out in the next project? be specific!
 - **Lessons Learned**: what cool things or general lessons has your team learned? This can be about anything, not just code!
+
+## Template
+
+Copy-paste this template into `/planning/retrospective.md` for your group to fill out by PR or in a group call.
+
+```markdown
+# Retrospective
+
+## Stop Doing
+
+## Continue Doing
+
+## Start Doing
+
+## Lessons Learned
+
+---
+
+## Strategy vs. Board
+
+### What parts of your plan went as expected?
+
+### What parts of your plan did not work out?
+
+### Did you need to add things that weren't in your strategy?
+
+### Or remove extra steps?
+```

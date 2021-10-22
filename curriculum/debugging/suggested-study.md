@@ -23,6 +23,7 @@ Helpful resources for this module
 - [watchAndCode Programming Foundations](https://watchandcode.com/) - sign up
   for the free Programming Foundations course, it's awesome. You can stop when
   he starts explaining `this`.
+- [Just JavaScript](http://justjavascript.com/)
 - [sololearn](https://www.sololearn.com/learning/1024)
 - [javascript.express](https://www.javascript.express/)
 - [launchcode](https://education.launchcode.org/intro-to-professional-web-dev/index.html)

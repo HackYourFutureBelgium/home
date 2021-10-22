@@ -33,6 +33,7 @@ Before getting to work you will need to make sure your computer is ready to go. 
   - [Chromium](https://download-chromium.appspot.com/), and/or [Chrome](https://www.google.com/chrome/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/developer/)
   - [Edge](https://www.microsoft.com/en-us/edge)
+  - [Replay](https://www.replay.io/) - record your web pages as you use them and share your recordings to collaboratively study or debug. Super helpful when you start learning JavaScript!
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used write and edit your code
 - [ ] [VSCode CLI](https://stackoverflow.com/a/39604469) - to open folders in VSCode from the terminal
 - [ ] [Node.js](https://nodejs.org/en/)
@@ -53,7 +54,7 @@ These are a few VSCode extensions that will make your life easier. Find another 
 [How to install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 
 - **For Pair Programming**
-  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) ([more info](https://visualstudio.microsoft.com/services/live-share/)) 
+  - [ ] [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) ([more info](https://visualstudio.microsoft.com/services/live-share/))
 - **For Git & GitHub**
   - [ ] [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
   - [ ] [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
