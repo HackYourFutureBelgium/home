@@ -4,9 +4,11 @@ Helpful resources for this module
 
 > Are we missing a great set of exercises? Send a PR!
 
+[reasons why bugs might feel impossible](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
+
 ## Debugging Tools
 
-> [reasons why bugs might feel impossible](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
+> practice using [Replay](https://www.replay.io/)
 
 - [Errors & Debugging](https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html)
 - [Developer Console](https://javascript.info/devtools)

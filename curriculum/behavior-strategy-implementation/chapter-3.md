@@ -1,4 +1,4 @@
-## Week 3
+# Chapter 3
 
 Code Quality! Code Review!
 
@@ -10,11 +10,7 @@ In the last two weeks you've explored all the different ways people solve coding
 - **Linting**: Just because your code runs doesn't mean it's good! Use [ESLint](https://eslint.org/) to make sure that everyone's code is easy to read, avoids common mistakes, and uses a consistent style. Linting will be the trickiest thing to get used to, it's basically a loud voice saying "_NO!_" to all sorts of things in your code. But it's for your own good, linting makes it easier to write quality code and to collaborate on a group exercise.
 - **Code Review**: Not everything can be automated, you will also learn how to review each other's code. This week's group exercise comes with at Pull Request template that has a big checklist of everything you need to check. Before you can merge any pull request all of the boxes need to be checked. Also a little annoying at first, but better in the long run.
 
-<details>
-<summary>expand/collapse</summary>
-<br>
-
-### Before Class
+## Before Class
 
 Clone the [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review) repository and spend some time studying the example solution. You will want to:
 
@@ -22,56 +18,28 @@ Clone the [practice-code-review](https://github.com/hackyourfuturebelgium/practi
 - practice running the solution and the tests
 - practice running the code quality scripts
 
-### During Class
+## During Class
 
-#### Before Break
-
-What is Linting? Why is it important?
-
-- **All together**: Fix a few style mistakes in the [./linting](./linting) exercises
-- **In small groups**: take a look through the `practice-code-review` repo one someone's local computer. Can you figure out how to run all the code quality scripts?
-
-#### After Break
+### Before Break
 
 What is code review? Why is it important?
 
-- **All together**: Discuss code review, your coach's personal experience, and the [code review checklist](https://github.com/hackyourfuturebelgium/practice-code-review/tree/master/.github/PULL_REQUEST_TEMPLATE/code-review-checklist.md). (PS. GitHub has great tools for reviewing code in a Pull Request)
-- **In small groups**: Read through the code review checklist and prepare for the week
+- **All together**: Discuss code review, your coach's personal experience, and the [code review checklist](https://github.com/hackyourfuturebelgium/practice-code-review/tree/master/.github/pull_request_template.md). (PS. GitHub has great tools for reviewing code in a Pull Request)
+- **In small groups**: Chose a few solutions your classmates wrote while studying last week and try to review them according to the checklist.
 
-### After Class
+### After Break
 
-> group exercises
+- Create new random groups
+- Break into small groups and prepare your exercise repositories for [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review).
 
-This week's assignment is a group exercise. Your goal isn't to solve as many problems as possible, it's to solve problems as _well_ as possible. You will put extra time into your solutions to make sure everything is perfect - strategy, formatting, linting, testing, and documentation. It will feel like a whole lot of extra work for only small changes, but this is the way of collaboration! Once you get used to it you will see that clean and consistent code saves you lots of time in the long run.
+## After Class
 
-One person in your group should fork [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review), everyone in your group will work from that repository. There is no need to have a plan or a development strategy since you are not building a project - each pull request will be for a stand-alone solution. Practicing code review now will prepare you for the next module when you begin building collaborative JS websites .
+Practice writing high quality solutions to coding challenges and reviewing other people's solutions. This week's group exercise will be to contribute solutions to a shared repository, reviewing each solution against a (very) detailed checklist before merging to `main`.
 
-```markdown
-## Practice Code Review
+And, study examples & exercises suggested for Chapter 3 in the [`behavior-strategy-implementation` repository](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation), and continue studying your favorite tutorial(s).
 
-- [ ] [Repo]()
-- [Project Board]()
-  - [ ] issues are created with the `new solution` template
-  - [ ] issues have a label for their challenge and for their strategy
-  - (no need for milestones)
-- [Pull Requests]()
-  - [ ] every solution is pushed to a separate branch (no pushing to main/master!)
-  - [ ] every pull request is created with the code-review template
-  - [ ] every pull request is labeled with the challenge and strategy
-  - [ ] every box is checked _before_ merging a branch to master/main
-- [Retrospective]()
+Continue your [solution write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups). No need to rush ahead! Take your time studying solutions at your level. It's more helpful to study a variety of solutions than to study a few hard ones.
 
-> no need for planning this week. Just open a new issue on the project board each time you start a solution
-```
-
-Take a look at these examples/exercises, they will be helpful:
-
-- 🥚 **[./linting](./linting)**: Practice using feedback from ESLint to write code that uses consistent style and best practices.
-- 🐣 **[./ecmascript-modules](./ecmascript-modules)**: Learn the first basics of using `import` and `export`. Just enough to complete this module's group exercises.
-
-</details>
-<br>
-
-[TOP](#behavior-strategy-implementation)
-
----
+Study together! Working in small groups and taking turns to predict and explain
+what is happening with the code is a nice way to spend a few hours. Teaching is
+a great way to learn.

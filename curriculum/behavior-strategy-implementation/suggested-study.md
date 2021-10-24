@@ -60,6 +60,19 @@ Helpful resources for this module
 - [Create, Update and Loop](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) \(article\)
 - [The Coding Train](https://www.youtube.com/watch?v=fBqaA7zRO58) \(video\)
 
+## More Practice
+
+there's many great repos of exercises out there, you just need to find them!
+
+- [javascript-practice](https://github.com/andrewborisov/javascript-practice)
+- [rolling-scopes-school](https://github.com/rolling-scopes-school/js-assignments)
+- [Functions and Arrays](https://github.com/ironhack-labs/lab-javascript-functions-and-arrays/)
+- [Advanced Collection Methods](https://github.com/ironhack-labs/lab-javascript-advanced-collection-methods)
+- [Native Array Methods](https://github.com/gSchool/native-array-methods-exercises/)
+- [clue](https://github.com/ironhack-labs/lab-javascript-clue/)
+- [KBPsystem777](https://github.com/KBPsystem777/JSexercises)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/)
+
 ## Recursion
 
 - [FunFunFunction](https://www.youtube.com/watch?v=k7-N8R0-KY4&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=7)
@@ -109,6 +122,13 @@ And last, but not least: **Code Review**:
 - [Code review on GitHub](https://www.youtube.com/watch?v=HW0RPaJqm4g)
 - [An example code review](https://www.youtube.com/watch?v=cix7wQSsN7U)
 - [all-about-code-review](https://github.com/mgreiler/all-about-code-review)
+
+## Code Coverage
+
+- [Software Testing Help](https://www.softwaretestinghelp.com/code-coverage-tutorial/)
+- Istanbul Reports
+  - [Amy Pellegrini (stackoverflow)](https://stackoverflow.com/a/36697606)
+  - [Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
 
 ## 🐥 Regular Expressions
 

@@ -1,51 +1,38 @@
-## Week 2
+# Chapter 2
 
-Learn to write unit tests and to design your own solutions one step at a time.
+Learn to write unit tests and to design your own solutions to coding challenges.
 
-<details>
-<summary>expand/collapse</summary>
-<br>
+## Before Class
 
-### Before Class
-
-- Practice Testing Functions from [./about-testing/exercises](./about-testing/exercises)
+- Practice Testing Functions from `./about-testing/exercises`
 - Read through the steps of Function Design and study the example:
-  - [./function-design/README.md](./function-design/README.md)
-  - [./function-design/examples/reverse-a-string](./function-design/examples/reverse-a-string)
+  - `./function-design/README.md`
+  - `./function-design/examples/reverse-a-string`
 
-### During Class
+## During Class
 
-#### Before Break
+### Before Break
 
 Practice writing unit tests for functions.
 
 - **All together**: Introduce the syntax for unit testing, and go through the `testing-functions.test.js` example
 - **In small groups**: Write some tests!
 
-#### After Break
+### After Break
 
-Practice some [./function-design](./function-design)
+Practice some `./function-design`
 
 - **All Together**: What is function design? What are the steps? Why is this important?
 - **In small groups**: Write some functions!
 
-### After Class
+## After Class
 
-Begin studying [document-and-pass](https://github.com/HackYourFutureBelgium/document-and-pass), and continue with the [solution-write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups). Just like last week, there's no reason to rush yourself. You can learn how to write tests and how to design functions with simple challenges just as well as with hard challenges. So find your level, settle in, and study as many problems as you can.
+Start writing your own solutions to coding challenges from an empty page. Practice using documentation and tests to guide your understanding of the problem, and practice remixing solutions you studied last week to solve new problems.
 
-To help you gain a deeper understanding of how to write and test your own solutions, take some time to study these exercises:
+And, study examples & exercises suggested for Chapter 2 in the [`behavior-strategy-implementation` repository](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation), and continue studying your favorite tutorial(s).
 
-- 🥚 **[./about-testing](./about-testing)**
-- 🐣 **[./function-design](./function-design)**
-- 🐣 **[./fuzz-testing](./fuzz-testing)**
+Continue your [solution write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups). No need to rush ahead! Take your time studying solutions at your level. It's more helpful to study a variety of solutions than to study a few hard ones.
 
-Looking for an extra challenge? try writing and passing tests for a function that throws errors:
-
-- 🐥 **[./throw-and-catch](./throw-and-catch)**
-
-</details>
-<br>
-
-[TOP](#behavior-strategy-implementation)
-
----
+Study together! Working in small groups and taking turns to predict and explain
+what is happening with the code is a nice way to spend a few hours. Teaching is
+a great way to learn.

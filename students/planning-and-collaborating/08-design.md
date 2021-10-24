@@ -14,18 +14,30 @@ A wireframe can be as simple as this:
 
 [![a simple wireframe](./assets/wireframe.svg)](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
 
+## More Design Plans
+
+You can also use the `design.md` file to organize other aspects of your design such as:
+
+- color palates
+- fonts
+- icons
+- CSS units and measures
+- ...
+
 ## Template File
 
 ```markdown
 # Design
 
 <!-- give an overview of your project's design -->
+<!-- describe the reasoning behind your group's design and wireframe -->
+<!-- include other centralized decisions like fonts, palates, ... -->
+
+---
+
+## Wireframe(s)
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
 [link to wireframe]()
-
----
-
-<!-- describe some of the reasoning behind your group's design and wireframe -->
 ```

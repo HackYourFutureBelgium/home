@@ -32,7 +32,7 @@ Take your first steps into programming by learning to read, trace, and analyze s
   - _How many times is the variable assigned a new value?_
 - 🐣 **Tracing Execution**: You can complete a "steps" trace table and correct your table using console output from the "trace" button.
 - 🐣 **Describing Programs**: You can read a program and describe it with comments using to the methodology from `/describing-programs`: zooming out -&gt; zooming in -&gt; connections -&gt; goals
-- 🐣 **Completing Programs**: You can successfully fill in blanks for a program when the missing identifiers are provided and no distractors are present.
+- 🐣 **Completing Programs**: You can successfully fill in blanks for a program when the missing words are provided, including distractors.
 - 🐥 **Constructing Programs**: You can reconstruct a program's lines and indentation, successfully ignoring distractor lines.
 - 🐥 **Modifying Programs**: You can make small changes in a program to change it's behavior without breaking it.
 - 🐔 **Imperative Programming**: You can explain what Imperative Programming paradigm is, and can explain how you know the programs in Welcome to JS are procedural.
