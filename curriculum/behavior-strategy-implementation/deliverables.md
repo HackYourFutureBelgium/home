@@ -43,7 +43,7 @@ Don't worry about passing linting checks for this exercise, other people's solut
 
 ## 4. Practice Code Review
 
-> [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review) - group exercise in week 3
+> [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review) - a group exercise to practice writing clean and complete functions
 
 Your goal isn't to solve as many problems as possible, it's to solve problems as _well_ as possible. Put extra time into your solutions to make sure everything is perfect - strategy, formatting, linting, testing, and documentation.
 
