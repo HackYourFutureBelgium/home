@@ -26,9 +26,13 @@ Please limit your snippets to code covered in this module. For example snippets 
 
 > [solution write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups) - analyze other people's solutions to code challenges
 
-The main objective of these exercises is practicing how to learn from code, to be given source code you don't understand and to study it until you could write it yourself. You will build your personal library of challenges, solutions and clever tricks by investigating how other people have solved challenges on popular coding sites.
+The main objective of these exercises is practicing how to learn from code, to be given source code you don't understand and to study it until you could write it yourself.
 
-You don't need to use branches, or issues, or project boards, or anything like that. This is an individual exercise for you to focus on coding, so do whatever works for you:
+You will build your personal library of challenges, solutions and clever tricks by investigating how other people have solved challenges on popular coding sites.
+
+You don't need to use branches, or issues, or project boards, or anything like that. This is an individual exercise for you to focus on coding, so do whatever works for you.
+
+Don't worry about passing linting checks for this exercise, other people's solutions will have all sorts of code and you are encouraged to experiment with everything JS has to offer, and with every crazy idea you have to solve the challenges. **Solution Write-Ups** is about exploration and creativity, **Practice Code Review** is about writing the cleanest solutions possible,
 
 ```markdown
 - [ ] [Repo]()
@@ -41,7 +45,9 @@ You don't need to use branches, or issues, or project boards, or anything like t
 
 > [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review) - group exercise in week 3
 
-Your goal isn't to solve as many problems as possible, it's to solve problems as _well_ as possible. Put extra time into your solutions to make sure everything is perfect - strategy, formatting, linting, testing, and documentation. It will feel like a whole lot of extra work for only small changes, but this is the way of collaboration! Once you get used to it you will see that clean and consistent code saves you lots of time in the long run.
+Your goal isn't to solve as many problems as possible, it's to solve problems as _well_ as possible. Put extra time into your solutions to make sure everything is perfect - strategy, formatting, linting, testing, and documentation.
+
+It will feel like a whole lot of extra work for only small changes, but this is the way of collaboration! Once you get used to it you will see that clean and consistent code saves you lots of time in the long run.
 
 One person in your group should fork [practice-code-review](https://github.com/hackyourfuturebelgium/practice-code-review), everyone in your group will work from that repository. There is no need to have a plan or a development strategy since you are not building a project - each pull request will be for a stand-alone solution. Practicing code review now will prepare you for the next module when you begin building collaborative websites that use JavaScript.
 
