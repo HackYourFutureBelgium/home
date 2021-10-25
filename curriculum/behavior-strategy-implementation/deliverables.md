@@ -64,7 +64,7 @@ One person in your group should fork [practice-code-review](https://github.com/h
   - [ ] every box is checked _before_ merging a branch to master/main
 - [Retrospective]()
 
-> no need for planning this week. Just open a new issue on the project board each time you start a solution
+> no need for planning this exercise. Just open a new issue on the project board each time you start a solution
 ```
 
 <!--
