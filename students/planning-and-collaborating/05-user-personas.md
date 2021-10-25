@@ -1,4 +1,6 @@
-# User Personas (_first draft_)
+# User Personas
+
+[semrush.com](https://www.semrush.com/persona/new/) - an optional website for creating and sharing personas.
 
 ## Template Markdown File
 

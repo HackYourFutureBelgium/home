@@ -27,10 +27,13 @@ Here's a template you can copy-paste into `/planning/communication.md`.
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**:
-- **Slack Video Calls**:
 - **Issues**:
 - **Pull Requests**:
+- **GitHub Discussions**
+- **Slack/Discord**:
+- **Video Calls**:
+
+---
 
 ## Availability
 
