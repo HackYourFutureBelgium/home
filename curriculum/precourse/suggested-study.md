@@ -39,6 +39,17 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
 - and much more at [hackyourfuture.github.io/study](https://hackyourfuture.github.io/study)
 
+## GitHub Profile READMEs
+
+- [what are these?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [how to](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+- [make it stunning](https://favor.hashnode.dev/how-to-make-a-stunning-readme-for-your-github-profile)
+- [creating a beautiful one](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
+- inspiration
+  - [awesome ones](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - [templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  - [10 standouts](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+
 ## Slack
 
 - [sharing code](https://www.youtube.com/watch?v=rKGYKX9xjV8)

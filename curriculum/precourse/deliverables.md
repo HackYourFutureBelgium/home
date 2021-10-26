@@ -10,9 +10,8 @@ You will need to create a new _deliverables_ issue in your class repository and 
 3. [ ] Install VSCode extensions
 4. [ ] Organize your computer
 5. [ ] GitHub setup
-6. [ ] Submit student bio PR
-7. [ ] Fork and Clone the flashcards repository
-8. [ ] Prep work for Workflows Chapter 1
+6. [ ] Fork and Clone the flashcards repository
+7. [ ] Prep work for Workflows Chapter 1
 
 <!-- Welcome to HYF :) -->
 ```
@@ -114,37 +113,8 @@ When you're done your computer's folders should be organized something like this
 - [ ] Update your profile details:
   - a nice photo
   - short bio
-  - link to `userName.github.io`, the home page you will build as a final Precourse project
 
-## 6. Student Bio PR
-
-Write a short bio for yourself using Markdown and add it to your class repository using a Pull Request. Just a little intro so your classmates can get to know you before the first day, and for some practice with GitHub.
-
-1. Fork your class repository to your github account:
-   - [The Coding Train](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3)
-   - [guides.github.com](https://guides.github.com/activities/forking/)
-   - [fork vs. clone](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&cad=rja&uact=8&ved=2ahUKEwihx9DwkMrhAhVNbVAKHZ4bCEIQFjATegQIABAB&url=https%3A%2F%2Fgithub.community%2Ft5%2FSupport-Series%2FThe-Difference-Between-Forking-and-Cloning-a-Repository%2Fba-p%2F1372&usg=AOvVaw0PCFTCp62bxxeTPAQgW9h4)
-2. Create a new file in the ./student-bios folder:
-
-   - **important**: Use your GitHub username as the name of your file. ie.
-
-     `colevandersWands.md`
-
-   - Go all out! Take a look at this
-
-     [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-     and [emojis list](https://gist.github.com/rxaviers/7360908) for inspiration
-
-3. Send a pull request to from your fork to the main class repo, use the
-
-   `student-bio` PR template.
-
-   - [The Coding Train](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3)
-   - [github help](https://help.github.com/en/articles/creating-a-pull-request)
-   - [github guides](https://guides.github.com/activities/forking/)
-
-## 7. Flashcards Repository
+## 6. Flashcards Repository
 
 Flashcards a great way to learn anything, even programming! We suggest you use the [Leitner System](https://www.youtube.com/watch?v=6S2LJIAydyg) to organize your flashcards and study schedules.
 
@@ -152,6 +122,6 @@ Paper flashcards are of course a great option, but it can be harder to share the
 
 You will be using this through HYF to build your own collection of interactive flashcards. There's some tips for getting started in the repository's README.
 
-## 8. Workflows Prep Work
+## 7. Workflows Prep Work
 
 [right here!](../workflows/chapter-1.md)

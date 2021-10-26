@@ -1,32 +1,33 @@
 # Chapter 2
 
-Learn how to apply the workflows you learned in the last chapter to projects written with HTML & CSS. This includes the rest of the steps in _Planning and Collaborating_ that will be very important in the next module: _backlog_, _wireframe_ and _development strategy_
+In this week you will focus on the fundamental workflows you need as a developer working in a team. This includes using the command line, organizing development with git, setting up a repository, using pull requests, and reviewing code.
+
+This chapter's deliverable
 
 ## Before Class
 
 > Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
 
-* Read through the _Planning and Collaborating_ chapter in your [Student Guidebook](https://github.com/HackYourFutureBelgium/home/tree/b9af249867e00b064b05ab41fd98651e8898b814/curriculum/students/README.md)
-* Study the _project starter_ materials in the [Workflows repo](https://github.com/hackyourfuturebelgium/workflows)
+- Read through **Communication Plan** in the _Planning and Collaborating_ chapter of the [Student Guidebook](https://home.hackyourfuture.be/students/planning-and-collaborating)
+- Read about the [**Group Introduction** deliverable](./deliverables.md)
 
 ## During Class
 
-Review the previous project and prepare for the next project.
+In class you will discuss the Planning and Collaborating process, then get a start on this week's group project.
 
 ### Before Break
 
-* Retrospective presentations, ~5 minutes per group
-* Questions & review from last week
-* Introduce User Stories, Backlogs, Wireframes and Development Strategies
-  * [excalidraw](https://excalidraw.com/) is a good site for quick wireframes
+- Q/A from last week
+- introduction to collaborative development
+- What are Pull Requests and what is Code Review?
 
 ### After Break
 
-* Form new random groups for this chapter
-* Break into small groups and get set up for this week's group project. You should try to have your repositories set up by the end of class.
+- Form random groups for this chapter
+- Break into small groups and get set up for this week's group project. You should try to have your repositories set up by the end of class.
 
 ## After Class
 
-* Complete the _Development Strategy_ deliverable in your new groups
-* Continue with individual study
-
+- Continue studying the _Planning and Collaborating_ chapter of the [Student Guidebook](https://home.hackyourfuture.be/students/planning-and-collaborating)
+- Meet with your groups and complete the **Group Introduction** deliverable.
+- Continue with individual study

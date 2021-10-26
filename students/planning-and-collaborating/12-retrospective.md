@@ -10,6 +10,12 @@ Your team has either finished the project ahead of time, or the deadline has arr
 
 A retrospective is meant for looking back at how the project went and learning what to do differently next time. An incomplete project with a great retrospective is still a success.
 
+## Behaviors, not People!
+
+Focus on what your group can _do_ that will make the next sprint better. A huge list of things to stop doing doesn't help you move forward.
+
+Retrospectives are all about behaviors that can be changed, not people that need fixing. Keep your retrospectives _positive_ and _general_. **_You should NEVER mention people by name!!!_**
+
 ## Strategy vs. Board
 
 Take some time as a group to compare your Development Strategy to your Project Board.

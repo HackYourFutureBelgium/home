@@ -15,6 +15,13 @@
 - [Agile Cartoons](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Agile Alliance](<https://www.agilealliance.org/glossary/sprint-planning/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'sprint*20planning))~searchTerm~'~sort~false~sortDirection~'asc~page~1)>)
 
+## Retrospectives
+
+- [Retrospective Academy](https://www.retrium.com/ultimate-guide-to-agile-retrospectives/intro)
+- [Do's and don't's](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/)
+- [3 tips](https://echometerapp.com/en/retrospective-action-items-tips-examples/)
+- [Remote Retrospectives](https://www.atlassian.com/blog/teamwork/run-retrospective-distributed-team-fun)
+
 ## User Stories
 
 - [User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)
