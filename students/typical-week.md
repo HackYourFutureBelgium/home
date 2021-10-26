@@ -8,12 +8,11 @@ The more you participate and become part of the HYF community, the more people a
 
 ## Sunday
 
-* 10:30 - 11:30: Career Skills
-  * Guest workshops covering important skills that are not in the core
+* 10:30 - 11:30: Career Skills sessions workshops
+  *   Guest workshops covering important skills that are not in the core
 
-    curriculum
-
-  * \(These will not happen every Sunday\)
+      curriculum
+  * (These will not happen every Sunday)
 * 11:30 - 12h: Prep
   * leave your comment in the week's `roll-call`
   * go over any `question` issues together
@@ -36,7 +35,7 @@ The more you participate and become part of the HYF community, the more people a
 
 ## Wednesday
 
-* Class review call \(if you organize one\)
+* Class review call (if you organize one)
 * Individual & group study
 
 ## Thursday
@@ -52,5 +51,4 @@ The more you participate and become part of the HYF community, the more people a
 ## Saturday
 
 * Family, friends, rest & play
-* Individual & group study \(optional ;\)
-
+* Individual & group study (optional ;)
