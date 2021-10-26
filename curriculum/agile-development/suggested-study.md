@@ -104,8 +104,5 @@
 
 \| Tiago, Tamer, Samir, Bermarte & evan
 
-\| Tamer, Samir, Bermarte & evan
-
 * week 1: [part1](https://youtu.be/hX2VN1l2Xfk), [part2](https://youtu.be/cLLkvs5v7lM)
 * week 2: [part1](https://youtu.be/ELHBsjdmngE), [part2](https://youtu.be/u6h1kQYLxMk)
-* week 1: [part1](https://youtu.be/hX2VN1l2Xfk), [part2](https://youtu.be/cLLkvs5v7lM)
