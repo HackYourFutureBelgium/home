@@ -37,6 +37,7 @@ Helpful resources for this module
 ## Node.js
 
 - **101**
+  - [Shaun: Running .js files in Node](https://vimeo.com/467644885)
   - [Mosh: Node.js in 1 hour](https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm&index=1)
   - [Traversy: Node for Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
   - [Traversy: Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
@@ -124,3 +125,82 @@ Helpful resources for this module
 >   - Indicate which class you were teaching
 >   - Which week it was (if the module is more than 1 week)
 >   - a helpful title or description
+
+### Class 7-8
+
+> [Shaun](https://github.com/badgerbadgerbadgerbadger), [Evan](https://github.com/colevanderswands/)
+
+1. week 1:
+   - Part 1: [Node, Web Apps, CLI's, `fs`, `process.argv`, `assert`](https://vimeo.com/414454713)
+   - Part 2: [Exercise recap, Project intro](https://vimeo.com/414475261)
+   - Wrap-up: [Homework explanation](https://vimeo.com/414475261)
+2. week 2:
+   - [Part 1](https://vimeo.com/416866173)
+   - [Part 2](https://vimeo.com/416889277)
+   - [Wrap-up](https://vimeo.com/416906829)
+3. week 3:
+   - Part 1: [A](https://vimeo.com/417960548), [B](https://vimeo.com/419545487)
+   - [Part 2](https://vimeo.com/418360319)
+   - [Part 3](https://vimeo.com/418359614)
+4. week 4
+   - [Part 1](https://vimeo.com/422120045)
+   - [Part 2](https://vimeo.com/422148011)
+   - [Part 3](https://vimeo.com/422149853)
+
+### Class 9-10
+
+> [Shaun](https://github.com/badgerbadgerbadgerbadger)
+
+1. Week 1
+   1. [Node.js 101 & Client/Server](https://vimeo.com/469893530)
+   2. [CLI Input with `process.argv`](https://vimeo.com/469895085)
+   3. [`assert` & `fs` part 1](https://vimeo.com/469895326)
+   4. [`fs` part 2](https://vimeo.com/469895748)
+   5. [Entries Manager part 1](https://vimeo.com/469896412)
+   6. [Entries Manager part 2 & Project Intro](https://vimeo.com/469897191)
+2. Week 2
+   1. [Static & Dynamic Data](https://vimeo.com/472210283)
+   2. [Express: Params, Body, Queries ...](https://vimeo.com/472211229)
+   3. [... Params, Body, Queries](https://vimeo.com/472211640)
+   4. [Texidor](https://vimeo.com/472212077)
+   5. [Texidor Recap & DIY Wiki](https://vimeo.com/472212418)
+3. Week 3
+   - [Middleware & Refactoring Servers](https://vimeo.com/488986376)
+4. Week 4:
+   - [JSON Schemas & Data Validation](https://vimeo.com/488987165)
+
+### Class 11-12
+
+> [Shaun](https://github.com/badgerbadgerbadgerbadger), [Andrej](https://github.com/gajduk), [Hazem](https://github.com/HazemBittar)
+
+1. Week 1: [part 1](https://vimeo.com/515253111), [part 2](https://vimeo.com/515253217), [part 3](https://vimeo.com/515252844), [part 4](https://vimeo.com/515253024)
+2. Week 2: [part 1](https://vimeo.com/518077272), [part 2](https://vimeo.com/518093815), [part 3](https://vimeo.com/518093931), [part 4](https://vimeo.com/518094041), [part 5](https://vimeo.com/518094087)
+3. Week 3: [Refactoring pt. 1](https://vimeo.com/520916421), [Refactoring pt. 2](https://vimeo.com/520916669), [middleware & error handling](https://vimeo.com/520916816), [homework](https://www.youtube.com/watch?v=Xeb3xWYJUG8)
+4. Week 4: [JSON Schemas](https://vimeo.com/523723387), [Schema Validation](https://vimeo.com/523722229), [`t4v` validation library](https://vimeo.com/523722129), [conclusion](https://vimeo.com/523722804)
+
+### Class 13-14
+
+> [Shaun](https://github.com/badgerbadgerbadgerbadger), [Yoshi](https://github.com/yoshimalaise)
+
+1. Week 1:
+   1. [Node, NPM, Packages](https://vimeo.com/589765594)
+   2. [Express, `localhost`, Request/Response](https://vimeo.com/589767008)
+   3. [Dynamic data, File System, Postman](https://vimeo.com/589767381)
+   4. [Routing and Parameters, Persistence, Multi-Tier architecture](https://vimeo.com/589767890)
+   5. [Slack clone part 1](https://vimeo.com/589768369)
+   6. [Slack clone part 2](https://vimeo.com/589768677)
+   7. [Monday review session](https://vimeo.com/588250826)
+2. Week 2:
+   - [part 1](https://vimeo.com/manage/591000419/general)
+   - [part 2](https://vimeo.com/manage/591002265/general)
+3. Week 3:
+   - [part 1](https://vimeo.com/manage/594234206/general)
+   - [part 2](https://vimeo.com/manage/594235051/general)
+4. [Week 4](https://vimeo.com/manage/598760351/general)
+5. [Week 5](https://vimeo.com/manage/604636340/general)
+
+### Class 15
+
+- Week 1: [Developing an Express API - API data to the file system](https://vimeo.com/manage/628980023/general), [mid-week Q/A](https://vimeo.com/manage/631967169/general)
+- [Week 2](https://vimeo.com/635168537)
+- [Week 3](https://vimeo.com/639075119)

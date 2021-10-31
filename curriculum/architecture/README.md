@@ -25,8 +25,6 @@
 - 🥚 **Function Roles**: You can use these new function roles while planning and developing your projects:
   - _**Data Access**_: Functions that insert \(create\), find \(read\), save \(update\), remove \(delete\) entries in your saved data. These are provided for you in this module. Data Access functions can only import `utils` and other data access functions.
   - _**Business Logic**_: Functions that take in JS data, read/update state, and return new data. these can be called from handlers, components, or other business logic. Business Logic functions can only import `utils`, `data-access` and other `business-logic` functions.
-  - _**Handlers**_: The same role as in Separation of Concerns, only now with a few more restrictions. Handlers _can not_ use _data_ directly or use _data access_ functions. They can only import _Business Logic_, _Components_ and _Utils_.
-  - _**Custom Events**_: Functions that return a `new CustomEvent` with your choice of `.type`, and data stored in the it's `.details` property. These will be very helpful for creating testable and reuseable components in your frontend. Custom Events can only import `utils`
 - 🥚 **Development Strategies**: You can write development strategies with each user story broken into _business logic_, _interface_ and _interaction_ tasks.
 - 🥚 **Development Steps**: In this module you will learn to build your projects backwards from the "inside" out:
   1. Plan and write your data \(_.json_ file and schema\)

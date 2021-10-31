@@ -340,3 +340,35 @@ Contributor Guidelines are important to standardize coding practices and workflo
 and finally ...
 
 - [Contribute to this Project!](https://github.com/Syknapse/Contribute-To-This-Project)
+
+---
+
+## Class Recordings
+
+> - HYF modules are often updated, recordings from past classes may not match this gitbook
+> - When sending a PR's with recording links please ...
+>   - Indicate which class you were teaching
+>   - Which week it was (if the module is more than 1 week)
+>   - a helpful title or description
+
+## [Class 11 & 12](https://github.com/hackyourfuturebelgium/class-11-12)
+
+> by [Nadia Ferreira](https://nadiaferreira.com/) & [Marie Devos](https://github.com/mariedevos)
+
+- [Class Recording 18/10/2020](https://vimeo.com/469672798) - [slides](./slides/week-2.pdf)
+
+## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
+
+1. Week 1: [User Empathy & Design Thinking](https://vimeo.com/519167473)
+2. Week 2: [User Interface Design & Figma](https://vimeo.com/520914260)
+
+## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
+
+1. Week 1: User Empathy & Design Thinking
+   - [Part 1](https://vimeo.com/544483531)
+   - [Part 2](https://vimeo.com/544484950)
+2. Week 2: User Interface Design & Figma
+   - [Part 1](https://vimeo.com/547386915)
+   - [Part 2](https://vimeo.com/547387617)
+
+[TOP](#ux-ui-design)

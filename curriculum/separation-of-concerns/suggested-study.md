@@ -40,6 +40,8 @@ You do not need to study the event loop, you'll see that in Asynchronous Program
   - [Event Delegation (all things JS)](https://www.youtube.com/watch?v=6NMSCh3DJug)
   - [Event Delegation (dcode)](https://www.youtube.com/watch?v=pKzf80F3O0U)
   - [Bubbling, capturing, once and propagation](https://www.youtube.com/watch?v=F1anRyL37lE)
+- Custom Events
+  - [javascript.info](https://javascript.info/dispatch-events)
 
 ## The DOM
 
