@@ -102,7 +102,8 @@
 
 ### [Lab-Antwerp1](https://github.com/lab-antwerp-1/home)
 
-\| Tiago, Tamer, Samir, Bermarte & evan
+\| Tiago, Tamer, Samir, Bermarte, Mame & Evan
 
 * week 1: [part1](https://youtu.be/hX2VN1l2Xfk), [part2](https://youtu.be/cLLkvs5v7lM)
 * week 2: [part1](https://youtu.be/ELHBsjdmngE), [part2](https://youtu.be/u6h1kQYLxMk)
+* week 3 : [part 1](https://youtu.be/RYk9cVhgCY4)
