@@ -20,7 +20,6 @@ This module's main objective is to get you comfortable with the workflows of pro
 - 🥚 **File System Management**: You can create and organize a new folder in their personal computer for the materials they will study at HYF.
 - 🥚 **Project Boards**: You can use issues on a GitHub project board to track their projects \(class repo\) and self-study \(project board on personal account\).
 - 🐣 **Visual Studio Code**: You can install and manage extensions, open a folder, create new files/folders inside of the folder ... basic usage.
-- 🐣 **GitHub Pull Requests**: You can fork a repository and send a Pull Request using a template.
 
 ## How to HYF
 
