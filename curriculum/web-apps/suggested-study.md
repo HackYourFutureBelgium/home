@@ -204,3 +204,4 @@ Helpful resources for this module
 - Week 1: [Developing an Express API - API data to the file system](https://vimeo.com/manage/628980023/general), [mid-week Q/A](https://vimeo.com/manage/631967169/general)
 - [Week 2](https://vimeo.com/635168537)
 - [Week 3](https://vimeo.com/639075119)
+- [Week 4](https://vimeo.com/641632061)

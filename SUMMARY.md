@@ -13,6 +13,7 @@
     - [Deliverables](curriculum/workflows/deliverables.md)
     - [Chapter 1](curriculum/workflows/chapter-1.md)
     - [Chapter 2](curriculum/workflows/chapter-2.md)
+    - [Chapter 3](curriculum/workflows/chapter-3.md)
     - [Teaching Tips](curriculum/workflows/teaching-tips.md)
   - [3. Agile Development](curriculum/agile-development/README.md)
     - [Suggested Study](curriculum/agile-development/suggested-study.md)
