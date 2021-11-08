@@ -28,7 +28,7 @@ Please limit your snippets to code covered in this module. For example snippets 
 
 > [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
 
-In this module you will be building a home page _on your github account_ in a repository named _`<username?.github.io`_ to showcase everything you've learned so far.
+In this module you will be building a home page _on your github account_ in a repository named _`<username>.github.io`_ to showcase everything you've learned so far.
 
 There will be 3 parts to the project in UX/UI Design:
 
