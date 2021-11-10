@@ -26,21 +26,22 @@ Please limit your snippets to code covered in this module. For example snippets 
 
 ## 3. Home Page
 
+> Group project (in-pair)
 > [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
 
-In this module you will be building a home page _on your github account_ in a repository named _`<username>.github.io`_ to showcase everything you've learned so far.
+In this module you will be building a home page _on your github account_ in a repository named _<username>.github.io_ with the help of your partner, to present yourself to the world, and to help others get to know you.
 
 There will be 3 parts to the project in UX/UI Design:
 
-- **Designing**: Practice Stakeholder Interviews and Design Thinking by working in pairs to plan your Home Page user personas, backlogs, wireframes and READMEs.
-  1. You will each create a repository and fork each other's repositories. (do not add each other as collaborators!)
-  2. Push your interview notes to the `/planning` folder in _your fork_ of their Home Page and send them a PR
-  3. Help each other turn the interview notes into User Personas, a Backlog and a complete Wireframe. then you're on your own!
-- **Developing**: Practice solo development by turning your backlog into your new Home Page. Learn about open source libraries by choosing and using a CSS Framework in your project.
+- **Phase 1, _Design in pairs_**: to practice Stakeholder Interviews and Design Thinking. You will interview your partner to help them determine their needs, then help them come up with a design for their home page.
+  1. You will each create a repository and fork each other’s repositories. (do not add each other as collaborators!)
+  2. Push your interview notes to the /planning folder in your fork of their Home Page and send them a PR
+  3. Help each other turn the interview notes into User Personas, a Backlog and a complete Wireframe. then you’re on your own!
+- **Phase 2, _Develop alone_**: Develop your own home page by turning your co-created design into a live web page:
   1. Complete your Development Strategy
   2. Set up your Project Board & Issues
   3. Develop!
-- **Retrospective**: Meet back up with your design partner to do a retrospective of this project. Include some extra thoughts about the interview process.
+- **Phase 3, _Retrospect in pairs_**: Meet back with your design partner to do a retrospective of this project. Include some extra thoughts about the interview process.
 
 You home page is a never-ending project. You can continuously improve it as you learn more. The goal during this module is only to make a solid start, not to make everything perfect.
 
@@ -56,7 +57,7 @@ You home page is a never-ending project. You can continuously improve it as you 
     - [ ] Code of Conduct
 - [live demo](https://_.github.io)
 - `/planning`
-  - with your project partner:
+  - with your partner:
     - [ ] interview (your completed interview template)
     - [ ] user personas
     - [ ] backlog (developed with your partner based on the interview)

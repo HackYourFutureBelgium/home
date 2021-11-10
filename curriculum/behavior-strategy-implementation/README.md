@@ -39,6 +39,7 @@ In this module you will explore different ways to break down and solve coding ch
 - 🐣 **Prototype Delegation**: You can inspect a JS value in the browser's debugger/console and explain how to find which methods are available for that value.
 - 🐣 **Nested Data**: Given a nested data structure containing arrays, objects and primitive values, you can 1\) access a given value 2\) update a given entry 3\) filter the data
 - 🐣 **Test-Driven Development**: You can write basic unit tests for a problem you understand without having a solution to validate your tests. You can use your tests as a guide to develop a solution. You do not need to consider edge cases or invalid arguments.
+- 🐣 **Fuzz Testing**: You can interpret random test cases for a challenge to guide your development of a solution.
 - 🐣 **Testing Side-Effects**: You can write a suite of unit tests to ensure that; 1\) a function does not modify it's reference-type arguments, 2\) the function returns a new array/object.
 - 🐣 **ECMAScript Modules**: You can use `export const functionName = () => {};` and `import { functionName } from './file-name.js'` syntax to separate unit tests from the function definition.
 - 🐣 **Continuous Integration**: You can check CI scripts locally to ensure your code will pass CI checks when it is pushed, and can read CI results when conducting a code review.

@@ -61,7 +61,7 @@
   - [Graduation](curriculum/graduation.md)
   - [Intro Sessions](curriculum/intro-sessions.md)
   - [Career Skills](curriculum/career-skills.md)
-  - [Study Book](https://hackyourfuture.github.io/study)
+- [Study Book](https://hackyourfuture.github.io/study)
 - [Career Skills](career-skills/README.md)
 - [Students](students/README.md)
   - [Typical Week](students/typical-week.md)
