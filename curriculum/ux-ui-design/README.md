@@ -2,13 +2,7 @@
 
 [&lt;&lt; Agile Development](../agile-development/README.md) \| [Top](../README.md) \| [Welcome to JS &gt;&gt;](../welcome-to-js/README.md)
 
-> “Writing software is a highly iterative, dynamic process requiring user feedback.
->
-> Again, it's like writing poetry in that you write some of it, and then you respond to it, which triggers more creativity, and you keep going.
->
-> Then, you show it to someone whose opinion you respect, and you see it differently.”
->
-> - [Richard Gabriel](https://dreamsongs.com/PoetryOfProgramming.html)
+[![double diamond](./assets/double-diamond.jpg)](https://dta-www-drupal-20180130215411153400000001.s3.ap-southeast-2.amazonaws.com/s3fs-public/images/content/double-diamond.jpg)
 
 ---
 
@@ -24,6 +18,7 @@ You will learn about _Design Thinking_ and _User Empathy_ by designing a home pa
 
 - 🥚 **User Empathy**: You understand what user empathy is, and can use it to understand a classmate's needs and help them plan a home page.
 - 🥚 **Design Cycle**: You will be able to describe the design cycle and what steps you will take in each state (Empathize, define, ideate, prototype, testing and implement).
+- 🥚 **Double Diamond**: You can separate the design and deliver phases of a project. Design and delivery are a never-ending cycle, but it helps to be clear when you are focusing one or the other.
 - 🥚 **Stakeholder Interviews**: You can interview another student to learn their motivations, needs, and blocks
 - 🥚 **Rapid Prototyping**: You can use rapid prototyping techniques (such as paper prototyping) to test initial design hypotheses and receive user feedback.
 - 🥚 **User Journeys**: You can write user journeys for websites that you use.
