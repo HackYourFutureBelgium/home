@@ -24,15 +24,11 @@ Learn different ways you can trace a program's execution.
 
 - Q/A about "What is JavaScript?"
 - How to open and study the module
-- What are variables? How can you study them?
-  - trace tables + the "trace" button
-  - the `?variables` lens, not quite tracing but still helpful
-  - the `?highlight` lens, trace by drawing on the code
-  - JS Tutor
+- Move on to the exercises in the `/class-1` folder of [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js)
 
 ## After Break
 
-Practice these skills by tracing interactive Input/Output loops.
+- Study the _After Break_ exercises from the `/class-1` folder of [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js)
 
 ## After Class
 
