@@ -32,6 +32,9 @@ The main constraint you have while planning this project is that it must use dat
 - [ ] [Project Constraints]()
 - [ ] [User Interviews]()
 - [ ] [User Personas]()
+- [ ] [First Draft Landing Page]()
+  - basic HTML + CSS
+  - at `organization-name.github.io`
 ```
 
 ## 2: Prepare to Develop
