@@ -381,5 +381,9 @@ and finally ...
 - week 1: User Empathy & Design Thinking
   - [Part 1](https://youtu.be/mtRJ4ZHqFkg)
   - [Part 2](https://youtu.be/a9coSXFmIfs)&#x20;
+- Week 2: User Interface Design & Figma
+  - [Part 1](https://youtu.be/eKFSVlq6rHk)
+  - [Part 2](https://youtu.be/oCETLGB80rM)
+  - [Part 3](https://youtu.be/oSdLoxDda4M)
 
 [TOP](suggested-study.md#ux-ui-design)
