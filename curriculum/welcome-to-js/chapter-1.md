@@ -9,6 +9,7 @@ Begin learning JS syntax and vocabulary, reading code out loud, and tracing vari
 - Look through [Suggested Study](./suggested-study.md)
   - _What is Programming?_
   - _What is JavaScript?_
+- Watch `/printing-code`
 - Play [compute-it](http://compute-it.toxicode.fr/) through level 15
 - Skim these chapters from `/just-enough-javascript`
   - Comments and Logs
@@ -24,11 +25,11 @@ Learn different ways you can trace a program's execution.
 
 - Q/A about "What is JavaScript?"
 - How to open and study the module
-- Move on to the exercises in the `/class-1` folder of [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js)
+- Begin studying `/programming` in small groups
 
 ## After Break
 
-- Study the _After Break_ exercises from the `/class-1` folder of [Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js)
+- Continue studying `/programming` in small groups
 
 ## After Class
 

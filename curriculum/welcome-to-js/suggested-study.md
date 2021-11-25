@@ -63,15 +63,6 @@ Resources you can use to look up specific concepts when you are stuck or curious
 - [how to ask programming questions](https://www.propublica.org/nerds/how-to-ask-programming-questions)
 - [asking technical questions](https://www.youtube.com/watch?v=Gc9ilHp01vY)
 
-<!-- ## Flashcards
-
-There's a good reason these have been around forever, they work. Quiz yourself on the most fundamental concepts in this module the good old-fashioned way: with flashcards.
-
-- 🥚 **[Printables](./flashcards/printables)**: PDFs to print and study offline
-- 🥚 **[Interactive](./flashcards/interactive)**: to study live in your browser
-
--->
-
 ## Reading Code
 
 - \([how do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)\)
@@ -88,20 +79,6 @@ There's a good reason these have been around forever, they work. Quiz yourself o
 - Code Reading Clubs - [code-reading.org](https://code-reading.org/)
   - [Resources](https://github.com/CodeReadingClubs/Resources)
   - [pdf-maker](https://github.com/CodeReadingClubs/pdf-maker) - convert code from GitHub into a PDF for reading
-
-## Linting
-
-- [Code Style](https://javascript.info/coding-style)
-- what is linting? [Envato tuts+](https://www.youtube.com/watch?v=rrzC1RbMLiQ),
-  [ictshore](https://www.ictshore.com/javascript/what-is-javascript-linting/),
-  [(static analysis?)](https://deepsource.io/blog/static-analysis-javascript/)
-- Why is linting important?
-  [freecodecamp](https://www.freecodecamp.org/news/what-is-linting-and-how-can-it-save-you-time/),
-  [ibuildmvps](https://ibuildmvps.com/blog/the-importance-of-linting/),
-  [quora](https://www.quora.com/What-is-the-purpose-of-a-code-style-linting-tool?share=1)
-- [ESLint sandbox](https://eslint.org/demo/)
-- [ESLint rules](https://eslint.org/docs/rules/)
-- [Linting rules for JSDocs](https://github.com/Extersky/eslint-plugin-jsdoc#eslint-plugin-jsdoc-rules)
 
 ---
 

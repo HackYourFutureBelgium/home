@@ -20,6 +20,20 @@ Helpful resources for this module
   [JS Tutor](http://pythontutor.com/javascript.html)
 - [VSCode](https://code.visualstudio.com/Docs/editor/debugging)
 
+## Linting
+
+- [Code Style](https://javascript.info/coding-style)
+- what is linting? [Envato tuts+](https://www.youtube.com/watch?v=rrzC1RbMLiQ),
+  [ictshore](https://www.ictshore.com/javascript/what-is-javascript-linting/),
+  [(static analysis?)](https://deepsource.io/blog/static-analysis-javascript/)
+- Why is linting important?
+  [freecodecamp](https://www.freecodecamp.org/news/what-is-linting-and-how-can-it-save-you-time/),
+  [ibuildmvps](https://ibuildmvps.com/blog/the-importance-of-linting/),
+  [quora](https://www.quora.com/What-is-the-purpose-of-a-code-style-linting-tool?share=1)
+- [ESLint sandbox](https://eslint.org/demo/)
+- [ESLint rules](https://eslint.org/docs/rules/)
+- [Linting rules for JSDocs](https://github.com/Extersky/eslint-plugin-jsdoc#eslint-plugin-jsdoc-rules)
+
 ## Tutorials
 
 - [watchAndCode Programming Foundations](https://watchandcode.com/) - sign up

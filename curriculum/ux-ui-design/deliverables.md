@@ -31,6 +31,9 @@ Please limit your snippets to code covered in this module. For example snippets 
 > Deliver individually
 >
 > Use the [HTML & CSS template](https://github.com/HackYourFutureBelgium/template-html-css)
+>
+> - **generate the new repository _on your personal account_**
+> - **name the repository _your-user-name.github.io_**
 
 In this module you will practice the **Double Diamond** approach to development building a personal home page. You will host the project _on your github account_ in a repository named _username.github.io_.
 
@@ -79,9 +82,9 @@ Each person in your group will create _their own_ deliverable issue for the proj
 > with your group
 
 - `/planning`
-  - [ ] stakeholder interviews
+  - [ ] stakeholder interviews (_the person who's page you are designing_)
   - [ ] user personas
-  - [ ] user interviews
+  - [ ] user interviews (_other group members feedback on the design_)
   - [ ] backlog
   - [ ] wireframe
   - [ ] design retrospective
