@@ -22,3 +22,8 @@ Curious what a final project looks like? Take a look at these from past classes!
 
 - [**Just4Giving**](https://github.com/hyf-Group2-fp/Just4Giving): Just4Giving is a social platform made by Hack Your Future students with the goal to connect people with certain needs with people who'd like to donate.
 - [**Helpy**](https://github.com/final-project-org/HELPY): Helpy is a sharing platform. The goal of this app is to link those people who need help with their groceries to volunteers who are willing to help.
+
+### Class 13-14
+
+- **[Readeer](https://github.com/IrinaSing/Readeer)** is a web app for children's books swap 🔄 📚 🧒 Readeer promotes reading and sharing books among children and parents.
+- **[Hand and Paw](https://github.com/Hand-And-Paw)** is created to promote animal adoption in Belgium.
