@@ -23,7 +23,6 @@
 - 🥚 **Naming Variables**: You can analyze a program's variables using a structured comment, and can rename the variables. You can give each variable two different names:
   - **Generic**: A name that describes the variable's role in a general way. This includes deciding whether to use `let` or `const`.
   - **Specific**: A name that fits the variable's role and contextualizes it in the program's domain.
-- 🥚 **Logging**: You are capable of tracing specific aspects of a program's execution using `console.log`.
 - 🥚 **Program Life Cycle**: You can explain the two phases of a program's life cycle.
 - 🥚 **Fixing Errors**: You can use the structured comment to describe an error in your program, and can make several educated guesses at how to fix the error.
 - 🥚 **Documenting Functions**: You can demonstrate your understanding of arguments, parameters and return values by writing a JSDoc comment.

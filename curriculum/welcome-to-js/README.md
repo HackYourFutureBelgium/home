@@ -37,8 +37,12 @@ Take your first steps into programming by learning to read, trace, and analyze s
   - _What types are assigned to this variable during the program's execution?_
 - 🐣 **Imperative Programming**: You can explain what the Imperative Programming paradigm is, and can explain how you know the programs in Welcome to JS are Imperative.
 - 🐣 **Tracing Execution**: You can complete a "steps" trace table and correct your table using console output from the "trace" button.
-- 🐣 **Describing Programs**: You can read a program and describe it with comments using to the methodology from `/describing-programs`: zooming out -&gt; zooming in -&gt; connections -&gt; goals
+- 🐣 **Logging**: You can tracing specific aspects of a program's execution and log them to the console.
 - 🐣 **Completing Programs**: You can successfully fill in blanks for a program when the missing words are provided, including distractors.
+- 🐣 **Describing Programs**: You can read a program and describe it with comments using to the methodology from `/describing-programs`: zooming out -&gt; zooming in -&gt; connections -&gt; goals
+- 🐣 **Naming Variables**: You can analyze how a variable is used in a program and give it two names:
+  - **Generic**: You can give a generic name to a variable based on how it is used in the program.
+  - **Specific**: You can give a specific name to a variable based on how it's used _and_ the program's domain (the program's specific data and use-case).
 - 🐥 **Constructing Programs**: You can reconstruct a program's lines and indentation, successfully ignoring distractor lines.
 - 🐥 **Modifying Programs**: You can make small changes in a program to change it's behavior without breaking it.
 - 🐔 **Stepping Through**: You can pause a script in a step debugger, arrange the debugger, collapse extra panels, and step through a script written with Just Enough JS. At each point in execution you can make a prediction of the next line before executing, and can check your prediction using the _scopes_ panel.
