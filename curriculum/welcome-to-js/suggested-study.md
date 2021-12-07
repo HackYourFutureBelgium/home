@@ -109,17 +109,12 @@ Resources you can use to look up specific concepts when you are stuck or curious
 1. Week 1:
    * [learning JS & tracing variables](https://vimeo.com/551365120)
    * [tracing conditionals](https://vimeo.com/551365422)
-2.  Week 2:
+2. Week 2:
 
     * [Reading Code](https://vimeo.com/554219000)
-
-    ###
 
 ### [Antwerp -1](https://github.com/lab-antwerp-1/home)
 
 * [Chapter-1](https://youtu.be/puKsxllt1P0)
-
-###
-
-
-
+* [Chapter-2 part-1](https://youtu.be/VN3fXfRfZIE)
+* [Chapter-2 part-2](https://youtu.be/_sDs8dKaDyM)
