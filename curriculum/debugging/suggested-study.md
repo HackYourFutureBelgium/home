@@ -177,3 +177,8 @@ Helpful resources for this module
 1. [Week 1](https://vimeo.com/557135966)
 2. [Week 2](https://vimeo.com/566111424)
 3. [Week 3](https://vimeo.com/565725450)
+
+### [Lab Antwerp](https://github.com/lab-antwerp-1/home)
+>Axxes-team
+
+- [Debugging 1 week-1](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17xetNGLXEhkniPwZ8AqgfC)

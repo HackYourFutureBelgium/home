@@ -114,6 +114,7 @@ Resources you can use to look up specific concepts when you are stuck or curious
     * [Reading Code](https://vimeo.com/554219000)
 
 ### [Antwerp -1](https://github.com/lab-antwerp-1/home)
+> Evan, Axxes-team
 
 * [Chapter-1](https://youtu.be/puKsxllt1P0)
 * [Chapter-2 part-1](https://youtu.be/VN3fXfRfZIE)
