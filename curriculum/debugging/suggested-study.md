@@ -184,3 +184,5 @@ Helpful resources for this module
 - [Debugging 1 week-1](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17xetNGLXEhkniPwZ8AqgfC)
 
 - [Debugging 1 week-2](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17xetNGLXEhkniPwZ8AqgfC)
+
+-- [Debugging 1 week-3](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17xetNGLXEhkniPwZ8AqgfC)
