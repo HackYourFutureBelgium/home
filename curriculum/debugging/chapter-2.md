@@ -31,7 +31,7 @@ To come prepared you should study up on these JS language features:
 
 ### After Break
 
-- `/interact`:
+- `/integrate`:
   - `numbers/repeat-string`
   - maybe also `numbers/repeat-characters`
 

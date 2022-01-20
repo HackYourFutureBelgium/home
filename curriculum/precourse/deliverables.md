@@ -10,8 +10,7 @@ You will need to create a new _deliverables_ issue in your class repository and 
 3. [ ] Install VSCode extensions
 4. [ ] Organize your computer
 5. [ ] GitHub setup
-6. [ ] Fork and Clone the flashcards repository
-7. [ ] Prep work for Workflows Chapter 1
+6. [ ] Prep work for Workflows Chapter 1
 
 <!-- Welcome to HYF :) -->
 ```
@@ -114,14 +113,6 @@ When you're done your computer's folders should be organized something like this
   - a nice photo
   - short bio
 
-## 6. Flashcards Repository
-
-Flashcards a great way to learn anything, even programming! We suggest you use the [Leitner System](https://www.youtube.com/watch?v=6S2LJIAydyg) to organize your flashcards and study schedules.
-
-Paper flashcards are of course a great option, but it can be harder to share these with your classmates and sometimes it is nice to have an interactive code snippet in your flashcards. To manage your own Markdown flashcards and study schedule you can fork the [HackYourFutureBelgium/flashcards](https://github.com/hackyourfuturebelgium/flashcards) repository to your GiHub account, then clone it to your computer.
-
-You will be using this through HYF to build your own collection of interactive flashcards. There's some tips for getting started in the repository's README.
-
-## 7. Workflows Prep Work
+## 6. Workflows Prep Work
 
 [right here!](../workflows/chapter-1.md)

@@ -56,7 +56,15 @@ Writing your profile README is not only about personalizing your GitHub account,
   - [ ] linting my code: `npm run lint:ls` _and_ `npm run lint:md`
 ```
 
-## 3. Vocabulary
+## 3. Flashcards Repository
+
+Flashcards a great way to learn anything, even programming! We suggest you use the [Leitner System](https://www.youtube.com/watch?v=6S2LJIAydyg) to organize your flashcards and study schedules.
+
+Paper flashcards are of course a great option, but it can be harder to share these with your classmates and sometimes it is nice to have an interactive code snippet in your flashcards. To manage your own Markdown flashcards and study schedule you can fork the [HackYourFutureBelgium/flashcards](https://github.com/hackyourfuturebelgium/flashcards) repository to your GiHub account, then clone it to your computer.
+
+You will be using this through HYF to build your own collection of interactive flashcards. There's some tips for getting started in the repository's README.
+
+## 4. Vocabulary
 
 Make at least 1 issue with a linked PR contributing to the `/vocabulary` folder of your class repo:
 
@@ -67,7 +75,7 @@ Careful! Check with your classmates before sending your PR. You should coordinat
 
 And please limit your vocabulary to topics covered in this module. For example vocab related to Git or GitHub are welcome, but vocabulary related to JavaScript is not allowed.
 
-## 4. Group Introduction
+## 5. Group Introduction
 
 > use this starter repository: [Markdown template repository](https://github.com/HackYourFutureBelgium/template-markdown)
 
@@ -117,7 +125,7 @@ When you're ready to start your group repo, create a new issue in the class repo
     - [ ] assigned someone to review and merge my PR
   ```
 
-## 5. Planning and Collaborating
+## 6. Planning and Collaborating
 
 > - the HTML & CSS code, and planning documents are in [workflows/project-starter](https://github.com/workflows/tree-master/project-starter)
 > - use this template repo: [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
