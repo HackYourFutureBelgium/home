@@ -58,7 +58,9 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
   - [hiverhq.com](https://hiverhq.com/blog/slack-etiquette)
 
 ---
+## Discord 
 
+- [Instructions](https://github.com/HackYourFutureBelgium/home/blob/9c48d8ba996cb8d2d09f37af7fe87387c48e44ee/curriculum/precourse/assets/Discord.pdf)
 ## Class Recordings
 
 > - HYF modules are often updated, recordings from past classes may not match this gitbook

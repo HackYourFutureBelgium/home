@@ -24,7 +24,7 @@ In class you will practice writing tests and analyzing solutions using a challen
 Description, Syntax, Test Cases and Use Cases.
 
 - All together:
-  - look through the examples at the beginning of this README. What is behavior, strategy and implementation?
+  - look through the main introduction to this module. What is Behavior, Strategy and Implementation?
   - go over the README from [solution-write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups)
   - read through the first 4 sections in the example from [solution-write-ups](https://github.com/HackYourFutureBelgium/solution-write-ups)
 - In small groups:
