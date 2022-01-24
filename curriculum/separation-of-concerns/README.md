@@ -21,7 +21,7 @@
   - 🥚 **_handlers_**: entry point for user interactions
   - 🥚 **_utils_** _(utilities)_: pure functions to help do things with data
   - 🐣 **_components_**: render data into DOM elements to display for the user
-  - 🐥 **_custom events_**: create new custom events with any type, passing useful data between components and handlers
+  - 🐥 **_custom events_**: create custom events events in your components, passing useful data between components and handlers
 - 🥚 **DOM access**: You read and write values from the DOM in an event handler
 - 🥚 **es5 vs. es6**: You can demonstrate the change in developer-experience pre and post es6 by stepping through in the debugger and explaining differences in scoping \(global vs. script, block vs. local, modules\) between two programs with identical user experience but different implementations.
 - 🥚 **Scope Hierarchy**: You is comfortable navigating different scopes in the browser's debugger to understand an existing application \(script, module, closure, local, block\)
