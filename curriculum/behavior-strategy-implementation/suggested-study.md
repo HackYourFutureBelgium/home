@@ -201,5 +201,6 @@ You can get by without them, but when they're helpful they're very helpful.
 
 > Axxes Team
 
-* Week 1 : [solution write-ups ](https://www.youtube.com/watch?v=Ux8SgTBUBIo)
+* Week 1 : [solution write-ups](https://www.youtube.com/watch?v=Ux8SgTBUBIo)
+* week 2 : [unit-tests](https://www.youtube.com/playlist?list=PLoTVeV1SSJ16I4OPaTLuy9HuswpRYsVjj)
 
