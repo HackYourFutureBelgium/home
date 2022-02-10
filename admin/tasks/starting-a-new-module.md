@@ -31,3 +31,5 @@ these steps can also line up with columns on a project board. this assumes you a
   * assign who will do what (write this in a pinned post in the module channel, name it after the class number)
 * after the prep
   * follow-up and make sure the roles & material are clear
+  * follow-up after the class and get feedback from the coaches about the class and the module material.
+  *
