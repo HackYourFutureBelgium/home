@@ -1,11 +1,28 @@
-## Chapter X
+# Chapter 2
 
-### Before Class
+Sequential vs. Parallel
 
-### During Class
+## Before Class
 
-#### Before Break
+- `/isolate/async-await` and `/isolate/fake-fetching` examples (if you haven't yet)
+- look through the README and diagrams from `/thinking-parallel`
 
-#### After Break
+---
 
-### After Class
+## During Class
+
+### Before Break
+
+- _All Together_: `/thinking-parallel` README and diagrams
+- _In Small Groups_: `/thinking-parallel/sequential-vs-parallel-execution`
+
+### After break
+
+- _All Together_: `/thinking-parallel/promise-dot-all/examples`
+- _In Small Groups_: `/thinking-parallel/promise-dot-all/exercises`
+
+## After Class
+
+> no project
+
+Focus on finishing `/isolate` exercises if you haven't. Then move on through `/thinking-parallel` and `/promistaurant`.
