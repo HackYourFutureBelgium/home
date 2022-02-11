@@ -15,6 +15,7 @@ Here are some of the workshops we have had in the past. Got an idea for new one?
 * [**Project ideation and implementation**](https://vimeo.com/517766065)**:** A real-life case study, presenting how a developer without previous data science experience applied his learnings and delivered an accepted solution using Azure Machine Learning!
 * [**Introduction to Machine Learning**](https://vimeo.com/480919240): Basic introduction on Machine learning for Developers by Nick Trogh
 * [**Job Negotiations from Paul Richard**](https://vimeo.com/485055014): A talk to help the students understand how the Belgian labor market works
-* [How to present Yourself](https://youtu.be/4mMVbKaOHTI): by Lorine and Laurien from AT recruitment
+* [**How to present Yourself**](https://youtu.be/4mMVbKaOHTI): by Lorine and Laurien from AT recruitment
   * [slide ](../assets/How%20to%20present%20yourself.pdf)
-* [Introducing bridges:](https://www.youtube.com/watch?v=AIaVH\_vDVxQ) Bridges work on Broadening Recognition Initiatives Developing Gender Equity in Sciences.&#x20;
+* [**Introducing bridges**:](https://www.youtube.com/watch?v=AIaVH\_vDVxQ) Bridges work on Broadening Recognition Initiatives Developing Gender Equity in Sciences.&#x20;
+* [**HTML-CSS in depth**](https://www.youtube.com/watch?v=ACNvCAhsrjs) with Yannick Van Der Jonckheyd. Learn how to work with Grid and Flexbox in depth. 
