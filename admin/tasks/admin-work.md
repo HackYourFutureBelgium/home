@@ -25,29 +25,29 @@ Each class is recorded for the students to comeback and re-visit the class sessi
     3\.  how to section: short film explanation made by coaches and community members on how to use a certain software .
 
 ---
-  It is recommened to add a Thumbnail card for the videos to make the channel more cohesive.
+  It is recommened to add a thumbnail card for the videos to make the channel more cohesive.
 
 * `For the module recordings the HYF Logo can be used as a thumbnail.`
 * `For the carrer skill sessions,add a thumbnail that will represent the idea of the sessions.(logo of the company, designed card with the explanation of the session)`
 
 ---
 
-* After the videos are uploaded to the YouTube , they needed to be added to the curriculum &#x20;
-  * &#x20;module videos: in the perspective module under suggested study page
+* After the videos are uploaded to YouTube, they need to be added to the curriculum &#x20;
+  * &#x20;module videos: in the perspective module under Suggested Study page
   * &#x20;career skill sessions videos: in [here](../../career-skills/)
   
-* when all the above requierments are done, announce to the students on slack or discord
+* when all the above requirements are done, announce to the students on Slack or Discord
 
 ## Day to day workflow
 
 ### Sunday-workflow
 
-Our main classes are  running on sundays.
+Our main classes are running on Sundays.
 
 ## Career Skills
 
 It is the Educational Officer responsibility to find and arrange this carrier skill sessions.
-Carrier skill session workshops are usually given on Sundays before class from 10:00-11:45.
+Carrier skill session workshops are usually given on Sundays before class 10:00-11:45.
 
 ## sunday 
 
@@ -64,9 +64,9 @@ If there is a scheduled carrier skill session, have a short last minute call wit
 ## Roll Call - Before Class (11:45-12:00)
 
 * Tasks
-  * Create an issue from the template Roll-call
-  * Announce and share the Roll-call on Slack/discord
-  * Create a zoom call and share the on Slack/discord at 11:50
+  * Create an issue from the template roll-call
+  * Announce and share the Roll-call on Slack/Discord
+  * Create a zoom call and share the on Slack/Discord at 11:50
 
 ## 12:00-14:00: Class pt. 1
 
@@ -95,7 +95,7 @@ For each project it is recommended to create new groups from  [randomizer](https
 
 ### All together: Project Preparation **14:30-15:00**
 
-Coaches will go through FAQ's  and introduce the Sunday's project
+Coaches will go through FAQ's and introduce the Sunday's project
 
 ### Small groups: Integrate **15:10 - 15:45**
 
@@ -108,5 +108,5 @@ Last  check-in from each group on what you've learned and struggled with in the 
 
 > Eventhough it is a good idea to plan the scheduel and try to keep everything on time, many factors can change the situation. 
 
-> It is Good to keep in mind that classes in person can be very different than classes online. In person, the students can be proactive and responsive to the material.When it comes to online, students can be quite and ditached. one way to keep students participating online, is to go to each group zoom room and ask each some questions even if there is a coach with them.  
+> It is good to keep in mind that classes in person can be very different than classes online. In person, the students can be proactive and responsive to the material. When it comes to online, students can be quiet and detached. One way to keep students participating online, is to go to each group's zoom room and ask each some questions even if there is a coach with them.  
 
