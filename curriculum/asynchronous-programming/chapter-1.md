@@ -7,7 +7,7 @@ The Event Loop!
 - `/the-event-loop`
   - watch a couple of the videos
   - step through the timeout examples in [jsv9000.app](https://www.jsv9000.app/)
-- `/isolate`
+- `/scheduling-callbacks`
   - `/labeled-logger`
   - `/timeouts-and-intervals` examples
 
@@ -19,15 +19,15 @@ The Event Loop!
 
 - _All Together_:
   - [The Event Loop](https://www.youtube.com/watch?v=EI7sN1dDwcY) - restaurant analogy
-  - `/isolate/timeouts-and-intervals`: timeouts examples
+  - `/scheduling-callbacks/timeouts-and-intervals`: timeouts examples
 - _In Small Groups_:
-  - `/isolate/timeouts-and-intervals`
-  - `/isolate/sync-vs-async`
+  - `/scheduling-callbacks/timeouts-and-intervals`
+  - `/scheduling-callbacks/sync-vs-async`
 
 ### After break
 
 - _In Small Groups_:
-  - continue with `/isolate/timeouts-and-intervals` and `/isolate/sync-vs-async`
+  - continue with `/scheduling-callbacks/timeouts-and-intervals` and `/scheduling-callbacks/sync-vs-async`
 - _All Together_:
   - recap & Q/A
 
@@ -37,6 +37,6 @@ The Event Loop!
 
 > no project
 
-No project this week! Focus on `/isolate`, study all of the examples and at try to at least start the exercises in each chapter.
+No project this week! Focus on `/scheduling-callbacks` and `/promises`, study all of the examples and at try to at least start the exercises in each chapter.
 
 > 🐔 Reverse-engineering [stopwatch.net](https://stopwatch.net/) with `setTimeout`, `setInterval`, `clearTimeout` and `clearInterval` is a good challenge

@@ -4,7 +4,7 @@ Sequential vs. Parallel
 
 ## Before Class
 
-- `/isolate/async-await` and `/isolate/fake-fetching` examples (if you haven't yet)
+- `/fake-fetching/fetch-user-by-id` & `/fake-fetching/async-await` examples (if you haven't yet)
 - look through the README and diagrams from `/thinking-parallel`
 
 ---
