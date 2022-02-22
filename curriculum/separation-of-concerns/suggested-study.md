@@ -142,3 +142,5 @@ You do not need to study the event loop, you'll see that in Asynchronous Program
 - week 1 [function roles & stepped, separated](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17LQ0ZDo9LTs-ZDxtwK_HGD)
 
 - week 2 [refactoring & reverse Engineering](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17LQ0ZDo9LTs-ZDxtwK_HGD)
+
+- week 3 [rendering and testing](https://www.youtube.com/playlist?list=PLoTVeV1SSJ17LQ0ZDo9LTs-ZDxtwK_HGD)
