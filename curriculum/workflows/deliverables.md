@@ -13,14 +13,14 @@ Take the time to proof read and edit your code before sharing it. Your colleague
 
 ## 1. Student Bio PR
 
-Write a short bio for yourself using Markdown and add it to your class repository using a Pull Request. Just a little intro so your classmates can get to know you.
+Write a short bio for yourself using Markdown and add it to your class repository using a Pull Request. Just a little intro so your classmates can get to know you. You will know you've completed this assignment correctly when your `bio` link in your class README opens to your new file.
 
 1. Fork your class repository to your github account:
    - [The Coding Train](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3)
    - [guides.github.com](https://guides.github.com/activities/forking/)
    - [fork vs. clone](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&cad=rja&uact=8&ved=2ahUKEwihx9DwkMrhAhVNbVAKHZ4bCEIQFjATegQIABAB&url=https%3A%2F%2Fgithub.community%2Ft5%2FSupport-Series%2FThe-Difference-Between-Forking-and-Cloning-a-Repository%2Fba-p%2F1372&usg=AOvVaw0PCFTCp62bxxeTPAQgW9h4)
 2. Create a new file in the ./student-bios folder _on your fork_:
-   - **important**: Use your GitHub username as the name of your file. ie. `colevandersWands.md`
+   - **important**: Use your _exact_ GitHub username as the name of your file. ie. `colevandersWands.md`
    - Go all out! Take a look at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [emojis list](https://gist.github.com/rxaviers/7360908) for inspiration
 3. Send a pull request to from your fork to the main class repo, use the
    `student-bio` PR template.
