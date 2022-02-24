@@ -46,13 +46,13 @@ so we can make the web a better place together!
 - An overview of the curriculum
 - ... and much more
 
-### Slack
+### Discord
 
 > _how we communicate_
 
-Slack is used to communicate between coaches and students during the week. Each class has their own channel in Slack where you can discuss anything that comes to mind.
+Discord is used to communicate between coaches and students during the week. Each class has their own channel in Discord where you can discuss anything that comes to mind.
 
-We require you to be active on Slack and ask questions when you get stuck. You are also required to help each other out when one of your peers is stuck. What's the point in asking for help if no one is there to help?!
+We require you to be active on Discord and ask questions when you get stuck. You are also required to help each other out when one of your peers is stuck. What's the point in asking for help if no one is there to help?!
 
 ### Class Repository
 

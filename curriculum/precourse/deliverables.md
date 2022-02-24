@@ -43,6 +43,7 @@ Before getting to work you will need to make sure your computer is ready to go. 
   - [Linux](https://github.com/shiftkey/desktop#debianubuntu-distributions)
 - If you use Windows:
   - [setup a Linux SubSystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  -[Windows Subsystem for Linux (WSL) Tutorial & How To](<https://www.youtube.com/watch?v=av0UQy6g2FA>)
 - You will need to update to Windows 10: [itechguides](https://www.itechguides.com/windows-subsystem-for-linux/), [adamtheauthor](https://adamtheautomator.com/windows-subsystem-for-linux/)
   - [Learn to open VSCode with your SubSystem](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
 
