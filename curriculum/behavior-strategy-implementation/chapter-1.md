@@ -30,6 +30,7 @@ Description, Syntax, Test Cases and Use Cases.
 - In small groups:
   - Complete the first 4 sections of the writeup for `Add up the Numbers ...`
   - You can use the most popular solution solution by **\_sir** to write your tests:
+
     ```js
     function addUp(num) {
       return (num * (num + 1)) / 2;
