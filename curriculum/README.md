@@ -45,7 +45,11 @@ Software Development is a many layered skill. One way to break it down is to thi
    - Your software exists in a society, what it's impact on others?
    - Someone planned and build your software, what were their motivations?
 
-## Learning Objectives
+## The Modules
+
+Our curriculum is constantly evolving, check out your class repository to see which modules and lesson plans your class will be studying.
+
+<!-- ## Learning Objectives
 
 This curriculum is broken up into modules of 2-5 weeks. Each of the modules introduces a new principle of software development, building on the last module to give you a 360 view what it takes to become a developer your colleagues can rely on.
 
@@ -59,7 +63,7 @@ Each module has it's own learning objectives determined by the sub-skills requir
 ## Modules Overview
 
 <!-- the spider web visual -->
-
+<!--
 - [Application](application/) and [Precourse](precourse/):
   - First steps into HTML, CSS & JS.
   - What is the internet andd web development.
@@ -113,7 +117,7 @@ Why use template repositories? Because you will be learning to build _your own_ 
    - Folder structure for HTML pages, CSS styles and public assets.
    - _used in the **Workflows**, **Agile Development** and **UX/UI Design** modules_
 
-> Coming Soon: _Interactions_, _Architecture_, _Fullstack_
+> Coming Soon: _Interactions_, _Architecture_, _Fullstack_ --> -->
 
 <!--
 ## Student Persona
