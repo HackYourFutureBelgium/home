@@ -13,15 +13,12 @@ HackYourFuture as a coach.
 As a lead module coach you will be responsible for leading the Sunday sessions
 for your module. Commitments include:
 
-- Being present in class from 11-16 each Sunday for the duration of your module
+- Being present in class from 12-16 each Sunday for the duration of your module
 - Leading our Sunday classes
-- Presenting new materials to students
+- Presenting new material to students
 - Coordinating class with your assistant coaches
-- Being available a minimum of 3 hours a week to answer questions on Slack \(any
+- Being available a minimum of 2 hours a week to answer questions on Slack \(any
   time during the week\)
-
-> During covid-time you will be in charge of the online
-> [All Together](https://home.hackyourfuture.be/students/sunday-class) sessions.
 
 ## Sunday Assistant Coaches
 
@@ -37,9 +34,6 @@ for both you and the Lead coach to collaborate for an entire module. Anyway,
 coaches need to know on due time who is assisting on Sundays.
 
 So: be proactive on Slack about your availability.
-
-> During covid-time you will be in charge of online sessions with subgroups. The
-> subgroups will be divided according to available coaches, on Slack.
 
 ## Homework Review Coaches
 
