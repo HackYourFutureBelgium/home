@@ -14,6 +14,7 @@ As a lead module coach you will be responsible for leading the Sunday sessions
 for your module. Commitments include:
 
 - Being present in class from 12-16 each Sunday for the duration of your module
+- Take part in a prep call before the module starts with the involved HYF volunteers
 - Leading our Sunday classes
 - Presenting new material to students
 - Coordinating class with your assistant coaches
